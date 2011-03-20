@@ -1,0 +1,17 @@
+
+[ 360 ]
+sector 0 = 42.757416
+
+[ 3Sgrav ]
+sector 0 = 34.647350
+
+[ 3Sgrav_rev ]
+sector 0 = 40.989056
+
+[ last ]
+car = 360
+sector 0 = 75.767189
+
+[ rev_last ]
+car = 3Sgrav
+sector 0 = 40.989056

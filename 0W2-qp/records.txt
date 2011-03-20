@@ -1,0 +1,10 @@
+
+[ 3Sgrav ]
+sector 0 = 74.109108
+
+[ XM ]
+sector 0 = 63.843586
+
+[ last ]
+car = XM
+sector 0 = 63.843586

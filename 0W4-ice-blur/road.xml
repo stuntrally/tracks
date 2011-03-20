@@ -1,0 +1,28 @@
+<SplineRoad>
+	<mtr road="roadIce" />
+	<dim tcMul="0.25" lenDim="1" widthSteps="8" heightOfs="0.06" />
+	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
+	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5.748 14.124" iDir="-1" />
+	<stats length="530.823" width="13" height="2.73258" onTer="0" pipes="0" yaw="0" pitch="0" roll="0" />
+	<txt desc="Tiny and slippery ice track - drive slowly." />
+	<P pos="-49.53 0 86.1294" w="13" chkR="2.06" />
+	<P pos="-21.6495 0 79.2819" w="13" />
+	<P pos="15.1384 0 53.5678" w="13" />
+	<P pos="40.7798 0 27.2839" w="13" />
+	<P pos="65.4829 0 11.7971" w="13" />
+	<P pos="84.5355 0 0.679154" w="13" />
+	<P pos="95.3827 0 -21.0433" w="13" />
+	<P pos="84.4464 0 -45.2695" w="13" />
+	<P pos="62.2008 0 -54.0522" w="13" chkR="2.032" />
+	<P pos="44.2101 0 -47.5881" w="13" />
+	<P pos="26.1246 0 -32.7633" w="13" />
+	<P pos="-3.58657 0 -31.215" w="13" />
+	<P pos="-36.4191 0 -39.2268" w="13" />
+	<P pos="-72.7505 0 -38.4005" w="13" chkR="2.08" />
+	<P pos="-90.3232 0 -20.4684" w="13" />
+	<P pos="-87.0962 0 0.40038" w="13" />
+	<P pos="-74.3245 0 21.0878" w="13" />
+	<P pos="-69.4145 0 39.1601" w="13" />
+	<P pos="-70.1888 0 61.1162" w="13" />
+	<P pos="-66.9008 0 76.8171" w="13" />
+</SplineRoad>

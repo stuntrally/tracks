@@ -1,0 +1,23 @@
+
+[ 360 ]
+sector 0 = 133.336746
+
+[ 3Sgrav ]
+sector 0 = 120.803596
+
+[ 3Sgrav_rev ]
+sector 0 = 130.361954
+
+[ CT ]
+sector 0 = 147.357285
+
+[ XM ]
+sector 0 = 110.257713
+
+[ last ]
+car = XM
+sector 0 = 110.257713
+
+[ rev_last ]
+car = 3Sgrav
+sector 0 = 134.336472

@@ -1,0 +1,22 @@
+
+[ 3Sgrav ]
+sector 0 = 33.074120
+
+[ CT ]
+sector 0 = 54.135899
+
+[ M3 ]
+sector 0 = 48.221039
+
+[ RS2 ]
+sector 0 = 45.794117
+
+[ RS2grav ]
+sector 0 = 39.135326
+
+[ XM ]
+sector 0 = 32.549709
+
+[ last ]
+car = 3Sgrav
+sector 0 = 38.647503

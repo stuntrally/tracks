@@ -1,0 +1,27 @@
+<scene>
+	<sky material="sky/blue_clouds" />
+	<fog mode="lin" color="0.73 0.86 1" exp="0" linStart="299.999" linEnd="599.999" />
+	<light pitch="44.9999" yaw="0" ambient="0.45 0.45 0.45" diffuse="1 1 0.98" specular="0.99 0.99 0.97" />
+	<terrain size="513" triangle="0.5">
+		<texture on="1" file="jungle_0.dds" fnorm="jungle_0_nh.dds" scale="4.5" dust="0" dustS="0.2" mud="0.8" smoke="0" tclr="0.18 0.36 0.04 0.7" />
+		<texture on="1" file="jungle_1.dds" fnorm="jungle_1_nh.dds" scale="4.5" dust="0" dustS="0.2" mud="0.6" smoke="0" tclr="0.42 0.46 0.08 0.7" />
+		<texture on="1" file="jungle_3.dds" fnorm="jungle_3_nh.dds" scale="4.5" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.42 0.26 0.08 0.8" />
+		<texture on="0" file="jungle_0.dds" fnorm="jungle_0_nh.dds" scale="4.5" dust="0" dustS="0.8" mud="1" smoke="0" tclr="0.2 0.2 0 1" />
+		<texture on="0" file="jungle_0.dds" fnorm="jungle_0_nh.dds" scale="4.5" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" />
+		<texture on="0" file="jungle_0.dds" fnorm="jungle_0_nh.dds" scale="4.5" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" />
+		<texture road="1" dust="0" dustS="0.6" mud="0.2" smoke="0" tclr="0.4 0.36 0.16 0.7" />
+		<par dust="Dust" mud="Mud" smoke="Smoke" />
+	</terrain>
+	<paged densGrass="0" densTrees="0" grPage="80" grDist="80" grMinSx="0.6" grMinSy="0.6" grMaxSx="0.85" grMaxSy="0.9" grSwayDistr="4" grSwayLen="0.2" grSwaySpeed="0.5" trPage="200" trDist="200" trDistImp="800" trRdDist="3">
+		<layer on="1" name="fir05w.mesh" dens="0.249998" minScale="0.0399974" maxScale="0.0999947" ofsY="0" addTrRdDist="2" windFx="2.79999" windFy="0.0999998" />
+		<layer on="1" name="fir06w.mesh" dens="0.45" minScale="0.04" maxScale="0.12" ofsY="0" addTrRdDist="2" windFx="1.8" windFy="0.1" />
+		<layer on="1" name="fir14w.mesh" dens="0.25" minScale="0.06" maxScale="0.09" ofsY="0" addTrRdDist="4" windFx="1.8" windFy="0.1" />
+		<layer on="1" name="rock.05w.mesh" dens="0.13" minScale="0.03" maxScale="0.15" ofsY="0" addTrRdDist="2" windFx="0" windFy="0" />
+		<layer on="1" name="rock.07w.mesh" dens="0.13" minScale="0.03" maxScale="0.15" ofsY="0" addTrRdDist="2" windFx="0" windFy="0" />
+		<layer on="1" name="rock.05.mesh" dens="0.015" minScale="0.03" maxScale="0.21" ofsY="0" addTrRdDist="2" windFx="0" windFy="0" />
+		<layer on="1" name="rock.07.mesh" dens="0.015" minScale="0.03" maxScale="0.21" ofsY="0" addTrRdDist="2" windFx="0" windFy="0" />
+		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" windFx="0" windFy="0" />
+		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" windFx="0" windFy="0" />
+		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" windFx="0" windFy="0" />
+	</paged>
+</scene>

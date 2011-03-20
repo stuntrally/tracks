@@ -1,0 +1,23 @@
+
+[ 3Sgrav ]
+sector 0 = 55.270088
+
+[ 3Sgrav_rev ]
+sector 0 = 53.391968
+
+[ M3 ]
+sector 0 = 60.184910
+
+[ RS2 ]
+sector 0 = 56.892101
+
+[ XM ]
+sector 0 = 50.428440
+
+[ last ]
+car = M3
+sector 0 = 60.184910
+
+[ rev_last ]
+car = 3Sgrav
+sector 0 = 53.794422

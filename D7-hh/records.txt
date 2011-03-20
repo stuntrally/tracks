@@ -1,0 +1,16 @@
+
+[ 360 ]
+sector 0 = 108.428947
+
+[ 3Sgrav ]
+sector 0 = 104.430046
+
+[ CT ]
+sector 0 = 116.768120
+
+[ XM ]
+sector 0 = 90.580193
+
+[ last ]
+car = CT
+sector 0 = 116.768120
