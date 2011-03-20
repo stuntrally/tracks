@@ -1,0 +1,14 @@
+
+[ 3Sgrav ]
+sector 0 = 57.818966
+
+[ 3Sgrav_rev ]
+sector 0 = 58.062878
+
+[ last ]
+car = 3Sgrav
+sector 0 = 62.489876
+
+[ rev_last ]
+car = 3Sgrav
+sector 0 = 62.965504
