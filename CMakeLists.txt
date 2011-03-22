@@ -3,7 +3,7 @@
 file(GLOB TRACKS "[^.]*")
 foreach(track ${TRACKS})
 	if(IS_DIRECTORY ${track})
-		install(DIRECTORY ${track} DESTINATION ${SHARE_INSTALL})
+		install(DIRECTORY ${track} DESTINATION "${SHARE_INSTALL}/tracks")
 	endif()
 endforeach()
 
