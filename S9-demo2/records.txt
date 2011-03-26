@@ -1,7 +1,0 @@
-
-[ 3Sgrav ]
-sector 0 = 37.830399
-
-[ last ]
-car = 3Sgrav
-sector 0 = 46.696590
