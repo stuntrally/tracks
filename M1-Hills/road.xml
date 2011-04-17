@@ -4,7 +4,7 @@
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 4.972 8.53202" iDir="-1" />
 	<stats length="942.317" width="9.776" height="34.66" onTer="0" pipes="0" yaw="0" pitch="0" roll="0" />
-	<txt desc="Small tracks with hills and jumps - don&apos;t drive too fast." />
+	<txt desc="Small track with hills and jumps - don&apos;t drive too fast." />
 	<P pos="-70.1568 0 -153.292" w="9.776" chkR="1.808" />
 	<P pos="49.6094 0 -121.384" w="9.776" chkR="1.388" />
 	<P pos="126.288 0 -29.4934" w="9.776" />
