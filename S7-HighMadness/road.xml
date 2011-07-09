@@ -2,10 +2,10 @@
 	<mtr road="roadSavannah" pipe="pipeAsphalt" pipe2="pipeGlass" />
 	<dim tcMul="0.25" lenDim="1" widthSteps="8" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
-	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5.904 8.93201" iDir="-1" />
+	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 6.704 12.328" iDir="-1" />
 	<stats length="2087.82" width="8.20539" height="104.803" onTer="96.0048" pipes="0" yaw="0" pitch="0" roll="0" />
 	<txt desc="Long, very high and madly twisted stunt track with stretched high loop." />
-	<P pos="34.5356 0 74.1391" w="8.01601" chkR="1.364" />
+	<P pos="34.5356 0 74.1391" w="8.01601" chkR="1.724" />
 	<P pos="45.6128 0 56.7733" w="8.01601" a="157.92" ar="0.12" />
 	<P pos="52.0342 7.326 45.9733" w="8.01601" onTer="0" a="152.76" ar="-5.7" />
 	<P pos="57.0929 6.18061 34.8035" w="8.01601" onTer="0" a="164.46" ar="-7.44" />
@@ -142,7 +142,7 @@
 	<P pos="-18.4604 28.98 87.4052" w="8.01601" onTer="0" a="86.04" ar="-20.28" col="0" />
 	<P pos="-6.39763 26.52 84.8369" w="8.01601" onTer="0" a="-235.2" ar="-36.3" />
 	<P pos="2.75647 24.68 76.6809" w="8.01601" onTer="0" a="-193.98" ar="-38.4" />
-	<P pos="1.25995 22.84 64.3068" w="8.01601" onTer="0" a="-146.22" ar="-29.88" chkR="1.48" />
+	<P pos="1.25995 22.84 64.3068" w="8.01601" onTer="0" a="-146.22" ar="-29.88" chkR="1.812" />
 	<P pos="-10.1828 21.16 56.8038" w="8.01601" onTer="0" a="-110.04" ar="-26.16" />
 	<P pos="-28.9054 19.46 50.7724" w="8.01601" onTer="0" a="-93.9" ar="-17.46" />
 	<P pos="-47.8321 17.78 51.5923" w="8.01601" onTer="0" a="-73.86" ar="-18.54" />
