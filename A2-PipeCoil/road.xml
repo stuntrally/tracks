@@ -3,8 +3,8 @@
 	<dim tcMul="0.25" lenDim="2" widthSteps="6" heightOfs="0.06" />
 	<mrg skirtLen="0.01" skirtH="0.01" merge="1" mergeLen="400" lodPntLen="40" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 13.084 9.22799" iDir="-1" />
-	<stats length="1448.52" width="6.99401" height="56.8098" onTer="100" pipes="0" yaw="0" pitch="0" roll="0" />
-	<txt desc="An extremally twisted pipe track." />
+	<stats length="1448.52" width="6.99401" height="56.8098" onTer="100" pipes="100" yaw="0" pitch="0" roll="0" />
+	<txt desc="Short, extremely twisted pipe track." />
 	<P pos="48.7783 -2.35927 -8.98889" w="6.904" onTer="0" a="0" ar="0" aT="2" col="0" pipe="1" mtr="1" />
 	<P pos="55.5487 2.29031 -0.614395" w="6.904" onTer="0" a="0" ar="0" aT="2" pipe="1" mtr="1" />
 	<P pos="64.6685 7.80309 3.22618" w="6.904" onTer="0" a="0" ar="0" aT="2" col="0" pipe="1" mtr="1" chkR="1.92" />
