@@ -3,7 +3,7 @@
 	<dim tcMul="0.25" lenDim="1" widthSteps="8" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="160" lodPntLen="20" />
 	<geom colN="4" colR="5" wsPm="4" lsPm="1" stBox="1 25.56 16.912" iDir="-1" />
-	<stats length="1796.64" width="11.664" height="82.671" onTer="100" pipes="0" yaw="0" pitch="0" roll="0" />
+	<stats length="1796.64" width="11.664" height="82.671" onTer="100" pipes="100" yaw="0" pitch="0" roll="0" />
 	<txt desc="Twisted double 8-shaped pipe. Fast but tricky as it goes up or down and changes direction." />
 	<P pos="235.46 24.603 -192.794" w="11.664" onTer="0" a="-201.36" ar="0" pipe="1" mtr="1" />
 	<P pos="235.162 24.603 -227.316" w="11.664" onTer="0" a="-154.08" ar="0" pipe="1" mtr="1" />

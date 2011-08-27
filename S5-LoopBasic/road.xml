@@ -3,7 +3,7 @@
 	<dim tcMul="0.25" lenDim="1" widthSteps="8" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="160" lodPntLen="20" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5 7.352" iDir="-1" />
-	<stats length="2150.37" width="6.84062" height="52.1316" onTer="61.0701" pipes="23.4794" yaw="0" pitch="0" roll="0" />
+	<stats length="2150.37" width="6.84062" height="52.1316" onTer="61.0701" pipes="21.1" yaw="0" pitch="0" roll="0" />
 	<txt desc="Basic stunt elements: loop, side loop, side bridge turn and pipe turn (all 180 degrees)." />
 	<P pos="-32.9458 0 105.175" w="7.488" chkR="1.488" />
 	<P pos="-7.12915 0 109.706" w="6.88" a="75.78" ar="0" col="0" />

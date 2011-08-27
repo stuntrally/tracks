@@ -3,7 +3,7 @@
 	<dim tcMul="0.25" lenDim="1" widthSteps="8" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 4.284 10.4" iDir="1" />
-	<stats length="1081.73" width="7.37207" height="16.7453" onTer="24.7931" pipes="13.346" yaw="0" pitch="0" roll="0" />
+	<stats length="1081.73" width="7.37207" height="16.7453" onTer="24.7931" pipes="12.7" yaw="0" pitch="0" roll="0" />
 	<txt desc="The tutorial demo track with pipe fragment, banked turn, in air bridge turn and bumpy terrain. Simple but fun." />
 	<P pos="-51.705 4.1954 -1.20469" w="10.1464" onTer="0" a="226.08" ar="-18" />
 	<P pos="-81.4747 9.416 -16.8506" w="10.1464" onTer="0" a="283.68" ar="-21.36" />

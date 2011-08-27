@@ -3,7 +3,7 @@
 	<dim tcMul="0.25" lenDim="1" widthSteps="8" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="160" lodPntLen="20" />
 	<geom colN="4" colR="5" wsPm="4" lsPm="1" stBox="1 25.56 16.912" iDir="-1" />
-	<stats length="3033.58" width="12.4305" height="66.8277" onTer="100" pipes="0" yaw="0" pitch="0" roll="0" />
+	<stats length="3033.58" width="12.4305" height="66.8277" onTer="100" pipes="100" yaw="0" pitch="0" roll="0" />
 	<txt desc="Fast winding all pipe track, medium difficulty." />
 	<P pos="-67.2667 29.2218 172.538" w="11.664" onTer="0" a="87.6" ar="0" pipe="1" mtr="1" />
 	<P pos="-29.6825 24.8141 171.048" w="11.664" onTer="0" a="120.96" ar="0" pipe="1" mtr="1" />

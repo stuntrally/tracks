@@ -3,7 +3,7 @@
 	<dim tcMul="0.25" lenDim="1" widthSteps="8" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 4.916 10.224" iDir="1" />
-	<stats length="2097.8" width="9.04" height="35.7396" onTer="26.2495" pipes="16.6567" yaw="0" pitch="0" roll="0" />
+	<stats length="2097.8" width="9.04" height="35.7396" onTer="26.24" pipes="26.24" yaw="0" pitch="0" roll="0" />
 	<txt desc="Fast curly track at slippery end of winter." />
 	<P pos="8.30638 0 136.561" w="9.04" />
 	<P pos="-14.0212 0 99.3788" w="9.04" />
