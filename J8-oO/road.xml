@@ -2,7 +2,7 @@
 	<mtr road="roadJungle" />
 	<dim tcMul="0.12" lenDim="1" widthSteps="6" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
-	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5 7.02" iDir="-1" />
+	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5 7.02" iDir="-1" iChk1="2" />
 	<stats length="2832.44" width="7.24736" height="6.23233" onTer="0" pipes="0" yaw="0" pitch="0" roll="0" />
 	<txt desc="Fast long bumpy jungle road with 2 banked circles." />
 	<P pos="45.8899 0 271.258" w="7.24736" />

@@ -2,8 +2,8 @@
 	<mtr road="roadJungle" pipe="pipeAsphalt" pipe2="pipeGlass" />
 	<dim tcMul="0.25" lenDim="1" widthSteps="8" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="180" lodPntLen="10" />
-	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5 7.84402" iDir="-1" />
-	<stats length="1596.87" width="8.176" height="11.9198" onTer="0" pipes="63.7" yaw="0" pitch="0" roll="0" />
+	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5 7.84402" iDir="-1" iChk1="38" />
+	<stats length="1596.87" width="8.176" height="11.9198" onTer="0" pipes="63.7394" yaw="0" pitch="0" roll="0" />
 	<txt desc="Flat winding pipe. Caution: 2 direction changes in pipe." />
 	<P pos="-134.871 0 163.617" w="8.176" />
 	<P pos="-114.86 0 188.071" w="8.176" />

@@ -2,7 +2,7 @@
 	<mtr road="roadJungle" pipe="pipeAsphalt" road2="roadSavannah" pipe2="pipeGlass" />
 	<dim tcMul="0.15" lenDim="1" widthSteps="8" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="180" lodPntLen="10" />
-	<geom colN="6" colR="3" wsPm="4" lsPm="1" stBox="1 4.94 11.236" iDir="-1" />
+	<geom colN="6" colR="3" wsPm="4" lsPm="1" stBox="1 4.94 11.236" iDir="-1" iChk1="50" />
 	<stats length="1751.88" width="7.29858" height="34.3276" onTer="3.32299" pipes="0" yaw="0" pitch="0" roll="0" />
 	<txt desc="Winding jungle flat track with bridge and dip." />
 	<P pos="167.928 0 -122.286" w="7.104" />
@@ -27,9 +27,9 @@
 	<P pos="-77.8419 0 -68.2807" w="8.9976" />
 	<P pos="-72.4687 0 -38.4203" w="8.9976" />
 	<P pos="-57.6025 0 -15.2921" w="7.9752" />
-	<P pos="-44.4706 0 -1.19745" w="6.7944" a="46.92" ar="0" col="0" />
-	<P pos="-19.9925 0.000667816 21.3332" w="7.104" onTer="0" a="49.14" ar="0" col="0" />
-	<P pos="-1.3606 0 37.9183" w="6.6936" a="52.14" ar="0" />
+	<P pos="-44.4706 0 -1.19745" w="6.7944" a="46.92" ar="0" aT="0" col="0" />
+	<P pos="-19.9925 0.000667816 21.3332" w="7.104" onTer="0" a="49.14" ar="0" aT="0" col="0" />
+	<P pos="-1.3606 0 37.9183" w="6.6936" a="52.14" ar="0" aT="0" />
 	<P pos="14.845 0 53.3661" w="7.104" />
 	<P pos="39.8157 0 78.8645" w="7.104" />
 	<P pos="57.8359 0 106.316" w="7.104" />

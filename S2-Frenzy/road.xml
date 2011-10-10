@@ -2,7 +2,7 @@
 	<mtr road="roadSavannah" />
 	<dim tcMul="0.25" lenDim="1" widthSteps="6" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="200" lodPntLen="20" />
-	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5 7.444" iDir="1" />
+	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5 7.444" iDir="1" iChk1="6" />
 	<stats length="6015.29" width="6" height="51.8045" onTer="0" pipes="0" yaw="0" pitch="0" roll="0" />
 	<txt desc="Tricky, very long and winding road, not for amateurs." />
 	<P pos="140.341 0 -238.316" w="6" />

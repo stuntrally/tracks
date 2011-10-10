@@ -2,7 +2,7 @@
 	<mtr road="roadSavannah" />
 	<dim tcMul="0.25" lenDim="1" widthSteps="6" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="100" lodPntLen="10" />
-	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 3 6.564" iDir="-1" />
+	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 3 6.564" iDir="-1" iChk1="32" />
 	<stats length="2717.49" width="6" height="31.1528" onTer="0" pipes="0" yaw="0" pitch="0" roll="0" />
 	<txt desc="Simple, fast savannah track with long straight on hills." />
 	<P pos="103.93 0 132.494" w="6" />

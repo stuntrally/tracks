@@ -2,7 +2,7 @@
 	<mtr road="roadJungle" />
 	<dim tcMul="0.11" lenDim="1" widthSteps="6" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="180" lodPntLen="20" />
-	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5.032 7.50399" iDir="1" />
+	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5.032 7.50399" iDir="1" iChk1="3" />
 	<stats length="1878.11" width="7.16496" height="30.1054" onTer="0" pipes="0" yaw="0" pitch="0" roll="0" />
 	<txt desc="Fast, curly road with banked big turns." />
 	<P pos="147.41 0 97.4975" w="7.296" />

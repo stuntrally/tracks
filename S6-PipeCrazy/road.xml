@@ -2,8 +2,8 @@
 	<mtr road="roadSavannah" pipe="pipeAsphalt" pipe2="pipeGlass" />
 	<dim tcMul="0.25" lenDim="1" widthSteps="8" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
-	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5 7.724" iDir="1" />
-	<stats length="869.779" width="7.3582" height="65.3197" onTer="69.9" pipes="69.9" yaw="0" pitch="0" roll="0" />
+	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5 7.724" iDir="1" iChk1="12" />
+	<stats length="869.779" width="7.3582" height="65.3197" onTer="69.8882" pipes="69.8882" yaw="0" pitch="0" roll="0" />
 	<txt desc="Crazy, fast and very twisted pipe road. Go fast through loop, slow down at exit - changes turn." />
 	<P pos="22.5348 0 59.9907" w="6" />
 	<P pos="35.6255 0 53.3807" w="6" col="0" chkR="2.072" />

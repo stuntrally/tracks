@@ -2,8 +2,8 @@
 	<mtr road="roadSand" pipe="pipeAsphalt" pipe2="pipeGlassCyan" />
 	<dim tcMul="0.15" lenDim="2" widthSteps="6" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
-	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 4.76 9.35238" iDir="-1" />
-	<stats length="3477.67" width="7.13614" height="15.7202" onTer="18.2445" pipes="7.32544" yaw="0" pitch="0" roll="0" />
+	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 4.76 9.35238" iDir="-1" iChk1="55" />
+	<stats length="3477.56" width="7.13614" height="15.7202" onTer="18.2451" pipes="7.32568" yaw="0" pitch="0" roll="0" />
 	<txt desc="A track connecting few small islands. Includes drives through water." />
 	<P pos="-179.66 0 178.205" w="7.592" pipe="1" mtr="1" />
 	<P pos="-205.437 0 191.242" w="7.592" pipe="1" mtr="1" />

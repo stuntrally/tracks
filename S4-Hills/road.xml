@@ -2,7 +2,7 @@
 	<mtr road="roadSavannah" />
 	<dim tcMul="0.25" lenDim="1" widthSteps="6" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
-	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5.26 9.536" iDir="1" />
+	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5.26 9.536" iDir="1" iChk1="14" />
 	<stats length="5808.54" width="6.33187" height="109.577" onTer="21.5365" pipes="0" yaw="0" pitch="0" roll="0" />
 	<txt desc="Long, fast road with bridges, few banked 180 turns, few terrain jumps, and bumpy 2 circles (mad eye)." />
 	<P pos="102.234 0 153.142" w="6" />

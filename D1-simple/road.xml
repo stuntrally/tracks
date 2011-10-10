@@ -2,7 +2,7 @@
 	<mtr road="roadDesert" />
 	<dim tcMul="0.25" lenDim="1" widthSteps="8" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
-	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 4.96 8.52399" iDir="-1" />
+	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 4.96 8.52399" iDir="-1" iChk1="32" />
 	<stats length="2710.07" width="7" height="15.8282" onTer="0" pipes="0" yaw="0" pitch="0" roll="0" />
 	<txt desc="Simple and fast with hills at center." />
 	<P pos="103.93 0 132.494" w="7" />

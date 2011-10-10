@@ -2,7 +2,7 @@
 	<mtr road="roadSavannah" pipe="pipeAsphalt" pipe2="pipeGlass" />
 	<dim tcMul="0.25" lenDim="1" widthSteps="8" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
-	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5.32 8.284" iDir="-1" />
+	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5.32 8.284" iDir="-1" iChk1="129" />
 	<stats length="2553.19" width="7.312" height="13.4139" onTer="0" pipes="0" yaw="0" pitch="0" roll="0" />
 	<txt desc="Tricky, slow, very curly and long road, not for beginners." />
 	<P pos="62.7449 0 84.8256" w="7.312" />

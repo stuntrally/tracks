@@ -2,7 +2,7 @@
 	<mtr road="roadSnow" />
 	<dim tcMul="0.25" lenDim="1" widthSteps="8" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
-	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5 10.864" iDir="-1" />
+	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5 10.864" iDir="-1" iChk1="53" />
 	<stats length="2610.98" width="9.32" height="22.6132" onTer="0" pipes="0" yaw="0" pitch="0" roll="0" />
 	<txt desc="Curly and fast with 2,5 circles." />
 	<P pos="30.8749 0 161.202" w="9.32" />
