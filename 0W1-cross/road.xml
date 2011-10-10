@@ -2,7 +2,7 @@
 	<mtr road="roadSnow" />
 	<dim tcMul="0.25" lenDim="1" widthSteps="8" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
-	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5.212 8.588" iDir="-1" />
+	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5.212 8.588" iDir="-1" iChk1="47" />
 	<stats length="2285.54" width="7.976" height="13.4444" onTer="0" pipes="0" yaw="0" pitch="0" roll="0" />
 	<txt desc="Simple winter crossing.&#x0A;Snowing and slippery." />
 	<P pos="175.566 0 -7.76483" w="7.976" />
