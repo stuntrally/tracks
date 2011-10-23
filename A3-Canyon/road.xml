@@ -3,7 +3,7 @@
 	<dim tcMul="0.25" lenDim="2" widthSteps="6" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="400" lodPntLen="40" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 4.824 10.12" iDir="-1" iChk1="133" />
-	<stats length="5470.42" width="8.8358" height="135.453" onTer="32.2264" pipes="0" yaw="0" pitch="0" roll="0" />
+	<stats length="5470.31" width="8.83581" height="135.453" onTer="32.2495" pipes="0" yaw="0" pitch="0" roll="0" />
 	<txt desc="Long and wide road through canyon like landscape." />
 	<P pos="395.23 0 -251.102" w="8.488" />
 	<P pos="430.963 0 -286.468" w="10.416" a="134.64" ar="0" aT="1" chkR="1.648" />
@@ -116,7 +116,7 @@
 	<P pos="-33.879 -16.7109 -112.603" w="8.488" onTer="0" a="0" ar="0" aT="2" />
 	<P pos="-5.75256 -2.73736 -148.119" w="8.488" onTer="0" a="0" ar="0" aT="2" />
 	<P pos="20.784 9.47935 -183.245" w="8.488" onTer="0" a="0" ar="0" aT="2" />
-	<P pos="51.2045 0 -227.347" w="8.488" a="0" ar="2.754" aT="2" />
+	<P pos="52.3992 0 -228.135" w="8.488" a="0" ar="2.754" aT="2" />
 	<P pos="86.5074 0 -271.418" w="8.488" />
 	<P pos="130.087 0 -324.142" w="8.488" chkR="1.508" />
 	<P pos="167.91 0 -346.53" w="8.488" />
