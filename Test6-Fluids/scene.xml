@@ -3,11 +3,11 @@
 	<fog mode="lin" color="0.73 0.86 1" exp="0" linStart="632.453" linEnd="1453.23" />
 	<light pitch="44.9996" yaw="0" ambient="0.45 0.45 0.45" diffuse="1 1 0.98" specular="0.99 0.99 0.97" />
 	<fluids>
-		<fluid type="0" pos="-120 -6.5 0" rot="0 0 0" size="50 20 50" tile="0.01 0.01" />
-		<fluid type="0" pos="-90 -18 -120" rot="0 0 0" size="180 40 180" tile="0.01 0.01" />
-		<fluid type="0" pos="-90 -15.6 160" rot="0 0 0" size="180 40 180" tile="0.01 0.01" />
-		<fluid type="0" pos="130 -11 -100" rot="0 0 0" size="210 40 290" tile="0.01 0.01" />
-		<fluid type="0" pos="130 -8.8 160" rot="0 0 0" size="180 40 180" tile="0.01 0.01" />
+		<fluid name="mud hard" pos="-120 -5.5 0" rot="0 0 0" size="50 20 50" tile="0.01 0.01" />
+		<fluid name="mud hard" pos="-90 -17 -120" rot="0 0 0" size="180 40 180" tile="0.01 0.01" />
+		<fluid name="mud med"  pos="-90 -14.6 160" rot="0 0 0" size="180 40 180" tile="0.01 0.01" />
+		<fluid name="mud soft" pos="130 -10 -100" rot="0 0 0" size="210 40 290" tile="0.01 0.01" />
+		<fluid name="mud hard" pos="130 -7.8 160" rot="0 0 0" size="180 40 180" tile="0.01 0.01" />
 	</fluids>
 	<terrain size="513" triangle="1.17334">
 		<texture on="1" file="jungle_0.dds" fnorm="jungle_0_nh.dds" scale="4.5" dust="0" dustS="0.2" mud="0.8" smoke="0" tclr="0.18 0.36 0.04 0.7" angMin="0" angMax="15.906" angSm="20" hMin="-300" hMax="300" hSm="20" noise="0.38926" nOnly="0" />

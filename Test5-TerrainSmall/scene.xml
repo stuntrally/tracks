@@ -3,7 +3,8 @@
 	<fog mode="lin" color="0.73 0.86 1" exp="0" linStart="299.998" linEnd="1600" />
 	<light pitch="42.8756" yaw="21.8013" ambient="0.45 0.45 0.45" diffuse="1 1 0.98" specular="0.99 0.99 0.97" />
 	<fluids>
-		<fluid pos="0 -18 0" size="200 50 200"/>
+		<fluid name="mud hard" pos="-20 -16 30" size="60 20 50" tile="0.004 0.004" />
+		<fluid name="mud soft" pos="0 -29 -50" size="150 20 100"/>
 		<!--<fluid pos="20 -10 40" size="0.02 0.02 0.02"/>-->
 	</fluids>
 	<terrain size="129" triangle="2">
