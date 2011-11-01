@@ -3,7 +3,7 @@
 	<fog mode="lin" color="0.7 0.96 1" exp="0" linStart="153.848" linEnd="1149.94" />
 	<light pitch="41.6794" yaw="58.1674" ambient="0.5 0.5 0.5" diffuse="1 1 0.98" specular="0.99 0.99 0.97" />
 	<fluids>
-		<fluid name="water blue" pos="0.343474 -0.5 0.391132" rot="0 0 0" size="1750 40 1750" tile="0.004 0.004" />
+		<fluid name="water blue" pos="0.343474 -0.5 0.391132" rot="0 0 0" size="4000 40 4000" tile="0.004 0.004" />
 	</fluids>
 	<terrain size="1025" triangle="1.1199">
 		<texture on="1" file="jungle_0.dds" fnorm="jungle_0_nh.dds" scale="5.87196" dust="0" dustS="0.2" mud="0.2" smoke="0" tclr="0.36 0.4 0.28 0.7" angMin="0" angMax="24.3624" angSm="20" hMin="-300" hMax="300" hSm="20" noise="1" nOnly="0" />
