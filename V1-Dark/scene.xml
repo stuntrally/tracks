@@ -1,0 +1,31 @@
+<scene>
+	<sky material="sky/duskstormy" />
+	<fog mode="lin" color="0.2 0.2 0.1" exp="0" linStart="129.492" linEnd="581.991" />
+	<light pitch="16.9466" yaw="19.6942" ambient="0.07 0.07 0.03" diffuse="0.63 0.63 0.46" specular="1 1 0.6" />
+	<fluids>
+		<fluid name="water dark" pos="0.0012537 -2 -0.530625" rot="0 0 0" size="1500 40 1500" tile="0.00482925 0.00508187" />
+	</fluids>
+	<terrain size="513" triangle="1.18027">
+		<texture on="1" file="volcano_7.dds" fnorm="volcano_7_nh.dds" scale="7.62453" dust="0" dustS="0.7" mud="0" smoke="0" tclr="0.44 0.44 0.26 0.1" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" noise="1" nOnly="1" />
+		<texture on="1" file="sand_6.dds" fnorm="sand_6_nh.dds" scale="4.77911" dust="0" dustS="0.7" mud="0" smoke="0" tclr="0.44 0.4 0.23 0.1" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" noise="1" nOnly="1" />
+		<texture on="1" file="desert_6.dds" fnorm="desert_6_nh.dds" scale="7.24803" dust="0" dustS="0.6" mud="0.4" smoke="0" tclr="0.38 0.22 0.04 0.1" angMin="18.9261" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" noise="1" nOnly="0" />
+		<texture on="0" file="sand_3.dds" fnorm="sand_3_nh.dds" scale="4.5" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 0.1" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" noise="1" nOnly="1" />
+		<texture on="0" file="sand_5.dds" fnorm="sand_5_nh.dds" scale="4.5" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 0.1" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" noise="1" nOnly="1" />
+		<texture on="0" file="sand_6.dds" fnorm="sand_6_nh.dds" scale="5.55224" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 0.1" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" noise="1" nOnly="1" />
+		<texture road="1" dust="0" dustS="0.2" mud="0" smoke="0" tclr="0.5 0.44 0.3 0.1" />
+		<par dust="Dust" mud="Mud" smoke="Smoke" />
+	</terrain>
+	<paged densGrass="0" densTrees="0.2" grPage="100" grDist="100" grMinSx="0.7" grMinSy="0.7" grMaxSx="1.25" grMaxSy="1.3" grSwayDistr="3" grSwayLen="0.3" grSwaySpeed="0.4" grDensSmooth="6" grTerMaxAngle="30" trPage="200" trDist="200" trDistImp="800" trRdDist="3">
+		<layer on="1" name="tree.07.mesh" dens="0.0695094" minScale="0.416" maxScale="0.986157" ofsY="0" addTrRdDist="5" windFx="0.699969" windFy="0.00999471" maxTerAng="30" minTerH="-2" />
+		<layer on="1" name="palm.mesh" dens="0.199788" minScale="0.503928" maxScale="2.91861" ofsY="0" addTrRdDist="3" windFx="0.246534" windFy="0.0229893" maxTerAng="30" minTerH="-2" />
+		<layer on="1" name="farn1.mesh" dens="0.34" minScale="0.110813" maxScale="0.435681" ofsY="0" addTrRdDist="2" windFx="7.29999" windFy="0.0599931" maxTerAng="30" minTerH="-4" />
+		<layer on="1" name="farn2.mesh" dens="0.34" minScale="0.136625" maxScale="0.406432" ofsY="0" addTrRdDist="2" windFx="7.29999" windFy="0.0599931" maxTerAng="30" minTerH="-4" />
+		<layer on="0" name="rock.05.mesh" dens="0.0305751" minScale="0.0299981" maxScale="0.209997" ofsY="0" addTrRdDist="4" windFx="0" windFy="0" maxTerAng="30" minTerH="-3" />
+		<layer on="0" name="rock.07.mesh" dens="0.0284247" minScale="0.0299986" maxScale="0.209997" ofsY="0" addTrRdDist="5" windFx="0" windFy="0" maxTerAng="30" minTerH="-3" />
+		<layer on="0" name="" dens="0.0999996" minScale="0.0999994" maxScale="0.249999" ofsY="0" addTrRdDist="0" windFx="0" windFy="0" maxTerAng="30" minTerH="-100" />
+		<layer on="0" name="" dens="0.0999996" minScale="0.0999994" maxScale="0.249999" ofsY="0" addTrRdDist="0" windFx="0" windFy="0" maxTerAng="30" minTerH="-100" />
+		<layer on="0" name="" dens="0.0999996" minScale="0.0999994" maxScale="0.249999" ofsY="0" addTrRdDist="0" windFx="0" windFy="0" maxTerAng="30" minTerH="-100" />
+		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" windFx="0" windFy="0" maxTerAng="30" minTerH="-100" />
+	</paged>
+	<cam pos="202.205 8.58653 13.7992" dir="-0.764832 -0.0776827 0.639689" />
+</scene>
