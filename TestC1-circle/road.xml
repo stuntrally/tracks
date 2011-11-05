@@ -4,7 +4,7 @@
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
 	<geom colN="12" colR="5" wsPm="4" lsPm="1" stBox="1 7.472 14.776" iDir="-1" iChk1="6" />
 	<stats length="568.65" width="12" height="3.423" onTer="100" pipes="0" yaw="0" pitch="0" roll="0" />
-	<txt desc="" />
+	<txt desc="Short banked circle track, good for practice." />
 	<P pos="0 0 90" w="12" onTer="0" a="90" ar="-16" aT="0" chkR="1.14" />
 	<P pos="65 0 65" w="12" onTer="0" a="135" ar="-16" aT="0" />
 	<P pos="90 0 0" w="12" onTer="0" a="-180" ar="-16" aT="0" chkR="1.172" />

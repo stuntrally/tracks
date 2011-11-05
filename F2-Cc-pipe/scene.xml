@@ -1,6 +1,6 @@
 <scene>
 	<sky material="sky/gray_clouds" rainName="RainFine" rainEmit="999" />
-	<fog mode="lin" color="0.68 0.7 0.72" exp="0" linStart="350" linEnd="699.998" />
+	<fog mode="lin" color="0.68 0.7 0.72" exp="0" linStart="78.7831" linEnd="699.998" />
 	<light pitch="35.2643" yaw="45" ambient="0.37 0.37 0.37" diffuse="0.8 0.8 0.8" specular="0.5 0.5 0.5" />
 	<terrain size="513" triangle="1.2">
 		<texture on="1" file="jungle_1.dds" fnorm="jungle_1_nh.dds" scale="4.5" dust="0" dustS="0.2" mud="0.8" smoke="0" tclr="0.22 0.2 0.04 0.9" />
@@ -24,4 +24,5 @@
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" windFx="0" windFy="0" />
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" windFx="0" windFy="0" />
 	</paged>
+	<cam pos="208.497 38.9059 -186.307" dir="-0.899532 -0.223407 0.375408" />
 </scene>

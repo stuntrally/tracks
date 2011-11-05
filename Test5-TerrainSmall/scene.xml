@@ -1,7 +1,7 @@
 <scene>
 	<sky material="sky/blue_clouds" />
 	<fog mode="lin" color="0.73 0.86 1" exp="0" linStart="299.998" linEnd="1600" />
-	<light pitch="42.8756" yaw="21.8013" ambient="0.45 0.45 0.45" diffuse="1 1 0.98" specular="0.99 0.99 0.97" />
+	<light pitch="42.8755" yaw="21.8012" ambient="0.45 0.45 0.45" diffuse="1 1 0.98" specular="0.99 0.99 0.97" />
 	<fluids>
 		<fluid name="water blue" pos="-20 -16 30" rot="0 0 0" size="60 20 50" tile="0.004 0.004" />
 	</fluids>
@@ -27,5 +27,5 @@
 		<layer on="0" name="" dens="0.0999996" minScale="0.0999994" maxScale="0.249999" ofsY="0" addTrRdDist="0" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" />
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" />
 	</paged>
-	<cam pos="-112.355 43.904 155.339" dir="0.559352 -0.297055 -0.773877" />
+	<cam pos="-112.355 43.904 155.339" dir="0.549959 -0.31613 -0.773051" />
 </scene>
