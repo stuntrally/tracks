@@ -3,7 +3,7 @@
 	<dim tcMul="0.25" lenDim="1" widthSteps="6" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="400" lodPntLen="40" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 33.868 21.864" iDir="-1" iChk1="10" />
-	<stats length="371.995" width="6" height="-3.40282e+038" onTer="0" pipes="0" yaw="0" pitch="0" roll="0" />
+	<stats length="371.995" width="6" height="13" onTer="0" pipes="0" yaw="0" pitch="0" roll="0" />
 	<txt desc="Fast, nearly circular, egg-shaped track on banked terrain." />
 	<P pos="-78.7821 0 -4.46704" w="6" mtr="-1" />
 	<P pos="-71.9259 0 24.8832" w="6" mtr="-1" />
