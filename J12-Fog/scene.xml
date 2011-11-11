@@ -1,7 +1,7 @@
 <scene>
 	<sky material="sky/gray_clouds" rainName="RainFine" rainEmit="1297" rain2Name="RainHeavy" rain2Emit="198" />
 	<fog mode="lin" color="0.6 0.63 0.66" exp="0" linStart="0" linEnd="109.999" />
-	<light pitch="41.6793" yaw="58.1674" ambient="0.45 0.45 0.45" diffuse="0.6 0.6 0.6" specular="0.6 0.6 0.6" />
+	<light sceneryId="5" pitch="41.6793" yaw="58.1674" ambient="0.45 0.45 0.45" diffuse="0.6 0.6 0.6" specular="0.6 0.6 0.6" />
 	<fluids>
 		<fluid name="water green" pos="-120.718 -5.66228 64.6013" rot="0 0 0" size="231.173 40 267.495" tile="0.014 0.014" />
 	</fluids>
