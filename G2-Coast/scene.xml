@@ -1,7 +1,7 @@
 <scene>
 	<sky material="sky/light_blue" />
 	<fog mode="lin" color="0.7 0.96 1" exp="0" linStart="443.187" linEnd="1334.3" />
-	<light pitch="41.6794" yaw="58.1674" ambient="0.5 0.5 0.5" diffuse="1 1 0.98" specular="0.99 0.99 0.97" />
+	<light pitch="41.6794" yaw="58.1674" ambient="0.6 0.6 0.6" diffuse="0.9 0.9 0.88" specular="0.99 0.99 0.97" />
 	<fluids>
 		<fluid name="water cyan" pos="0 -0.5 0" rot="0 0 0" size="1750 40 1750" tile="0.004 0.004" />
 	</fluids>

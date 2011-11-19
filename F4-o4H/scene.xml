@@ -1,7 +1,7 @@
 <scene>
 	<sky material="sky/gray_clouds" rainName="RainFine" rainEmit="600" rain2Name="RainHeavy" rain2Emit="99" />
 	<fog mode="lin" color="0.68 0.7 0.72" exp="0" linStart="159.997" linEnd="699.998" />
-	<light pitch="33.6901" yaw="53.1299" ambient="0.37 0.37 0.37" diffuse="0.8 0.8 0.8" specular="0.5 0.5 0.5" />
+	<light pitch="33.6901" yaw="53.1299" ambient="0.47 0.47 0.47" diffuse="0.6 0.6 0.6" specular="0.5 0.5 0.5" />
 	<terrain size="513" triangle="1.2">
 		<texture on="1" file="jungle_1.dds" fnorm="jungle_1_nh.dds" scale="4.5" dust="0" dustS="0.2" mud="0.8" smoke="0" tclr="0.22 0.2 0.04 0.9" />
 		<texture on="1" file="jungle_0.dds" fnorm="jungle_0_nh.dds" scale="4.5" dust="0" dustS="0.2" mud="0.6" smoke="0" tclr="0.32 0.31 0.08 0.9" />
