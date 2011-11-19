@@ -1,7 +1,7 @@
 <scene>
 	<sky material="sky/white" rainName="Snow" rainEmit="300" />
 	<fog mode="lin" color="0.86 0.91 0.92" exp="0" linStart="355.891" linEnd="1160.64" />
-	<light sceneryId="0" pitch="48.5266" yaw="45" ambient="0.5 0.5 0.5" diffuse="0.6 0.6 0.6" specular="0.3 0.3 0.3" />
+	<light sceneryId="0" pitch="48.5266" yaw="45" ambient="0.5 0.5 0.5" diffuse="0.55 0.55 0.55" specular="0.3 0.3 0.3" />
 	<fluids>
 		<fluid name="water white" pos="71.5054 -6.50812 -5.83456" rot="0 0 0" size="831.059 20 988.555" tile="0.01 0.01" />
 	</fluids>

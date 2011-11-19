@@ -1,7 +1,7 @@
 <scene>
 	<sky material="sky/white" />
 	<fog mode="lin" color="0.88 0.92 0.93" exp="0" linStart="140" linEnd="629.999" />
-	<light pitch="54.6008" yaw="50.71" ambient="0.38 0.38 0.38" diffuse="0.8 0.8 0.8" specular="0.45 0.46 0.46" />
+	<light pitch="54.6008" yaw="50.71" ambient="0.48 0.48 0.48" diffuse="0.6 0.6 0.6" specular="0.45 0.46 0.46" />
 	<terrain size="513" triangle="1.2">
 		<texture on="1" file="snow_1.dds" fnorm="flat_n.png" scale="4.5" dust="1" dustS="0.8" mud="1" smoke="0" tclr="0.4 0.4 0.4 0.6" />
 		<texture on="1" file="snow_1.dds" fnorm="ice_0_nh.dds" scale="6.5" dust="1" dustS="0.8" mud="1" smoke="0" tclr="0.4 0.4 0.4 0.6" />
