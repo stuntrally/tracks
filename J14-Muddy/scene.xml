@@ -1,7 +1,7 @@
 <scene>
 	<sky material="sky/blue_clouds" />
 	<fog mode="lin" color="0.73 0.86 1" exp="0" linStart="27.4586" linEnd="348.282" />
-	<light sceneryId="12" pitch="43.7405" yaw="30.6868" ambient="0.45 0.45 0.4" diffuse="0.9 0.9 0.9" specular="0.9 0.9 0.85" />
+	<light sceneryId="12" pitch="43.7405" yaw="30.6868" ambient="0.45 0.45 0.4" diffuse="0.7 0.7 0.7" specular="0.9 0.9 0.85" />
 	<fluids>
 		<fluid name="mud hard" pos="-90.6268 -2.16673 -58.7374" rot="0 0 0" size="50 20 50" tile="0.01 0.01" />
 		<fluid name="mud soft" pos="7.24058 -2.56652 13.937" rot="0 0 0" size="58.3968 20 54.0224" tile="0.01 0.01" />
