@@ -1,0 +1,13 @@
+<SplineRoad>
+	<mtr road="roadSavannah" pipe="pipeAsphalt" />
+	<dim tcMul="0.25" lenDim="2" widthSteps="6" heightOfs="0.06" />
+	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
+	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 3.2 16.284" iDir="1" iChk1="4" />
+	<stats length="272.321" width="10.0592" height="12.5454" onTer="0" pipes="0" yaw="0" pitch="0" roll="0" />
+	<txt desc="Short track with irregular checkpoints for testing." />
+	<P pos="-23.2108 0 41.9794" w="8.936" chkR="1.54" />
+	<P pos="-57.6493 0 -21.0137" w="8.936" chkR="1.468" />
+	<P pos="-50.5509 0 -40.9436" w="10.936" chkR="1.4" />
+	<P pos="5.25173 0 -45.3241" w="10.936" chkR="1.452" />
+	<P pos="11.6907 0 26.2348" w="9.936" chkR="1.376" />
+</SplineRoad>
