@@ -1,0 +1,31 @@
+<scene>
+	<sky material="sky/gray_clouds" />
+	<fog mode="lin" color="0.63 0.66 0.7" exp="0" linStart="21.8309" linEnd="515.031" />
+	<light sceneryId="0" pitch="42.5372" yaw="21.8009" ambient="0.5 0.5 0.5" diffuse="0.65 0.65 0.63" specular="0.99 0.99 0.97" />
+	<fluids>
+		<fluid name="water green" pos="-0.25155 0.06 0.404012" rot="0 0 0" size="403.499 40 395.859" tile="0.00994745 0.00994745" />
+	</fluids>
+	<terrain size="513" triangle="0.735017">
+		<texture on="1" file="jungle_0.dds" fnorm="jungle_0_nh.dds" scale="4.5" dust="0" dustS="0.2" mud="0.8" smoke="0" tclr="0.18 0.36 0.04 0.7" angMin="0" angMax="32.6174" angSm="20" hMin="-300" hMax="300" hSm="20" noise="1" nOnly="0" />
+		<texture on="1" file="jungle_1.dds" fnorm="jungle_1_nh.dds" scale="4.5" dust="0" dustS="0.2" mud="0.6" smoke="0" tclr="0.42 0.46 0.08 0.7" angMin="31.6107" angMax="43.0871" angSm="20" hMin="-300" hMax="300" hSm="20" noise="0.219236" nOnly="0" />
+		<texture on="0" file="jungle_6.dds" fnorm="jungle_6_nh.dds" scale="4.5" dust="0" dustS="0.2" mud="0.4" smoke="0" tclr="0.48 0.42 0.2 0.7" angMin="39.0604" angMax="50" angSm="20" hMin="-300" hMax="300" hSm="20" noise="0.648768" nOnly="0" />
+		<texture on="1" file="jungle_5.dds" fnorm="jungle_5_nh.dds" scale="6.5" dust="0" dustS="0.2" mud="0.4" smoke="0" tclr="0.48 0.42 0.2 0.7" angMin="56.5772" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" noise="1" nOnly="0" />
+		<texture on="0" file="jungle_0.dds" fnorm="jungle_0_nh.dds" scale="4.5" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" noise="1" nOnly="1" />
+		<texture on="0" file="jungle_0.dds" fnorm="jungle_0_nh.dds" scale="4.5" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" noise="1" nOnly="1" />
+		<texture road="1" dust="0" dustS="0.2" mud="0" smoke="0" tclr="0.4 0.4 0.2 1" />
+		<par dust="Dust" mud="Mud" smoke="Smoke" />
+	</terrain>
+	<paged densGrass="0.25" densTrees="0.5" grPage="80" grDist="80" grMinSx="0.66" grMinSy="0.66" grMaxSx="1" grMaxSy="1" grSwayDistr="3" grSwayLen="0.3" grSwaySpeed="0.4" grDensSmooth="6" grTerMaxAngle="30" trPage="200" trDist="200" trDistImp="800" trRdDist="2">
+		<layer on="1" name="tree.07.mesh" dens="0.0499994" minScale="2.44959" maxScale="3.14995" ofsY="0" addTrRdDist="6" windFx="0.299995" windFy="0.00399929" maxTerAng="23.9279" minTerH="-100" />
+		<layer on="1" name="tree.07.mesh" dens="0.110136" minScale="0.849972" maxScale="1.15" ofsY="0" addTrRdDist="2" windFx="0.699996" windFy="0.00999694" maxTerAng="33.1759" minTerH="-100" />
+		<layer on="1" name="tree.09.mesh" dens="0.026829" minScale="0.849972" maxScale="1.15" ofsY="0" addTrRdDist="3" windFx="0.599985" windFy="0.00999726" maxTerAng="31.0168" minTerH="-100" />
+		<layer on="1" name="farn1.mesh" dens="0.34" minScale="0.0999971" maxScale="0.249999" ofsY="0" addTrRdDist="2" windFx="7.29999" windFy="0.0599962" maxTerAng="37.4526" minTerH="-100" />
+		<layer on="1" name="farn2.mesh" dens="0.34" minScale="0.0999983" maxScale="0.249999" ofsY="0" addTrRdDist="1" windFx="7.29999" windFy="0.0599973" maxTerAng="38.4964" minTerH="-100" />
+		<layer on="1" name="rock.05.mesh" dens="0.0305407" minScale="0.0299976" maxScale="0.109999" ofsY="0" addTrRdDist="3" windFx="0" windFy="0" maxTerAng="32.4482" minTerH="-100" />
+		<layer on="1" name="rock.07.mesh" dens="0.0320951" minScale="0.0299971" maxScale="0.109999" ofsY="0" addTrRdDist="2" windFx="0" windFy="0" maxTerAng="34.4069" minTerH="-100" />
+		<layer on="0" name="" dens="0.0999996" minScale="0.0999971" maxScale="0.249999" ofsY="0" addTrRdDist="0" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" />
+		<layer on="0" name="" dens="0.0999996" minScale="0.0999983" maxScale="0.249999" ofsY="0" addTrRdDist="0" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" />
+		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" />
+	</paged>
+	<cam pos="69.327 25.008 -55.1199" dir="-0.0632474 -0.218412 0.973811" />
+</scene>
