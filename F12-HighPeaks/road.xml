@@ -3,7 +3,7 @@
 	<dim tcMul="0.12" lenDim="1" widthSteps="6" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="600" lodPntLen="20" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 7.79601 14.408" iDir="1" iChk1="160" />
-	<stats length="6752.37" width="7.79304" height="283.186" onTer="66.1496" pipes="0" yaw="0" pitch="0" roll="0" />
+	<stats length="6752.37" width="7.79297" height="283.186" onTer="66.1459" pipes="0" yaw="0" pitch="0" roll="0" />
 	<txt desc="Long, winding track in high mountains. Mostly bridged, going from bottom until snowy mountain peaks." />
 	<P pos="174.04 25.0168 -303.81" w="8.144" onTer="0" a="0" ar="0" aT="2" />
 	<P pos="137.814 18.4986 -257.13" w="8.144" onTer="0" a="0" ar="0" aT="2" col="0" />
@@ -121,7 +121,7 @@
 	<P pos="-334.466 46.2445 -162.172" w="8.144" onTer="0" a="0" ar="0.48" aT="2" />
 	<P pos="-330.268 48.4422 -170.822" w="8.144" onTer="0" a="0" ar="0" aT="2" col="0" />
 	<P pos="-332.506 50.5532 -182.531" w="8.144" onTer="0" a="0" ar="0" aT="2" col="0" />
-	<P pos="-335.516 54.9363 -190.261" w="8.144" onTer="0" a="0" ar="0" aT="2" col="0" mtr="1" />
+	<P pos="-336.969 54.9363 -195.316" w="8.144" onTer="0" a="0" ar="0" aT="2" col="0" mtr="1" />
 	<P pos="-348.168 62.5048 -209.154" w="8.144" onTer="0" a="0" ar="-7.98" aT="2" col="0" mtr="1" chkR="1.788" />
 	<P pos="-366.272 67.1469 -214.502" w="8.144" onTer="0" a="0" ar="-8.46" aT="2" col="0" mtr="1" />
 	<P pos="-376.897 68.9238 -205.275" w="8.144" onTer="0" a="0" ar="-3.78" aT="2" col="0" mtr="1" />
