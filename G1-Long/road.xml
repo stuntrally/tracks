@@ -1,9 +1,9 @@
 <SplineRoad>
 	<mtr road="roadGDesert" pipe="pipeAsphalt" pipe2="pipeGlass" />
-	<dim tcMul="0.25" lenDim="2" widthSteps="6" heightOfs="0.06" />
-	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="800" lodPntLen="120" />
+	<dim tcMul="0.16" lenDim="2.6" widthSteps="4" heightOfs="0.06" />
+	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="600" lodPntLen="100" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5 11.848" iDir="1" iChk1="99" />
-	<stats length="13844.3" width="9.07999" height="238.093" onTer="0" pipes="0" yaw="0" pitch="0" roll="0" />
+	<stats length="13844.3" width="9.07999" height="238.09" onTer="0" pipes="0" yaw="0" pitch="0" roll="0" />
 	<txt desc="Long, fast and partly winding track in Greece like scenery." />
 	<P pos="1021.21 0 431.85" w="9.08" chkR="2.052" />
 	<P pos="987.234 0 311.74" w="9.08" />
