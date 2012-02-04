@@ -18,7 +18,7 @@
 		<texture road="1" dust="0" dustS="0.2" mud="0" smoke="0" tclr="0.4 0.4 0.2 1" />
 		<par dust="Dust" mud="Mud" smoke="Smoke" />
 	</terrain>
-	<paged densGrass="0.2" densTrees="0.04" grPage="60" grDist="60" grMinSx="0.66" grMinSy="0.66" grMaxSx="1" grMaxSy="1" grSwayDistr="3" grSwayLen="0.3" grSwaySpeed="0.4" grDensSmooth="6" grTerMaxAngle="30" trPage="200" trDist="200" trDistImp="800" trRdDist="2">
+	<paged densGrass="0.2" densTrees="0.04" grMtr="grassSavanna" grClr="grClrSmall.png" grPage="60" grDist="60" grMinSx="0.66" grMinSy="0.66" grMaxSx="1" grMaxSy="1" grSwayDistr="3" grSwayLen="0.3" grSwaySpeed="0.4" grDensSmooth="6" grTerMaxAngle="30" trPage="200" trDist="200" trDistImp="800" trRdDist="2">
 		<layer on="1" name="tree.07.mesh" dens="0.125" minScale="0.849972" maxScale="1.15" ofsY="0" addTrRdDist="4" windFx="0.699996" windFy="0.00999885" maxTerAng="50" minTerH="-14" />
 		<layer on="1" name="tree.09.mesh" dens="0.125" minScale="0.849986" maxScale="1.15" ofsY="0" addTrRdDist="4" windFx="0.599994" windFy="0.00999853" maxTerAng="50" minTerH="-14" />
 		<layer on="1" name="farn1.mesh" dens="0.34" minScale="0.0999971" maxScale="0.249999" ofsY="0" addTrRdDist="1" windFx="7.29999" windFy="0.0599983" maxTerAng="50" minTerH="-13" />
