@@ -17,7 +17,7 @@
 		<texture road="1" dust="0" dustS="1" mud="0" smoke="0" tclr="0.3 0.3 0.3 0.5" />
 		<par dust="Dust" mud="Mud" smoke="Smoke" />
 	</terrain>
-	<paged densGrass="0" densTrees="1.8" grPage="80" grDist="80" grMinSx="0.7" grMinSy="0.7" grMaxSx="1.05" grMaxSy="1.2" grSwayDistr="4" grSwayLen="0.2" grSwaySpeed="0.5" grDensSmooth="1" grTerMaxAngle="60" trPage="200" trDist="200" trDistImp="800" trRdDist="0">
+	<paged densGrass="0" densTrees="1.8" grMtr="grassJungle" grClr="grClrSavanna.png" grPage="80" grDist="80" grMinSx="0.7" grMinSy="0.7" grMaxSx="1.05" grMaxSy="1.2" grSwayDistr="4" grSwayLen="0.2" grSwaySpeed="0.5" grDensSmooth="1" grTerMaxAngle="60" trPage="200" trDist="200" trDistImp="800" trRdDist="0">
 		<layer on="1" name="fir06.mesh" dens="0.368389" minScale="0.0399916" maxScale="0.11999" ofsY="0" addTrRdDist="0" windFx="1.79999" windFy="0.0999659" maxTerAng="50" minTerH="-200" maxTerH="60" />
 		<layer on="1" name="fir05.mesh" dens="0.392648" minScale="0.0473692" maxScale="0.13811" ofsY="0" addTrRdDist="0" windFx="1.61091" windFy="0.0799488" maxTerAng="50" minTerH="-200" maxTerH="60" />
 		<layer on="1" name="fir05w.mesh" dens="0.607827" minScale="0.0505644" maxScale="0.13811" ofsY="0" addTrRdDist="0" windFx="1.14779" windFy="0.0469222" maxTerAng="50" minTerH="50" maxTerH="90" />

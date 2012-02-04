@@ -12,7 +12,7 @@
 		<texture road="1" dust="0" dustS="1" mud="0" smoke="0" tclr="0.36 0.36 0.36 0.7" />
 		<par dust="Dust" mud="Mud" smoke="Smoke" />
 	</terrain>
-	<paged densGrass="0.1" densTrees="0.2" grPage="90" grDist="90" grMinSx="0.7" grMinSy="0.7" grMaxSx="1.05" grMaxSy="1.2" grSwayDistr="4" grSwayLen="0.2" grSwaySpeed="0.5" trPage="200" trDist="210" trDistImp="800" trRdDist="0">
+	<paged densGrass="0.1" densTrees="0.2" grMtr="grassJungle" grClr="grClrSavanna.png" grPage="90" grDist="90" grMinSx="0.7" grMinSy="0.7" grMaxSx="1.05" grMaxSy="1.2" grSwayDistr="4" grSwayLen="0.2" grSwaySpeed="0.5" trPage="200" trDist="210" trDistImp="800" trRdDist="0">
 		<layer on="1" name="tree.07.mesh" dens="0.0499994" minScale="2.45" maxScale="3.14998" ofsY="0" addTrRdDist="5" windFx="0.299997" windFy="0.00399982" />
 		<layer on="1" name="tree.07.mesh" dens="0.125" minScale="0.85" maxScale="1.15" ofsY="0" addTrRdDist="1" windFx="0.7" windFy="0.01" />
 		<layer on="1" name="tree.09.mesh" dens="0.125" minScale="0.85" maxScale="1.15" ofsY="0" addTrRdDist="1" windFx="0.6" windFy="0.01" />

@@ -15,7 +15,7 @@
 		<texture road="1" dust="0" dustS="0.2" mud="0.2" smoke="0" tclr="0.3 0.32 0.46 0.8" />
 		<par dust="Dust" mud="Mud" smoke="Smoke" />
 	</terrain>
-	<paged densGrass="0.03" densTrees="0.4" grPage="100" grDist="100" grMinSx="1.7" grMinSy="1.7" grMaxSx="3.2" grMaxSy="3.2" grSwayDistr="4" grSwayLen="0.2" grSwaySpeed="0.5" grDensSmooth="2" grTerMaxAngle="50" trPage="200" trDist="200" trDistImp="800" trRdDist="6">
+	<paged densGrass="0.03" densTrees="0.4" grMtr="grassUnidentified" grClr="grClrUnidentified.png" grPage="100" grDist="100" grMinSx="1.7" grMinSy="1.7" grMaxSx="3.2" grMaxSy="3.2" grSwayDistr="4" grSwayLen="0.2" grSwaySpeed="0.5" grDensSmooth="2" grTerMaxAngle="50" trPage="200" trDist="200" trDistImp="800" trRdDist="6">
 		<layer on="0" name="tree.07.mesh" dens="0.0499994" minScale="5.52963" maxScale="6" ofsY="0" addTrRdDist="6" windFx="0.299995" windFy="0.00399704" maxTerAng="50" minTerH="-6" />
 		<layer on="1" name="gum_tree.mesh" dens="0.124998" minScale="5.19345" maxScale="6" ofsY="0" addTrRdDist="2" windFx="0.699996" windFy="0.00999503" maxTerAng="50" minTerH="-6" />
 		<layer on="1" name="gum_tree.mesh" dens="0.0572335" minScale="0.180414" maxScale="0.296311" ofsY="0" addTrRdDist="2" windFx="0.599985" windFy="0.00999535" maxTerAng="50" minTerH="-5" />

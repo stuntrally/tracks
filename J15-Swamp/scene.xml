@@ -15,7 +15,7 @@
 		<texture road="1" dust="0" dustS="0.2" mud="0" smoke="0" tclr="0.4 0.4 0.2 1" />
 		<par dust="Dust" mud="Mud" smoke="Smoke" />
 	</terrain>
-	<paged densGrass="0.25" densTrees="0.5" grPage="80" grDist="80" grMinSx="0.66" grMinSy="0.66" grMaxSx="1" grMaxSy="1" grSwayDistr="3" grSwayLen="0.3" grSwaySpeed="0.4" grDensSmooth="6" grTerMaxAngle="30" trPage="200" trDist="200" trDistImp="800" trRdDist="2">
+	<paged densGrass="0.25" densTrees="0.5" grMtr="grassJungle" grClr="grClrSavanna.png" grPage="80" grDist="80" grMinSx="0.66" grMinSy="0.66" grMaxSx="1" grMaxSy="1" grSwayDistr="3" grSwayLen="0.3" grSwaySpeed="0.4" grDensSmooth="6" grTerMaxAngle="30" trPage="200" trDist="200" trDistImp="800" trRdDist="2">
 		<layer on="1" name="tree.07.mesh" dens="0.0499994" minScale="2.44959" maxScale="3.14995" ofsY="0" addTrRdDist="6" windFx="0.299995" windFy="0.00399929" maxTerAng="23.9279" minTerH="-100" />
 		<layer on="1" name="tree.07.mesh" dens="0.110136" minScale="0.849972" maxScale="1.15" ofsY="0" addTrRdDist="2" windFx="0.699996" windFy="0.00999694" maxTerAng="33.1759" minTerH="-100" />
 		<layer on="1" name="tree.09.mesh" dens="0.026829" minScale="0.849972" maxScale="1.15" ofsY="0" addTrRdDist="3" windFx="0.599985" windFy="0.00999726" maxTerAng="31.0168" minTerH="-100" />

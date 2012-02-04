@@ -13,7 +13,7 @@
 		<texture road="1" dust="0" dustS="0.3" mud="0" smoke="0" tclr="0.7 0.66 0.36 0.7" />
 		<par dust="Dust" mud="Mud" smoke="Smoke" />
 	</terrain>
-	<paged densGrass="0.001" densTrees="0.6" grPage="100" grDist="100" grMinSx="1" grMinSy="1" grMaxSx="1.25" grMaxSy="1.3" grSwayDistr="4" grSwayLen="0.2" grSwaySpeed="0.5" grDensSmooth="3" grTerMaxAngle="30" trPage="200" trDist="200" trDistImp="1200" trRdDist="1">
+	<paged densGrass="0.001" densTrees="0.6" grMtr="grassDesert" grClr="grClrDesert.png" grPage="100" grDist="100" grMinSx="1" grMinSy="1" grMaxSx="1.25" grMaxSy="1.3" grSwayDistr="4" grSwayLen="0.2" grSwaySpeed="0.5" grDensSmooth="3" grTerMaxAngle="30" trPage="200" trDist="200" trDistImp="1200" trRdDist="1">
 		<layer on="1" name="palm2.mesh" dens="0.0568481" minScale="2.34226" maxScale="3.75777" ofsY="0" addTrRdDist="3" windFx="0.295761" windFy="0.114725" maxTerAng="30.0341" minTerH="-10" maxTerH="10" />
 		<layer on="1" name="tree.07.mesh" dens="0.00985312" minScale="0.849986" maxScale="1.15" ofsY="0" addTrRdDist="4" windFx="0.699996" windFy="0.00999535" maxTerAng="15.7209" minTerH="-10" maxTerH="10" />
 		<layer on="1" name="palm.mesh" dens="0.0249996" minScale="1.78362" maxScale="2.74173" ofsY="0" addTrRdDist="3" windFx="0.599985" windFy="0.00999407" maxTerAng="15.069" minTerH="-10" maxTerH="10" />

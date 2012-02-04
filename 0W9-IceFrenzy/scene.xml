@@ -15,7 +15,7 @@
 		<texture road="1" dust="0.3" dustS="0.6" mud="0.2" smoke="0" tclr="0.6 0.6 0.6 0.5" />
 		<par dust="SnowDust" mud="SnowMud" smoke="Smoke" />
 	</terrain>
-	<paged densGrass="0" densTrees="0.4" grPage="100" grDist="100" grMinSx="0.7" grMinSy="0.7" grMaxSx="1.05" grMaxSy="1.2" grSwayDistr="4" grSwayLen="0.2" grSwaySpeed="0.5" grDensSmooth="6" grTerMaxAngle="30" trPage="200" trDist="200" trDistImp="800" trRdDist="1">
+	<paged densGrass="0" densTrees="0.4" grMtr="grassWinter" grClr="grClrWinter.png" grPage="100" grDist="100" grMinSx="0.7" grMinSy="0.7" grMaxSx="1.05" grMaxSy="1.2" grSwayDistr="4" grSwayLen="0.2" grSwaySpeed="0.5" grDensSmooth="6" grTerMaxAngle="30" trPage="200" trDist="200" trDistImp="800" trRdDist="1">
 		<layer on="1" name="fir05w.mesh" dens="0.249998" minScale="0.0399948" maxScale="0.0999971" ofsY="0" addTrRdDist="2" windFx="2.79997" windFy="0.0999881" maxTerAng="50" minTerH="-100" />
 		<layer on="1" name="fir06w.mesh" dens="0.449999" minScale="0.039996" maxScale="0.119999" ofsY="0" addTrRdDist="2" windFx="1.8" windFy="0.0999999" maxTerAng="50" minTerH="-100" />
 		<layer on="0" name="fir14w.mesh" dens="0.25" minScale="0.0599979" maxScale="0.0899976" ofsY="0" addTrRdDist="4" windFx="1.8" windFy="0.0999999" maxTerAng="50" minTerH="-100" />

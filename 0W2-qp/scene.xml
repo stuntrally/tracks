@@ -12,7 +12,7 @@
 		<texture road="1" dust="0.9" dustS="0.6" mud="0.2" smoke="0" tclr="0.6 0.6 0.6 0.5" />
 		<par dust="SnowDust" mud="SnowMud" smoke="Smoke" />
 	</terrain>
-	<paged densGrass="0" densTrees="0.4" grPage="60" grDist="60" grMinSx="0.7" grMinSy="0.7" grMaxSx="1.05" grMaxSy="1.2" grSwayDistr="4" grSwayLen="0.2" grSwaySpeed="0.5" trPage="100" trDist="110" trDistImp="800" trRdDist="1">
+	<paged densGrass="0" densTrees="0.4" grMtr="grassWinter" grClr="grClrWinter.png" grPage="60" grDist="60" grMinSx="0.7" grMinSy="0.7" grMaxSx="1.05" grMaxSy="1.2" grSwayDistr="4" grSwayLen="0.2" grSwaySpeed="0.5" trPage="100" trDist="110" trDistImp="800" trRdDist="1">
 		<layer on="1" name="fir05w.mesh" dens="0.15" minScale="0.0399994" maxScale="0.0899993" ofsY="0" addTrRdDist="2" windFx="2.79999" windFy="0.0999998" />
 		<layer on="1" name="fir06w.mesh" dens="0.45" minScale="0.04" maxScale="0.11" ofsY="0" addTrRdDist="2" windFx="1.8" windFy="0.1" />
 		<layer on="1" name="fir14w.mesh" dens="0.15" minScale="0.06" maxScale="0.09" ofsY="0" addTrRdDist="4" windFx="1.8" windFy="0.1" />
