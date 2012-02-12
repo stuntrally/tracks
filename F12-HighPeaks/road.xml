@@ -3,7 +3,7 @@
 	<dim tcMul="0.12" lenDim="1" widthSteps="6" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="600" lodPntLen="20" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 7.79601 14.408" iDir="1" iChk1="160" />
-	<stats length="6752.37" width="7.79297" height="283.186" onTer="66.1459" pipes="0" yaw="0" pitch="0" roll="0" />
+	<stats length="6752.52" width="7.79297" height="283.186" onTer="66.1462" pipes="0" yaw="0" pitch="0" roll="0" />
 	<txt desc="Long, winding track in high mountains. Mostly bridged, going from bottom until snowy mountain peaks." />
 	<P pos="174.04 25.0168 -303.81" w="8.144" onTer="0" a="0" ar="0" aT="2" />
 	<P pos="137.814 18.4986 -257.13" w="8.144" onTer="0" a="0" ar="0" aT="2" col="0" />
@@ -164,7 +164,7 @@
 	<P pos="-27.9571 0 74.0241" w="8.144" chkR="2.032" />
 	<P pos="1.83045 0 84.4397" w="8.144" />
 	<P pos="38.4985 0 102.692" w="8.144" />
-	<P pos="72.179 0 120.488" w="8.144" />
+	<P pos="72.586 0 120.089" w="8.144" />
 	<P pos="92.5052 0 138.11" w="8.144" chkR="1.792" />
 	<P pos="107.451 0 165.332" w="8.144" />
 	<P pos="95.3677 0 205.936" w="8.144" />
