@@ -27,5 +27,5 @@
 		<layer on="0" name="" dens="0.0999996" minScale="0.0999994" maxScale="0.249999" ofsY="0" addTrRdDist="0" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" />
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" />
 	</paged>
-	<cam pos="-0.737898 11.2779 88.3382" dir="0.112634 -0.317429 -0.941573" />
+	<cam pos="-113.246 23.5191 -15.8829" dir="0.928873 -0.368017 -0.0419333" />
 </scene>
