@@ -1,0 +1,99 @@
+
+[ A ]
+BumpAmplitude = 0.010000
+BumpWaveLength = 30.000000
+FrictionNonTread = 0.730000
+FrictionTread = 0.700000
+ID = 5
+RollResistanceCoefficient = 0.200000
+RollingDrag = 0.400000
+
+[ B ]
+BumpAmplitude = 0.130000
+BumpWaveLength = 14.000000
+FrictionNonTread = 0.720000
+FrictionTread = 0.600000
+ID = 2
+RollResistanceCoefficient = 10.000000
+RollingDrag = 80.199997
+
+[ C ]
+BumpAmplitude = 0.150000
+BumpWaveLength = 16.000000
+FrictionNonTread = 0.720000
+FrictionTread = 0.600000
+ID = 2
+RollResistanceCoefficient = 10.000000
+RollingDrag = 60.200001
+
+[ D ]
+BumpAmplitude = 0.160000
+BumpWaveLength = 20.000000
+FrictionNonTread = 0.700000
+FrictionTread = 0.570000
+ID = 5
+RollResistanceCoefficient = 10.000000
+RollingDrag = 90.199997
+
+[ L_0 ]
+BumpAmplitude = 0.130000
+BumpWaveLength = 14.000000
+FrictionNonTread = 0.720000
+FrictionTread = 0.600000
+ID = 2
+RollResistanceCoefficient = 10.000000
+RollingDrag = 80.199997
+
+[ L_1 ]
+BumpAmplitude = 0.150000
+BumpWaveLength = 16.000000
+FrictionNonTread = 0.720000
+FrictionTread = 0.600000
+ID = 2
+RollResistanceCoefficient = 10.000000
+RollingDrag = 60.200001
+
+[ L_2 ]
+BumpAmplitude = 0.160000
+BumpWaveLength = 20.000000
+FrictionNonTread = 0.700000
+FrictionTread = 0.570000
+ID = 5
+RollResistanceCoefficient = 10.000000
+RollingDrag = 90.199997
+
+[ L_3 ]
+BumpAmplitude = 0.200000
+BumpWaveLength = 11.000000
+FrictionNonTread = 0.500000
+FrictionTread = 0.600000
+ID = 2
+RollResistanceCoefficient = 10.000000
+RollingDrag = 120.400002
+
+[ L_4 ]
+BumpAmplitude = 0.200000
+BumpWaveLength = 10.000000
+FrictionNonTread = 0.500000
+FrictionTread = 0.700000
+ID = 2
+RollResistanceCoefficient = 5.000000
+RollingDrag = 60.000000
+
+[ L_5 ]
+BumpAmplitude = 0.200000
+BumpWaveLength = 10.000000
+FrictionNonTread = 0.500000
+FrictionTread = 0.600000
+ID = 2
+RollResistanceCoefficient = 5.000000
+RollingDrag = 20.000000
+
+[ L_6 ]
+BumpAmplitude = 0.010000
+BumpWaveLength = 30.000000
+FrictionNonTread = 0.730000
+FrictionTread = 0.700000
+ID = 5
+RollResistanceCoefficient = 0.200000
+RollingDrag = 0.400000
