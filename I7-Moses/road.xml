@@ -1,0 +1,22 @@
+<SplineRoad>
+	<mtr road="roadSand" pipe="pipeAsphalt" pipe2="pipeGlassCyan" />
+	<dim tcMul="0.15" lenDim="2" widthSteps="6" heightOfs="0.06" />
+	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
+	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 4.76 13.6004" iDir="-1" iChk1="7" />
+	<stats length="1475.02" width="6.69324" height="20.2891" onTer="4.91833" pipes="0" yaw="0" pitch="0" roll="0" />
+	<txt desc="Track around medium-sized hilly island." />
+	<P pos="-43.9473 0 -96.9178" w="11.192" />
+	<P pos="-9.95135 0 -112.909" w="6" chkR="4.616" />
+	<P pos="90.4444 0 -206.175" w="6" chkR="3.556" />
+	<P pos="203.777 0 -171.089" w="6" chkR="4.444" />
+	<P pos="222.541 0 -29.4328" w="6" chkR="4.664" />
+	<P pos="140.672 0 46.3384" w="6" chkR="3.984" />
+	<P pos="246.187 0 206.009" w="6" chkR="5.132" />
+	<P pos="8.3445 0 169.376" w="6" chkR="3.088" />
+	<P pos="-82.2961 0 129.167" w="6" a="-142.02" ar="10.32" aT="0" chkR="2.988" />
+	<P pos="-111.851 5.28353 105.667" w="6" onTer="0" a="11.76" ar="11.16" aT="2" />
+	<P pos="-129.044 0 76.1099" w="6" a="0" ar="0" aT="2" />
+	<P pos="-162.502 0 7.03577" w="6" />
+	<P pos="-172.621 0 -56.5203" w="6" chkR="4.724" />
+	<P pos="-153.042 0 -94.7755" w="13.448" />
+</SplineRoad>
