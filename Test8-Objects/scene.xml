@@ -4,9 +4,9 @@
 	<light sceneryId="0" pitch="55.0746" yaw="0" ambient="0.45 0.45 0.43" diffuse="0.8 0.8 0.8" specular="0.99 0.99 0.97" />
 	<fluids />
 	<terrain size="513" triangle="1">
-		<texture on="1" file="sand_2.dds" fnorm="sand_2_nh.dds" scale="14.1" dust="0.0" dustS="0.2" mud="0.1" smoke="0" tclr="0.48 0.46 0.08 0.7" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" noise="1" nOnly="1" />
-		<texture on="1" file="desert_2.dds" fnorm="desert_6_nh.dds" scale="8.5" dust="0.0" dustS="0.2" mud="0.1" smoke="0" tclr="0.46 0.46 0.08 0.7" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" noise="1" nOnly="1" />
-		<texture on="1" file="desert_6.dds" fnorm="desert_2_nh.dds" scale="10.4" dust="0.0" dustS="0.2" mud="0.7" smoke="0" tclr="0.42 0.36 0.08 0.8" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" noise="1" nOnly="1" />
+		<texture on="1" file="sand_2.dds" fnorm="sand_2_nh.dds" scale="14.1" dust="0" dustS="0.2" mud="0.1" smoke="0" tclr="0.48 0.46 0.08 0.7" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" noise="1" nOnly="1" />
+		<texture on="1" file="desert_2.dds" fnorm="desert_6_nh.dds" scale="8.5" dust="0" dustS="0.2" mud="0.1" smoke="0" tclr="0.46 0.46 0.08 0.7" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" noise="1" nOnly="1" />
+		<texture on="1" file="desert_6.dds" fnorm="desert_2_nh.dds" scale="10.4" dust="0" dustS="0.2" mud="0.7" smoke="0" tclr="0.42 0.36 0.08 0.8" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" noise="1" nOnly="1" />
 		<texture on="0" file="jungle_0.dds" fnorm="jungle_0_nh.dds" scale="4.5" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" noise="1" nOnly="1" />
 		<texture on="0" file="jungle_0.dds" fnorm="jungle_0_nh.dds" scale="4.5" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" noise="1" nOnly="1" />
 		<texture on="0" file="jungle_0.dds" fnorm="jungle_0_nh.dds" scale="4.5" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" noise="1" nOnly="1" />
@@ -93,5 +93,11 @@
 		<o name="fuel_can" pos="4.48 3.76 -1.02" />
 		<o name="fuel_can" pos="5.5 3.76 -1.02" />
 		<o name="fuel_can" pos="6.52 3.76 -1.02" />
+		<o name="big_tire" pos="0.555749 0.399102 -13.8431" />
+		<o name="big_tire" pos="2.35278 0.414702 -12.6246" />
+		<o name="big_tire" pos="5.44974 0.59264 -8.79408" />
+		<o name="big_tire" pos="3.83746 0.383967 -10.5" />
+		<o name="big_tire" pos="3.83746 1.21796 -10.5" />
+		<o name="big_tire" pos="3.83746 2.018 -10.5" />
 	</objects>
 </scene>
