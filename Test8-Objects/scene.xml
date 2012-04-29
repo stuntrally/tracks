@@ -27,77 +27,80 @@
 	</paged>
 	<cam pos="-3.67662 12.4802 10.9057" dir="0.864938 -0.302237 -0.400667" />
 	<objects>
-		<o name="pers_house_b" pos="20 0 0" rot="0.382683 0 0.92388 0" sc="0.5 0.5 0.5" />
-		<o name="mayan_temple" pos="0 0 30" />
-		<o name="fuel_can" pos="3.46 0.7 2.04" />
-		<o name="fuel_can" pos="4.48 0.7 2.04" />
-		<o name="fuel_can" pos="5.5 0.7 2.04" />
-		<o name="fuel_can" pos="6.52 0.7 2.04" />
-		<o name="fuel_can" pos="3.46 0.7 1.02" />
-		<o name="fuel_can" pos="4.48 0.7 1.02" />
-		<o name="fuel_can" pos="5.5 0.7 1.02" />
-		<o name="fuel_can" pos="6.52 0.7 1.02" />
-		<o name="fuel_can" pos="3.46 0.7 -0" />
-		<o name="fuel_can" pos="4.48 0.7 -0" />
-		<o name="fuel_can" pos="5.5 0.7 -0" />
-		<o name="fuel_can" pos="6.52 0.7 -0" />
-		<o name="fuel_can" pos="3.46 0.7 -1.02" />
-		<o name="fuel_can" pos="4.48 0.7 -1.02" />
-		<o name="fuel_can" pos="5.5 0.7 -1.02" />
-		<o name="fuel_can" pos="6.52 0.7 -1.02" />
-		<o name="fuel_can" pos="3.46 1.72 2.04" />
-		<o name="fuel_can" pos="4.48 1.72 2.04" />
-		<o name="fuel_can" pos="5.5 1.72 2.04" />
-		<o name="fuel_can" pos="6.52 1.72 2.04" />
-		<o name="fuel_can" pos="3.46 1.72 1.02" />
-		<o name="fuel_can" pos="4.48 1.72 1.02" />
-		<o name="fuel_can" pos="5.5 1.72 1.02" />
-		<o name="fuel_can" pos="6.52 1.72 1.02" />
-		<o name="fuel_can" pos="3.46 1.72 -0" />
-		<o name="fuel_can" pos="4.48 1.72 -0" />
-		<o name="fuel_can" pos="5.5 1.72 -0" />
-		<o name="fuel_can" pos="6.52 1.72 -0" />
-		<o name="fuel_can" pos="3.46 1.72 -1.02" />
-		<o name="fuel_can" pos="4.48 1.72 -1.02" />
-		<o name="fuel_can" pos="5.5 1.72 -1.02" />
-		<o name="fuel_can" pos="6.52 1.72 -1.02" />
-		<o name="fuel_can" pos="3.46 2.74 2.04" />
-		<o name="fuel_can" pos="4.48 2.74 2.04" />
-		<o name="fuel_can" pos="5.5 2.74 2.04" />
-		<o name="fuel_can" pos="6.52 2.74 2.04" />
-		<o name="fuel_can" pos="3.46 2.74 1.02" />
-		<o name="fuel_can" pos="4.48 2.74 1.02" />
-		<o name="fuel_can" pos="5.5 2.74 1.02" />
-		<o name="fuel_can" pos="6.52 2.74 1.02" />
-		<o name="fuel_can" pos="3.46 2.74 -0" />
-		<o name="fuel_can" pos="4.48 2.74 -0" />
-		<o name="fuel_can" pos="5.5 2.74 -0" />
-		<o name="fuel_can" pos="6.52 2.74 -0" />
-		<o name="fuel_can" pos="3.46 2.74 -1.02" />
-		<o name="fuel_can" pos="4.48 2.74 -1.02" />
-		<o name="fuel_can" pos="5.5 2.74 -1.02" />
-		<o name="fuel_can" pos="6.52 2.74 -1.02" />
-		<o name="fuel_can" pos="3.46 3.76 2.04" />
-		<o name="fuel_can" pos="4.48 3.76 2.04" />
-		<o name="fuel_can" pos="5.5 3.76 2.04" />
-		<o name="fuel_can" pos="6.52 3.76 2.04" />
-		<o name="fuel_can" pos="3.46 3.76 1.02" />
-		<o name="fuel_can" pos="4.48 3.76 1.02" />
-		<o name="fuel_can" pos="5.5 3.76 1.02" />
-		<o name="fuel_can" pos="6.52 3.76 1.02" />
-		<o name="fuel_can" pos="3.46 3.76 -0" />
-		<o name="fuel_can" pos="4.48 3.76 -0" />
-		<o name="fuel_can" pos="5.5 3.76 -0" />
-		<o name="fuel_can" pos="6.52 3.76 -0" />
-		<o name="fuel_can" pos="3.46 3.76 -1.02" />
-		<o name="fuel_can" pos="4.48 3.76 -1.02" />
-		<o name="fuel_can" pos="5.5 3.76 -1.02" />
-		<o name="fuel_can" pos="6.52 3.76 -1.02" />
-		<o name="big_tire" pos="0.555749 0.399102 -13.8431" />
-		<o name="big_tire" pos="2.35278 0.414702 -12.6246" />
-		<o name="big_tire" pos="5.44974 0.59264 -8.79408" />
-		<o name="big_tire" pos="3.83746 0.383967 -10.5" />
-		<o name="big_tire" pos="3.83746 1.21796 -10.5" />
-		<o name="big_tire" pos="3.83746 2.018 -10.5" />
+		<o name="pers_house_b" pos="19.617 -0.442797 0" rot="0.944382 0.32893 -1.01328e-006 -1.8148e-006" sc="0.5 0.5 0.5" />
+		<o name="pers_house_b" pos="18.6428 15.8131 0.0774253" rot="0.978987 -0.20399 -4.47035e-008 -3.6495e-007" sc="0.639885 0.40001 0.639885" />
+		<o name="mayan_temple" pos="-5.27239 -28.2278 -0.0084681" rot="0 1 0 0" />
+		<o name="fuel_can" pos="3.46 -2.04 0.7" rot="0 1 0 0" />
+		<o name="fuel_can" pos="4.48 -2.04 0.7" rot="0 1 0 0" />
+		<o name="fuel_can" pos="5.5 -2.04 0.7" rot="0 1 0 0" />
+		<o name="fuel_can" pos="6.52 -2.04 0.7" rot="0 1 0 0" />
+		<o name="fuel_can" pos="3.46 -1.02 0.7" rot="0 1 0 0" />
+		<o name="fuel_can" pos="4.48 -1.02 0.7" rot="0 1 0 0" />
+		<o name="fuel_can" pos="5.5 -1.02 0.7" rot="0 1 0 0" />
+		<o name="fuel_can" pos="6.52 -1.02 0.7" rot="0 1 0 0" />
+		<o name="fuel_can" pos="3.46 0 0.7" rot="0 1 0 0" />
+		<o name="fuel_can" pos="4.48 0 0.7" rot="0 1 0 0" />
+		<o name="fuel_can" pos="5.5 0 0.7" rot="0 1 0 0" />
+		<o name="fuel_can" pos="6.52 0 0.7" rot="0 1 0 0" />
+		<o name="fuel_can" pos="3.46 1.02 0.7" rot="0 1 0 0" />
+		<o name="fuel_can" pos="4.48 1.02 0.7" rot="0 1 0 0" />
+		<o name="fuel_can" pos="5.5 1.02 0.7" rot="0 1 0 0" />
+		<o name="fuel_can" pos="6.52 1.02 0.7" rot="0 1 0 0" />
+		<o name="fuel_can" pos="3.46 -2.04 1.72" rot="0 1 0 0" />
+		<o name="fuel_can" pos="4.48 -2.04 1.72" rot="0 1 0 0" />
+		<o name="fuel_can" pos="5.5 -2.04 1.72" rot="0 1 0 0" />
+		<o name="fuel_can" pos="6.52 -2.04 1.72" rot="0 1 0 0" />
+		<o name="fuel_can" pos="3.46 -1.02 1.72" rot="0 1 0 0" />
+		<o name="fuel_can" pos="4.48 -1.02 1.72" rot="0 1 0 0" />
+		<o name="fuel_can" pos="5.5 -1.02 1.72" rot="0 1 0 0" />
+		<o name="fuel_can" pos="6.52 -1.02 1.72" rot="0 1 0 0" />
+		<o name="fuel_can" pos="3.46 0 1.72" rot="0 1 0 0" />
+		<o name="fuel_can" pos="4.48 0 1.72" rot="0 1 0 0" />
+		<o name="fuel_can" pos="5.5 0 1.72" rot="0 1 0 0" />
+		<o name="fuel_can" pos="6.52 0 1.72" rot="0 1 0 0" />
+		<o name="fuel_can" pos="3.46 1.02 1.72" rot="0 1 0 0" />
+		<o name="fuel_can" pos="4.48 1.02 1.72" rot="0 1 0 0" />
+		<o name="fuel_can" pos="5.5 1.02 1.72" rot="0 1 0 0" />
+		<o name="fuel_can" pos="6.52 1.02 1.72" rot="0 1 0 0" />
+		<o name="fuel_can" pos="3.46 -2.04 2.74" rot="0 1 0 0" />
+		<o name="fuel_can" pos="4.48 -2.04 2.74" rot="0 1 0 0" />
+		<o name="fuel_can" pos="5.5 -2.04 2.74" rot="0 1 0 0" />
+		<o name="fuel_can" pos="6.52 -2.04 2.74" rot="0 1 0 0" />
+		<o name="fuel_can" pos="3.46 -1.02 2.74" rot="0 1 0 0" />
+		<o name="fuel_can" pos="4.48 -1.02 2.74" rot="0 1 0 0" />
+		<o name="fuel_can" pos="5.5 -1.02 2.74" rot="0 1 0 0" />
+		<o name="fuel_can" pos="6.52 -1.02 2.74" rot="0 1 0 0" />
+		<o name="fuel_can" pos="3.46 0 2.74" rot="0 1 0 0" />
+		<o name="fuel_can" pos="4.48 0 2.74" rot="0 1 0 0" />
+		<o name="fuel_can" pos="5.5 0 2.74" rot="0 1 0 0" />
+		<o name="fuel_can" pos="6.52 0 2.74" rot="0 1 0 0" />
+		<o name="fuel_can" pos="3.46 1.02 2.74" rot="0 1 0 0" />
+		<o name="fuel_can" pos="4.48 1.02 2.74" rot="0 1 0 0" />
+		<o name="fuel_can" pos="5.5 1.02 2.74" rot="0 1 0 0" />
+		<o name="fuel_can" pos="6.52 1.02 2.74" rot="0 1 0 0" />
+		<o name="fuel_can" pos="3.46 -2.04 3.76" rot="0 1 0 0" />
+		<o name="fuel_can" pos="4.48 -2.04 3.76" rot="0 1 0 0" />
+		<o name="fuel_can" pos="5.5 -2.04 3.76" rot="0 1 0 0" />
+		<o name="fuel_can" pos="6.52 -2.04 3.76" rot="0 1 0 0" />
+		<o name="fuel_can" pos="3.46 -1.02 3.76" rot="0 1 0 0" />
+		<o name="fuel_can" pos="4.48 -1.02 3.76" rot="0 1 0 0" />
+		<o name="fuel_can" pos="5.5 -1.02 3.76" rot="0 1 0 0" />
+		<o name="fuel_can" pos="6.52 -1.02 3.76" rot="0 1 0 0" />
+		<o name="fuel_can" pos="3.46 0 3.76" rot="0 1 0 0" />
+		<o name="fuel_can" pos="4.48 0 3.76" rot="0 1 0 0" />
+		<o name="fuel_can" pos="5.5 0 3.76" rot="0 1 0 0" />
+		<o name="fuel_can" pos="6.52 0 3.76" rot="0 1 0 0" />
+		<o name="fuel_can" pos="3.46 1.02 3.76" rot="0 1 0 0" />
+		<o name="fuel_can" pos="4.48 1.02 3.76" rot="0 1 0 0" />
+		<o name="fuel_can" pos="5.5 1.02 3.76" rot="0 1 0 0" />
+		<o name="fuel_can" pos="6.52 1.02 3.76" rot="0 1 0 0" />
+		<o name="big_tire" pos="0.0733221 -3.46726 1.63984" rot="-3.83185e-007 -0.538269 1.43278e-006 -0.842803" />
+		<o name="big_tire" pos="5.1798 8.71192 1.1914" rot="0 1 0 0" />
+		<o name="big_tire" pos="5.44974 8.79408 0.390452" rot="0 1 0 0" />
+		<o name="big_tire" pos="3.83746 10.5 0.505226" rot="0 1 0 0" />
+		<o name="big_tire" pos="3.83746 10.5 1.28606" rot="0 1 0 0" />
+		<o name="big_tire" pos="3.83746 10.5 2.08796" rot="0 1 0 0" />
+		<o name="big_tire" pos="3.24058 3.84927 1.30877" rot="0.00383729 0.678673 0.00415415 -0.734444" />
+		<o name="big_tire" pos="-1.05791 -0.230134 1.56493" rot="0.271532 0.659119 -0.266276 0.648847" />
 	</objects>
 </scene>
