@@ -1,0 +1,144 @@
+[auto01.tga.png]
+	parent = 0vdrAlpha
+	diffuseMap_512 = auto01.tga.png
+[gjerde02.bmp.png]
+	parent = 0vdrAlpha
+	diffuseMap_512 = gjerde02.bmp.png
+[busk01.bmp.png]
+	parent = 0vdrAlpha
+	diffuseMap_512 = busk01.bmp.png
+[statoil10.tga.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = statoil10.tga.png
+[narvesen05.tga.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = narvesen05.tga.png
+[narvesen04.tga.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = narvesen04.tga.png
+[tak01.tga.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = tak01.tga.png
+[statoil07.tga.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = statoil07.tga.png
+[metall03.tga.png]
+	parent = 0vdrAlpha
+	diffuseMap_512 = metall03.tga.png
+[mur03.tga.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = mur03.tga.png
+[vegger01.tga.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = vegger01.tga.png
+[vindu01.tga.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = vindu01.tga.png
+[ferge01.bmp.png]
+	parent = 0vdrAlpha
+	diffuseMap_512 = ferge01.bmp.png
+[ferge02.bmp.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = ferge02.bmp.png
+[gjerde01.bmp.png]
+	parent = 0vdrAlpha
+	diffuseMap_512 = gjerde01.bmp.png
+[grass01.jpg.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = grass01.jpg.png
+[vann01.tga.png]
+	parent = 0vdrAlpha
+	diffuseMap_512 = vann01.tga.png
+[stein03.jpg.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = stein03.jpg.png
+[asfalt01.jpg.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = asfalt01.jpg.png
+[narvesen02.tga.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = narvesen02.tga.png
+[narvesen01.tga.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = narvesen01.tga.png
+[tak02.tga.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = tak02.tga.png
+[narvesen03.tga.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = narvesen03.tga.png
+[politi01.tga.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = politi01.tga.png
+[politi02.tga.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = politi02.tga.png
+[post04.tga.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = post04.tga.png
+[post06.tga.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = post06.tga.png
+[post05.tga.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = post05.tga.png
+[post02.bmp.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = post02.bmp.png
+[post03.bmp.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = post03.bmp.png
+[stein02.jpg.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = stein02.jpg.png
+[stein01.jpg.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = stein01.jpg.png
+[statoil02.tga.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = statoil02.tga.png
+[statoil03.tga.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = statoil03.tga.png
+[statoil04.tga.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = statoil04.tga.png
+[statoil01.tga.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = statoil01.tga.png
+[mur02.tga.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = mur02.tga.png
+[statoil06.tga.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = statoil06.tga.png
+[statoil05.tga.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = statoil05.tga.png
+[statoil09.tga.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = statoil09.tga.png
+[statoil08.tga.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = statoil08.tga.png
+[grass02.jpg.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = grass02.jpg.png
+[grass03.jpg.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = grass03.jpg.png
+[tre10.bmp.png]
+	parent = 0vdrAlpha
+	diffuseMap_512 = tre10.bmp.png
+[tre06.bmp.png]
+	parent = 0vdrAlpha
+	diffuseMap_512 = tre06.bmp.png
+[road07.jpg.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = road07.jpg.png
+[road06.jpg.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = road06.jpg.png
+[road02.jpg.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = road02.jpg.png
