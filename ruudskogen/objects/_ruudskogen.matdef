@@ -1,5 +1,5 @@
 [tre06.bmp.png]
-	parent = 0vdrAlpha
+	parent = 0vdrAlpha2
 	diffuseMap_512 = tre06.bmp.png
 [Tre10.bmp.png]
 	parent = 0vdrAlpha
