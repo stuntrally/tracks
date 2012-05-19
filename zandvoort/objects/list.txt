@@ -194,54 +194,6 @@ twall.bmp.png
 1.0
 0.0
 
-#entry 12
-board01.dof-00.joe
-logocam.bmp.png
-1
-0
-0
-0
-2.0
-0
-0
-0
-1.0
-0.9
-1.0
-0.0
-
-#entry 13
-board02.dof-00.joe
-logomar.bmp.png
-1
-0
-0
-0
-2.0
-0
-0
-0
-1.0
-0.9
-1.0
-0.0
-
-#entry 14
-board03.dof-00.joe
-logocam.bmp.png
-1
-0
-0
-0
-2.0
-0
-0
-0
-1.0
-0.9
-1.0
-0.0
-
 #entry 15
 board04.dof-00.joe
 fnceb.bmp.png
@@ -269,38 +221,6 @@ fnceb.bmp.png
 0
 0
 1
-1.0
-0.9
-1.0
-0.0
-
-#entry 17
-board06.dof-00.joe
-logomar.bmp.png
-1
-0
-0
-0
-2.0
-0
-0
-0
-1.0
-0.9
-1.0
-0.0
-
-#entry 18
-board07.dof-00.joe
-logocam.bmp.png
-1
-0
-0
-0
-2.0
-0
-0
-0
 1.0
 0.9
 1.0
@@ -338,42 +258,10 @@ fnceb.bmp.png
 1.0
 0.0
 
-#entry 21
-board10.dof-00.joe
-logocam.bmp.png
-1
-0
-0
-0
-2.0
-0
-0
-0
-1.0
-0.9
-1.0
-0.0
-
 #entry 22
 board11.dof-00.joe
 tsd.bmp.png
 0
-0
-0
-0
-2.0
-0
-0
-0
-1.0
-0.9
-1.0
-0.0
-
-#entry 23
-board11.dof-01.joe
-billb01.bmp.png
-1
 0
 0
 0
@@ -405,22 +293,6 @@ fnceb.bmp.png
 #entry 25
 board13.dof-00.joe
 windtw.bmp.png
-1
-0
-0
-0
-2.0
-0
-0
-0
-1.0
-0.9
-1.0
-0.0
-
-#entry 26
-board14.dof-00.joe
-billb01.bmp.png
 1
 0
 0
@@ -477,22 +349,6 @@ fnceb.bmp.png
 0
 0
 1
-1.0
-0.9
-1.0
-0.0
-
-#entry 30
-board18.dof-00.joe
-renault.bmp.png
-1
-0
-0
-0
-2.0
-0
-0
-0
 1.0
 0.9
 1.0
@@ -2226,22 +2082,6 @@ fncei.bmp.png
 1.0
 0.0
 
-#entry 139
-gate01.dof-01.joe
-renault.bmp.png
-1
-0
-0
-0
-2.0
-0
-0
-0
-1.0
-0.9
-1.0
-0.0
-
 #entry 140
 gate01.dof-02.joe
 megane.bmp.png
@@ -2325,22 +2165,6 @@ winda.bmp.png
 #entry 145
 grand1.dof-00.joe
 grstand.bmp.png
-1
-0
-0
-0
-2.0
-0
-0
-0
-1.0
-0.9
-1.0
-0.0
-
-#entry 146
-grand1.dof-01.joe
-logocam.bmp.png
 1
 0
 0
