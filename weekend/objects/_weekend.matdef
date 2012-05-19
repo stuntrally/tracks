@@ -23,7 +23,7 @@
 	parent = 0vdrTrk
 	diffuseMap_512 = statoil07.tga.png
 [metall03.tga.png]
-	parent = 0vdrAlpha
+	parent = 0vdrRoad
 	diffuseMap_512 = metall03.tga.png
 [mur03.tga.png]
 	parent = 0vdrTrk
@@ -53,7 +53,7 @@
 	parent = 0vdrTrk
 	diffuseMap_512 = stein03.jpg.png
 [asfalt01.jpg.png]
-	parent = 0vdrTrk
+	parent = 0vdrRoad
 	diffuseMap_512 = asfalt01.jpg.png
 [narvesen02.tga.png]
 	parent = 0vdrTrk
@@ -134,11 +134,11 @@
 	parent = 0vdrAlpha
 	diffuseMap_512 = tre06.bmp.png
 [road07.jpg.png]
-	parent = 0vdrTrk
+	parent = 0vdrRoad
 	diffuseMap_512 = road07.jpg.png
 [road06.jpg.png]
-	parent = 0vdrTrk
+	parent = 0vdrRoad
 	diffuseMap_512 = road06.jpg.png
 [road02.jpg.png]
-	parent = 0vdrTrk
+	parent = 0vdrRoad
 	diffuseMap_512 = road02.jpg.png

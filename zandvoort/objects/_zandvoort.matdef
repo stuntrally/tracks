@@ -56,10 +56,10 @@
 	parent = 0vdrAlpha
 	diffuseMap_512 = bush01.bmp.png
 [conea.bmp.png]
-	parent = 0vdrTrk
+	parent = 0vdrRoad
 	diffuseMap_512 = conea.bmp.png
 [rd1aa.bmp.png]
-	parent = 0vdrTrk
+	parent = 0vdrRoad
 	diffuseMap_512 = rd1aa.bmp.png
 [dirtb.bmp.png]
 	parent = 0vdrTrk
@@ -71,7 +71,7 @@
 	parent = 0vdrTrk
 	diffuseMap_512 = dirta.bmp.png
 [rd1ae.bmp.png]
-	parent = 0vdrTrk
+	parent = 0vdrRoad
 	diffuseMap_512 = rd1ae.bmp.png
 [rs1ac.bmp.png]
 	parent = 0vdrTrk
@@ -110,7 +110,7 @@
 	parent = 0vdrTrk
 	diffuseMap_512 = grstand.bmp.png
 [conca.bmp.png]
-	parent = 0vdrTrk
+	parent = 0vdrRoad
 	diffuseMap_512 = conca.bmp.png
 [gspe.bmp.png]
 	parent = 0vdrAlpha
@@ -128,10 +128,10 @@
 	parent = 0vdrTrk
 	diffuseMap_512 = lake01.bmp.png
 [rd1ag.bmp.png]
-	parent = 0vdrTrk
+	parent = 0vdrRoad
 	diffuseMap_512 = rd1ag.bmp.png
 [rd1af.bmp.png]
-	parent = 0vdrTrk
+	parent = 0vdrRoad
 	diffuseMap_512 = rd1af.bmp.png
 [grasc.bmp.png]
 	parent = 0vdrAlpha
@@ -152,7 +152,7 @@
 	parent = 0vdrAlpha
 	diffuseMap_512 = treesc.bmp.png
 [rd1ad.bmp.png]
-	parent = 0vdrTrk
+	parent = 0vdrRoad
 	diffuseMap_512 = rd1ad.bmp.png
 [mbox.bmp.png]
 	parent = 0vdrTrk
@@ -203,10 +203,10 @@
 	parent = 0vdrTrk
 	diffuseMap_512 = trailers.bmp.png
 [rd1ac.bmp.png]
-	parent = 0vdrTrk
+	parent = 0vdrRoad
 	diffuseMap_512 = rd1ac.bmp.png
 [rd1ab.bmp.png]
-	parent = 0vdrTrk
+	parent = 0vdrRoad
 	diffuseMap_512 = rd1ab.bmp.png
 [trucka02.bmp.png]
 	parent = 0vdrTrk
