@@ -1,0 +1,66 @@
+[tre06.bmp.png]
+	parent = 0vdrAlpha
+	diffuseMap_512 = tre06.bmp.png
+[Tre10.bmp.png]
+	parent = 0vdrAlpha
+	diffuseMap_512 = Tre10.bmp.png
+[tre02.bmp.png]
+	parent = 0vdrAlpha
+	diffuseMap_512 = tre02.bmp.png
+[grass02.jpg.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = grass02.jpg.png
+[road01.jpg.png]
+	parent = 0vdrRoad
+	diffuseMap_512 = road01.jpg.png
+[skilt01.jpg.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = skilt01.jpg.png
+[sand01.jpg.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = sand01.jpg.png
+[road02.jpg.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = road02.jpg.png
+[road03.jpg.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = road03.jpg.png
+[grass01.jpg.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = grass01.jpg.png
+[busk01.bmp.png]
+	parent = 0vdrAlpha
+	diffuseMap_512 = busk01.bmp.png
+[grid01.tga.png]
+	parent = 0vdrAlpha
+	diffuseMap_512 = grid01.tga.png
+[grid02.tga.png]
+	parent = 0vdrAlpha
+	diffuseMap_512 = grid02.tga.png
+[kollisjon02.dof-00.png]
+	parent = 0vdrAlpha
+	diffuseMap_512 = kollisjon02.dof-00.png
+[hytte01.bmp.png]
+	parent = 0vdrAlpha
+	diffuseMap_512 = hytte01.bmp.png
+[lave01.bmp.png]
+	parent = 0vdrAlpha
+	diffuseMap_512 = lave01.bmp.png
+[lave02.bmp.png]
+	parent = 0vdrAlpha
+	diffuseMap_512 = lave02.bmp.png
+[hus02.tga.png]
+	parent = 0vdrAlpha
+	diffuseMap_512 = hus02.tga.png
+[gjerde01.tga.png]
+	parent = 0vdrAlpha
+	diffuseMap_512 = gjerde01.tga.png
+[auto01.tga.png]
+	parent = 0vdrAlpha
+	diffuseMap_512 = auto01.tga.png
+[dekk01.bmp.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = dekk01.bmp.png
+[ruudskog.tga.png]
+	parent = 0vdrAlpha
+	diffuseMap_512 = ruudskog.tga.png
