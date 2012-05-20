@@ -1,12 +1,21 @@
 
-[ A ]
+[ R ]
 BumpAmplitude = 0.010000
 BumpWaveLength = 20.000000
 FrictionNonTread = 1.000000
-FrictionTread = 0.900000
-ID = 2
+FrictionTread = 1.000000
+ID = 1
 RollResistanceCoefficient = 0.200000
 RollingDrag = 1.000000
+
+[ A ]
+BumpAmplitude = 0.110000
+BumpWaveLength = 11.000000
+FrictionNonTread = 0.600000
+FrictionTread = 0.760000
+ID = 5
+RollResistanceCoefficient = 2.000000
+RollingDrag = 80.000000
 
 [ B ]
 BumpAmplitude = 0.110000
