@@ -1,0 +1,258 @@
+[fen_d.png]
+	parent = 0vdrAlpha
+	diffuseMap_512 = fen_d.png
+[bluetent.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = bluetent.png
+[cone.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = cone.png
+[grass_01.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = grass_01.jpg
+[first_hauler.png]
+	parent = 0vdrAlpha
+	diffuseMap_512 = first_hauler.png
+[flag_checkered.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = flag_checkered.png
+[series_flagger.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = series_flagger.png
+[green_booth.png]
+	parent = 0vdrAlpha
+	diffuseMap_512 = green_booth.png
+[gy_bridge.png]
+	parent = 0vdrAlpha
+	diffuseMap_512 = gy_bridge.png
+[bank.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = bank.png
+[whitetent.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = whitetent.png
+[mosbuilding.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = mosbuilding.png
+[roof.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = roof.png
+[npeople_pit.png]
+	parent = 0vdrAlpha
+	diffuseMap_512 = npeople_pit.png
+[grnglow.png]
+	parent = 0vdrAlpha
+	diffuseMap_512 = grnglow.png
+[grlt.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = grlt.png
+[gurdrc.png]
+	parent = 0vdrAlpha
+	diffuseMap_512 = gurdrc.png
+[gurdrcrssa.png]
+	parent = 0vdrAlpha
+	diffuseMap_512 = gurdrcrssa.png
+[lighta.png]
+	parent = 0vdrAlpha
+	diffuseMap_512 = lighta.png
+[rdlt.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = rdlt.png
+[gurdra.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = gurdra.png
+[ylolt.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = ylolt.png
+[pitshed.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = pitshed.png
+[paint.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = paint.png
+[redbridge.png]
+	parent = 0vdrAlpha
+	diffuseMap_512 = redbridge.png
+[redtent.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = redtent.png
+[score_t01.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = score_t01.png
+[startbox.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = startbox.png
+[pitmetal_d.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = pitmetal_d.png
+[building24a_01.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = building24a_01.png
+[tower24a_01.png]
+	parent = 0vdrAlpha
+	diffuseMap_512 = tower24a_01.png
+[lpole.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = lpole.png
+[grass_asphalt1.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = grass_asphalt1.png
+[asphalt_pad.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = asphalt_pad.jpg
+[asphalta_02.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = roadAsphalt.jpg
+[concret_03.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = concret_03.png
+[fence.png]
+	parent = 0vdrAlpha2
+	diffuseMap_512 = fence.png
+[wall.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = wall.png
+[wall_top.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = wall_top.png
+[armco_r_solid.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = armco_r_solid.png
+[armco_l_solid.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = armco_l_solid.png
+[armco_top_solid.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = armco_top_solid.png
+[grass_blend2.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = grass_blend2.jpg
+[grass_asphalt2.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = grass_asphalt2.png
+[grassedger.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = grassedger.jpg
+[grassedge.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = grassedge.jpg
+[dirt.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = dirt.jpg
+[curbing_mid.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = curbing_mid.png
+[tires_w.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = tires_w.png
+[tires_top_w.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = tires_top_w.png
+[tires_end_w.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = tires_end_w.png
+[curbing_left.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = curbing_left.png
+[grass_blend1.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = grass_blend1.jpg
+[curbing.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = curbing.png
+[armch_s.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = armch_s.png
+[dry_grass.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = dry_grass.jpg
+[wall_near.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = wall_near.png
+[wall_panz.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = wall_panz.png
+[tsd_grass_blend.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = tsd_grass_blend.jpg
+[tsd_grass_asphalt.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = tsd_grass_asphalt.png
+[tsd_startline01.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = tsd_startline01.png
+[tsd_paint.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = tsd_paint.png
+[tree_shadow.png]
+	parent = 0vdrAlpha
+	diffuseMap_512 = tree_shadow.png
+[trees_group2a.png]
+	parent = 0vdrAlpha
+	diffuseMap_512 = trees_group2a.png
+[trees_group1a.png]
+	parent = 0vdrAlpha
+	diffuseMap_512 = trees_group1a.png
+[trees_group3c.png]
+	parent = 0vdrAlpha
+	diffuseMap_512 = trees_group3c.png
+[trees_group4c.png]
+	parent = 0vdrAlpha
+	diffuseMap_512 = trees_group4c.png
+[tree01.png]
+	parent = 0vdrAlpha
+	diffuseMap_512 = tree01.png
+[tree04.png]
+	parent = 0vdrAlpha
+	diffuseMap_512 = tree04.png
+[tree07.png]
+	parent = 0vdrAlpha
+	diffuseMap_512 = tree07.png
+[tree16.png]
+	parent = 0vdrAlpha
+	diffuseMap_512 = tree16.png
+[tree17.png]
+	parent = 0vdrAlpha
+	diffuseMap_512 = tree17.png
+[tree18.png]
+	parent = 0vdrAlpha
+	diffuseMap_512 = tree18.png
+[truck_w.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = truck_w.jpg
+[people_tv.png]
+	parent = 0vdrAlpha
+	diffuseMap_512 = people_tv.png
+[bot_wht.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = bot_wht.png
+[drk_whtl.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = drk_whtl.png
+[lgt_whtr.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = lgt_whtr.png
+[posts.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = posts.png
+[bot_red.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = bot_red.png
+[drk_red.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = drk_red.png
+[lgt_red.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = lgt_red.png
+[drk_whtr.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = drk_whtr.png
+[lgt_whtl.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = lgt_whtl.png
+[rgbmap.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = rgbmap.png
+[b_tent03.png]
+	parent = 0vdrAlpha
+	diffuseMap_512 = b_tent03.png
