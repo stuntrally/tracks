@@ -1,0 +1,570 @@
+[mtlgray.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = mtlgray.png
+[logofrd1.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = logofrd1.png
+[grgdr.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = grgdr.png
+[logomarl.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = logomarl.png
+[logoenic.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = logoenic.png
+[logofost.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = logofost.png
+[logorydr.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = logorydr.png
+[logobcb2.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = logobcb2.png
+[logobcbs.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = logobcbs.png
+[logoltc2.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = logoltc2.png
+[tun01.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = tun01.png
+[logo89xr.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = logo89xr.png
+[bldg01-a.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = bldg01-a.png
+[bldg01-c.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = bldg01-c.png
+[bldg01-b.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = bldg01-b.png
+[concw.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = concw.png
+[bldg03-d.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = bldg03-d.png
+[bldg02-a.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = bldg02-a.png
+[bldg02-b.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = bldg02-b.png
+[brick.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = brick.png
+[cmwla.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = cmwla.png
+[bldg02-c.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = bldg02-c.png
+[rail01.png]
+	parent = 0vdrAlpha
+	diffuseMap_512 = rail01.png
+[bldg03-f.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = bldg03-f.png
+[concsdwk.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = concsdwk.png
+[bldg03-e.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = bldg03-e.png
+[bldg03-b.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = bldg03-b.png
+[bldg03-a.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = bldg03-a.png
+[bldg03-g.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = bldg03-g.png
+[bldg03-h.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = bldg03-h.png
+[bldg03-c.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = bldg03-c.png
+[bldg03-i.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = bldg03-i.png
+[logonsdq.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = logonsdq.png
+[logorymj.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = logorymj.png
+[bldg04-b.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = bldg04-b.png
+[bldg04-a.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = bldg04-a.png
+[bldg05-b.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = bldg05-b.png
+[cobo03.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = cobo03.png
+[bldg05-a.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = bldg05-a.png
+[bldg05-c.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = bldg05-c.png
+[grass.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = grass.png
+[cobo01.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = cobo01.png
+[bldg06-a.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = bldg06-a.png
+[bldg06-b.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = bldg06-b.png
+[bldg06-f.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = bldg06-f.png
+[bldg06-c.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = bldg06-c.png
+[bldg07-a.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = bldg07-a.png
+[bldg08-a.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = bldg08-a.png
+[bldg09-a.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = bldg09-a.png
+[bldg10-a.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = bldg10-a.png
+[bldg10-b.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = bldg10-b.png
+[bldg12-a.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = bldg12-a.png
+[bldg12-b.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = bldg12-b.png
+[bldg12-c.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = bldg12-c.png
+[bldg14-a.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = bldg14-a.png
+[bldg14-b.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = bldg14-b.png
+[bldg16-b.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = bldg16-b.png
+[bldg16-d.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = bldg16-d.png
+[bldg16-a.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = bldg16-a.png
+[bldg16-c.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = bldg16-c.png
+[bldg17-b.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = bldg17-b.png
+[bldg17-a.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = bldg17-a.png
+[bldg17-c.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = bldg17-c.png
+[cobo05.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = cobo05.png
+[cobo02.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = cobo02.png
+[rencen-c.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = rencen-c.png
+[bldg23.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = bldg23.png
+[bldg24.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = bldg24.png
+[logofrpr.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = logofrpr.png
+[bldg30.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = bldg30.png
+[bldg31-a.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = bldg31-a.png
+[bldg31-b.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = bldg31-b.png
+[bldg33-a.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = bldg33-a.png
+[bldg33-b.png]
+	parent = 0vdrAlpha
+	diffuseMap_512 = bldg33-b.png
+[logocrft.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = logocrft.png
+[bldg40.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = bldg40.png
+[bldg43.png]
+	parent = 0vdrAlpha
+	diffuseMap_512 = bldg43.png
+[bldg44-a.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = bldg44-a.png
+[bldg44-b.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = bldg44-b.png
+[bldg45-a.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = bldg45-a.png
+[bldg45-b.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = bldg45-b.png
+[bldg48-a.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = bldg48-a.png
+[bldg48-b.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = bldg48-b.png
+[bldg50.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = bldg50.png
+[bldg53-b.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = bldg53-b.png
+[bldg53-a.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = bldg53-a.png
+[bldg58.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = bldg58.png
+[logoudmc.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = logoudmc.png
+[bldgpg.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = bldgpg.png
+[bldgpc.png]
+	parent = 0vdrAlpha
+	diffuseMap_512 = bldgpc.png
+[signlodge01.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = signlodge01.png
+[rencen-e.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = rencen-e.png
+[road01.png]
+	parent = 0vdrRoad
+	diffuseMap_512 = road01.png
+[road06.png]
+	parent = 0vdrRoad
+	diffuseMap_512 = road06.png
+[road03.png]
+	parent = 0vdrRoad
+	diffuseMap_512 = road03.png
+[cobo06.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = cobo06.png
+[cobo07.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = cobo07.png
+[logoccdc.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = logoccdc.png
+[logocagi.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = logocagi.png
+[logomgd.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = logomgd.png
+[logodgp.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = logodgp.png
+[cobo04.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = cobo04.png
+[fistofjoe.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = fistofjoe.png
+[flagusa04.png]
+	parent = 0vdrAlpha
+	diffuseMap_512 = flagusa04.png
+[fbox01.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = fbox01.png
+[tree01.png]
+	parent = 0vdrAlpha
+	diffuseMap_512 = tree01.png
+[fordaud.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = fordaud.png
+[gas02.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = gas02.png
+[gas01.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = gas01.png
+[grdrold2.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = grdrold2.png
+[grdrgdyr.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = grdrgdyr.png
+[grdrpost.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = grdrpost.png
+[gs02.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = gs02.png
+[gs03.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = gs03.png
+[gs01.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = gs01.png
+[gs04.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = gs04.png
+[gs05.png]
+	parent = 0vdrAlpha
+	diffuseMap_512 = gs05.png
+[fncpost.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = fncpost.png
+[gs06.png]
+	parent = 0vdrAlpha
+	diffuseMap_512 = gs06.png
+[signlodge02.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = signlodge02.png
+[leavesa.png]
+	parent = 0vdrAlpha
+	diffuseMap_512 = leavesa.png
+[tretrnk.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = tretrnk.png
+[roadmnhl.png]
+	parent = 0vdrAlpha
+	diffuseMap_512 = roadmnhl.png
+[tun04.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = tun04.png
+[tun06.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = tun06.png
+[tun07.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = tun07.png
+[peoplea.png]
+	parent = 0vdrAlpha
+	diffuseMap_512 = peoplea.png
+[peoplec.png]
+	parent = 0vdrAlpha
+	diffuseMap_512 = peoplec.png
+[peopled.png]
+	parent = 0vdrAlpha
+	diffuseMap_512 = peopled.png
+[peopleb.png]
+	parent = 0vdrAlpha
+	diffuseMap_512 = peopleb.png
+[bldgpd.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = bldgpd.png
+[bldgpf.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = bldgpf.png
+[logorena.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = logorena.png
+[logobmwa.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = logobmwa.png
+[logomcla.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = logomcla.png
+[logosaua.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = logosaua.png
+[logoarra.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = logoarra.png
+[logojora.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = logojora.png
+[logobara.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = logobara.png
+[logotoya.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = logotoya.png
+[logoproa.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = logoproa.png
+[logomina.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = logomina.png
+[logojaga.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = logojaga.png
+[logofera.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = logofera.png
+[logodcx.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = logodcx.png
+[stlit.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = stlit.png
+[ptentb.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = ptentb.png
+[ptenta.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = ptenta.png
+[grda.png]
+	parent = 0vdrAlpha
+	diffuseMap_512 = grda.png
+[rencen-a.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = rencen-a.png
+[tealgrey.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = tealgrey.png
+[logogms.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = logogms.png
+[rencen-b.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = rencen-b.png
+[rencen-f.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = rencen-f.png
+[logorncn.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = logorncn.png
+[rencen-d.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = rencen-d.png
+[water.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = water.png
+[sodbackdrop.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = sodbackdrop.png
+[grid.png]
+	parent = 0vdrAlpha
+	diffuseMap_512 = grid.png
+[stlit01.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = stlit01.png
+[smblack.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = smblack.png
+[lampbrwn.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = lampbrwn.png
+[lampwht.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = lampwht.png
+[twall01.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = twall01.png
+[twall02.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = twall02.png
+[rmbl01.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = rmbl01.png
+[cmwlford.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = cmwlford.png
+[road02.png]
+	parent = 0vdrRoad
+	diffuseMap_512 = road02.png
+[grate.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = grate.png
+[road04.png]
+	parent = 0vdrRoad
+	diffuseMap_512 = road04.png
+[logorent.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = logorent.png
+[brdg01us.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = brdg01us.png
+[mtlgreen.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = mtlgreen.png
+[tun02.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = tun02.png
+[signgriswold.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = signgriswold.png
+[trfclgty.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = trfclgty.png
+[trafficlight.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = trafficlight.png
+[signjfrsn.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = signjfrsn.png
+[signwoodward.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = signwoodward.png
+[signlarned.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = signlarned.png
+[flagrw.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = flagrw.png
+[signlodge03.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = signlodge03.png
+[logopark.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = logopark.png
+[tree02.png]
+	parent = 0vdrAlpha
+	diffuseMap_512 = tree02.png
+[windsor06.png]
+	parent = 0vdrAlpha
+	diffuseMap_512 = windsor06.png
+[windsor05.png]
+	parent = 0vdrAlpha
+	diffuseMap_512 = windsor05.png
+[windsor04.png]
+	parent = 0vdrAlpha
+	diffuseMap_512 = windsor04.png
+[windsor03.png]
+	parent = 0vdrAlpha
+	diffuseMap_512 = windsor03.png
+[windsor02.png]
+	parent = 0vdrAlpha
+	diffuseMap_512 = windsor02.png
+[windsor01.png]
+	parent = 0vdrAlpha
+	diffuseMap_512 = windsor01.png
