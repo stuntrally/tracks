@@ -11,7 +11,7 @@
 	parent = 0vdrTrk
 	diffuseMap_512 = logomarl.png
 [logoenic.png]
-	parent = 0vdrTrk
+	parent = 0vdrAlpha
 	diffuseMap_512 = logoenic.png
 [logofost.png]
 	parent = 0vdrTrk
