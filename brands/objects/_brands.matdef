@@ -1,0 +1,495 @@
+[axo1.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = axo1.png
+[foxterm1.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = foxterm1.png
+[mcn.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = mcn.png
+[fordalp1.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = fordalp1.png
+[sidichamp1.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = sidichamp1.png
+[pdkka13.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = pdkka13.png
+[infomich1.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = infomich1.png
+[obja10.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = obja10.png
+[triba07.png]
+	parent = 0vdrAlpha
+	diffuseMap_512 = triba07.png
+[distanza3.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = distanza3.png
+[distanza1.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = distanza1.png
+[distanza2.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = distanza2.png
+[distanza4.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = distanza4.png
+[gardrail1.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = gardrail1.png
+[gardrail2.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = gardrail2.png
+[asfalto1.png]
+	parent = 0vdrRoad
+	diffuseMap_512 = asfalto1.png
+[asfalto2.png]
+	parent = 0vdrRoad
+	diffuseMap_512 = asfalto2.png
+[asfalto5.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = asfalto5.png
+[rete1.png]
+	parent = 0vdrAlpha
+	diffuseMap_512 = rete1.png
+[erba1.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = erba1.png
+[erba2.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = erba2.png
+[gomme2.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = gomme2.png
+[terra1.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = terra1.png
+[cordolo1.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = cordolo1.png
+[erba6.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = erba6.png
+[parcheggio1.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = parcheggio1.png
+[asfalto4.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = asfalto4.png
+[terra2.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = terra2.png
+[cordolo2.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = cordolo2.png
+[asfalto3.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = asfalto3.png
+[erba3.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = erba3.png
+[quinta.png]
+	parent = 0vdrAlpha
+	diffuseMap_512 = quinta.png
+[asfalto6.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = asfalto6.png
+[quinta2.png]
+	parent = 0vdrAlpha
+	diffuseMap_512 = quinta2.png
+[gomme1.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = gomme1.png
+[erba5.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = erba5.png
+[erba7.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = erba7.png
+[erba8.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = erba8.png
+[asfalto8.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = asfalto8.png
+[erba4.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = erba4.png
+[asfalto7.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = asfalto7.png
+[asfalto9.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = asfalto9.png
+[obja11.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = obja11.png
+[obja09.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = obja09.png
+[obja13.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = obja13.png
+[obja12.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = obja12.png
+[obja15.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = obja15.png
+[obja16.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = obja16.png
+[obja14.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = obja14.png
+[tanker1.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = tanker1.png
+[triba17.png]
+	parent = 0vdrAlpha
+	diffuseMap_512 = triba17.png
+[obja02.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = obja02.png
+[obja01.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = obja01.png
+[obja03.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = obja03.png
+[triba11.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = triba11.png
+[obja22.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = obja22.png
+[obja21.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = obja21.png
+[obja19.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = obja19.png
+[obja20.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = obja20.png
+[pdkka25.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = pdkka25.png
+[obja07.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = obja07.png
+[obja08.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = obja08.png
+[obja04.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = obja04.png
+[obja05.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = obja05.png
+[obja06.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = obja06.png
+[islmarmaglia1.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = islmarmaglia1.png
+[islmarmaglia2.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = islmarmaglia2.png
+[hoccono1.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = hoccono1.png
+[pubblico2.png]
+	parent = 0vdrAlpha
+	diffuseMap_512 = pubblico2.png
+[pubblico1.png]
+	parent = 0vdrAlpha
+	diffuseMap_512 = pubblico1.png
+[steccato1.png]
+	parent = 0vdrAlpha
+	diffuseMap_512 = steccato1.png
+[muretto2.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = muretto2.png
+[tribb02.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = tribb02.png
+[tribb01.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = tribb01.png
+[tribb03.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = tribb03.png
+[triba08.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = triba08.png
+[triba09.png]
+	parent = 0vdrAlpha
+	diffuseMap_512 = triba09.png
+[palaza05.png]
+	parent = 0vdrAlpha
+	diffuseMap_512 = palaza05.png
+[palaza07.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = palaza07.png
+[palaza04.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = palaza04.png
+[palaza03.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = palaza03.png
+[palaza13.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = palaza13.png
+[pdkka14.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = pdkka14.png
+[palaza06.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = palaza06.png
+[palaza01.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = palaza01.png
+[palaza12.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = palaza12.png
+[palaza09.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = palaza09.png
+[palaza02.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = palaza02.png
+[palaza17.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = palaza17.png
+[palaza10.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = palaza10.png
+[palaza24.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = palaza24.png
+[palaza23.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = palaza23.png
+[palaza22.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = palaza22.png
+[palaza16.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = palaza16.png
+[palaza11.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = palaza11.png
+[triba02.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = triba02.png
+[triba04.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = triba04.png
+[triba10.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = triba10.png
+[triba13.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = triba13.png
+[triba15.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = triba15.png
+[triba16.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = triba16.png
+[triba03.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = triba03.png
+[triba12.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = triba12.png
+[triba14.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = triba14.png
+[triba01.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = triba01.png
+[triba06.png]
+	parent = 0vdrAlpha
+	diffuseMap_512 = triba06.png
+[triba05.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = triba05.png
+[garage02.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = garage02.png
+[palazb03.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = palazb03.png
+[garage01.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = garage01.png
+[pdkka05.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = pdkka05.png
+[pdkka02.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = pdkka02.png
+[pdkka15.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = pdkka15.png
+[pdkka12.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = pdkka12.png
+[pdkka17.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = pdkka17.png
+[pdkka04.png]
+	parent = 0vdrAlpha
+	diffuseMap_512 = pdkka04.png
+[pdkka11.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = pdkka11.png
+[pdkka08.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = pdkka08.png
+[pdkka03.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = pdkka03.png
+[pdkka10.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = pdkka10.png
+[pdkka01.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = pdkka01.png
+[pdkka21.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = pdkka21.png
+[pdkka07.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = pdkka07.png
+[pdkka06.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = pdkka06.png
+[pdkka24.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = pdkka24.png
+[pdkka18.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = pdkka18.png
+[pdkka19.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = pdkka19.png
+[pdkka22.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = pdkka22.png
+[pdkka20.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = pdkka20.png
+[pdkka09.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = pdkka09.png
+[pdkka23.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = pdkka23.png
+[muretto1.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = muretto1.png
+[muretto4.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = muretto4.png
+[muretto3.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = muretto3.png
+[obja18.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = obja18.png
+[obja17.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = obja17.png
+[sema02.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = sema02.png
+[obja24.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = obja24.png
+[obja23.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = obja23.png
+[monstart1.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = monstart1.png
+[monstriscia1.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = monstriscia1.png
+[sema03.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = sema03.png
+[asssem3.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = asssem3.png
+[asssem7.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = asssem7.png
+[sema04.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = sema04.png
+[asss.3.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = asss.3.png
+[fronda2.png]
+	parent = 0vdrAlpha
+	diffuseMap_512 = fronda2.png
+[fronda1.png]
+	parent = 0vdrAlpha
+	diffuseMap_512 = fronda1.png
+[palazb04.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = palazb04.png
+[palazb08.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = palazb08.png
+[palazb09.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = palazb09.png
+[palazb12.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = palazb12.png
+[palazb07.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = palazb07.png
+[palazb05.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = palazb05.png
+[palazb13.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = palazb13.png
+[palazb19.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = palazb19.png
+[palazb17.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = palazb17.png
+[palazb15.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = palazb15.png
+[palazb14.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = palazb14.png
+[palazb18.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = palazb18.png
+[palazb11.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = palazb11.png
+[palazb10.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = palazb10.png
+[palazb02.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = palazb02.png
+[palazb01.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = palazb01.png
+[palazb16.png]
+	parent = 0vdrTrk
+	diffuseMap_512 = palazb16.png
