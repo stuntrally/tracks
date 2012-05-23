@@ -289,9 +289,6 @@
 [cobo07.png]
 	parent = 0vdrTrk
 	diffuseMap_512 = cobo07.png
-[logoccdc.png]
-	parent = 0vdrTrk
-	diffuseMap_512 = logoccdc.png
 [logocagi.png]
 	parent = 0vdrTrk
 	diffuseMap_512 = logocagi.png
