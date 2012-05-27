@@ -3,7 +3,7 @@
 	<dim tcMul="0.25" lenDim="1" widthSteps="8" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="160" lodPntLen="10" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 7.30401 20.2279" iDir="-1" iChk1="54" />
-	<stats length="3277.08" width="8.48495" height="32.1146" onTer="6.31579" pipes="0" yaw="0" pitch="0" roll="0" />
+	<stats length="3255.17" width="8.48495" height="32.115" onTer="6.35826" pipes="0" yaw="0" pitch="0" roll="0" />
 	<txt desc="Fast and very banked track with 3 circles." />
 	<P pos="298.496 0 -114.577" w="8.43955" />
 	<P pos="281.071 0 -174.212" w="8.43955" chkR="1.964" />
