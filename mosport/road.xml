@@ -4,7 +4,7 @@
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="180" lodPntLen="10" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 3 19.816" iDir="-1" iChk1="47" />
 	<stats length="3932.95" width="9.528" height="0" onTer="100" pipes="0" yaw="0" pitch="0" roll="0" />
-	<txt desc="" />
+	<txt desc="Winding, banked track in rain. Caution: slippery." />
 	<P pos="-78.7201 -0.117737 88.0493" w="9.528" onTer="0" a="0" ar="0" aT="2" col="0" mtr="-1" />
 	<P pos="-108.326 -1.98132 143.371" w="9.528" onTer="0" a="0" ar="0" aT="2" col="0" mtr="-1" chkR="1.872" />
 	<P pos="-91.4608 -3.32019 191.261" w="9.528" onTer="0" a="0" ar="0" aT="2" col="0" mtr="-1" />
