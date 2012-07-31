@@ -1,0 +1,167 @@
+<scene>
+	<car tires="0" />
+	<sky material="sky/light_blue" />
+	<fog mode="lin" color="0.73 0.86 1" exp="0" linStart="140.45" linEnd="899.999" />
+	<light sceneryId="0" pitch="43.65" yaw="-63.9" ambient="0.45 0.45 0.43" diffuse="0.8 0.8 0.8" specular="0.99 0.99 0.97" />
+	<fluids />
+	<terrain size="513" triangle="1">
+		<texture on="1" file="sand_6.dds" fnorm="sand_6_nh.dds" scale="10.8463" dust="0.9" dustS="1" mud="0.1" smoke="0" tclr="0.6 0.6 0.38 0.7" angMin="0" angMax="13.8158" angSm="20" hMin="-147.705" hMax="103.947" hSm="20" noise="0.219298" nOnly="0" />
+		<texture on="0" file="sand_2.dds" fnorm="sand_2_nh.dds" scale="8.5" dust="0.8" dustS="1" mud="0.1" smoke="0" tclr="0.6 0.6 0.3 0.7" angMin="0" angMax="14.2105" angSm="20" hMin="-300" hMax="300" hSm="20" noise="0.491228" nOnly="0" />
+		<texture on="1" file="desert_6.dds" fnorm="desert_6_nh.dds" scale="10.4" dust="0.4" dustS="1" mud="0.7" smoke="0" tclr="0.42 0.36 0.08 0.8" angMin="14.0132" angMax="46.3816" angSm="20" hMin="-300" hMax="300" hSm="20" noise="0.065644" nOnly="0" />
+		<texture on="0" file="jungle_3.dds" fnorm="jungle_3_nh.dds" scale="11" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="33.873" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" noise="1" nOnly="0" />
+		<texture on="0" file="jungle_0.dds" fnorm="jungle_0_nh.dds" scale="4.5" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" noise="1" nOnly="1" />
+		<texture on="0" file="jungle_0.dds" fnorm="jungle_0_nh.dds" scale="4.5" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" noise="1" nOnly="1" />
+		<texture road="1" dust="0.2" dustS="1" mud="0" smoke="0" tclr="0.7 0.66 0.36 0.7" />
+		<par dust="Dust" mud="Mud" smoke="Smoke" />
+	</terrain>
+	<paged densGrass="0.001" densTrees="0.6" grMtr="grassSavanna" grClr="grClrDesert.png" grPage="200" grDist="200" grMinSx="0.7" grMinSy="0.7" grMaxSx="0.95" grMaxSy="1" grSwayDistr="4" grSwayLen="0.2" grSwaySpeed="0.5" grDensSmooth="2" grTerMaxAngle="30" grTerMinHeight="-200" grTerMaxHeight="200" trPage="150" trDist="300" trDistImp="1200" trRdDist="1">
+		<layer on="1" name="palm2.mesh" dens="0.0831671" minScale="2.34226" maxScale="3.02675" ofsY="0" addTrRdDist="1" windFx="0.295761" windFy="0.114725" maxTerAng="30.0341" minTerH="-30" maxTerH="10" maxDepth="5" />
+		<layer on="1" name="tree.07.mesh" dens="0.0249996" minScale="0.849986" maxScale="1.15" ofsY="0" addTrRdDist="2" windFx="0.699996" windFy="0.00999502" maxTerAng="15.7209" minTerH="-30" maxTerH="10" maxDepth="5" />
+		<layer on="1" name="palm.mesh" dens="0.0249996" minScale="1.78362" maxScale="2.53125" ofsY="0" addTrRdDist="1" windFx="0.599989" windFy="0.00999502" maxTerAng="15.0691" minTerH="-30" maxTerH="10" maxDepth="5" />
+		<layer on="1" name="farn1.mesh" dens="0.053016" minScale="0.112102" maxScale="0.188949" ofsY="0" addTrRdDist="4" windFx="7.29999" windFy="0.0599931" maxTerAng="26.9329" minTerH="-30" maxTerH="10" maxDepth="5" />
+		<layer on="0" name="farn2.mesh" dens="0.0399995" minScale="0.149996" maxScale="0.24999" ofsY="0" addTrRdDist="0" windFx="7.29999" windFy="0.0599931" maxTerAng="20.857" minTerH="-30" maxTerH="10" maxDepth="5" />
+		<layer on="0" name="rock.05.mesh" dens="0.0134539" minScale="0.134946" maxScale="0.310888" ofsY="0" addTrRdDist="4" windFx="0" windFy="0" maxTerAng="34.2692" minTerH="-30" maxTerH="10" maxDepth="5" />
+		<layer on="0" name="rock.07.mesh" dens="0.0115767" minScale="0.119856" maxScale="0.289455" ofsY="0" addTrRdDist="4" windFx="0" windFy="0" maxTerAng="28.9074" minTerH="-30" maxTerH="10" maxDepth="5" />
+		<layer on="0" name="" dens="0.0999996" minScale="0.0999983" maxScale="0.24999" ofsY="0" addTrRdDist="0" windFx="0" windFy="0" maxTerAng="50" minTerH="-10" maxTerH="10" maxDepth="5" />
+		<layer on="0" name="" dens="0.0999996" minScale="0.0999983" maxScale="0.249992" ofsY="0" addTrRdDist="0" windFx="0" windFy="0" maxTerAng="50" minTerH="-10" maxTerH="10" maxDepth="5" />
+		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
+	</paged>
+	<cam pos="-159.911 55.1551 -91.5823" dir="0.448554 -0.292514 0.844532" />
+	<objects>
+		<o name="pers_house9" pos="-81.6277 -102.921 0" rot="0 -1 0 0" />
+		<o name="pers_house8" pos="-16.6939 -80.5145 0" rot="0.706773 -0.707445 -1.78814e-007 8.20437e-008" />
+		<o name="pers_house7" pos="-85.1065 -120.849 0" rot="-0.0206418 -0.999787 -1.78814e-006 -9.20726e-007" />
+		<o name="pers_house6" pos="-43.1635 -61.7962 0" rot="-0.00687663 -0.999984 2.38419e-007 -1.06119e-006" />
+		<o name="pers_house5" pos="-57.9198 -66.8411 0" rot="-0.00827565 -0.999974 -3.8147e-006 8.73748e-007" />
+		<o name="pers_house4" pos="-34.9255 -102.115 0" rot="-0.00405123 -0.999991 -8.9407e-007 -6.7753e-007" />
+		<o name="pers_civic" pos="-59.5481 5.1366 -0.000366211" rot="0 -1 0 0" />
+		<o name="pers_civic" pos="-59.2337 -46.4152 -0.0194702" rot="0 -1 0 0" />
+		<o name="pers_corral" pos="-14.8228 -120.147 0" rot="-0.0115226 -0.999943 9.53674e-007 -2.90494e-007" />
+		<o name="pers_farmsteed" pos="-101.705 -5.63302 0" rot="-0.675791 -0.737104 1.19209e-007 4.14499e-007" sc="1.05318 1.05318 1.05318" />
+		<o name="pers_fortress1" pos="-58.8312 -12.791 -0.00012207" rot="0 -1 0 0" />
+		<o name="pers_fortress2" pos="-58.6275 -28.8727 0" rot="-0.716339 -0.697786 2.08616e-006 -2.08617e-006" />
+		<o name="pers_house2" pos="-8.151 -102.531 0" rot="0 -1 0 0" />
+		<o name="pers_house2" pos="-110.937 -124.515 0" rot="-0.717449 -0.696616 -2.38419e-007 -2.70809e-007" />
+		<o name="pers_house3" pos="-21.873 -101.759 0" rot="0 -1 0 0" />
+		<o name="pers_house3" pos="-117.932 -88.6275 0" rot="-0.714686 -0.699452 -4.17233e-007 1.17077e-006" />
+		<o name="pers_house4" pos="-108.488 -136.525 0" rot="-0.724911 -0.688909 3.75509e-006 -7.68482e-007" />
+		<o name="pers_house5" pos="-25.6 -61.4463 0" rot="0.705161 -0.709064 8.9407e-007 -8.54925e-007" />
+		<o name="pers_house5" pos="-110.222 -152.09 0" rot="-0.999947 0.0104329 -1.7602e-007 3.9912e-007" />
+		<o name="pers_house6" pos="-86.3052 -135.947 0" rot="-0.731183 -0.682194 1.66893e-006 3.32569e-007" />
+		<o name="pers_house7" pos="-49.07 -101.14 0" rot="-0.713506 -0.700664 -4.17233e-007 -2.00256e-007" />
+		<o name="pers_house7" pos="-42.1754 -76.466 0" rot="0.70247 -0.71172 -2.20537e-006 -3.97857e-007" />
+		<o name="pers_house8" pos="-135.675 -94.8958 0" rot="-0.999999 0.00867071 1.20327e-006 -2.29635e-006" />
+		<o name="pers_house9" pos="-64.1671 -121.818 0" rot="-0.999979 0.00889594 -1.48267e-006 -2.59693e-006" sc="1.02128 1.02128 1.02128" />
+		<o name="pers_market1" pos="-115.743 -5.25524 -3.05176e-005" rot="0.706877 -0.707345 -2.38419e-007 1.78031e-007" />
+		<o name="pers_market2" pos="-132.593 -19.8856 0" rot="0 -1 0 0" />
+		<o name="pers_market2" pos="-100.068 -20.286 0" rot="0 -1 0 0" />
+		<o name="pers_market1" pos="-116.334 -35.4653 -3.05176e-005" rot="0.00446645 -1.00003 2.98023e-006 4.76837e-007" />
+		<o name="pers_apadana1" pos="-95.4088 -69.5982 0" rot="-0.714649 -0.699489 1.19209e-006 6.0204e-008" />
+		<o name="pers_market3" pos="-114.44 -19.7894 0" rot="0 -1 0 0" />
+		<o name="pers_temple1" pos="-127.369 26.6461 0" rot="0.707138 -0.707081 -2.38419e-007 -5.96068e-008" />
+		<o name="pers_stables" pos="-123.505 -148.696 0" rot="-0.999994 0.00528265 1.82539e-007 8.38289e-007" />
+		<o name="pers_stables" pos="-48.2 -117.819 0" rot="-0.710793 -0.703429 -1.19209e-007 -2.29312e-006" />
+		<o name="pers_temple2" pos="-115.149 51.3855 10.5222" rot="0.704561 -0.709656 -2.38419e-007 -1.45064e-006" />
+		<o name="pers_tower1" pos="-102.358 -32.813 -1.03602" rot="-0.00287615 -0.999997 -2.44379e-006 1.13647e-006" />
+		<o name="pers_tower1" pos="-127.458 51.3587 13.9219" rot="0 -1 0 0" />
+		<o name="pers_tower1" pos="-103.778 51.2299 13.7202" rot="0 -1 0 0" />
+		<o name="pers_tower2" pos="-129.271 -5.57819 0" rot="0 -1 0 0" />
+		<o name="pers_tower3" pos="-129.734 -33.2307 -3.05176e-005" rot="0 -1 0 0" />
+		<o name="pers_apadana2" pos="-87.2673 26.3628 0" rot="-1.00002 -4.78765e-005 -1.89569e-006 3.44343e-006" />
+		<o name="pers_apadana2" pos="-146.955 26.9991 0" rot="-0.711515 -0.702693 5.96046e-008 7.1155e-007" />
+		<o name="pers_civic" pos="-164.505 2.30429 0" rot="-1.00001 -0.00122385 -9.42964e-008 -1.49953e-007" />
+		<o name="pers_corral" pos="-158.996 -81.8407 0.229381" rot="-0.999717 0.0252251 1.65403e-006 1.06549e-006" />
+		<o name="pers_farmsteed" pos="-112.688 -101.303 0" rot="-0.710552 -0.703674 3.21865e-006 8.39209e-008" sc="1.24156 1.24156 1.24156" />
+		<o name="pers_fortress1" pos="-166.834 -16.8744 0" rot="-1.00001 0.00490725 1.53203e-007 2.51923e-007" />
+		<o name="pers_fortress2" pos="-167.205 -33.1497 0" rot="-0.718541 -0.695498 -1.01328e-006 -8.45077e-007" />
+		<o name="pers_tower1" pos="-161.762 18.4335 4.37172" rot="0 -1 0 0" sc="1.23125 1.23125 1.23125" />
+		<o name="pers_temple2" pos="-136.28 -68.0808 0" rot="-0.711581 -0.70261 -1.78814e-007 -1.88532e-007" />
+		<o name="pers_temple2" pos="-64.499 24.4589 -0.000534058" rot="-0.00151223 1.00001 -1.19209e-006 9.53643e-007" />
+		<o name="pers_stables" pos="-41.3951 -199.549 5.69278" rot="0.708226 -0.706006 5.96046e-008 -5.94993e-007" />
+		<o name="pers_stables" pos="46.0038 -120.196 5.69306" rot="-1 0.00181606 -3.97675e-007 -3.49991e-008" />
+		<o name="pers_temple1" pos="-117.408 -69.303 0" rot="-0.712377 -0.701801 -3.8743e-006 -2.38189e-007" />
+		<o name="pers_apadana2" pos="-167.954 -52.4672 0" rot="0.712215 0.702008 -3.27826e-006 -1.81943e-007" />
+		<o name="obelisk" pos="-89.1665 -17.8275 0" rot="-0.0002583 -1.00001 -2.5034e-006 -1.07742e-006" sc="0.862528 0.862528 0.862528" />
+		<o name="pers_apadana1" pos="-108.392 28.4193 -7.62939e-006" rot="0.706916 -0.707309 -7.15256e-007 4.819e-007" />
+		<o name="pers_civic" pos="-24.4765 -197.257 5.68738" rot="0.709561 -0.70465 -8.9407e-007 7.44613e-007" />
+		<o name="pers_corral" pos="-52.0362 -196.632 5.64542" rot="-0.000593005 -1.00001 5.96046e-007 -2.12212e-006" sc="1.04524 1.04524 1.04524" />
+		<o name="pers_corral" pos="71.817 -115.222 5.69306" rot="0 -1 0 0" />
+		<o name="pers_farmsteed" pos="19.2198 -173.763 5.69206" rot="-0.999708 -0.0244928 2.5332e-007 -4.09671e-007" />
+		<o name="pers_farmsteed" pos="48.0653 -170.873 5.69157" rot="0.0166107 -0.999862 -1.07288e-006 5.38643e-007" />
+		<o name="pers_fortress1" pos="-7.21516 -193.57 5.69128" rot="0.702571 -0.71163 1.37091e-006 -5.51874e-007" />
+		<o name="pers_house1" pos="33.3123 -188.271 5.68536" rot="0 -1 0 0" />
+		<o name="pers_house1" pos="-18.7428 -223.927 5.69304" rot="0 -1 0 0" />
+		<o name="pers_house1" pos="28.4925 -136.016 5.69306" rot="0 -1 0 0" />
+		<o name="pers_house1" pos="-87.1681 -153.069 0.072937" rot="-0.0287584 -0.999588 -7.7486e-007 -7.81931e-007" />
+		<o name="pers_house1" pos="-125.558 -118.297 0" rot="-0.0149571 -0.999904 -2.86102e-006 6.33059e-007" />
+		<o name="pers_house1" pos="-23.8627 -149.876 0" rot="0.711648 -0.70254 -5.96046e-008 6.85744e-007" />
+		<o name="pers_house1" pos="72.0196 -84.501 5.69308" rot="-0.707794 0.706433 -1.2517e-006 8.90736e-007" />
+		<o name="pers_house2" pos="62.4004 -145.615 5.69277" rot="0 -1 0 0" />
+		<o name="pers_house2" pos="20.1732 -148.177 5.69308" rot="-0.700808 -0.713366 -4.17233e-007 -4.76841e-007" />
+		<o name="pers_house2" pos="-18.6959 -133.665 0" rot="-0.719094 -0.694927 -1.84774e-006 -9.0156e-009" />
+		<o name="pers_house2" pos="13.717 -160.294 5.69075" rot="-0.999947 0.0116584 8.9407e-008 -3.16603e-007" />
+		<o name="pers_house2" pos="8.21493 -219.071 6.60692" rot="0 -1 0 0" />
+		<o name="pers_house2" pos="-114.322 -203.175 5.69308" rot="-0.724441 -0.689345 -5.96046e-008 -2.30308e-007" />
+		<o name="pers_house3" pos="-103.703 -203.492 5.69308" rot="-0.0104451 -0.999948 0 -8.98664e-007" />
+		<o name="pers_house3" pos="-56.2317 -220.064 5.6921" rot="-0.0145351 -0.999894 -1.96695e-006 -1.93507e-006" sc="1.10226 1.10226 1.10226" />
+		<o name="pers_house3" pos="-77.7197 -194.579 5.69307" rot="-0.691998 0.721923 1.2517e-006 -1.0392e-006" />
+		<o name="pers_house3" pos="32.5506 -148.683 5.69306" rot="-0.703096 -0.7111 4.76837e-007 -3.05688e-007" />
+		<o name="pers_house3" pos="-70.6719 -152.604 0.330262" rot="-0.0405168 -0.999185 1.66893e-006 -7.75919e-007" sc="1.01666 1.01666 1.01666" />
+		<o name="pers_house4" pos="-54.9455 -149.727 0" rot="-0.0141747 -0.999899 -2.08616e-006 -7.66443e-007" sc="1.08117 1.08117 1.08117" />
+		<o name="pers_house4" pos="-45.1733 -221.816 5.6927" rot="-0.00636463 -0.999985 -9.53674e-007 -1.7765e-006" sc="1.10536 1.10536 1.10536" />
+		<o name="pers_house4" pos="44.0316 -183.163 5.6883" rot="0 -1 0 0" />
+		<o name="pers_house4" pos="-86.0663 -184.929 5.69308" rot="0.685246 -0.728321 1.66893e-006 1.07194e-006" />
+		<o name="pers_house5" pos="-86.0415 -217.449 5.69233" rot="-0.721323 -0.692611 8.34465e-007 -1.58197e-007" />
+		<o name="pers_house5" pos="-111.345 -186.616 5.56353" rot="-0.999796 0.0206363 -2.10479e-007 -6.11447e-008" />
+		<o name="pers_house5" pos="34.9012 -80.0443 5.69308" rot="-0.00809399 -0.999976 -2.26498e-006 9.98874e-007" />
+		<o name="pers_house5" pos="-52.0214 -134.637 0" rot="0.693 -0.720949 -5.36442e-007 8.05782e-007" />
+		<o name="pers_house6" pos="-122.735 -130.996 0" rot="0 -1 0 0" />
+		<o name="pers_house6" pos="-68.992 -135.926 0" rot="0.688754 -0.725 -4.76837e-007 6.33822e-008" />
+		<o name="pers_house6" pos="-124.915 -189.554 5.69308" rot="0.679789 -0.733417 5.36442e-007 7.22292e-007" />
+		<o name="pers_house7" pos="-98.1714 -215.282 5.69306" rot="-0.718536 -0.6955 7.7486e-007 2.28732e-007" />
+		<o name="pers_house7" pos="-37.9741 -149.109 0" rot="0.706582 0.707664 -1.13249e-006 5.93689e-007" />
+		<o name="pers_house7" pos="-41.1201 -39.6172 0.227837" rot="0 -1 0 0" />
+		<o name="pers_house7" pos="-137.463 -144.574 0" rot="-0.999925 -0.0127381 -3.99537e-007 4.82214e-007" />
+		<o name="pers_house8" pos="-71.1328 -218.867 5.69062" rot="-0.716507 -0.697595 1.19209e-006 -8.48767e-007" />
+		<o name="pers_house9" pos="-64.0693 -194.659 5.68804" rot="0.695227 -0.718793 -3.57628e-007 4.8514e-007" />
+		<o name="pers_house9" pos="-143.78 -117.253 0" rot="0 -1 0 0" />
+		<o name="pers_house9" pos="-40.519 5.56049 0.0345917" rot="0 -1 0 0" />
+		<o name="pers_house5" pos="-29.9476 -132.922 0" rot="-0.0210306 -0.999779 -6.55651e-007 9.13009e-007" />
+		<o name="pers_house6" pos="-31.5868 -116.953 0" rot="0 -1 0 0" />
+		<o name="pers_house6" pos="47.3862 -82.4519 5.69306" rot="-0.006539 -0.99998 -1.43051e-006 -5.29635e-007" />
+		<o name="pers_house5" pos="23.5128 -82.1833 5.51516" rot="0.713306 -0.700857 -5.36442e-007 -1.08797e-006" />
+		<o name="pers_house4" pos="-33.0966 -223.841 5.69304" rot="0 -1 0 0" />
+		<o name="pers_house3" pos="-5.27315 -220.25 5.71806" rot="0 -1 0 0" />
+		<o name="pers_house2" pos="26.5106 -201.335 5.84589" rot="0 -1 0 0" />
+		<o name="pers_house2" pos="25.4648 -160.657 5.69305" rot="0.708879 -0.705339 1.19209e-007 2.72677e-007" />
+		<o name="pers_house2" pos="40.5179 -136.969 5.69286" rot="-0.999995 -0.00697825 7.32485e-007 -6.80488e-007" />
+		<o name="pers_house1" pos="67.5544 -131.981 5.69301" rot="0.00630543 -0.999988 4.17233e-007 -5.71349e-007" />
+		<o name="pers_house1" pos="72.7447 -101.688 5.69308" rot="1.00004 0.00321328 -6.98259e-007 -1.54145e-006" />
+		<o name="pers_house1" pos="60.8178 -82.6599 5.69268" rot="0 -1 0 0" />
+		<o name="pers_house2" pos="58.2176 -170.862 5.69205" rot="-0.700206 0.713947 -1.78814e-007 -6.67806e-007" />
+		<o name="pers_house3" pos="54.697 -182.262 5.67454" rot="0 -1 0 0" />
+		<o name="pers_house4" pos="6.75547 -187.351 5.68457" rot="-0.999974 0.00768717 5.11762e-007 4.26835e-008" />
+		<o name="pers_house4" pos="56.5183 -158.936 5.74436" rot="0 -1 0 0" />
+		<o name="pers_house4" pos="18.549 -213.427 6.76967" rot="0 -1 0 0" />
+		<o name="pers_house5" pos="6.89931 -176.513 5.67786" rot="0.70947 -0.704747 0 4.77113e-007" />
+		<o name="pers_house6" pos="-48.4082 -184.763 5.69295" rot="0 -1 0 0" />
+		<o name="pers_house7" pos="-33.9155 -183.403 5.69289" rot="0.704633 -0.709577 1.19209e-007 -2.02393e-007" />
+		<o name="pers_house7" pos="-36.9462 -130.397 0" rot="-0.0156436 -0.999878 -1.13249e-006 -8.85162e-008" />
+		<o name="pers_house1" pos="41.47 -107.052 5.69306" rot="0 -1 0 0" />
+		<o name="pers_house1" pos="17.3272 -131.465 5.69303" rot="0 -1 0 0" />
+		<o name="pers_house2" pos="21.2852 -117.46 5.69306" rot="-0.00904275 -0.999961 -2.38419e-007 -2.30726e-007" />
+		<o name="pers_house3" pos="33.8165 -119.591 5.69307" rot="0 -1 0 0" />
+		<o name="pers_house3" pos="-16.2516 -181.803 5.69226" rot="0 -1 0 0" />
+		<o name="pers_house3" pos="40.4351 -204.312 6.26376" rot="0 -1 0 0" />
+		<o name="pers_house4" pos="28.3009 -105.817 5.69306" rot="0 -1 0 0" />
+		<o name="pers_house4" pos="61.9495 -94.2225 5.69308" rot="-0.00667237 -0.999992 2.38419e-007 3.80924e-006" />
+		<o name="pers_house5" pos="68.6239 -158.681 5.72908" rot="0 -1 0 0" />
+		<o name="pers_house5" pos="54.1252 -197.408 5.39756" rot="-0.713341 -0.700831 8.34465e-007 -3.20348e-007" />
+		<o name="pers_civic" pos="-86.8086 -86.5516 0" rot="-0.7176 -0.696497 -1.07288e-006 -1.46389e-006" />
+		<o name="pers_house5" pos="-146.357 -102.217 0" rot="0.00232211 1.00003 -2.98023e-006 -1.93439e-006" />
+		<o name="pers_farmsteed" pos="-12.0724 -149.081 -0.0288341" rot="-0.695925 -0.718124 -1.01328e-006 -6.35585e-007" sc="1.05237 1.05237 1.05237" />
+		<o name="pers_mill" pos="-66.3488 -98.7847 0" rot="-0.715017 -0.699111 7.15256e-007 -5.24376e-007" sc="1.09025 1.09025 1.09025" />
+		<o name="pers_mill" pos="72.719 -144.259 6.01247" rot="0 -1 0 0" />
+		<o name="pers_market3" pos="-118.857 -50.5602 -1.90735e-006" rot="-1.00001 0.000456437 -9.22941e-007 4.59098e-007" sc="0.880794 0.880794 0.880794" />
+	</objects>
+</scene>
