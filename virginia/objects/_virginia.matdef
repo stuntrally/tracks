@@ -33,7 +33,7 @@
 	diffuseMap_512 = grass2.png
 [road.png]
 	parent = 0vdrTrk
-	diffuseMap_512 = road.png
+	diffuseMap_512 = road_virginia.png
 [ac1.png]
 	parent = 0vdrTrk
 	diffuseMap_512 = ac1.png
