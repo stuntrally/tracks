@@ -14,7 +14,7 @@
 		<texture road="1" dust="0" dustS="1" mud="0" smoke="0" tclr="0.3 0.3 0.1 0.5" />
 		<par dust="Dust" mud="Mud" smoke="Smoke" />
 	</terrain>
-	<paged densGrass="0.1" densTrees="2" grMtr="grassSavanna" grClr="grClrAustralia.png" grPage="100" grDist="100" grMinSx="0.7" grMinSy="0.7" grMaxSx="1.05" grMaxSy="1.2" grSwayDistr="4" grSwayLen="0.2" grSwaySpeed="0.5" grDensSmooth="1" grTerMaxAngle="15" grTerMaxHeight="13" trPage="150" trDist="150" trDistImp="800" trRdDist="1">
+	<paged densGrass="0.1" densTrees="2" grMtr="grassSavanna" grClr="grClrAustralia.png" grPage="100" grDist="100" grMinSx="0.7" grMinSy="0.7" grMaxSx="1.05" grMaxSy="1.2" grSwayDistr="4" grSwayLen="0.2" grSwaySpeed="0.5" grDensSmooth="1" grTerMaxAngle="10" grTerMinHeight="-200" grTerMaxHeight="8" trPage="100" trDist="100" trDistImp="800" trRdDist="1">
 		<layer on="1" name="fir06.mesh" dens="0.341278" minScale="0.0399916" maxScale="0.0913044" ofsY="0" addTrRdDist="0" windFx="1.79999" windFy="0.0999659" maxTerAng="25.1389" minTerH="-11" maxTerH="11" maxDepth="0" />
 		<layer on="1" name="fir05.mesh" dens="0.323604" minScale="0.0473692" maxScale="0.0913044" ofsY="0" addTrRdDist="1" windFx="1.61091" windFy="0.0799488" maxTerAng="24.3114" minTerH="-11" maxTerH="14" maxDepth="0" />
 		<layer on="0" name="fir05w.mesh" dens="1.001" minScale="0.0346605" maxScale="0.0859713" ofsY="0" addTrRdDist="0" windFx="1.14779" windFy="0.046916" maxTerAng="4.95542" minTerH="-2" maxTerH="0.5" maxDepth="0" />
@@ -26,6 +26,6 @@
 		<layer on="0" name="" dens="0.0999996" minScale="0.0999971" maxScale="0.249988" ofsY="0" addTrRdDist="0" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="0" />
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="0" />
 	</paged>
-	<cam pos="128.631 33.7595 77.0882" dir="-0.864981 -0.306548 -0.397286" />
+	<cam pos="135.43 44.2212 -79.1919" dir="-0.914944 -0.365522 0.171133" />
 	<objects />
 </scene>
