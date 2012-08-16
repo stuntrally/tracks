@@ -3,12 +3,12 @@
 	<dim tcMul="0.25" lenDim="2" widthSteps="6" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="800" lodPntLen="120" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5 21.8241" iDir="-1" iChk1="17" />
-	<stats length="1881.13" width="7.69185" height="78.3079" onTer="36.8628" pipes="16.7088" yaw="0" pitch="0" roll="0" />
+	<stats length="1885.12" width="7.6917" height="78.1204" onTer="36.7897" pipes="16.6784" yaw="0" pitch="0" roll="0" />
 	<txt desc="Tutorial track, with various road elements." />
 	<P pos="49.0202 0 -157.962" w="7.624" />
 	<P pos="10.6353 0 -199.902" w="7.624" chkR="1.988" />
 	<P pos="-40.4498 0 -192.446" w="7.624" />
-	<P pos="-84.0248 0 -151.951" w="7.624" a="0" ar="0" aT="2" mtr="1" chkR="2.128" />
+	<P pos="-84.0227 0 -151.957" w="7.624" a="0" ar="0" aT="2" mtr="1" chkR="2.128" />
 	<P pos="-128.479 8.55163 -97.3666" w="8.5304" onTer="0" a="0" ar="0" aT="2" pipe="1" mtr="1" />
 	<P pos="-159.425 11.744 -74.593" w="8.5304" onTer="0" a="0" ar="0" aT="2" pipe="1" mtr="1" />
 	<P pos="-188.329 11.744 -69.6319" w="8.5304" onTer="0" a="0" ar="0" aT="2" pipe="1" mtr="1" chkR="2.02" />
@@ -40,7 +40,7 @@
 	<P pos="-45.199 0 150.449" w="7.624" mtr="1" chkR="1.868" />
 	<P pos="35.662 0 182.131" w="7.624" mtr="1" />
 	<P pos="109.223 0 172.761" w="7.624" mtr="1" chkR="2.404" />
-	<P pos="153.637 0 136.82" w="7.624" mtr="1" />
+	<P pos="164.263 0 144.481" w="7.624" mtr="1" />
 	<P pos="187.59 0 97.2675" w="7.624" mtr="1" chkR="2.412" />
 	<P pos="171.296 0 25.4517" w="7.624" mtr="1" />
 	<P pos="136.671 0 -28.8305" w="8.192" a="34.503" ar="0" aT="1" mtr="1" chkR="1.52" />
