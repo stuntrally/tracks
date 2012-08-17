@@ -35,6 +35,15 @@ ID = 5
 RollResistanceCoefficient = 5.000000
 RollingDrag = 90.000000
 
+[ E ]
+BumpAmplitude = 0.100000
+BumpWaveLength = 16.000000
+FrictionNonTread = 0.500000
+FrictionTread = 0.600000
+ID = 2
+RollResistanceCoefficient = 5.000000
+RollingDrag = 120.000000
+
 [ L_0 ]
 BumpAmplitude = 0.110000
 BumpWaveLength = 12.000000
