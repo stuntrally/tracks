@@ -1,4 +1,5 @@
 <scene>
+	<car tires="0" />
 	<sky material="sky/gray_clouds" rainName="RainFine" rainEmit="1320" rain2Name="RainHeavy" rain2Emit="1695" />
 	<fog mode="lin" color="0.63 0.65 0.67" exp="0" linStart="101.25" linEnd="485.113" />
 	<light sceneryId="0" pitch="35.2643" yaw="45" ambient="0.5 0.5 0.5" diffuse="0.6 0.6 0.6" specular="0.5 0.5 0.5" />
@@ -26,5 +27,15 @@
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 	</paged>
 	<cam pos="264.8 33.5624 23.3818" dir="-0.87275 -0.202372 -0.444245" />
-	<objects />
+	<objects>
+		<o name="big_tire" pos="192.39 -13.3037 -6.17975" rot="-0.705192 0.706877 -0.0512428 -0.0200842" />
+		<o name="big_tire" pos="167.482 -19.9795 -5.91073" rot="0.706886 -0.704607 0.0447629 0.0428754" />
+		<o name="big_tire" pos="82.6274 79.5163 -6.86213" rot="0.746641 -0.664987 0.00357905 -0.0175238" />
+		<o name="big_tire" pos="56.2014 85.5209 -7.63078" rot="0.709457 -0.704641 0.0080155 -0.00936317" />
+		<o name="big_tire" pos="68.9643 -198.189 -7.65446" rot="0.707451 -0.706109 0.0222932 -0.0206423" />
+		<o name="crate2s" pos="-38.0184 31.6334 -8.00991" rot="0.907694 -0.419019 -0.0225267 0.00270618" />
+		<o name="crate2s" pos="-61.1244 -23.5408 -9.09749" rot="0.723621 -0.689808 -0.0231105 0.00176679" />
+		<o name="crate2s" pos="-49.6108 -97.0044 -8.39795" rot="-0.684244 0.728611 -0.0104148 -0.0287627" />
+		<o name="big_tire" pos="76.6735 -154.472 -5.92471" rot="0.715559 -0.695413 0.00327302 -0.0660693" />
+	</objects>
 </scene>
