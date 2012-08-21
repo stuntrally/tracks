@@ -3,7 +3,7 @@
 	<dim tcMul="0.25" lenDim="2" widthSteps="6" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5.048 6.97601" iDir="-1" iChk1="25" />
-	<stats length="1963.22" width="7.19656" height="15.8989" onTer="25.7767" pipes="0" yaw="0" pitch="0" roll="0" />
+	<stats length="1963.28" width="7.19656" height="15.7534" onTer="25.776" pipes="0" yaw="0" pitch="0" roll="0" />
 	<txt desc="A winding track with narrow bridged road." />
 	<P pos="147.448 0 -70.4497" w="7.216" />
 	<P pos="127.876 0 -109.213" w="7.216" chkR="1.524" />
@@ -13,7 +13,7 @@
 	<P pos="-44.9257 0 -137.32" w="7.216" />
 	<P pos="-87.7715 0 -130.102" w="7.216" chkR="1.548" />
 	<P pos="-116.335 0 -115.459" w="7.216" />
-	<P pos="-133.629 0 -89.221" w="7.216" a="-16.14" ar="0" aT="0" />
+	<P pos="-133.629 0 -89.221" w="7.216" a="-16.14" ar="2.931" aT="0" />
 	<P pos="-136.382 4.80664 -59.7938" w="7.216" onTer="0" a="0" ar="0" aT="0" />
 	<P pos="-128.272 7.83676 -30.5851" w="7.216" onTer="0" a="0" ar="0" aT="0" />
 	<P pos="-112.882 10.2526 5.42549" w="7.216" onTer="0" a="23.52" ar="0" aT="0" />
