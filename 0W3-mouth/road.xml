@@ -4,7 +4,7 @@
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5 9.54402" iDir="-1" iChk1="29" />
 	<stats length="1384.9" width="9" height="29.609" onTer="0" pipes="0" yaw="0" pitch="0" roll="0" />
-	<txt desc="Fast, winding but easy route." />
+	<txt desc="Fast, winding and banked but easy route." />
 	<P pos="-51.7743 0 250.794" w="9" chkR="1.348" />
 	<P pos="-87.5234 0 248.726" w="9" />
 	<P pos="-117.99 0 227.874" w="9" />
