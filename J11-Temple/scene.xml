@@ -1,7 +1,7 @@
 <scene>
 	<car tires="0" />
 	<sky material="sky/blue_clouds" />
-	<fog mode="lin" color="0.73 0.86 1" exp="0" linStart="299.998" linEnd="1600" />
+	<fog mode="lin" color="0.8 0.86 0.7" exp="0" linStart="101.25" linEnd="344.45" />
 	<light sceneryId="0" pitch="42.8756" yaw="21.8013" ambient="0.6 0.6 0.6" diffuse="0.75 0.75 0.73" specular="0.99 0.99 0.97" />
 	<fluids>
 		<fluid name="water green" pos="0 -4.6 0" rot="0 0 0" size="180 40 180" tile="0.01 0.01" />
@@ -28,6 +28,16 @@
 		<layer on="0" name="" dens="0.0999996" minScale="0.0999983" maxScale="0.249999" ofsY="0" addTrRdDist="0" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 	</paged>
-	<cam pos="98.3035 34.6901 75.7192" dir="-0.83391 -0.436684 -0.337492" />
-	<objects />
+	<cam pos="129.357 69.3809 67.5969" dir="-0.827502 -0.461306 -0.320056" />
+	<objects>
+		<o name="big_tire" pos="65.9051 76.1991 6.42142" rot="0.713567 -0.689804 0.0428544 -0.114699" />
+		<o name="big_tire" pos="67.7198 69.7247 6.17564" rot="-0.69599 0.709522 -0.0453956 0.100578" />
+		<o name="big_tire" pos="69.6899 -60.262 -3.63386" rot="0.70018 -0.699017 0.140402 -0.0375561" />
+		<o name="big_tire" pos="51.245 -78.1915 -2.237" rot="-0.674339 0.722418 -0.152075 -0.0159177" />
+		<o name="plastic_big" pos="-95.8646 43.084 0.414691" rot="-0.706869 0.707203 0.0139821 -0.00228861" />
+		<o name="plastic_big_hvy" pos="-95.2294 47.746 0.601119" rot="-0.706212 0.707825 0.0117067 -0.0105325" />
+		<o name="plastic_big" pos="65.3507 25.5507 3.49486" rot="0.706264 -0.700062 -0.00235208 -0.105353" />
+		<o name="plastic_big" pos="61.9049 -70.5723 -2.67974" rot="-0.64546 0.738522 -0.193048 -0.0264385" />
+		<o name="mayan_temple" pos="-52.4735 35.7528 0.112566" rot="-0.707107 0.707107 5.96046e-008 -5.96046e-008" sc="3.04623 3.04623 3.04623" />
+	</objects>
 </scene>
