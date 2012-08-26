@@ -1,4 +1,5 @@
 <scene>
+	<car tires="0" />
 	<sky material="sky/light_blue" />
 	<fog mode="lin" color="0.7 0.95 1" exp="0" linStart="295.255" linEnd="1007.98" />
 	<light sceneryId="0" pitch="58.1386" yaw="73.5761" ambient="0.44 0.44 0.44" diffuse="0.6 0.6 0.6" specular="0.7 0.7 0.7" />
@@ -15,17 +16,38 @@
 		<texture road="1" dust="0.2" dustS="0.5" mud="0" smoke="0" tclr="0.5 0.44 0.3 0.5" />
 		<par dust="Dust" mud="Mud" smoke="Smoke" />
 	</terrain>
-	<paged densGrass="0.006" densTrees="0.4" grMtr="grassSavanna" grClr="grClrSavanna.png" grPage="60" grDist="60" grMinSx="0.7" grMinSy="0.7" grMaxSx="1.25" grMaxSy="1.3" grSwayDistr="3" grSwayLen="0.3" grSwaySpeed="0.4" grDensSmooth="6" grTerMaxAngle="30" trPage="400" trDist="420" trDistImp="800" trRdDist="3">
-		<layer on="1" name="tree.07.mesh" dens="0.0777678" minScale="0.416" maxScale="0.986157" ofsY="0" addTrRdDist="5" windFx="0.699969" windFy="0.00999503" maxTerAng="30" minTerH="-2" />
-		<layer on="1" name="palm.mesh" dens="0.199788" minScale="0.503928" maxScale="2.91862" ofsY="0" addTrRdDist="3" windFx="0.246534" windFy="0.0229909" maxTerAng="30" minTerH="-2" />
-		<layer on="1" name="farn1.mesh" dens="0.34" minScale="0.110814" maxScale="0.435684" ofsY="0" addTrRdDist="2" windFx="7.29999" windFy="0.0599931" maxTerAng="30" minTerH="-4" />
-		<layer on="1" name="farn2.mesh" dens="0.34" minScale="0.136625" maxScale="0.406435" ofsY="0" addTrRdDist="2" windFx="7.29999" windFy="0.0599941" maxTerAng="30" minTerH="-4" />
-		<layer on="1" name="rock.05.mesh" dens="0.0305751" minScale="0.0299992" maxScale="0.209997" ofsY="0" addTrRdDist="4" windFx="0" windFy="0" maxTerAng="30" minTerH="-3" />
-		<layer on="1" name="rock.07.mesh" dens="0.0284247" minScale="0.0299992" maxScale="0.209997" ofsY="0" addTrRdDist="5" windFx="0" windFy="0" maxTerAng="30" minTerH="-3" />
-		<layer on="0" name="" dens="0.0999996" minScale="0.0999994" maxScale="0.249999" ofsY="0" addTrRdDist="0" windFx="0" windFy="0" maxTerAng="30" minTerH="-100" />
-		<layer on="0" name="" dens="0.0999996" minScale="0.0999994" maxScale="0.249999" ofsY="0" addTrRdDist="0" windFx="0" windFy="0" maxTerAng="30" minTerH="-100" />
-		<layer on="0" name="" dens="0.0999996" minScale="0.0999994" maxScale="0.249999" ofsY="0" addTrRdDist="0" windFx="0" windFy="0" maxTerAng="30" minTerH="-100" />
-		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" windFx="0" windFy="0" maxTerAng="30" minTerH="-100" />
+	<paged densGrass="0.006" densTrees="0.4" grMtr="grassSavanna" grClr="grClrSavanna.png" grPage="60" grDist="60" grMinSx="0.7" grMinSy="0.7" grMaxSx="1.25" grMaxSy="1.3" grSwayDistr="3" grSwayLen="0.3" grSwaySpeed="0.4" grDensSmooth="6" grTerMaxAngle="30" grTerMinHeight="-200" grTerMaxHeight="200" trPage="400" trDist="420" trDistImp="800" trRdDist="3">
+		<layer on="1" name="tree.07.mesh" dens="0.0777678" minScale="0.416" maxScale="0.986157" ofsY="0" addTrRdDist="5" windFx="0.699969" windFy="0.00999503" maxTerAng="30" minTerH="-2" maxTerH="100" maxDepth="5" />
+		<layer on="1" name="palm.mesh" dens="0.199788" minScale="0.503928" maxScale="2.91862" ofsY="0" addTrRdDist="3" windFx="0.246534" windFy="0.0229909" maxTerAng="30" minTerH="-2" maxTerH="100" maxDepth="5" />
+		<layer on="1" name="farn1.mesh" dens="0.34" minScale="0.110814" maxScale="0.435684" ofsY="0" addTrRdDist="2" windFx="7.29999" windFy="0.0599931" maxTerAng="30" minTerH="-4" maxTerH="100" maxDepth="5" />
+		<layer on="1" name="farn2.mesh" dens="0.34" minScale="0.136625" maxScale="0.406435" ofsY="0" addTrRdDist="2" windFx="7.29999" windFy="0.0599941" maxTerAng="30" minTerH="-4" maxTerH="100" maxDepth="5" />
+		<layer on="1" name="rock.05.mesh" dens="0.0305751" minScale="0.0299992" maxScale="0.209997" ofsY="0" addTrRdDist="4" windFx="0" windFy="0" maxTerAng="30" minTerH="-3" maxTerH="100" maxDepth="5" />
+		<layer on="1" name="rock.07.mesh" dens="0.0284247" minScale="0.0299992" maxScale="0.209997" ofsY="0" addTrRdDist="5" windFx="0" windFy="0" maxTerAng="30" minTerH="-3" maxTerH="100" maxDepth="5" />
+		<layer on="0" name="" dens="0.0999996" minScale="0.0999994" maxScale="0.249999" ofsY="0" addTrRdDist="0" windFx="0" windFy="0" maxTerAng="30" minTerH="-100" maxTerH="100" maxDepth="5" />
+		<layer on="0" name="" dens="0.0999996" minScale="0.0999994" maxScale="0.249999" ofsY="0" addTrRdDist="0" windFx="0" windFy="0" maxTerAng="30" minTerH="-100" maxTerH="100" maxDepth="5" />
+		<layer on="0" name="" dens="0.0999996" minScale="0.0999994" maxScale="0.249999" ofsY="0" addTrRdDist="0" windFx="0" windFy="0" maxTerAng="30" minTerH="-100" maxTerH="100" maxDepth="5" />
+		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" windFx="0" windFy="0" maxTerAng="30" minTerH="-100" maxTerH="100" maxDepth="5" />
 	</paged>
 	<cam pos="-291.445 38.3729 142.71" dir="0.394388 -0.158114 -0.905239" />
+	<objects>
+		<o name="plastic_big" pos="140.67 78.7745 0.917925" rot="-0.482644 0.875692 -0.0122137 0.00827143" />
+		<o name="plastic_big" pos="126.053 95.1964 0.689518" rot="-0.476361 0.879238 -0.000364507 0.00457793" />
+		<o name="plastic_big" pos="-73.5469 98.2451 0.539321" rot="-0.480019 0.877241 -0.00550056 0.000478153" />
+		<o name="plastic_big" pos="-243.527 -142.983 -0.0395833" rot="-0.489485 0.871637 -0.0189507 -0.0171635" />
+		<o name="plastic_big" pos="-251.555 -135.676 -0.222449" rot="-0.477647 0.876242 -0.0389597 -0.0503471" />
+		<o name="fuel_can" pos="38.3328 -150.234 5.45489" rot="-0.482952 0.875639 0.00323663 0.00166056" />
+		<o name="crate2m" pos="-119.998 47.1556 1.50401" rot="-0.702932 0.711089 -0.0136022 -0.00727206" />
+		<o name="crate2m" pos="-100.536 83.9424 0.787887" rot="-0.263753 0.964544 -0.008198 -0.00470783" />
+		<o name="crate2m" pos="-107.122 76.8945 0.916654" rot="-0.466232 0.884644 -0.00290642 -0.00502046" />
+		<o name="crate2s" pos="-119.948 46.9483 2.30768" rot="-0.453943 0.890897 -0.0151795 -0.00280731" />
+		<o name="crate2s" pos="-108.372 74.4968 0.797697" rot="-0.672364 0.740201 -0.00110238 -0.00528103" />
+		<o name="crate2s" pos="-105.375 78.1488 0.745112" rot="0.796112 -0.605117 0.000789048 0.00609792" />
+		<o name="crate2s" pos="-101.435 81.2218 0.68586" rot="-0.00391889 0.00575759 0.524644 0.851293" />
+		<o name="crate2s" pos="-113.416 39.2133 1.61264" rot="-0.684188 0.728925 -0.0205859 -0.0114599" />
+		<o name="plastic_big" pos="-134.98 -96.4585 3.68537" rot="-0.669786 0.742401 -0.00981197 -0.0114424" />
+		<o name="plastic_big" pos="124.808 -126.861 4.24481" rot="-0.695828 0.718123 -0.00533214 -0.00968315" />
+		<o name="plastic_big" pos="-244.27 188.154 0.756061" rot="-0.686866 0.726764 -0.000184306 0.00536466" />
+		<o name="plastic_big" pos="199.608 198.422 4.86264" rot="-0.683632 0.729745 0.00711932 0.00827801" />
+		<o name="fuel_can" pos="39.0244 -180.92 5.70802" rot="-0.580976 0.81271 -0.0313958 0.0313652" />
+	</objects>
 </scene>

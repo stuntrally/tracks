@@ -1,4 +1,5 @@
 <scene>
+	<car tires="0" />
 	<sky material="sky/light_blue" />
 	<fog mode="lin" color="0.73 0.86 1" exp="0" linStart="436.464" linEnd="1638.44" />
 	<light sceneryId="0" pitch="44.9994" yaw="-90" ambient="0.55 0.55 0.55" diffuse="0.85 0.85 0.82" specular="0.99 0.99 0.97" />
@@ -13,7 +14,7 @@
 		<texture road="1" dust="0" dustS="0.2" mud="0" smoke="0" tclr="0.4 0.2 0.1 0.8" />
 		<par dust="Adust" mud="Mud" smoke="Smoke" />
 	</terrain>
-	<paged densGrass="0.1" densTrees="0.3" grMtr="grassAustralia" grClr="grClrAustralia.png" grPage="100" grDist="100" grMinSx="0.7" grMinSy="0.7" grMaxSx="1.05" grMaxSy="1.2" grSwayDistr="4" grSwayLen="0.2" grSwaySpeed="0.5" grDensSmooth="6" grTerMaxAngle="30" grTerMaxHeight="200" trPage="200" trDist="200" trDistImp="800" trRdDist="2">
+	<paged densGrass="0.1" densTrees="0.3" grMtr="grassAustralia" grClr="grClrAustralia.png" grPage="100" grDist="100" grMinSx="0.7" grMinSy="0.7" grMaxSx="1.05" grMaxSy="1.2" grSwayDistr="4" grSwayLen="0.2" grSwaySpeed="0.5" grDensSmooth="6" grTerMaxAngle="30" grTerMinHeight="-200" grTerMaxHeight="200" trPage="200" trDist="200" trDistImp="800" trRdDist="2">
 		<layer on="1" name="fir05.mesh" dens="0.249998" minScale="0.0399916" maxScale="0.0999971" ofsY="0" addTrRdDist="2" windFx="2.79993" windFy="0.0999659" maxTerAng="30.7208" minTerH="-30" maxTerH="13" maxDepth="5" />
 		<layer on="1" name="fir06.mesh" dens="0.449997" minScale="0.0399916" maxScale="0.119999" ofsY="0" addTrRdDist="2" windFx="1.79999" windFy="0.0999925" maxTerAng="29.8072" minTerH="-30" maxTerH="13" maxDepth="5" />
 		<layer on="0" name="fir14.mesh" dens="0.249998" minScale="0.0599904" maxScale="0.0899888" ofsY="0" addTrRdDist="4" windFx="1.79999" windFy="0.0999925" maxTerAng="30.9513" minTerH="-30" maxTerH="13" maxDepth="5" />
@@ -26,5 +27,21 @@
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 	</paged>
 	<cam pos="394.767 157.625 6.03717" dir="-0.929814 -0.367527 0.0195745" />
-	<objects />
+	<objects>
+		<o name="fuel_can" pos="-67.9338 -121.778 0.562754" rot="-0.58794 0.80887 -0.00464674 -0.00589724" />
+		<o name="fuel_can" pos="-61.351 -127.519 0.567422" rot="-0.530507 0.847646 0.00148958 0.00752488" />
+		<o name="fuel_can" pos="-77.7119 -112.879 0.305621" rot="-0.520671 0.853694 -0.0103923 0.000257531" />
+		<o name="fuel_can" pos="-81.4705 -135.768 1.39491" rot="-0.584738 0.810878 -0.0168668 -0.0165164" />
+		<o name="fuel_can" pos="15.9148 -18.5448 0.543183" rot="-0.491239 0.871016 -0.00125634 -0.00381213" />
+		<o name="fuel_can" pos="8.43053 -9.08381 0.542953" rot="-0.479195 0.877705 0.000961917 -0.00240498" />
+		<o name="fuel_can" pos="41.5658 -50.1336 1.28279" rot="-0.526716 0.849222 -0.0176571 -0.0328821" />
+		<o name="fuel_can" pos="22.4463 -43.4067 0.71834" rot="-0.542592 0.839635 -0.0245869 0.00156651" />
+		<o name="fuel_can" pos="9.49574 -29.4054 0.559655" rot="-0.525876 0.850561 0.000196484 -0.00032231" />
+		<o name="fuel_can" pos="-103.193 101.972 0.585352" rot="-0.556006 0.83068 -0.0277837 -0.00749651" />
+		<o name="fuel_can" pos="-105.351 104.661 0.600255" rot="-0.506771 0.861959 0.0127905 -0.00684922" />
+		<o name="fuel_can" pos="-95.2037 110.057 0.53305" rot="-0.530453 0.847614 -0.0128232 0.00242509" />
+		<o name="fuel_can" pos="119.238 228.032 1.44027" rot="-0.533468 0.841194 0.0877672 0.0100509" />
+		<o name="fuel_can" pos="151.625 224.965 1.77768" rot="-0.508332 0.856001 0.058487 0.0737524" />
+		<o name="fuel_can" pos="306.259 12.5273 0.531692" rot="-0.536356 0.843885 0.00643549 -0.0117861" />
+	</objects>
 </scene>

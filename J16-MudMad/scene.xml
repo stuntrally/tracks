@@ -1,4 +1,5 @@
 <scene>
+	<car tires="0" />
 	<sky material="sky/blue_clouds" />
 	<fog mode="lin" color="0.73 0.86 1" exp="0" linStart="41.6323" linEnd="470.594" />
 	<light sceneryId="12" pitch="43.7404" yaw="30.6868" ambient="0.45 0.45 0.4" diffuse="0.7 0.7 0.7" specular="0.9 0.9 0.85" />
@@ -22,7 +23,7 @@
 		<texture road="1" dust="0" dustS="0.2" mud="0.2" smoke="0" tclr="0.4 0.36 0.16 0.8" />
 		<par dust="Dust" mud="Mud" smoke="Smoke" />
 	</terrain>
-	<paged densGrass="0.2" densTrees="0.4" grMtr="grassJungle" grClr="grClrSavanna.png" grPage="80" grDist="80" grMinSx="0.7" grMinSy="0.7" grMaxSx="1.05" grMaxSy="1.2" grSwayDistr="4" grSwayLen="0.2" grSwaySpeed="0.5" grDensSmooth="1" grTerMaxAngle="20" grTerMaxHeight="10" trPage="100" trDist="100" trDistImp="800" trRdDist="1">
+	<paged densGrass="0.2" densTrees="0.4" grMtr="grassJungle" grClr="grClrSavanna.png" grPage="80" grDist="80" grMinSx="0.7" grMinSy="0.7" grMaxSx="1.05" grMaxSy="1.2" grSwayDistr="4" grSwayLen="0.2" grSwaySpeed="0.5" grDensSmooth="1" grTerMaxAngle="20" grTerMinHeight="-200" grTerMaxHeight="10" trPage="100" trDist="100" trDistImp="800" trRdDist="1">
 		<layer on="1" name="tree.07.mesh" dens="0.0499994" minScale="2.22402" maxScale="2.74705" ofsY="0" addTrRdDist="6" windFx="0.299995" windFy="0.00399756" maxTerAng="34.0269" minTerH="-100" maxTerH="10" maxDepth="5" />
 		<layer on="1" name="tree.07.mesh" dens="0.124998" minScale="0.849972" maxScale="1.15" ofsY="0" addTrRdDist="2" windFx="0.699996" windFy="0.00999471" maxTerAng="38.5258" minTerH="-100" maxTerH="10" maxDepth="5" />
 		<layer on="1" name="tree.09.mesh" dens="0.124998" minScale="0.849972" maxScale="1.15" ofsY="0" addTrRdDist="2" windFx="0.599985" windFy="0.0099963" maxTerAng="39.3028" minTerH="-100" maxTerH="10" maxDepth="5" />
@@ -35,4 +36,23 @@
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 	</paged>
 	<cam pos="103.097 64.5637 -101.806" dir="-0.451865 -0.4525 0.768808" />
+	<objects>
+		<o name="crate2s" pos="81.019 76.2239 0.396917" rot="0.373036 0.927671 0.016358 -0.00141364" />
+		<o name="crate2s" pos="94.8562 17.4905 0.0300651" rot="0.11325 0.992701 -0.0370651 0.0185765" />
+		<o name="crate2s" pos="87.3236 17.4628 0.129707" rot="0.010989 0.996429 -0.0837096 0.00127339" />
+		<o name="big_tire" pos="37.7967 5.8906 0.436401" rot="-0.00197272 0.999998 -0.000608309 0.000304506" />
+		<o name="crate2s" pos="-30.646 70.7874 -0.275064" rot="0.0365079 0.998094 -0.0158505 -0.0471709" />
+		<o name="crate" pos="-36.2263 76.522 0.424903" rot="-0.0656105 0.995036 0.0350424 -0.066115" />
+		<o name="crate" pos="-67.3638 46.9154 6.85615" rot="0.0558111 0.99472 -0.0421066 -0.0751306" />
+		<o name="plastic_big" pos="-73.1284 59.5911 7.50961" rot="-0.534363 0.842997 0.0385845 -0.0482056" />
+		<o name="crate2s" pos="-60.4722 84.3141 5.26153" rot="-0.687889 0.706911 0.156717 -0.0502531" />
+		<o name="crate2s" pos="12.0049 38.1815 6.4794" rot="-0.484006 0.868189 0.0588137 0.092338" />
+		<o name="crate2s" pos="2.81529 27.7953 6.37241" rot="-0.606026 0.783131 0.0404004 -0.133436" />
+		<o name="crate2s" pos="-32.5291 -100.345 0.214985" rot="-0.569094 0.821482 -0.0360458 0.000856804" />
+		<o name="crate2m" pos="-89.9127 -69.4019 5.44996" rot="-0.536186 0.838127 0.0624534 0.0783992" />
+		<o name="crate2m" pos="-90.9984 -48.6531 6.37746" rot="-0.535497 0.840277 0.081577 0.022848" />
+		<o name="crate2s" pos="-101.588 -48.5445 7.12679" rot="-0.576805 0.809052 0.0590313 -0.0961556" />
+		<o name="crate2s" pos="43.8396 -55.8958 8.08502" rot="-0.516424 0.853647 -0.0536713 0.0413884" />
+		<o name="crate2s" pos="89.3972 -44.4129 10.6951" rot="-0.688059 0.15442 -0.36782 0.606167" />
+	</objects>
 </scene>

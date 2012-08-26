@@ -1,4 +1,5 @@
 <scene>
+	<car tires="0" />
 	<sky material="sky/blue_clouds" />
 	<fog mode="lin" color="0.57 0.6 0.63" exp="0" linStart="316.821" linEnd="1267.29" />
 	<light sceneryId="0" pitch="47.2388" yaw="57.3124" ambient="0.5 0.5 0.45" diffuse="0.66 0.63 0.5" specular="0.5 0.5 0.5" />
@@ -13,7 +14,7 @@
 		<texture road="1" dust="0" dustS="1" mud="0" smoke="0" tclr="0.3 0.3 0.3 0.5" />
 		<par dust="Dust" mud="Mud" smoke="Smoke" />
 	</terrain>
-	<paged densGrass="0.1" densTrees="0.25" grMtr="grassSavanna" grClr="grClrDesert.png" grPage="100" grDist="100" grMinSx="0.7" grMinSy="0.7" grMaxSx="1.05" grMaxSy="1.2" grSwayDistr="4" grSwayLen="0.2" grSwaySpeed="0.5" grDensSmooth="1" grTerMaxAngle="30" grTerMaxHeight="10" trPage="100" trDist="100" trDistImp="800" trRdDist="1">
+	<paged densGrass="0.1" densTrees="0.25" grMtr="grassSavanna" grClr="grClrDesert.png" grPage="100" grDist="100" grMinSx="0.7" grMinSy="0.7" grMaxSx="1.05" grMaxSy="1.2" grSwayDistr="4" grSwayLen="0.2" grSwaySpeed="0.5" grDensSmooth="1" grTerMaxAngle="30" grTerMinHeight="-200" grTerMaxHeight="10" trPage="100" trDist="100" trDistImp="800" trRdDist="1">
 		<layer on="1" name="fir06.mesh" dens="0.368389" minScale="0.0399916" maxScale="0.108628" ofsY="0" addTrRdDist="0" windFx="1.79999" windFy="0.0999659" maxTerAng="34.5127" minTerH="-200" maxTerH="30" maxDepth="0" />
 		<layer on="1" name="fir05.mesh" dens="0.392647" minScale="0.0473692" maxScale="0.108629" ofsY="0" addTrRdDist="0" windFx="1.61091" windFy="0.0799488" maxTerAng="35.992" minTerH="-200" maxTerH="30" maxDepth="0" />
 		<layer on="1" name="fir05w.mesh" dens="0.718113" minScale="0.0346606" maxScale="0.0859713" ofsY="0" addTrRdDist="1" windFx="1.14779" windFy="0.046916" maxTerAng="22.7963" minTerH="47" maxTerH="63" maxDepth="0" />
@@ -26,4 +27,38 @@
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="0" />
 	</paged>
 	<cam pos="-210.627 133.14 -233.626" dir="0.610853 -0.383163 0.692853" />
+	<objects>
+		<o name="plastic_big" pos="56.1174 -92.9424 40.4519" rot="-0.346202 0.938124 0.00136858 -0.00807471" />
+		<o name="plastic_big" pos="47.8762 -84.3147 40.4608" rot="-0.361853 0.932059 -0.0167402 -0.00693946" />
+		<o name="plastic_big_hvy" pos="61.6498 -32.2961 49.7327" rot="-0.368143 0.928877 -0.0406066 0.00312241" />
+		<o name="plastic_big" pos="56.4152 -33.1561 50.4169" rot="-0.347416 0.937535 -0.016493 -0.00759031" />
+		<o name="plastic_big" pos="44.8106 -32.5724 50.4509" rot="-0.361636 0.93201 0.0170866 -0.0168705" />
+		<o name="plastic_big" pos="-34.2913 33.9046 51.5065" rot="-0.368513 0.928881 0.0358584 0.00966318" />
+		<o name="plastic_big" pos="44.846 38.212 61.0558" rot="-0.367643 0.929907 0.00863023 0.00606125" />
+		<o name="fuel_can" pos="53.1983 -41.0566 50.5495" rot="-0.350435 0.936393 0.00989113 -0.0162846" />
+		<o name="fuel_can" pos="34.7686 -92.3287 40.5855" rot="-0.334013 0.942374 0.0184311 0.00518978" />
+		<o name="wood_block" pos="-74.8297 -12.6743 -9.97062" rot="0.721174 -0.692753 -0.00113894 -0.000233731" />
+		<o name="wood_block" pos="-61.4118 -9.31539 -9.96815" rot="-0.681544 0.731777 2.47542e-005 2.48215e-005" />
+		<o name="wood_block" pos="-6.38927 -73.3345 -14.5639" rot="0.99001 -0.140541 -0.000114631 -0.0113474" />
+		<o name="wood_block" pos="-35.0976 -103.144 -16.5948" rot="0.611444 0.787604 0.0161932 0.0745223" />
+		<o name="crate2m" pos="-74.0925 -86.4702 -23.4967" rot="0.625346 0.775258 0.00551793 0.0888049" />
+		<o name="crate2m" pos="-93.4603 82.3265 -58.7341" rot="0.606935 0.790726 -0.0653324 -0.0459792" />
+		<o name="crate2m" pos="-4.93636 82.6692 -61.0718" rot="0.636314 0.770028 -0.0177673 0.0429642" />
+		<o name="crate2m" pos="1.85992 91.5347 -61.6673" rot="0.510832 0.858407 -0.0419689 0.0206329" />
+		<o name="crate2m" pos="5.76321 86.385 -61.319" rot="0.602078 0.797349 -0.0414442 0.00433006" />
+		<o name="crate2m" pos="65.6578 -63.0529 -8.65166" rot="0.592759 0.801017 0.0114828 0.0829214" />
+		<o name="crate2m" pos="78.7319 -55.6085 -7.14032" rot="0.581733 0.812298 0.0406002 -0.0105156" />
+		<o name="crate2m" pos="76.0128 -58.8753 -7.44863" rot="0.335772 0.940054 0.0130711 0.058174" />
+		<o name="crate2s" pos="83.4911 -33.7445 -5.31333" rot="0.290902 0.956557 0.0139235 -0.0134461" />
+		<o name="crate2s" pos="83.5965 -33.6248 -4.66214" rot="0.0228579 0.999551 0.0170269 -0.00919675" />
+		<o name="crate" pos="80.2319 -4.18023 -2.48574" rot="-0.389344 0.921069 0.00560284 0.00339643" />
+		<o name="crate" pos="80.2957 -4.33422 -1.73756" rot="0.827071 -0.562059 -0.00287035 -0.00590964" />
+		<o name="crate2s" pos="81.5499 -6.35527 -2.58444" rot="0.830017 -0.5574 -0.0019163 -0.0193305" />
+		<o name="crate2s" pos="66.256 -2.36608 -2.67899" rot="0.824842 -0.565111 -0.0160923 0.0052218" />
+		<o name="wood_block" pos="-56.2506 5.85516 4.13728" rot="0.660498 0.252523 0.660461 -0.25252" />
+		<o name="wood_block" pos="-60.4079 12.5482 4.04024" rot="2.07168e-007 -2.7148e-006 -0.0198517 0.999803" />
+		<o name="wood_block" pos="-48.853 14.6384 4.04047" rot="-0.256186 0.966627 0.000143417 0.000473956" />
+		<o name="crate2m" pos="-58.8392 9.1312 4.20193" rot="-0.397762 0.917489 -7.40287e-006 -2.6262e-006" />
+		<o name="crate2m" pos="-46.6606 11.8755 4.20233" rot="-0.397589 0.917563 0.000206158 0.000531023" />
+	</objects>
 </scene>

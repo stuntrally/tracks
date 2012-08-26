@@ -16,7 +16,7 @@
 		<texture road="1" dust="0" dustS="0.2" mud="0" smoke="0" tclr="0.3 0.26 0.16 0.5" />
 		<par dust="Dust" mud="Mud" smoke="Smoke" />
 	</terrain>
-	<paged densGrass="0.1" densTrees="0.3" grMtr="grassSavanna" grClr="grClrAustralia.png" grPage="100" grDist="100" grMinSx="0.8" grMinSy="0.7" grMaxSx="1.2" grMaxSy="1" grSwayDistr="4" grSwayLen="0.2" grSwaySpeed="0.5" grDensSmooth="3" grTerMaxAngle="20" grTerMaxHeight="200" trPage="200" trDist="200" trDistImp="800" trRdDist="5">
+	<paged densGrass="0.1" densTrees="0.3" grMtr="grassSavanna" grClr="grClrAustralia.png" grPage="100" grDist="100" grMinSx="0.8" grMinSy="0.7" grMaxSx="1.2" grMaxSy="1" grSwayDistr="4" grSwayLen="0.2" grSwaySpeed="0.5" grDensSmooth="3" grTerMaxAngle="20" grTerMinHeight="-200" grTerMaxHeight="200" trPage="200" trDist="200" trDistImp="800" trRdDist="5">
 		<layer on="1" name="gum_tree.mesh" dens="0.0918052" minScale="0.34048" maxScale="0.92342" ofsY="0" addTrRdDist="1" windFx="0.799976" windFy="0.0139838" maxTerAng="34.3624" minTerH="-10" maxTerH="30" maxDepth="0" />
 		<layer on="1" name="tree.07.mesh" dens="0.0999996" minScale="0.849972" maxScale="1.05" ofsY="0" addTrRdDist="1" windFx="0.699996" windFy="0.00999025" maxTerAng="26.8158" minTerH="-10" maxTerH="30" maxDepth="0" />
 		<layer on="1" name="palm.mesh" dens="0.157095" minScale="0.647028" maxScale="2.03306" ofsY="0" addTrRdDist="2" windFx="0.246534" windFy="0.0229743" maxTerAng="44.4859" minTerH="-10" maxTerH="30" maxDepth="0" />
@@ -29,5 +29,22 @@
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" windFx="0" windFy="0" maxTerAng="30" minTerH="-0.5" maxTerH="100" maxDepth="5" />
 	</paged>
 	<cam pos="99.0296 18.7927 72.9543" dir="-0.88282 -0.141623 -0.44787" />
-	<objects />
+	<objects>
+		<o name="plastic_big" pos="-0.951814 77.0538 1.12992" rot="0.760305 -0.647504 0.0210983 -0.0472088" />
+		<o name="plastic_big" pos="-8.29004 83.1743 1.3355" rot="0.741601 -0.665991 -0.0258736 -0.0762533" />
+		<o name="plastic_big" pos="-19.7129 78.7475 0.457912" rot="0.765431 -0.643009 -0.0118823 -0.0226542" />
+		<o name="plastic_big" pos="-85.0721 -18.2711 -0.773733" rot="0.764614 -0.636914 0.0180584 0.0968455" />
+		<o name="plastic_big" pos="-25.8914 32.209 4.39159" rot="0.767196 -0.641242 0.0129176 -0.0072276" />
+		<o name="plastic_big" pos="-15.5132 28.7997 4.47515" rot="0.767836 -0.640643 0.000235904 -0.00221541" />
+		<o name="plastic_big" pos="-16.7928 18.0291 4.47053" rot="0.769568 -0.638564 0.000705322 0.000949173" />
+		<o name="plastic_big" pos="-4.80153 -10.3274 4.48355" rot="0.765539 -0.643387 0.00165544 0.000411886" />
+		<o name="wood_block" pos="-22.11 -42.9073 0.863639" rot="0.923037 -0.384004 -0.0224152 -0.00642658" />
+		<o name="plastic_barrel" pos="20.3863 -64.3672 0.447788" rot="0.92343 -0.383767 4.50321e-005 5.31513e-005" />
+		<o name="plastic_barrel" pos="2.87291 -79.4958 0.401132" rot="0.911917 -0.406808 0.0403556 0.0358699" />
+		<o name="plastic_barrel" pos="59.7413 -35.6861 0.485907" rot="0.857614 -0.514146 0.00731926 -0.00992719" />
+		<o name="plastic_big" pos="83.0501 18.2118 4.07673" rot="0.922363 -0.375217 -0.0390377 -0.0832755" />
+		<o name="plastic_big" pos="45.3707 21.4651 4.10873" rot="0.926034 -0.373702 0.0420285 -0.0322676" />
+		<o name="plastic_big" pos="33.1331 23.9257 2.63259" rot="0.911744 -0.401653 0.0671409 -0.0537651" />
+		<o name="wood_block" pos="29.0523 13.0059 1.39165" rot="0.932482 0.347157 0.0934587 -0.0349892" />
+	</objects>
 </scene>
