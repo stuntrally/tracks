@@ -1,0 +1,108 @@
+
+[ A ]
+BumpAmplitude = 0.010000
+BumpWaveLength = 20.000000
+FrictionNonTread = 0.970000
+FrictionTread = 0.900000
+ID = 2
+RollResistanceCoefficient = 0.200000
+RollingDrag = 1.000000
+
+[ B ]
+BumpAmplitude = 0.000000
+BumpWaveLength = 10.000000
+FrictionNonTread = 0.950000
+FrictionTread = 1.000000
+ID = 2
+RollResistanceCoefficient = 1.000000
+RollingDrag = 5.000000
+
+[ C ]
+BumpAmplitude = 0.000000
+BumpWaveLength = 10.000000
+FrictionNonTread = 0.900000
+FrictionTread = 1.000000
+ID = 2
+RollResistanceCoefficient = 1.000000
+RollingDrag = 5.000000
+
+[ D ]
+BumpAmplitude = 0.000000
+BumpWaveLength = 10.000000
+FrictionNonTread = 0.900000
+FrictionTread = 1.000000
+ID = 2
+RollResistanceCoefficient = 1.000000
+RollingDrag = 5.000000
+
+[ E ]
+BumpAmplitude = 0.000000
+BumpWaveLength = 10.000000
+FrictionNonTread = 0.900000
+FrictionTread = 1.000000
+ID = 2
+RollResistanceCoefficient = 1.000000
+RollingDrag = 5.000000
+
+[ L_0 ]
+BumpAmplitude = 0.000000
+BumpWaveLength = 10.000000
+FrictionNonTread = 0.950000
+FrictionTread = 1.000000
+ID = 2
+RollResistanceCoefficient = 1.000000
+RollingDrag = 5.000000
+
+[ L_1 ]
+BumpAmplitude = 0.000000
+BumpWaveLength = 10.000000
+FrictionNonTread = 0.900000
+FrictionTread = 1.000000
+ID = 2
+RollResistanceCoefficient = 1.000000
+RollingDrag = 5.000000
+
+[ L_2 ]
+BumpAmplitude = 0.000000
+BumpWaveLength = 10.000000
+FrictionNonTread = 0.900000
+FrictionTread = 1.000000
+ID = 2
+RollResistanceCoefficient = 1.000000
+RollingDrag = 5.000000
+
+[ L_3 ]
+BumpAmplitude = 0.000000
+BumpWaveLength = 10.000000
+FrictionNonTread = 0.900000
+FrictionTread = 1.000000
+ID = 2
+RollResistanceCoefficient = 1.000000
+RollingDrag = 5.000000
+
+[ L_4 ]
+BumpAmplitude = 0.000000
+BumpWaveLength = 10.000000
+FrictionNonTread = 0.900000
+FrictionTread = 1.000000
+ID = 2
+RollResistanceCoefficient = 1.000000
+RollingDrag = 5.000000
+
+[ L_5 ]
+BumpAmplitude = 0.000000
+BumpWaveLength = 10.000000
+FrictionNonTread = 0.900000
+FrictionTread = 1.000000
+ID = 2
+RollResistanceCoefficient = 1.000000
+RollingDrag = 5.000000
+
+[ L_6 ]
+BumpAmplitude = 0.010000
+BumpWaveLength = 20.000000
+FrictionNonTread = 0.970000
+FrictionTread = 0.900000
+ID = 2
+RollResistanceCoefficient = 0.200000
+RollingDrag = 1.000000
