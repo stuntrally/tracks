@@ -1,0 +1,33 @@
+<scene>
+	<car tires="0" />
+	<sky material="sky/light_blue" />
+	<fog mode="lin" color="0.7 0.96 1" exp="0" linStart="535.612" linEnd="1824.05" />
+	<light sceneryId="0" pitch="41.6794" yaw="58.1674" ambient="0.6 0.6 0.6" diffuse="0.9 0.9 0.88" specular="0.99 0.99 0.97" />
+	<fluids>
+		<fluid name="water cyan" pos="468.364 -87.2101 304.728" rot="0 0 0" size="3004.81 40 2849.06" tile="0.004 0.004" />
+	</fluids>
+	<terrain size="1025" triangle="1.45299">
+		<texture on="1" file="desert_1.dds" fnorm="desert_1_nh.dds" scale="5.87196" dust="0.3" dustS="0.2" mud="0.4" smoke="0" tclr="0.36 0.4 0.28 0.7" angMin="0" angMax="22.1053" angSm="20" hMin="-253.947" hMax="269.737" hSm="20" noise="1" nOnly="0" />
+		<texture on="1" file="desert_2.dds" fnorm="desert_2_nh.dds" scale="6.60567" dust="0.35" dustS="0.2" mud="0.4" smoke="0" tclr="0.42 0.36 0.28 0.6" angMin="22.1053" angMax="64.7368" angSm="20" hMin="-300" hMax="300" hSm="20" noise="1" nOnly="0" />
+		<texture on="1" file="jungle_5.dds" fnorm="jungle_5_nh.dds" scale="11" dust="0.25" dustS="0.2" mud="0.5" smoke="0" tclr="0.32 0.32 0.32 0.4" angMin="65.5263" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" noise="1" nOnly="0" />
+		<texture on="0" file="jungle_2.dds" fnorm="jungle_2_nh.dds" scale="10.5" dust="0.3" dustS="0.2" mud="0.5" smoke="0" tclr="0.48 0.3 0.2 0.6" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" noise="1" nOnly="1" />
+		<texture on="0" file="jungle_0.dds" fnorm="jungle_0_nh.dds" scale="4.5" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" noise="1" nOnly="1" />
+		<texture on="0" file="jungle_0.dds" fnorm="jungle_0_nh.dds" scale="4.5" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" noise="1" nOnly="1" />
+		<texture road="1" dust="0" dustS="0.2" mud="0" smoke="0" tclr="0.4 0.36 0.26 0.5" />
+		<par dust="Dust" mud="Mud" smoke="Smoke" />
+	</terrain>
+	<paged densGrass="0.1" densTrees="3" grMtr="grassSavanna" grClr="grClrSavanna.png" grPage="100" grDist="100" grMinSx="1" grMinSy="1" grMaxSx="1.25" grMaxSy="1.3" grSwayDistr="4" grSwayLen="0.2" grSwaySpeed="0.5" grDensSmooth="2" grTerMaxAngle="20" grTerMinHeight="-200" grTerMaxHeight="200" trPage="200" trDist="200" trDistImp="1200" trRdDist="0">
+		<layer on="1" name="gum_tree.mesh" dens="0.0918052" minScale="0.339999" maxScale="1.14" ofsY="0" addTrRdDist="1" windFx="0.799976" windFy="0.013987" maxTerAng="31.553" minTerH="-87.5" maxTerH="78" maxDepth="0" />
+		<layer on="1" name="tree.07.mesh" dens="0.0999996" minScale="0.849972" maxScale="1.15" ofsY="0" addTrRdDist="1" windFx="0.699996" windFy="0.00999049" maxTerAng="25.5579" minTerH="-87.5" maxTerH="75" maxDepth="0" />
+		<layer on="1" name="palm.mesh" dens="0.157095" minScale="0.503928" maxScale="2.9186" ofsY="0" addTrRdDist="1" windFx="0.246534" windFy="0.0229798" maxTerAng="30.625" minTerH="-87.5" maxTerH="76" maxDepth="0" />
+		<layer on="1" name="farn1.mesh" dens="0.0999996" minScale="0.149999" maxScale="0.249999" ofsY="0" addTrRdDist="0" windFx="7.29999" windFy="0.0599931" maxTerAng="42.133" minTerH="-88.5" maxTerH="126" maxDepth="1" />
+		<layer on="1" name="farn2.mesh" dens="0.0797935" minScale="0.149999" maxScale="0.196932" ofsY="0" addTrRdDist="0" windFx="7.29999" windFy="0.0599931" maxTerAng="33.2103" minTerH="-88.5" maxTerH="133" maxDepth="1" />
+		<layer on="1" name="rock.05.mesh" dens="0.0199999" minScale="0.0599937" maxScale="0.244881" ofsY="0" addTrRdDist="3" windFx="0" windFy="0" maxTerAng="29.4845" minTerH="-40" maxTerH="80" maxDepth="5" />
+		<layer on="0" name="rock.07.mesh" dens="0.0199999" minScale="0.0599946" maxScale="0.25436" ofsY="0" addTrRdDist="3" windFx="0" windFy="0" maxTerAng="39.9998" minTerH="-0.5" maxTerH="100" maxDepth="5" />
+		<layer on="0" name="" dens="0.0999996" minScale="0.0999983" maxScale="0.249999" ofsY="0" addTrRdDist="0" windFx="0" windFy="0" maxTerAng="30" minTerH="-0.5" maxTerH="100" maxDepth="5" />
+		<layer on="0" name="" dens="0.0999996" minScale="0.0999983" maxScale="0.249999" ofsY="0" addTrRdDist="0" windFx="0" windFy="0" maxTerAng="30" minTerH="-0.5" maxTerH="34" maxDepth="5" />
+		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" windFx="0" windFy="0" maxTerAng="30" minTerH="-0.5" maxTerH="100" maxDepth="5" />
+	</paged>
+	<cam pos="616.165 73.7099 658.101" dir="-0.851344 -0.160025 -0.499605" />
+	<objects />
+</scene>
