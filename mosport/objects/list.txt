@@ -132,7 +132,7 @@ bluetent.png
 
 #entry 17
 cone0019_cone.dof-00.joe
-cone.png
+conem.png
 1
 0
 0
@@ -148,7 +148,7 @@ cone.png
 
 #entry 18
 cone0020_cone.dof-00.joe
-cone.png
+conem.png
 1
 0
 0
@@ -164,7 +164,7 @@ cone.png
 
 #entry 19
 cone0021_cone.dof-00.joe
-cone.png
+conem.png
 1
 0
 0
@@ -180,7 +180,7 @@ cone.png
 
 #entry 20
 fill0022_cone.dof-00.joe
-cone.png
+conem.png
 1
 0
 0
@@ -324,7 +324,7 @@ grass_01.png
 
 #entry 31
 mosp0031_cone.dof-00.joe
-cone.png
+conem.png
 1
 0
 0
@@ -21028,7 +21028,7 @@ trees_group3c.png
 
 #entry 1332
 tree0388_tree01.dof-00.joe
-tree01.png
+tree01m.png
 0
 0
 0
@@ -21044,7 +21044,7 @@ tree01.png
 
 #entry 1333
 tree0389_tree01.dof-00.joe
-tree01.png
+tree01m.png
 0
 0
 0
@@ -21060,7 +21060,7 @@ tree01.png
 
 #entry 1334
 tree0390_tree01.dof-00.joe
-tree01.png
+tree01m.png
 0
 0
 0
@@ -21076,7 +21076,7 @@ tree01.png
 
 #entry 1335
 tree0391_tree01.dof-00.joe
-tree01.png
+tree01m.png
 0
 0
 0
@@ -21092,7 +21092,7 @@ tree01.png
 
 #entry 1336
 tree0392_tree01.dof-00.joe
-tree01.png
+tree01m.png
 0
 0
 0
@@ -21108,7 +21108,7 @@ tree01.png
 
 #entry 1337
 tree0393_tree01.dof-00.joe
-tree01.png
+tree01m.png
 0
 0
 0
@@ -21124,7 +21124,7 @@ tree01.png
 
 #entry 1338
 tree0394_tree01.dof-00.joe
-tree01.png
+tree01m.png
 0
 0
 0
@@ -21140,7 +21140,7 @@ tree01.png
 
 #entry 1339
 tree0395_tree01.dof-00.joe
-tree01.png
+tree01m.png
 0
 0
 0
@@ -21156,7 +21156,7 @@ tree01.png
 
 #entry 1340
 tree0396_tree01.dof-00.joe
-tree01.png
+tree01m.png
 0
 0
 0
@@ -21172,7 +21172,7 @@ tree01.png
 
 #entry 1341
 tree0397_tree01.dof-00.joe
-tree01.png
+tree01m.png
 0
 0
 0
@@ -21188,7 +21188,7 @@ tree01.png
 
 #entry 1342
 tree0398_tree01.dof-00.joe
-tree01.png
+tree01m.png
 0
 0
 0
@@ -21204,7 +21204,7 @@ tree01.png
 
 #entry 1343
 tree0399_tree01.dof-00.joe
-tree01.png
+tree01m.png
 0
 0
 0
@@ -21220,7 +21220,7 @@ tree01.png
 
 #entry 1344
 tree0400_tree01.dof-00.joe
-tree01.png
+tree01m.png
 0
 0
 0
@@ -21236,7 +21236,7 @@ tree01.png
 
 #entry 1345
 tree0401_tree01.dof-00.joe
-tree01.png
+tree01m.png
 0
 0
 0
@@ -21252,7 +21252,7 @@ tree01.png
 
 #entry 1346
 tree0402_tree01.dof-00.joe
-tree01.png
+tree01m.png
 0
 0
 0
@@ -21268,7 +21268,7 @@ tree01.png
 
 #entry 1347
 tree0403_tree01.dof-00.joe
-tree01.png
+tree01m.png
 0
 0
 0
@@ -21284,7 +21284,7 @@ tree01.png
 
 #entry 1348
 tree0404_tree01.dof-00.joe
-tree01.png
+tree01m.png
 0
 0
 0
@@ -21300,7 +21300,7 @@ tree01.png
 
 #entry 1349
 tree0405_tree01.dof-00.joe
-tree01.png
+tree01m.png
 0
 0
 0
@@ -21316,7 +21316,7 @@ tree01.png
 
 #entry 1350
 tree0406_tree01.dof-00.joe
-tree01.png
+tree01m.png
 0
 0
 0
@@ -21332,7 +21332,7 @@ tree01.png
 
 #entry 1351
 tree0407_tree01.dof-00.joe
-tree01.png
+tree01m.png
 0
 0
 0
@@ -21348,7 +21348,7 @@ tree01.png
 
 #entry 1352
 tree0408_tree01.dof-00.joe
-tree01.png
+tree01m.png
 0
 0
 0
@@ -21364,7 +21364,7 @@ tree01.png
 
 #entry 1353
 tree0409_tree01.dof-00.joe
-tree01.png
+tree01m.png
 0
 0
 0
@@ -21380,7 +21380,7 @@ tree01.png
 
 #entry 1354
 tree0410_tree01.dof-00.joe
-tree01.png
+tree01m.png
 0
 0
 0
@@ -21396,7 +21396,7 @@ tree01.png
 
 #entry 1355
 tree0411_tree01.dof-00.joe
-tree01.png
+tree01m.png
 0
 0
 0
@@ -21412,7 +21412,7 @@ tree01.png
 
 #entry 1356
 tree0412_tree01.dof-00.joe
-tree01.png
+tree01m.png
 0
 0
 0
@@ -21428,7 +21428,7 @@ tree01.png
 
 #entry 1357
 tree0413_tree01.dof-00.joe
-tree01.png
+tree01m.png
 0
 0
 0
@@ -21444,7 +21444,7 @@ tree01.png
 
 #entry 1358
 tree0414_tree01.dof-00.joe
-tree01.png
+tree01m.png
 0
 0
 0
@@ -21460,7 +21460,7 @@ tree01.png
 
 #entry 1359
 tree0415_tree01.dof-00.joe
-tree01.png
+tree01m.png
 0
 0
 0
@@ -21476,7 +21476,7 @@ tree01.png
 
 #entry 1360
 tree0416_tree01.dof-00.joe
-tree01.png
+tree01m.png
 0
 0
 0

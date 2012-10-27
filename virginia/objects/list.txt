@@ -5284,7 +5284,7 @@ roadc.png
 
 #entry 335
 gras0457_water.dof-00.joe
-water.png
+waterv.png
 1
 0
 0
@@ -13956,7 +13956,7 @@ oak1.png
 
 #entry 938
 tree0211_tretrnk.dof-00.joe
-tretrnk.png
+tretrnkv.png
 1
 0
 0

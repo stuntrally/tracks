@@ -4,7 +4,7 @@
 
 #entry 0
 auto01.dof-00.joe
-auto01.tga.png
+auto01w.tga.png
 1
 0
 0
@@ -20,7 +20,7 @@ auto01.tga.png
 
 #entry 1
 auto02.dof-00.joe
-auto01.tga.png
+auto01w.tga.png
 1
 0
 0
@@ -52,7 +52,7 @@ gjerde02.bmp.png
 
 #entry 3
 auto04.dof-00.joe
-auto01.tga.png
+auto01w.tga.png
 1
 0
 0
@@ -68,7 +68,7 @@ auto01.tga.png
 
 #entry 4
 auto05.dof-00.joe
-auto01.tga.png
+auto01w.tga.png
 1
 0
 0
@@ -84,7 +84,7 @@ auto01.tga.png
 
 #entry 5
 auto06.dof-00.joe
-auto01.tga.png
+auto01w.tga.png
 1
 0
 0
@@ -164,7 +164,7 @@ gjerde02.bmp.png
 
 #entry 10
 busk01.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -180,7 +180,7 @@ busk01.bmp.png
 
 #entry 11
 busk02.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -196,7 +196,7 @@ busk01.bmp.png
 
 #entry 12
 busk03.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -212,7 +212,7 @@ busk01.bmp.png
 
 #entry 13
 busk04.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -228,7 +228,7 @@ busk01.bmp.png
 
 #entry 14
 busk05.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -244,7 +244,7 @@ busk01.bmp.png
 
 #entry 15
 busk06.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -260,7 +260,7 @@ busk01.bmp.png
 
 #entry 16
 busk07.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -276,7 +276,7 @@ busk01.bmp.png
 
 #entry 17
 busk08.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -292,7 +292,7 @@ busk01.bmp.png
 
 #entry 18
 busk09.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -308,7 +308,7 @@ busk01.bmp.png
 
 #entry 19
 busk10.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -324,7 +324,7 @@ busk01.bmp.png
 
 #entry 20
 busk100.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -340,7 +340,7 @@ busk01.bmp.png
 
 #entry 21
 busk101.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -356,7 +356,7 @@ busk01.bmp.png
 
 #entry 22
 busk102.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -372,7 +372,7 @@ busk01.bmp.png
 
 #entry 23
 busk103.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -388,7 +388,7 @@ busk01.bmp.png
 
 #entry 24
 busk104.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -404,7 +404,7 @@ busk01.bmp.png
 
 #entry 25
 busk105.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -420,7 +420,7 @@ busk01.bmp.png
 
 #entry 26
 busk106.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -436,7 +436,7 @@ busk01.bmp.png
 
 #entry 27
 busk107.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -452,7 +452,7 @@ busk01.bmp.png
 
 #entry 28
 busk108.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -468,7 +468,7 @@ busk01.bmp.png
 
 #entry 29
 busk109.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -484,7 +484,7 @@ busk01.bmp.png
 
 #entry 30
 busk11.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -500,7 +500,7 @@ busk01.bmp.png
 
 #entry 31
 busk110.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -516,7 +516,7 @@ busk01.bmp.png
 
 #entry 32
 busk111.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -532,7 +532,7 @@ busk01.bmp.png
 
 #entry 33
 busk112.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -548,7 +548,7 @@ busk01.bmp.png
 
 #entry 34
 busk113.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -564,7 +564,7 @@ busk01.bmp.png
 
 #entry 35
 busk114.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -580,7 +580,7 @@ busk01.bmp.png
 
 #entry 36
 busk115.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -596,7 +596,7 @@ busk01.bmp.png
 
 #entry 37
 busk116.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -612,7 +612,7 @@ busk01.bmp.png
 
 #entry 38
 busk117.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -628,7 +628,7 @@ busk01.bmp.png
 
 #entry 39
 busk118.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -644,7 +644,7 @@ busk01.bmp.png
 
 #entry 40
 busk119.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -660,7 +660,7 @@ busk01.bmp.png
 
 #entry 41
 busk12.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -676,7 +676,7 @@ busk01.bmp.png
 
 #entry 42
 busk120.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -692,7 +692,7 @@ busk01.bmp.png
 
 #entry 43
 busk121.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -708,7 +708,7 @@ busk01.bmp.png
 
 #entry 44
 busk122.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -724,7 +724,7 @@ busk01.bmp.png
 
 #entry 45
 busk123.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -740,7 +740,7 @@ busk01.bmp.png
 
 #entry 46
 busk124.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -756,7 +756,7 @@ busk01.bmp.png
 
 #entry 47
 busk125.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -772,7 +772,7 @@ busk01.bmp.png
 
 #entry 48
 busk126.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -788,7 +788,7 @@ busk01.bmp.png
 
 #entry 49
 busk127.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -804,7 +804,7 @@ busk01.bmp.png
 
 #entry 50
 busk13.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -820,7 +820,7 @@ busk01.bmp.png
 
 #entry 51
 busk14.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -836,7 +836,7 @@ busk01.bmp.png
 
 #entry 52
 busk15.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -852,7 +852,7 @@ busk01.bmp.png
 
 #entry 53
 busk16.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -868,7 +868,7 @@ busk01.bmp.png
 
 #entry 54
 busk17.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -884,7 +884,7 @@ busk01.bmp.png
 
 #entry 55
 busk18.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -900,7 +900,7 @@ busk01.bmp.png
 
 #entry 56
 busk19.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -916,7 +916,7 @@ busk01.bmp.png
 
 #entry 57
 busk20.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -932,7 +932,7 @@ busk01.bmp.png
 
 #entry 58
 busk21.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -948,7 +948,7 @@ busk01.bmp.png
 
 #entry 59
 busk22.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -964,7 +964,7 @@ busk01.bmp.png
 
 #entry 60
 busk23.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -980,7 +980,7 @@ busk01.bmp.png
 
 #entry 61
 busk24.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -996,7 +996,7 @@ busk01.bmp.png
 
 #entry 62
 busk25.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -1012,7 +1012,7 @@ busk01.bmp.png
 
 #entry 63
 busk26.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -1028,7 +1028,7 @@ busk01.bmp.png
 
 #entry 64
 busk27.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -1044,7 +1044,7 @@ busk01.bmp.png
 
 #entry 65
 busk28.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -1060,7 +1060,7 @@ busk01.bmp.png
 
 #entry 66
 busk29.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -1076,7 +1076,7 @@ busk01.bmp.png
 
 #entry 67
 busk30.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -1092,7 +1092,7 @@ busk01.bmp.png
 
 #entry 68
 busk31.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -1108,7 +1108,7 @@ busk01.bmp.png
 
 #entry 69
 busk32.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -1124,7 +1124,7 @@ busk01.bmp.png
 
 #entry 70
 busk33.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -1140,7 +1140,7 @@ busk01.bmp.png
 
 #entry 71
 busk34.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -1156,7 +1156,7 @@ busk01.bmp.png
 
 #entry 72
 busk35.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -1172,7 +1172,7 @@ busk01.bmp.png
 
 #entry 73
 busk36.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -1188,7 +1188,7 @@ busk01.bmp.png
 
 #entry 74
 busk37.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -1204,7 +1204,7 @@ busk01.bmp.png
 
 #entry 75
 busk38.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -1220,7 +1220,7 @@ busk01.bmp.png
 
 #entry 76
 busk39.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -1236,7 +1236,7 @@ busk01.bmp.png
 
 #entry 77
 busk40.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -1252,7 +1252,7 @@ busk01.bmp.png
 
 #entry 78
 busk41.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -1268,7 +1268,7 @@ busk01.bmp.png
 
 #entry 79
 busk42.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -1284,7 +1284,7 @@ busk01.bmp.png
 
 #entry 80
 busk43.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -1300,7 +1300,7 @@ busk01.bmp.png
 
 #entry 81
 busk44.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -1316,7 +1316,7 @@ busk01.bmp.png
 
 #entry 82
 busk45.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -1332,7 +1332,7 @@ busk01.bmp.png
 
 #entry 83
 busk46.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -1348,7 +1348,7 @@ busk01.bmp.png
 
 #entry 84
 busk47.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -1364,7 +1364,7 @@ busk01.bmp.png
 
 #entry 85
 busk48.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -1380,7 +1380,7 @@ busk01.bmp.png
 
 #entry 86
 busk49.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -1396,7 +1396,7 @@ busk01.bmp.png
 
 #entry 87
 busk50.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -1412,7 +1412,7 @@ busk01.bmp.png
 
 #entry 88
 busk51.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -1428,7 +1428,7 @@ busk01.bmp.png
 
 #entry 89
 busk52.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -1444,7 +1444,7 @@ busk01.bmp.png
 
 #entry 90
 busk53.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -1460,7 +1460,7 @@ busk01.bmp.png
 
 #entry 91
 busk54.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -1476,7 +1476,7 @@ busk01.bmp.png
 
 #entry 92
 busk55.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -1492,7 +1492,7 @@ busk01.bmp.png
 
 #entry 93
 busk56.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -1508,7 +1508,7 @@ busk01.bmp.png
 
 #entry 94
 busk57.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -1524,7 +1524,7 @@ busk01.bmp.png
 
 #entry 95
 busk58.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -1540,7 +1540,7 @@ busk01.bmp.png
 
 #entry 96
 busk59.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -1556,7 +1556,7 @@ busk01.bmp.png
 
 #entry 97
 busk60.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -1572,7 +1572,7 @@ busk01.bmp.png
 
 #entry 98
 busk61.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -1588,7 +1588,7 @@ busk01.bmp.png
 
 #entry 99
 busk62.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -1604,7 +1604,7 @@ busk01.bmp.png
 
 #entry 100
 busk63.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -1620,7 +1620,7 @@ busk01.bmp.png
 
 #entry 101
 busk64.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -1636,7 +1636,7 @@ busk01.bmp.png
 
 #entry 102
 busk65.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -1652,7 +1652,7 @@ busk01.bmp.png
 
 #entry 103
 busk66.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -1668,7 +1668,7 @@ busk01.bmp.png
 
 #entry 104
 busk67.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -1684,7 +1684,7 @@ busk01.bmp.png
 
 #entry 105
 busk68.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -1700,7 +1700,7 @@ busk01.bmp.png
 
 #entry 106
 busk69.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -1716,7 +1716,7 @@ busk01.bmp.png
 
 #entry 107
 busk70.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -1732,7 +1732,7 @@ busk01.bmp.png
 
 #entry 108
 busk71.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -1748,7 +1748,7 @@ busk01.bmp.png
 
 #entry 109
 busk72.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -1764,7 +1764,7 @@ busk01.bmp.png
 
 #entry 110
 busk73.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -1780,7 +1780,7 @@ busk01.bmp.png
 
 #entry 111
 busk74.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -1796,7 +1796,7 @@ busk01.bmp.png
 
 #entry 112
 busk75.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -1812,7 +1812,7 @@ busk01.bmp.png
 
 #entry 113
 busk76.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -1828,7 +1828,7 @@ busk01.bmp.png
 
 #entry 114
 busk77.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -1844,7 +1844,7 @@ busk01.bmp.png
 
 #entry 115
 busk78.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -1860,7 +1860,7 @@ busk01.bmp.png
 
 #entry 116
 busk79.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -1876,7 +1876,7 @@ busk01.bmp.png
 
 #entry 117
 busk80.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -1892,7 +1892,7 @@ busk01.bmp.png
 
 #entry 118
 busk81.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -1908,7 +1908,7 @@ busk01.bmp.png
 
 #entry 119
 busk82.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -1924,7 +1924,7 @@ busk01.bmp.png
 
 #entry 120
 busk83.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -1940,7 +1940,7 @@ busk01.bmp.png
 
 #entry 121
 busk84.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -1956,7 +1956,7 @@ busk01.bmp.png
 
 #entry 122
 busk85.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -1972,7 +1972,7 @@ busk01.bmp.png
 
 #entry 123
 busk86.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -1988,7 +1988,7 @@ busk01.bmp.png
 
 #entry 124
 busk87.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -2004,7 +2004,7 @@ busk01.bmp.png
 
 #entry 125
 busk88.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -2020,7 +2020,7 @@ busk01.bmp.png
 
 #entry 126
 busk89.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -2036,7 +2036,7 @@ busk01.bmp.png
 
 #entry 127
 busk90.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -2052,7 +2052,7 @@ busk01.bmp.png
 
 #entry 128
 busk91.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -2068,7 +2068,7 @@ busk01.bmp.png
 
 #entry 129
 busk92.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -2084,7 +2084,7 @@ busk01.bmp.png
 
 #entry 130
 busk93.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -2100,7 +2100,7 @@ busk01.bmp.png
 
 #entry 131
 busk94.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -2116,7 +2116,7 @@ busk01.bmp.png
 
 #entry 132
 busk95.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -2132,7 +2132,7 @@ busk01.bmp.png
 
 #entry 133
 busk96.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -2148,7 +2148,7 @@ busk01.bmp.png
 
 #entry 134
 busk97.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -2164,7 +2164,7 @@ busk01.bmp.png
 
 #entry 135
 busk98.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -2180,7 +2180,7 @@ busk01.bmp.png
 
 #entry 136
 busk99.dof-00.joe
-busk01.bmp.png
+busk01w.bmp.png
 0
 0
 0
@@ -2612,7 +2612,7 @@ gjerde01.bmp.png
 
 #entry 169
 gress01.dof-00.joe
-grass01.jpg.png
+grass01w.jpg.png
 1
 0
 0
@@ -2628,7 +2628,7 @@ grass01.jpg.png
 
 #entry 170
 gress02.dof-00.joe
-grass01.jpg.png
+grass01w.jpg.png
 1
 0
 0
@@ -2644,7 +2644,7 @@ grass01.jpg.png
 
 #entry 171
 gress03.dof-00.joe
-grass01.jpg.png
+grass01w.jpg.png
 1
 0
 0
@@ -2660,7 +2660,7 @@ grass01.jpg.png
 
 #entry 172
 gress04.dof-00.joe
-grass01.jpg.png
+grass01w.jpg.png
 1
 0
 0
@@ -2676,7 +2676,7 @@ grass01.jpg.png
 
 #entry 173
 gress05.dof-00.joe
-grass01.jpg.png
+grass01w.jpg.png
 1
 0
 0
@@ -2692,7 +2692,7 @@ grass01.jpg.png
 
 #entry 174
 gress06.dof-00.joe
-grass01.jpg.png
+grass01w.jpg.png
 1
 0
 0
@@ -2708,7 +2708,7 @@ grass01.jpg.png
 
 #entry 175
 gress07.dof-00.joe
-grass01.jpg.png
+grass01w.jpg.png
 1
 0
 0
@@ -2724,7 +2724,7 @@ grass01.jpg.png
 
 #entry 176
 gress08.dof-00.joe
-grass01.jpg.png
+grass01w.jpg.png
 1
 0
 0
@@ -2740,7 +2740,7 @@ grass01.jpg.png
 
 #entry 177
 gress09.dof-00.joe
-grass01.jpg.png
+grass01w.jpg.png
 1
 0
 0
@@ -2756,7 +2756,7 @@ grass01.jpg.png
 
 #entry 178
 gress10.dof-00.joe
-grass01.jpg.png
+grass01w.jpg.png
 1
 0
 0
@@ -2772,7 +2772,7 @@ grass01.jpg.png
 
 #entry 179
 gress11.dof-00.joe
-grass01.jpg.png
+grass01w.jpg.png
 1
 0
 0
@@ -2788,7 +2788,7 @@ grass01.jpg.png
 
 #entry 180
 gress12.dof-00.joe
-grass01.jpg.png
+grass01w.jpg.png
 1
 0
 0
@@ -2804,7 +2804,7 @@ grass01.jpg.png
 
 #entry 181
 gress13.dof-00.joe
-grass01.jpg.png
+grass01w.jpg.png
 1
 0
 0
@@ -2820,7 +2820,7 @@ grass01.jpg.png
 
 #entry 182
 gress14.dof-00.joe
-grass01.jpg.png
+grass01w.jpg.png
 1
 0
 0
@@ -2836,7 +2836,7 @@ grass01.jpg.png
 
 #entry 183
 gress15.dof-00.joe
-grass01.jpg.png
+grass01w.jpg.png
 1
 0
 0
@@ -2852,7 +2852,7 @@ grass01.jpg.png
 
 #entry 184
 gress16.dof-00.joe
-grass01.jpg.png
+grass01w.jpg.png
 1
 0
 0
@@ -2868,7 +2868,7 @@ grass01.jpg.png
 
 #entry 185
 gress17.dof-00.joe
-grass01.jpg.png
+grass01w.jpg.png
 1
 0
 0
@@ -2884,7 +2884,7 @@ grass01.jpg.png
 
 #entry 186
 gress18.dof-00.joe
-grass01.jpg.png
+grass01w.jpg.png
 1
 0
 0
@@ -2900,7 +2900,7 @@ grass01.jpg.png
 
 #entry 187
 gress19.dof-00.joe
-grass01.jpg.png
+grass01w.jpg.png
 1
 0
 0
@@ -3732,7 +3732,7 @@ statoil01.tga.png
 
 #entry 241
 terreng01.dof-00.joe
-grass02.jpg.png
+grass02w.jpg.png
 1
 0
 0
@@ -3748,7 +3748,7 @@ grass02.jpg.png
 
 #entry 242
 terreng02.dof-00.joe
-grass02.jpg.png
+grass02w.jpg.png
 1
 0
 0
@@ -3764,7 +3764,7 @@ grass02.jpg.png
 
 #entry 243
 terreng03.dof-00.joe
-grass02.jpg.png
+grass02w.jpg.png
 1
 0
 0
@@ -3780,7 +3780,7 @@ grass02.jpg.png
 
 #entry 244
 terreng04.dof-00.joe
-grass02.jpg.png
+grass02w.jpg.png
 1
 0
 0
@@ -3796,7 +3796,7 @@ grass02.jpg.png
 
 #entry 245
 terreng05.dof-00.joe
-grass02.jpg.png
+grass02w.jpg.png
 1
 0
 0
@@ -3812,7 +3812,7 @@ grass02.jpg.png
 
 #entry 246
 terreng06.dof-00.joe
-grass02.jpg.png
+grass02w.jpg.png
 1
 0
 0
@@ -3828,7 +3828,7 @@ grass02.jpg.png
 
 #entry 247
 terreng07.dof-00.joe
-grass02.jpg.png
+grass02w.jpg.png
 1
 0
 0
@@ -3844,7 +3844,7 @@ grass02.jpg.png
 
 #entry 248
 terreng08.dof-00.joe
-grass02.jpg.png
+grass02w.jpg.png
 1
 0
 0
@@ -3860,7 +3860,7 @@ grass02.jpg.png
 
 #entry 249
 terreng09.dof-00.joe
-grass02.jpg.png
+grass02w.jpg.png
 1
 0
 0
@@ -3876,7 +3876,7 @@ grass02.jpg.png
 
 #entry 250
 terreng10.dof-00.joe
-grass02.jpg.png
+grass02w.jpg.png
 1
 0
 0
@@ -3892,7 +3892,7 @@ grass02.jpg.png
 
 #entry 251
 terreng100.dof-00.joe
-grass01.jpg.png
+grass01w.jpg.png
 1
 0
 0
@@ -3908,7 +3908,7 @@ grass01.jpg.png
 
 #entry 252
 terreng101.dof-00.joe
-grass01.jpg.png
+grass01w.jpg.png
 1
 0
 0
@@ -3924,7 +3924,7 @@ grass01.jpg.png
 
 #entry 253
 terreng102.dof-00.joe
-grass01.jpg.png
+grass01w.jpg.png
 1
 0
 0
@@ -3940,7 +3940,7 @@ grass01.jpg.png
 
 #entry 254
 terreng103.dof-00.joe
-grass01.jpg.png
+grass01w.jpg.png
 1
 0
 0
@@ -3956,7 +3956,7 @@ grass01.jpg.png
 
 #entry 255
 terreng104.dof-00.joe
-grass01.jpg.png
+grass01w.jpg.png
 1
 0
 0
@@ -3972,7 +3972,7 @@ grass01.jpg.png
 
 #entry 256
 terreng105.dof-00.joe
-grass01.jpg.png
+grass01w.jpg.png
 1
 0
 0
@@ -3988,7 +3988,7 @@ grass01.jpg.png
 
 #entry 257
 terreng106.dof-00.joe
-grass01.jpg.png
+grass01w.jpg.png
 1
 0
 0
@@ -4004,7 +4004,7 @@ grass01.jpg.png
 
 #entry 258
 terreng107.dof-00.joe
-grass01.jpg.png
+grass01w.jpg.png
 1
 0
 0
@@ -4020,7 +4020,7 @@ grass01.jpg.png
 
 #entry 259
 terreng108.dof-00.joe
-grass01.jpg.png
+grass01w.jpg.png
 1
 0
 0
@@ -4036,7 +4036,7 @@ grass01.jpg.png
 
 #entry 260
 terreng109.dof-00.joe
-grass01.jpg.png
+grass01w.jpg.png
 1
 0
 0
@@ -4052,7 +4052,7 @@ grass01.jpg.png
 
 #entry 261
 terreng11.dof-00.joe
-grass02.jpg.png
+grass02w.jpg.png
 1
 0
 0
@@ -4068,7 +4068,7 @@ grass02.jpg.png
 
 #entry 262
 terreng110.dof-00.joe
-grass01.jpg.png
+grass01w.jpg.png
 1
 0
 0
@@ -4084,7 +4084,7 @@ grass01.jpg.png
 
 #entry 263
 terreng111.dof-00.joe
-grass01.jpg.png
+grass01w.jpg.png
 1
 0
 0
@@ -4100,7 +4100,7 @@ grass01.jpg.png
 
 #entry 264
 terreng112.dof-00.joe
-grass01.jpg.png
+grass01w.jpg.png
 1
 0
 0
@@ -4116,7 +4116,7 @@ grass01.jpg.png
 
 #entry 265
 terreng113.dof-00.joe
-grass01.jpg.png
+grass01w.jpg.png
 1
 0
 0
@@ -4132,7 +4132,7 @@ grass01.jpg.png
 
 #entry 266
 terreng114.dof-00.joe
-grass01.jpg.png
+grass01w.jpg.png
 1
 0
 0
@@ -4148,7 +4148,7 @@ grass01.jpg.png
 
 #entry 267
 terreng115.dof-00.joe
-grass01.jpg.png
+grass01w.jpg.png
 1
 0
 0
@@ -4164,7 +4164,7 @@ grass01.jpg.png
 
 #entry 268
 terreng116.dof-00.joe
-grass01.jpg.png
+grass01w.jpg.png
 1
 0
 0
@@ -4180,7 +4180,7 @@ grass01.jpg.png
 
 #entry 269
 terreng117.dof-00.joe
-grass01.jpg.png
+grass01w.jpg.png
 1
 0
 0
@@ -4196,7 +4196,7 @@ grass01.jpg.png
 
 #entry 270
 terreng118.dof-00.joe
-grass01.jpg.png
+grass01w.jpg.png
 1
 0
 0
@@ -4212,7 +4212,7 @@ grass01.jpg.png
 
 #entry 271
 terreng119.dof-00.joe
-grass01.jpg.png
+grass01w.jpg.png
 1
 0
 0
@@ -4228,7 +4228,7 @@ grass01.jpg.png
 
 #entry 272
 terreng12.dof-00.joe
-grass02.jpg.png
+grass02w.jpg.png
 1
 0
 0
@@ -4244,7 +4244,7 @@ grass02.jpg.png
 
 #entry 273
 terreng120.dof-00.joe
-grass01.jpg.png
+grass01w.jpg.png
 1
 0
 0
@@ -4260,7 +4260,7 @@ grass01.jpg.png
 
 #entry 274
 terreng121.dof-00.joe
-grass01.jpg.png
+grass01w.jpg.png
 1
 0
 0
@@ -4276,7 +4276,7 @@ grass01.jpg.png
 
 #entry 275
 terreng122.dof-00.joe
-grass01.jpg.png
+grass01w.jpg.png
 1
 0
 0
@@ -4292,7 +4292,7 @@ grass01.jpg.png
 
 #entry 276
 terreng123.dof-00.joe
-grass01.jpg.png
+grass01w.jpg.png
 1
 0
 0
@@ -4308,7 +4308,7 @@ grass01.jpg.png
 
 #entry 277
 terreng124.dof-00.joe
-grass01.jpg.png
+grass01w.jpg.png
 1
 0
 0
@@ -4324,7 +4324,7 @@ grass01.jpg.png
 
 #entry 278
 terreng125.dof-00.joe
-grass01.jpg.png
+grass01w.jpg.png
 1
 0
 0
@@ -4340,7 +4340,7 @@ grass01.jpg.png
 
 #entry 279
 terreng126.dof-00.joe
-grass01.jpg.png
+grass01w.jpg.png
 1
 0
 0
@@ -4356,7 +4356,7 @@ grass01.jpg.png
 
 #entry 280
 terreng127.dof-00.joe
-grass01.jpg.png
+grass01w.jpg.png
 1
 0
 0
@@ -4372,7 +4372,7 @@ grass01.jpg.png
 
 #entry 281
 terreng128.dof-00.joe
-grass01.jpg.png
+grass01w.jpg.png
 1
 0
 0
@@ -4388,7 +4388,7 @@ grass01.jpg.png
 
 #entry 282
 terreng129.dof-00.joe
-grass01.jpg.png
+grass01w.jpg.png
 1
 0
 0
@@ -4404,7 +4404,7 @@ grass01.jpg.png
 
 #entry 283
 terreng13.dof-00.joe
-grass02.jpg.png
+grass02w.jpg.png
 1
 0
 0
@@ -4420,7 +4420,7 @@ grass02.jpg.png
 
 #entry 284
 terreng130.dof-00.joe
-grass01.jpg.png
+grass01w.jpg.png
 1
 0
 0
@@ -4436,7 +4436,7 @@ grass01.jpg.png
 
 #entry 285
 terreng131.dof-00.joe
-grass01.jpg.png
+grass01w.jpg.png
 1
 0
 0
@@ -4452,7 +4452,7 @@ grass01.jpg.png
 
 #entry 286
 terreng132.dof-00.joe
-grass01.jpg.png
+grass01w.jpg.png
 1
 0
 0
@@ -4468,7 +4468,7 @@ grass01.jpg.png
 
 #entry 287
 terreng133.dof-00.joe
-grass01.jpg.png
+grass01w.jpg.png
 1
 0
 0
@@ -4484,7 +4484,7 @@ grass01.jpg.png
 
 #entry 288
 terreng134.dof-00.joe
-grass01.jpg.png
+grass01w.jpg.png
 1
 0
 0
@@ -4500,7 +4500,7 @@ grass01.jpg.png
 
 #entry 289
 terreng135.dof-00.joe
-grass01.jpg.png
+grass01w.jpg.png
 1
 0
 0
@@ -4516,7 +4516,7 @@ grass01.jpg.png
 
 #entry 290
 terreng136.dof-00.joe
-grass01.jpg.png
+grass01w.jpg.png
 1
 0
 0
@@ -4532,7 +4532,7 @@ grass01.jpg.png
 
 #entry 291
 terreng137.dof-00.joe
-grass01.jpg.png
+grass01w.jpg.png
 1
 0
 0
@@ -4548,7 +4548,7 @@ grass01.jpg.png
 
 #entry 292
 terreng138.dof-00.joe
-grass01.jpg.png
+grass01w.jpg.png
 1
 0
 0
@@ -4564,7 +4564,7 @@ grass01.jpg.png
 
 #entry 293
 terreng139.dof-00.joe
-grass01.jpg.png
+grass01w.jpg.png
 1
 0
 0
@@ -4580,7 +4580,7 @@ grass01.jpg.png
 
 #entry 294
 terreng14.dof-00.joe
-grass02.jpg.png
+grass02w.jpg.png
 1
 0
 0
@@ -4596,7 +4596,7 @@ grass02.jpg.png
 
 #entry 295
 terreng140.dof-00.joe
-grass02.jpg.png
+grass02w.jpg.png
 1
 0
 0
@@ -4628,7 +4628,7 @@ grass03.jpg.png
 
 #entry 297
 terreng142.dof-00.joe
-grass02.jpg.png
+grass02w.jpg.png
 1
 0
 0
@@ -4644,7 +4644,7 @@ grass02.jpg.png
 
 #entry 298
 terreng143.dof-00.joe
-grass02.jpg.png
+grass02w.jpg.png
 1
 0
 0
@@ -4660,7 +4660,7 @@ grass02.jpg.png
 
 #entry 299
 terreng144.dof-00.joe
-grass02.jpg.png
+grass02w.jpg.png
 1
 0
 0
@@ -4676,7 +4676,7 @@ grass02.jpg.png
 
 #entry 300
 terreng145.dof-00.joe
-grass02.jpg.png
+grass02w.jpg.png
 1
 0
 0
@@ -4692,7 +4692,7 @@ grass02.jpg.png
 
 #entry 301
 terreng146.dof-00.joe
-grass02.jpg.png
+grass02w.jpg.png
 1
 0
 0
@@ -4708,7 +4708,7 @@ grass02.jpg.png
 
 #entry 302
 terreng147.dof-00.joe
-grass02.jpg.png
+grass02w.jpg.png
 1
 0
 0
@@ -4724,7 +4724,7 @@ grass02.jpg.png
 
 #entry 303
 terreng148.dof-00.joe
-grass02.jpg.png
+grass02w.jpg.png
 1
 0
 0
@@ -4740,7 +4740,7 @@ grass02.jpg.png
 
 #entry 304
 terreng149.dof-00.joe
-grass02.jpg.png
+grass02w.jpg.png
 1
 0
 0
@@ -4756,7 +4756,7 @@ grass02.jpg.png
 
 #entry 305
 terreng15.dof-00.joe
-grass02.jpg.png
+grass02w.jpg.png
 1
 0
 0
@@ -4772,7 +4772,7 @@ grass02.jpg.png
 
 #entry 306
 terreng150.dof-00.joe
-grass02.jpg.png
+grass02w.jpg.png
 1
 0
 0
@@ -4788,7 +4788,7 @@ grass02.jpg.png
 
 #entry 307
 terreng151.dof-00.joe
-grass02.jpg.png
+grass02w.jpg.png
 1
 0
 0
@@ -4804,7 +4804,7 @@ grass02.jpg.png
 
 #entry 308
 terreng152.dof-00.joe
-grass02.jpg.png
+grass02w.jpg.png
 1
 0
 0
@@ -4820,7 +4820,7 @@ grass02.jpg.png
 
 #entry 309
 terreng153.dof-00.joe
-grass02.jpg.png
+grass02w.jpg.png
 1
 0
 0
@@ -4836,7 +4836,7 @@ grass02.jpg.png
 
 #entry 310
 terreng154.dof-00.joe
-grass02.jpg.png
+grass02w.jpg.png
 1
 0
 0
@@ -4852,7 +4852,7 @@ grass02.jpg.png
 
 #entry 311
 terreng155.dof-00.joe
-grass02.jpg.png
+grass02w.jpg.png
 1
 0
 0
@@ -4868,7 +4868,7 @@ grass02.jpg.png
 
 #entry 312
 terreng156.dof-00.joe
-grass02.jpg.png
+grass02w.jpg.png
 1
 0
 0
@@ -4884,7 +4884,7 @@ grass02.jpg.png
 
 #entry 313
 terreng157.dof-00.joe
-grass02.jpg.png
+grass02w.jpg.png
 1
 0
 0
@@ -4900,7 +4900,7 @@ grass02.jpg.png
 
 #entry 314
 terreng158.dof-00.joe
-grass02.jpg.png
+grass02w.jpg.png
 1
 0
 0
@@ -4916,7 +4916,7 @@ grass02.jpg.png
 
 #entry 315
 terreng159.dof-00.joe
-grass02.jpg.png
+grass02w.jpg.png
 1
 0
 0
@@ -4932,7 +4932,7 @@ grass02.jpg.png
 
 #entry 316
 terreng16.dof-00.joe
-grass02.jpg.png
+grass02w.jpg.png
 1
 0
 0
@@ -4948,7 +4948,7 @@ grass02.jpg.png
 
 #entry 317
 terreng17.dof-00.joe
-grass02.jpg.png
+grass02w.jpg.png
 1
 0
 0
@@ -4964,7 +4964,7 @@ grass02.jpg.png
 
 #entry 318
 terreng18.dof-00.joe
-grass02.jpg.png
+grass02w.jpg.png
 1
 0
 0
@@ -4980,7 +4980,7 @@ grass02.jpg.png
 
 #entry 319
 terreng19.dof-00.joe
-grass02.jpg.png
+grass02w.jpg.png
 1
 0
 0
@@ -4996,7 +4996,7 @@ grass02.jpg.png
 
 #entry 320
 terreng20.dof-00.joe
-grass02.jpg.png
+grass02w.jpg.png
 1
 0
 0
@@ -5012,7 +5012,7 @@ grass02.jpg.png
 
 #entry 321
 terreng21.dof-00.joe
-grass02.jpg.png
+grass02w.jpg.png
 1
 0
 0
@@ -5028,7 +5028,7 @@ grass02.jpg.png
 
 #entry 322
 terreng22.dof-00.joe
-grass02.jpg.png
+grass02w.jpg.png
 1
 0
 0
@@ -5044,7 +5044,7 @@ grass02.jpg.png
 
 #entry 323
 terreng23.dof-00.joe
-grass02.jpg.png
+grass02w.jpg.png
 1
 0
 0
@@ -5060,7 +5060,7 @@ grass02.jpg.png
 
 #entry 324
 terreng24.dof-00.joe
-grass02.jpg.png
+grass02w.jpg.png
 1
 0
 0
@@ -5076,7 +5076,7 @@ grass02.jpg.png
 
 #entry 325
 terreng25.dof-00.joe
-grass02.jpg.png
+grass02w.jpg.png
 1
 0
 0
@@ -5092,7 +5092,7 @@ grass02.jpg.png
 
 #entry 326
 terreng26.dof-00.joe
-grass02.jpg.png
+grass02w.jpg.png
 1
 0
 0
@@ -5108,7 +5108,7 @@ grass02.jpg.png
 
 #entry 327
 terreng27.dof-00.joe
-grass02.jpg.png
+grass02w.jpg.png
 1
 0
 0
@@ -5124,7 +5124,7 @@ grass02.jpg.png
 
 #entry 328
 terreng28.dof-00.joe
-grass02.jpg.png
+grass02w.jpg.png
 1
 0
 0
@@ -5140,7 +5140,7 @@ grass02.jpg.png
 
 #entry 329
 terreng29.dof-00.joe
-grass02.jpg.png
+grass02w.jpg.png
 1
 0
 0
@@ -5156,7 +5156,7 @@ grass02.jpg.png
 
 #entry 330
 terreng30.dof-00.joe
-grass02.jpg.png
+grass02w.jpg.png
 1
 0
 0
@@ -5172,7 +5172,7 @@ grass02.jpg.png
 
 #entry 331
 terreng31.dof-00.joe
-grass02.jpg.png
+grass02w.jpg.png
 1
 0
 0
@@ -5188,7 +5188,7 @@ grass02.jpg.png
 
 #entry 332
 terreng32.dof-00.joe
-grass02.jpg.png
+grass02w.jpg.png
 1
 0
 0
@@ -5204,7 +5204,7 @@ grass02.jpg.png
 
 #entry 333
 terreng33.dof-00.joe
-grass02.jpg.png
+grass02w.jpg.png
 1
 0
 0
@@ -5220,7 +5220,7 @@ grass02.jpg.png
 
 #entry 334
 terreng34.dof-00.joe
-grass02.jpg.png
+grass02w.jpg.png
 1
 0
 0
@@ -5236,7 +5236,7 @@ grass02.jpg.png
 
 #entry 335
 terreng35.dof-00.joe
-grass02.jpg.png
+grass02w.jpg.png
 1
 0
 0
@@ -5252,7 +5252,7 @@ grass02.jpg.png
 
 #entry 336
 terreng36.dof-00.joe
-grass02.jpg.png
+grass02w.jpg.png
 1
 0
 0
@@ -5268,7 +5268,7 @@ grass02.jpg.png
 
 #entry 337
 terreng37.dof-00.joe
-grass02.jpg.png
+grass02w.jpg.png
 1
 0
 0
@@ -5284,7 +5284,7 @@ grass02.jpg.png
 
 #entry 338
 terreng38.dof-00.joe
-grass02.jpg.png
+grass02w.jpg.png
 1
 0
 0
@@ -5300,7 +5300,7 @@ grass02.jpg.png
 
 #entry 339
 terreng39.dof-00.joe
-grass02.jpg.png
+grass02w.jpg.png
 1
 0
 0
@@ -5316,7 +5316,7 @@ grass02.jpg.png
 
 #entry 340
 terreng40.dof-00.joe
-grass02.jpg.png
+grass02w.jpg.png
 1
 0
 0
@@ -5332,7 +5332,7 @@ grass02.jpg.png
 
 #entry 341
 terreng41.dof-00.joe
-grass02.jpg.png
+grass02w.jpg.png
 1
 0
 0
@@ -5348,7 +5348,7 @@ grass02.jpg.png
 
 #entry 342
 terreng42.dof-00.joe
-grass02.jpg.png
+grass02w.jpg.png
 1
 0
 0
@@ -5364,7 +5364,7 @@ grass02.jpg.png
 
 #entry 343
 terreng43.dof-00.joe
-grass02.jpg.png
+grass02w.jpg.png
 1
 0
 0
@@ -5380,7 +5380,7 @@ grass02.jpg.png
 
 #entry 344
 terreng44.dof-00.joe
-grass02.jpg.png
+grass02w.jpg.png
 1
 0
 0
@@ -5396,7 +5396,7 @@ grass02.jpg.png
 
 #entry 345
 terreng45.dof-00.joe
-grass02.jpg.png
+grass02w.jpg.png
 1
 0
 0
@@ -5412,7 +5412,7 @@ grass02.jpg.png
 
 #entry 346
 terreng46.dof-00.joe
-grass02.jpg.png
+grass02w.jpg.png
 1
 0
 0
@@ -5428,7 +5428,7 @@ grass02.jpg.png
 
 #entry 347
 terreng47.dof-00.joe
-grass02.jpg.png
+grass02w.jpg.png
 1
 0
 0
@@ -5444,7 +5444,7 @@ grass02.jpg.png
 
 #entry 348
 terreng48.dof-00.joe
-grass02.jpg.png
+grass02w.jpg.png
 1
 0
 0
@@ -5460,7 +5460,7 @@ grass02.jpg.png
 
 #entry 349
 terreng49.dof-00.joe
-grass02.jpg.png
+grass02w.jpg.png
 1
 0
 0
@@ -5476,7 +5476,7 @@ grass02.jpg.png
 
 #entry 350
 terreng50.dof-00.joe
-grass02.jpg.png
+grass02w.jpg.png
 1
 0
 0
@@ -5492,7 +5492,7 @@ grass02.jpg.png
 
 #entry 351
 terreng51.dof-00.joe
-grass02.jpg.png
+grass02w.jpg.png
 1
 0
 0
@@ -5508,7 +5508,7 @@ grass02.jpg.png
 
 #entry 352
 terreng52.dof-00.joe
-grass02.jpg.png
+grass02w.jpg.png
 1
 0
 0
@@ -5524,7 +5524,7 @@ grass02.jpg.png
 
 #entry 353
 terreng53.dof-00.joe
-grass02.jpg.png
+grass02w.jpg.png
 1
 0
 0
@@ -5540,7 +5540,7 @@ grass02.jpg.png
 
 #entry 354
 terreng54.dof-00.joe
-grass02.jpg.png
+grass02w.jpg.png
 1
 0
 0
@@ -5556,7 +5556,7 @@ grass02.jpg.png
 
 #entry 355
 terreng55.dof-00.joe
-grass02.jpg.png
+grass02w.jpg.png
 1
 0
 0
@@ -5572,7 +5572,7 @@ grass02.jpg.png
 
 #entry 356
 terreng56.dof-00.joe
-grass02.jpg.png
+grass02w.jpg.png
 1
 0
 0
@@ -5588,7 +5588,7 @@ grass02.jpg.png
 
 #entry 357
 terreng57.dof-00.joe
-grass02.jpg.png
+grass02w.jpg.png
 1
 0
 0
@@ -5604,7 +5604,7 @@ grass02.jpg.png
 
 #entry 358
 terreng58.dof-00.joe
-grass02.jpg.png
+grass02w.jpg.png
 1
 0
 0
@@ -5620,7 +5620,7 @@ grass02.jpg.png
 
 #entry 359
 terreng59.dof-00.joe
-grass02.jpg.png
+grass02w.jpg.png
 1
 0
 0
@@ -5636,7 +5636,7 @@ grass02.jpg.png
 
 #entry 360
 terreng60.dof-00.joe
-grass02.jpg.png
+grass02w.jpg.png
 1
 0
 0
@@ -5652,7 +5652,7 @@ grass02.jpg.png
 
 #entry 361
 terreng61.dof-00.joe
-grass02.jpg.png
+grass02w.jpg.png
 1
 0
 0
@@ -5668,7 +5668,7 @@ grass02.jpg.png
 
 #entry 362
 terreng62.dof-00.joe
-grass02.jpg.png
+grass02w.jpg.png
 1
 0
 0
@@ -5684,7 +5684,7 @@ grass02.jpg.png
 
 #entry 363
 terreng63.dof-00.joe
-grass02.jpg.png
+grass02w.jpg.png
 1
 0
 0
@@ -5700,7 +5700,7 @@ grass02.jpg.png
 
 #entry 364
 terreng64.dof-00.joe
-grass02.jpg.png
+grass02w.jpg.png
 1
 0
 0
@@ -5716,7 +5716,7 @@ grass02.jpg.png
 
 #entry 365
 terreng65.dof-00.joe
-grass02.jpg.png
+grass02w.jpg.png
 1
 0
 0
@@ -5732,7 +5732,7 @@ grass02.jpg.png
 
 #entry 366
 terreng66.dof-00.joe
-grass02.jpg.png
+grass02w.jpg.png
 1
 0
 0
@@ -5748,7 +5748,7 @@ grass02.jpg.png
 
 #entry 367
 terreng67.dof-00.joe
-grass02.jpg.png
+grass02w.jpg.png
 1
 0
 0
@@ -5764,7 +5764,7 @@ grass02.jpg.png
 
 #entry 368
 terreng68.dof-00.joe
-grass02.jpg.png
+grass02w.jpg.png
 1
 0
 0
@@ -5780,7 +5780,7 @@ grass02.jpg.png
 
 #entry 369
 terreng69.dof-00.joe
-grass02.jpg.png
+grass02w.jpg.png
 1
 0
 0
@@ -5796,7 +5796,7 @@ grass02.jpg.png
 
 #entry 370
 terreng70.dof-00.joe
-grass02.jpg.png
+grass02w.jpg.png
 1
 0
 0
@@ -5988,7 +5988,7 @@ stein03.jpg.png
 
 #entry 382
 terreng82.dof-00.joe
-grass01.jpg.png
+grass01w.jpg.png
 1
 0
 0
@@ -6004,7 +6004,7 @@ grass01.jpg.png
 
 #entry 383
 terreng83.dof-00.joe
-grass01.jpg.png
+grass01w.jpg.png
 1
 0
 0
@@ -6020,7 +6020,7 @@ grass01.jpg.png
 
 #entry 384
 terreng84.dof-00.joe
-grass01.jpg.png
+grass01w.jpg.png
 1
 0
 0
@@ -6036,7 +6036,7 @@ grass01.jpg.png
 
 #entry 385
 terreng85.dof-00.joe
-grass01.jpg.png
+grass01w.jpg.png
 1
 0
 0
@@ -6052,7 +6052,7 @@ grass01.jpg.png
 
 #entry 386
 terreng86.dof-00.joe
-grass01.jpg.png
+grass01w.jpg.png
 1
 0
 0
@@ -6068,7 +6068,7 @@ grass01.jpg.png
 
 #entry 387
 terreng87.dof-00.joe
-grass01.jpg.png
+grass01w.jpg.png
 1
 0
 0
@@ -6084,7 +6084,7 @@ grass01.jpg.png
 
 #entry 388
 terreng88.dof-00.joe
-grass01.jpg.png
+grass01w.jpg.png
 1
 0
 0
@@ -6100,7 +6100,7 @@ grass01.jpg.png
 
 #entry 389
 terreng89.dof-00.joe
-grass01.jpg.png
+grass01w.jpg.png
 1
 0
 0
@@ -6116,7 +6116,7 @@ grass01.jpg.png
 
 #entry 390
 terreng90.dof-00.joe
-grass01.jpg.png
+grass01w.jpg.png
 1
 0
 0
@@ -6132,7 +6132,7 @@ grass01.jpg.png
 
 #entry 391
 terreng91.dof-00.joe
-grass01.jpg.png
+grass01w.jpg.png
 1
 0
 0
@@ -6148,7 +6148,7 @@ grass01.jpg.png
 
 #entry 392
 terreng92.dof-00.joe
-grass01.jpg.png
+grass01w.jpg.png
 1
 0
 0
@@ -6164,7 +6164,7 @@ grass01.jpg.png
 
 #entry 393
 terreng93.dof-00.joe
-grass01.jpg.png
+grass01w.jpg.png
 1
 0
 0
@@ -6180,7 +6180,7 @@ grass01.jpg.png
 
 #entry 394
 terreng94.dof-00.joe
-grass01.jpg.png
+grass01w.jpg.png
 1
 0
 0
@@ -6196,7 +6196,7 @@ grass01.jpg.png
 
 #entry 395
 terreng95.dof-00.joe
-grass01.jpg.png
+grass01w.jpg.png
 1
 0
 0
@@ -6212,7 +6212,7 @@ grass01.jpg.png
 
 #entry 396
 terreng96.dof-00.joe
-grass01.jpg.png
+grass01w.jpg.png
 1
 0
 0
@@ -6228,7 +6228,7 @@ grass01.jpg.png
 
 #entry 397
 terreng97.dof-00.joe
-grass01.jpg.png
+grass01w.jpg.png
 1
 0
 0
@@ -6244,7 +6244,7 @@ grass01.jpg.png
 
 #entry 398
 terreng98.dof-00.joe
-grass01.jpg.png
+grass01w.jpg.png
 1
 0
 0
@@ -6260,7 +6260,7 @@ grass01.jpg.png
 
 #entry 399
 terreng99.dof-00.joe
-grass01.jpg.png
+grass01w.jpg.png
 1
 0
 0
@@ -6276,7 +6276,7 @@ grass01.jpg.png
 
 #entry 400
 tre01.dof-00.joe
-tre10.bmp.png
+tre10w.bmp.png
 0
 0
 0
@@ -6292,7 +6292,7 @@ tre10.bmp.png
 
 #entry 401
 tre02.dof-00.joe
-tre10.bmp.png
+tre10w.bmp.png
 0
 0
 0
@@ -6308,7 +6308,7 @@ tre10.bmp.png
 
 #entry 402
 tre03.dof-00.joe
-tre10.bmp.png
+tre10w.bmp.png
 0
 0
 0
@@ -6324,7 +6324,7 @@ tre10.bmp.png
 
 #entry 403
 tre04.dof-00.joe
-tre06.bmp.png
+tre06w.bmp.png
 0
 0
 0
@@ -6340,7 +6340,7 @@ tre06.bmp.png
 
 #entry 404
 tre05.dof-00.joe
-tre06.bmp.png
+tre06w.bmp.png
 0
 0
 0
@@ -6356,7 +6356,7 @@ tre06.bmp.png
 
 #entry 405
 tre06.dof-00.joe
-tre06.bmp.png
+tre06w.bmp.png
 0
 0
 0
@@ -6372,7 +6372,7 @@ tre06.bmp.png
 
 #entry 406
 tre07.dof-00.joe
-tre06.bmp.png
+tre06w.bmp.png
 0
 0
 0
@@ -6388,7 +6388,7 @@ tre06.bmp.png
 
 #entry 407
 tre08.dof-00.joe
-tre06.bmp.png
+tre06w.bmp.png
 0
 0
 0
@@ -6404,7 +6404,7 @@ tre06.bmp.png
 
 #entry 408
 tre09.dof-00.joe
-tre06.bmp.png
+tre06w.bmp.png
 0
 0
 0
@@ -6420,7 +6420,7 @@ tre06.bmp.png
 
 #entry 409
 tre10.dof-00.joe
-tre06.bmp.png
+tre06w.bmp.png
 0
 0
 0
@@ -6436,7 +6436,7 @@ tre06.bmp.png
 
 #entry 410
 tre11.dof-00.joe
-tre06.bmp.png
+tre06w.bmp.png
 0
 0
 0
@@ -6452,7 +6452,7 @@ tre06.bmp.png
 
 #entry 411
 tre12.dof-00.joe
-tre06.bmp.png
+tre06w.bmp.png
 0
 0
 0
@@ -6468,7 +6468,7 @@ tre06.bmp.png
 
 #entry 412
 tre13.dof-00.joe
-tre06.bmp.png
+tre06w.bmp.png
 0
 0
 0
@@ -6484,7 +6484,7 @@ tre06.bmp.png
 
 #entry 413
 tre14.dof-00.joe
-tre06.bmp.png
+tre06w.bmp.png
 0
 0
 0
@@ -6500,7 +6500,7 @@ tre06.bmp.png
 
 #entry 414
 tre15.dof-00.joe
-tre06.bmp.png
+tre06w.bmp.png
 0
 0
 0
@@ -6516,7 +6516,7 @@ tre06.bmp.png
 
 #entry 415
 tre16.dof-00.joe
-tre06.bmp.png
+tre06w.bmp.png
 0
 0
 0
@@ -6532,7 +6532,7 @@ tre06.bmp.png
 
 #entry 416
 tre17.dof-00.joe
-tre06.bmp.png
+tre06w.bmp.png
 0
 0
 0
@@ -6548,7 +6548,7 @@ tre06.bmp.png
 
 #entry 417
 tre18.dof-00.joe
-tre06.bmp.png
+tre06w.bmp.png
 0
 0
 0
@@ -6564,7 +6564,7 @@ tre06.bmp.png
 
 #entry 418
 tre19.dof-00.joe
-tre06.bmp.png
+tre06w.bmp.png
 0
 0
 0
@@ -6580,7 +6580,7 @@ tre06.bmp.png
 
 #entry 419
 tre20.dof-00.joe
-tre06.bmp.png
+tre06w.bmp.png
 0
 0
 0
@@ -6596,7 +6596,7 @@ tre06.bmp.png
 
 #entry 420
 tre21.dof-00.joe
-tre06.bmp.png
+tre06w.bmp.png
 0
 0
 0
@@ -6612,7 +6612,7 @@ tre06.bmp.png
 
 #entry 421
 tre22.dof-00.joe
-tre06.bmp.png
+tre06w.bmp.png
 0
 0
 0
@@ -6628,7 +6628,7 @@ tre06.bmp.png
 
 #entry 422
 tre23.dof-00.joe
-tre06.bmp.png
+tre06w.bmp.png
 0
 0
 0
@@ -6644,7 +6644,7 @@ tre06.bmp.png
 
 #entry 423
 tre24.dof-00.joe
-tre06.bmp.png
+tre06w.bmp.png
 0
 0
 0
@@ -6660,7 +6660,7 @@ tre06.bmp.png
 
 #entry 424
 tre25.dof-00.joe
-tre06.bmp.png
+tre06w.bmp.png
 0
 0
 0
@@ -6676,7 +6676,7 @@ tre06.bmp.png
 
 #entry 425
 tre26.dof-00.joe
-tre06.bmp.png
+tre06w.bmp.png
 0
 0
 0
@@ -6692,7 +6692,7 @@ tre06.bmp.png
 
 #entry 426
 tre27.dof-00.joe
-tre06.bmp.png
+tre06w.bmp.png
 0
 0
 0
@@ -6708,7 +6708,7 @@ tre06.bmp.png
 
 #entry 427
 tre28.dof-00.joe
-tre06.bmp.png
+tre06w.bmp.png
 0
 0
 0
@@ -6724,7 +6724,7 @@ tre06.bmp.png
 
 #entry 428
 tre29.dof-00.joe
-tre06.bmp.png
+tre06w.bmp.png
 0
 0
 0
@@ -6740,7 +6740,7 @@ tre06.bmp.png
 
 #entry 429
 tre30.dof-00.joe
-tre06.bmp.png
+tre06w.bmp.png
 0
 0
 0
@@ -6756,7 +6756,7 @@ tre06.bmp.png
 
 #entry 430
 tre31.dof-00.joe
-tre06.bmp.png
+tre06w.bmp.png
 0
 0
 0
@@ -6772,7 +6772,7 @@ tre06.bmp.png
 
 #entry 431
 tre32.dof-00.joe
-tre06.bmp.png
+tre06w.bmp.png
 0
 0
 0
@@ -6788,7 +6788,7 @@ tre06.bmp.png
 
 #entry 432
 tre33.dof-00.joe
-tre06.bmp.png
+tre06w.bmp.png
 0
 0
 0
@@ -6804,7 +6804,7 @@ tre06.bmp.png
 
 #entry 433
 tre34.dof-00.joe
-tre06.bmp.png
+tre06w.bmp.png
 0
 0
 0
@@ -6820,7 +6820,7 @@ tre06.bmp.png
 
 #entry 434
 tre35.dof-00.joe
-tre06.bmp.png
+tre06w.bmp.png
 0
 0
 0
@@ -6836,7 +6836,7 @@ tre06.bmp.png
 
 #entry 435
 tre36.dof-00.joe
-tre06.bmp.png
+tre06w.bmp.png
 0
 0
 0
@@ -6852,7 +6852,7 @@ tre06.bmp.png
 
 #entry 436
 tre37.dof-00.joe
-tre06.bmp.png
+tre06w.bmp.png
 0
 0
 0
@@ -6868,7 +6868,7 @@ tre06.bmp.png
 
 #entry 437
 tre38.dof-00.joe
-tre06.bmp.png
+tre06w.bmp.png
 0
 0
 0
@@ -6884,7 +6884,7 @@ tre06.bmp.png
 
 #entry 438
 tre39.dof-00.joe
-tre06.bmp.png
+tre06w.bmp.png
 0
 0
 0
@@ -6900,7 +6900,7 @@ tre06.bmp.png
 
 #entry 439
 tre40.dof-00.joe
-tre06.bmp.png
+tre06w.bmp.png
 0
 0
 0
@@ -6916,7 +6916,7 @@ tre06.bmp.png
 
 #entry 440
 tre41.dof-00.joe
-tre06.bmp.png
+tre06w.bmp.png
 0
 0
 0
@@ -6932,7 +6932,7 @@ tre06.bmp.png
 
 #entry 441
 tre42.dof-00.joe
-tre06.bmp.png
+tre06w.bmp.png
 0
 0
 0
@@ -6948,7 +6948,7 @@ tre06.bmp.png
 
 #entry 442
 tre43.dof-00.joe
-tre06.bmp.png
+tre06w.bmp.png
 0
 0
 0
@@ -6964,7 +6964,7 @@ tre06.bmp.png
 
 #entry 443
 tre44.dof-00.joe
-tre06.bmp.png
+tre06w.bmp.png
 0
 0
 0
@@ -6980,7 +6980,7 @@ tre06.bmp.png
 
 #entry 444
 tre45.dof-00.joe
-tre06.bmp.png
+tre06w.bmp.png
 0
 0
 0
@@ -6996,7 +6996,7 @@ tre06.bmp.png
 
 #entry 445
 tre46.dof-00.joe
-tre06.bmp.png
+tre06w.bmp.png
 0
 0
 0
@@ -7012,7 +7012,7 @@ tre06.bmp.png
 
 #entry 446
 tre47.dof-00.joe
-tre06.bmp.png
+tre06w.bmp.png
 0
 0
 0
@@ -7028,7 +7028,7 @@ tre06.bmp.png
 
 #entry 447
 tre48.dof-00.joe
-tre06.bmp.png
+tre06w.bmp.png
 0
 0
 0
@@ -7044,7 +7044,7 @@ tre06.bmp.png
 
 #entry 448
 tre49.dof-00.joe
-tre06.bmp.png
+tre06w.bmp.png
 0
 0
 0
@@ -7060,7 +7060,7 @@ tre06.bmp.png
 
 #entry 449
 tre50.dof-00.joe
-tre06.bmp.png
+tre06w.bmp.png
 0
 0
 0
@@ -7076,7 +7076,7 @@ tre06.bmp.png
 
 #entry 450
 tre51.dof-00.joe
-tre06.bmp.png
+tre06w.bmp.png
 0
 0
 0
@@ -7092,7 +7092,7 @@ tre06.bmp.png
 
 #entry 451
 tre52.dof-00.joe
-tre06.bmp.png
+tre06w.bmp.png
 0
 0
 0
@@ -7108,7 +7108,7 @@ tre06.bmp.png
 
 #entry 452
 tre53.dof-00.joe
-tre06.bmp.png
+tre06w.bmp.png
 0
 0
 0
@@ -7124,7 +7124,7 @@ tre06.bmp.png
 
 #entry 453
 tre54.dof-00.joe
-tre06.bmp.png
+tre06w.bmp.png
 0
 0
 0
@@ -7140,7 +7140,7 @@ tre06.bmp.png
 
 #entry 454
 tre55.dof-00.joe
-tre06.bmp.png
+tre06w.bmp.png
 0
 0
 0
@@ -7156,7 +7156,7 @@ tre06.bmp.png
 
 #entry 455
 tre56.dof-00.joe
-tre06.bmp.png
+tre06w.bmp.png
 0
 0
 0
@@ -7172,7 +7172,7 @@ tre06.bmp.png
 
 #entry 456
 tre57.dof-00.joe
-tre06.bmp.png
+tre06w.bmp.png
 0
 0
 0
@@ -7188,7 +7188,7 @@ tre06.bmp.png
 
 #entry 457
 tre58.dof-00.joe
-tre06.bmp.png
+tre06w.bmp.png
 0
 0
 0
@@ -7204,7 +7204,7 @@ tre06.bmp.png
 
 #entry 458
 tre59.dof-00.joe
-tre06.bmp.png
+tre06w.bmp.png
 0
 0
 0
@@ -7220,7 +7220,7 @@ tre06.bmp.png
 
 #entry 459
 tre60.dof-00.joe
-tre06.bmp.png
+tre06w.bmp.png
 0
 0
 0
@@ -7236,7 +7236,7 @@ tre06.bmp.png
 
 #entry 460
 tre61.dof-00.joe
-tre06.bmp.png
+tre06w.bmp.png
 0
 0
 0
@@ -7252,7 +7252,7 @@ tre06.bmp.png
 
 #entry 461
 tre62.dof-00.joe
-tre06.bmp.png
+tre06w.bmp.png
 0
 0
 0
@@ -7268,7 +7268,7 @@ tre06.bmp.png
 
 #entry 462
 tre63.dof-00.joe
-tre06.bmp.png
+tre06w.bmp.png
 0
 0
 0
@@ -7284,7 +7284,7 @@ tre06.bmp.png
 
 #entry 463
 tre64.dof-00.joe
-tre06.bmp.png
+tre06w.bmp.png
 0
 0
 0
@@ -7300,7 +7300,7 @@ tre06.bmp.png
 
 #entry 464
 tre65.dof-00.joe
-tre06.bmp.png
+tre06w.bmp.png
 0
 0
 0
@@ -7316,7 +7316,7 @@ tre06.bmp.png
 
 #entry 465
 tre66.dof-00.joe
-tre06.bmp.png
+tre06w.bmp.png
 0
 0
 0
@@ -7332,7 +7332,7 @@ tre06.bmp.png
 
 #entry 466
 tre67.dof-00.joe
-tre06.bmp.png
+tre06w.bmp.png
 0
 0
 0
@@ -7348,7 +7348,7 @@ tre06.bmp.png
 
 #entry 467
 tre68.dof-00.joe
-tre10.bmp.png
+tre10w.bmp.png
 0
 0
 0
@@ -7364,7 +7364,7 @@ tre10.bmp.png
 
 #entry 468
 tre69.dof-00.joe
-tre10.bmp.png
+tre10w.bmp.png
 0
 0
 0
@@ -7380,7 +7380,7 @@ tre10.bmp.png
 
 #entry 469
 tre70.dof-00.joe
-tre10.bmp.png
+tre10w.bmp.png
 0
 0
 0
@@ -7396,7 +7396,7 @@ tre10.bmp.png
 
 #entry 470
 tre71.dof-00.joe
-tre10.bmp.png
+tre10w.bmp.png
 0
 0
 0
@@ -7412,7 +7412,7 @@ tre10.bmp.png
 
 #entry 471
 tre72.dof-00.joe
-tre10.bmp.png
+tre10w.bmp.png
 0
 0
 0
@@ -7428,7 +7428,7 @@ tre10.bmp.png
 
 #entry 472
 tre73.dof-00.joe
-tre10.bmp.png
+tre10w.bmp.png
 0
 0
 0
@@ -7444,7 +7444,7 @@ tre10.bmp.png
 
 #entry 473
 tre74.dof-00.joe
-tre10.bmp.png
+tre10w.bmp.png
 0
 0
 0
@@ -7460,7 +7460,7 @@ tre10.bmp.png
 
 #entry 474
 tre75.dof-00.joe
-tre10.bmp.png
+tre10w.bmp.png
 0
 0
 0
@@ -7476,7 +7476,7 @@ tre10.bmp.png
 
 #entry 475
 tre76.dof-00.joe
-tre10.bmp.png
+tre10w.bmp.png
 0
 0
 0
@@ -7492,7 +7492,7 @@ tre10.bmp.png
 
 #entry 476
 tre77.dof-00.joe
-tre10.bmp.png
+tre10w.bmp.png
 0
 0
 0
@@ -7508,7 +7508,7 @@ tre10.bmp.png
 
 #entry 477
 tre78.dof-00.joe
-tre10.bmp.png
+tre10w.bmp.png
 0
 0
 0
@@ -7524,7 +7524,7 @@ tre10.bmp.png
 
 #entry 478
 tre79.dof-00.joe
-tre10.bmp.png
+tre10w.bmp.png
 0
 0
 0
@@ -7540,7 +7540,7 @@ tre10.bmp.png
 
 #entry 479
 tre80.dof-00.joe
-tre10.bmp.png
+tre10w.bmp.png
 0
 0
 0
@@ -7556,7 +7556,7 @@ tre10.bmp.png
 
 #entry 480
 tre81.dof-00.joe
-tre10.bmp.png
+tre10w.bmp.png
 0
 0
 0
@@ -7572,7 +7572,7 @@ tre10.bmp.png
 
 #entry 481
 tre82.dof-00.joe
-tre10.bmp.png
+tre10w.bmp.png
 0
 0
 0
@@ -7972,7 +7972,7 @@ road06.jpg.png
 
 #entry 506
 veigroft01.dof-00.joe
-road02.jpg.png
+road02w.jpg.png
 1
 0
 0
@@ -7988,7 +7988,7 @@ road02.jpg.png
 
 #entry 507
 veigroft02.dof-00.joe
-road02.jpg.png
+road02w.jpg.png
 1
 0
 0
@@ -8004,7 +8004,7 @@ road02.jpg.png
 
 #entry 508
 veigroft03.dof-00.joe
-road02.jpg.png
+road02w.jpg.png
 1
 0
 0
@@ -8020,7 +8020,7 @@ road02.jpg.png
 
 #entry 509
 veigroft04.dof-00.joe
-road02.jpg.png
+road02w.jpg.png
 1
 0
 0
@@ -8036,7 +8036,7 @@ road02.jpg.png
 
 #entry 510
 veigroft05.dof-00.joe
-road02.jpg.png
+road02w.jpg.png
 1
 0
 0
@@ -8052,7 +8052,7 @@ road02.jpg.png
 
 #entry 511
 veigroft06.dof-00.joe
-road02.jpg.png
+road02w.jpg.png
 1
 0
 0
@@ -8068,7 +8068,7 @@ road02.jpg.png
 
 #entry 512
 veigroft07.dof-00.joe
-road02.jpg.png
+road02w.jpg.png
 1
 0
 0
@@ -8084,7 +8084,7 @@ road02.jpg.png
 
 #entry 513
 veigroft08.dof-00.joe
-road02.jpg.png
+road02w.jpg.png
 1
 0
 0
@@ -8100,7 +8100,7 @@ road02.jpg.png
 
 #entry 514
 veigroft09.dof-00.joe
-road02.jpg.png
+road02w.jpg.png
 1
 0
 0
@@ -8116,7 +8116,7 @@ road02.jpg.png
 
 #entry 515
 veigroft10.dof-00.joe
-road02.jpg.png
+road02w.jpg.png
 1
 0
 0
@@ -8132,7 +8132,7 @@ road02.jpg.png
 
 #entry 516
 veigroft11.dof-00.joe
-road02.jpg.png
+road02w.jpg.png
 1
 0
 0
@@ -8148,7 +8148,7 @@ road02.jpg.png
 
 #entry 517
 veigroft12.dof-00.joe
-road02.jpg.png
+road02w.jpg.png
 1
 0
 0
@@ -8164,7 +8164,7 @@ road02.jpg.png
 
 #entry 518
 veigroft13.dof-00.joe
-road02.jpg.png
+road02w.jpg.png
 1
 0
 0
@@ -8180,7 +8180,7 @@ road02.jpg.png
 
 #entry 519
 veigroft14.dof-00.joe
-road02.jpg.png
+road02w.jpg.png
 1
 0
 0
@@ -8196,7 +8196,7 @@ road02.jpg.png
 
 #entry 520
 veigroft15.dof-00.joe
-road02.jpg.png
+road02w.jpg.png
 1
 0
 0
@@ -8212,7 +8212,7 @@ road02.jpg.png
 
 #entry 521
 veigroft16.dof-00.joe
-road02.jpg.png
+road02w.jpg.png
 1
 0
 0
@@ -8228,7 +8228,7 @@ road02.jpg.png
 
 #entry 522
 veigroft17.dof-00.joe
-road02.jpg.png
+road02w.jpg.png
 1
 0
 0
@@ -8244,7 +8244,7 @@ road02.jpg.png
 
 #entry 523
 veigroft18.dof-00.joe
-road02.jpg.png
+road02w.jpg.png
 1
 0
 0
