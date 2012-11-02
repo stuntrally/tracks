@@ -2,7 +2,7 @@
 	<car tires="0" />
 	<sky material="sky/duskstormy" />
 	<fog mode="lin" color="0.2 0.2 0.1" exp="0" linStart="63.0125" linEnd="667.012" />
-	<light sceneryId="14" pitch="20.475" yaw="15.3" ambient="0.4 0.25 0.2" diffuse="0.4 0.3 0.2" specular="1 0.9 0.5" />
+	<light sceneryId="20" pitch="20.475" yaw="15.3" ambient="0.4 0.25 0.2" diffuse="0.4 0.3 0.2" specular="1 0.9 0.5" />
 	<fluids>
 		<fluid name="water dark" pos="27.8165 2.72427 8.47087" rot="0 0 0" size="2206.32 40 2014.34" tile="0.004 0.004" />
 	</fluids>

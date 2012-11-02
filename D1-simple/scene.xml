@@ -1,7 +1,7 @@
 <scene>
 	<sky material="sky/light_blue" />
 	<fog mode="lin" color="0.73 0.86 1" exp="0" linStart="799.999" linEnd="1600" />
-	<light sceneryId="0" pitch="37.985" yaw="38.6597" ambient="0.75 0.75 0.75" diffuse="0.8 0.8 0.76" specular="0.99 0.99 0.97" />
+	<light sceneryId="1" pitch="37.985" yaw="38.6597" ambient="0.75 0.75 0.75" diffuse="0.8 0.8 0.76" specular="0.99 0.99 0.97" />
 	<fluids />
 	<terrain size="513" triangle="2">
 		<texture on="1" file="desert_6.dds" fnorm="desert_6_nh.dds" scale="14.1" dust="0.9" dustS="1" mud="0.1" smoke="0" tclr="0.48 0.46 0.08 0.7" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" noise="1" nOnly="1" />

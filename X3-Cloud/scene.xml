@@ -2,7 +2,7 @@
 	<car tires="0" />
 	<sky material="sky/magic" rainName="Snow" rainEmit="15" rain2Name="RainFine" rain2Emit="45" />
 	<fog mode="lin" color="0.23 0.13 0.34" exp="0" linStart="72.2" linEnd="738.113" />
-	<light sceneryId="10" pitch="47.2388" yaw="-45.3438" ambient="0.2 0.2 0.5" diffuse="0.34 0.3 1" specular="0.5 0.5 1" />
+	<light sceneryId="21" pitch="47.2388" yaw="-45.3438" ambient="0.2 0.2 0.5" diffuse="0.34 0.3 1" specular="0.5 0.5 1" />
 	<fluids />
 	<terrain size="1025" triangle="1.20704">
 		<texture on="1" file="volcano_7.dds" fnorm="volcano_7_nh.dds" scale="4.5" dust="0" dustS="0.2" mud="0.02" smoke="0" tclr="0.22 0.2 0.4 0.9" angMin="0" angMax="37.1397" angSm="20" hMin="-300" hMax="300" hSm="20" noise="0.331876" nOnly="0" />
