@@ -4,7 +4,7 @@
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5.33599 13.1521" iDir="-1" iChk1="44" />
 	<stats length="2059.75" width="6.94078" height="29.5665" onTer="4.6728" pipes="0" yaw="0" pitch="0" roll="0" />
-	<txt desc="The smallest circle track, ideal for testing. With 2 long straights." />
+	<txt desc="Track in yellow autumn forest. With a long straight and few banked turns." />
 	<P pos="209.721 0 157.308" w="6.94078" />
 	<P pos="193.998 0 195.874" w="6.94078" chkR="1.98" />
 	<P pos="153.34 0 207.822" w="6.94078" />
