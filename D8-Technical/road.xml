@@ -3,9 +3,9 @@
 	<dim tcMul="0.25" lenDim="2" widthSteps="6" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5 7.02439" iDir="-1" iChk1="7" />
-	<stats length="4989.96" width="7.54772" height="25.7159" onTer="12.7846" pipes="0" yaw="0" pitch="0" roll="0" />
+	<stats length="4991.14" width="7.60015" height="25.7159" onTer="12.451" pipes="0" yaw="0" pitch="0" roll="0" />
 	<txt desc="Very technical track with crossings, bridges, dips, and banked sharp turns.&#x0A;Big jump - at least 180 km/h (112 mph) and for reverse 190 km/h (118 mph)." />
-	<P pos="-327.137 0 91.7678" w="8.0312" a="0" ar="0" aT="0" />
+	<P pos="-326.956 0 74.5695" w="9.1512" a="0" ar="0" aT="0" />
 	<P pos="-327.593 0 152.229" w="8.0312" />
 	<P pos="-327.742 0 207.973" w="8.0312" />
 	<P pos="-325.919 0 279.602" w="7.9996" />
@@ -95,10 +95,10 @@
 	<P pos="-317.416 0 -290.295" w="7.608" />
 	<P pos="-323.931 0 -244.276" w="8.0312" />
 	<P pos="-325.05 0 -137.182" w="8.0312" />
-	<P pos="-325.37 0 -92.7155" w="8.0312" a="0" ar="0" aT="0" />
-	<P pos="-325.309 6.18939 -45.2411" w="10.1024" onTer="0" a="0" ar="0" aT="0" col="0" mtr="-1" />
-	<P pos="-325.782 0 -33.0694" w="8.0312" a="0" ar="0" aT="0" mtr="-1" />
-	<P pos="-326.478 0 3.72433" w="8.0312" mtr="-1" />
-	<P pos="-326.681 0 34.2803" w="8.0312" a="0" ar="0" aT="0" col="0" mtr="-1" />
-	<P pos="-326.567 6.20804 45.8515" w="10.1044" onTer="0" a="0" ar="0" aT="0" />
+	<P pos="-325.056 0 -75.889" w="9.1512" a="0" ar="0" aT="0" />
+	<P pos="-325.49 7.00145 -35.7659" w="11.2224" onTer="0" a="0" ar="0" aT="0" col="0" mtr="-1" />
+	<P pos="-325.897 0 -25.1021" w="9.1512" a="0" ar="0" aT="0" mtr="-1" />
+	<P pos="-326.407 0 0.145042" w="9.1512" mtr="-1" />
+	<P pos="-326.621 0 26.056" w="9.1512" a="0" ar="0" aT="0" col="0" mtr="-1" />
+	<P pos="-326.536 5.60573 34.6587" w="11.2244" onTer="0" a="0" ar="0" aT="0" />
 </SplineRoad>

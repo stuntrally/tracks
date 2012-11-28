@@ -14,7 +14,13 @@
 		<texture road="1" dust="0.6" dustS="1" mud="0" smoke="0" tclr="0.7 0.66 0.36 0.7" />
 		<par dust="Dust" mud="Mud" smoke="Smoke" />
 	</terrain>
-	<paged densGrass="0.001" densTrees="0.2" grMtr="grassDesert" grClr="grClrDesert.png" grPage="100" grDist="100" grMinSx="1" grMinSy="1" grMaxSx="1.25" grMaxSy="1.3" grSwayDistr="4" grSwayLen="0.2" grSwaySpeed="0.5" grDensSmooth="6" grTerMaxAngle="30" grTerMinHeight="-200" grTerMaxHeight="200" trPage="200" trDist="200" trDistImp="1200" trRdDist="2">
+	<paged densGrass="0.001" densTrees="0.2" grPage="100" grDist="100" grDensSmooth="6" trPage="200" trDist="200" trDistImp="1200" trRdDist="2">
+		<grass on="1" mtr="grassDesert" clr="grClrDesert.png" dens="1" minSx="1" maxSx="1.25" minSy="1" maxSy="1.3" swayDistr="4" swayLen="0.2" swaySpeed="0.5" terMaxAng="30" terMinH="-200" terMaxH="200" />
+		<grass on="0" mtr="grassJungle" clr="grClrJungle.png" dens="0.0761433" minSx="0.6" maxSx="0.85" minSy="0.6" maxSy="0.9" swayDistr="4" swayLen="0.2" swaySpeed="0.5" terMaxAng="30" terMinH="-200" terMaxH="200" />
+		<grass on="0" mtr="grassJungle" clr="grClrJungle.png" dens="0.032553" minSx="0.6" maxSx="0.85" minSy="0.6" maxSy="0.9" swayDistr="4" swayLen="0.2" swaySpeed="0.5" terMaxAng="30" terMinH="-200" terMaxH="200" />
+		<grass on="0" mtr="grassJungle" clr="grClrJungle.png" dens="0.0280516" minSx="0.6" maxSx="0.85" minSy="0.6" maxSy="0.9" swayDistr="4" swayLen="0.2" swaySpeed="0.5" terMaxAng="30" terMinH="-200" terMaxH="200" />
+		<grass on="0" mtr="grassJungle" clr="grClrJungle.png" dens="0.107768" minSx="0.6" maxSx="0.85" minSy="0.6" maxSy="0.9" swayDistr="4" swayLen="0.2" swaySpeed="0.5" terMaxAng="30" terMinH="-200" terMaxH="200" />
+		<grass on="0" mtr="grassJungle" clr="grClrJungle.png" dens="0.1" minSx="0.6" maxSx="0.85" minSy="0.6" maxSy="0.9" swayDistr="4" swayLen="0.2" swaySpeed="0.5" terMaxAng="30" terMinH="-200" terMaxH="200" />
 		<layer on="1" name="palm2.mesh" dens="0.0831671" minScale="2.34226" maxScale="3.75777" ofsY="0" addTrRdDist="3" windFx="0.295773" windFy="0.114733" maxTerAng="13.56" minTerH="-10" maxTerH="10" maxDepth="5" />
 		<layer on="1" name="tree.07.mesh" dens="0.0500584" minScale="0.849991" maxScale="1.15" ofsY="0" addTrRdDist="9" windFx="0.699996" windFy="0.00999533" maxTerAng="10.9423" minTerH="-10" maxTerH="10" maxDepth="5" />
 		<layer on="1" name="palm.mesh" dens="0.0481347" minScale="1.78362" maxScale="2.74176" ofsY="0" addTrRdDist="3" windFx="0.599994" windFy="0.009995" maxTerAng="13.2553" minTerH="-10" maxTerH="10" maxDepth="5" />
