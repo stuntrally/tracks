@@ -4,14 +4,15 @@ BumpAmplitude = 0.010000
 BumpWaveLength = 20.000000
 FrictionTread = 0.900000
 ID = 2
-RollingDrag = 1.000000
+RollingDrag = 3.000000
 
 [ B ]
 BumpAmplitude = 0.004000
 BumpWaveLength = 22.000000
 FrictionTread = 1.000000
+#RollResistance = 1
 ID = 5
-RollingDrag = 1.000000
+RollingDrag = 3.000000
 
 [ L_0 ]
 BumpAmplitude = 0.004000
