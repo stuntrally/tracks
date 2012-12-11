@@ -4,13 +4,13 @@
 	<light pitch="62.8755" yaw="21.8009" ambient="0.75 0.75 0.75" diffuse="0.55 0.55 0.55" specular="0.99 0.99 0.97" />
 	<fluids />
 	<terrain size="1025" triangle="1">
-		<texture on="1"  dust="1" dustS="0.2" mud="0" smoke="0" tclr="0.48 0.42 0.2 0.7" />
-		<texture on="1"  dust="1" dustS="0.2" mud="0" smoke="0" tclr="0.42 0.46 0.08 0.7" />
-		<texture on="1"  dust="1" dustS="0.2" mud="0" smoke="0" tclr="0.18 0.36 0.04 0.7" />
+		<texture on="1"  surf="grassVdrift" dust="1" dustS="0.2" mud="0" smoke="0" tclr="0.48 0.42 0.2 0.7" />
+		<texture on="1"  surf="grassVdrift" dust="1" dustS="0.2" mud="0" smoke="0" tclr="0.42 0.46 0.08 0.7" />
+		<texture on="1"  surf="grassVdrift" dust="1" dustS="0.2" mud="0" smoke="0" tclr="0.18 0.36 0.04 0.7" />
 		<texture on="0"  dust="1" dustS="0.2" mud="0" smoke="0" tclr="0.2 0.2 0 1" />
 		<texture on="0"  dust="1" dustS="0.2" mud="0" smoke="0" tclr="0.2 0.2 0 1" />
 		<texture on="0"  dust="1" dustS="0.2" mud="0" smoke="0" tclr="0.2 0.2 0 1" />
-		<texture road="1" dust="0" dustS="0.2" mud="0" smoke="1" tclr="0.1 0.1 0.1 0.9" />
+		<texture road="1" surf="Asphalt" dust="0" dustS="0.2" mud="0" smoke="1" tclr="0.1 0.1 0.1 0.9" />
 		<par dust="Dust" mud="Mud" smoke="Smoke" />
 	</terrain>
 	<paged densGrass="0.22" densTrees="1.2" grMtr="grassSavanna" grClr="grClrSavanna.png" grPage="60" grDist="60" grMinSx="0.7" grMinSy="0.7" grMaxSx="1.25" grMaxSy="1.3" grSwayDistr="3" grSwayLen="0.3" grSwaySpeed="0.4" trPage="200" trDist="220" trDistImp="800" trRdDist="3">
