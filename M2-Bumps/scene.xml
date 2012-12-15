@@ -3,13 +3,13 @@
 	<fog mode="lin" color="0.68 0.7 0.72" exp="0" linStart="159.997" linEnd="699.998" />
 	<light sceneryId="0" pitch="33.6901" yaw="53.1299" ambient="0.45 0.45 0.45" diffuse="0.65 0.65 0.65" specular="0.5 0.5 0.5" />
 	<terrain size="513" triangle="1">
-		<texture on="1" file="jungle_3.dds" fnorm="jungle_3_nh.dds" scale="4.5" dust="0" dustS="0.2" mud="0.8" smoke="0" tclr="0.13 0.08 0 0.8" />
-		<texture on="1" file="jungle_4.dds" fnorm="jungle_4_nh.dds" scale="9.5" dust="0" dustS="0.2" mud="0.6" smoke="0" tclr="0 0.13 0 0.8" />
-		<texture on="1" file="desert_2.dds" fnorm="desert_2_nh.dds" scale="6.5" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.15 0.15 0.05 0.8" />
-		<texture on="0" file="jungle_0.dds" fnorm="jungle_0_nh.dds" scale="4.5" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" />
-		<texture on="0" file="jungle_0.dds" fnorm="jungle_0_nh.dds" scale="4.5" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" />
-		<texture on="0" file="jungle_0.dds" fnorm="jungle_0_nh.dds" scale="4.5" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" />
-		<texture road="1" dust="0" dustS="0.2" mud="0.2" smoke="0" tclr="0.3 0.26 0.16 0.8" />
+		<texture on="1" file="jungle_3.dds" fnorm="jungle_3_nh.dds" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="0.8" smoke="0" tclr="0.13 0.08 0 0.8" />
+		<texture on="1" file="jungle_4.dds" fnorm="jungle_4_nh.dds" scale="9.5" surf="Default" dust="0" dustS="0.2" mud="0.6" smoke="0" tclr="0 0.13 0 0.8" />
+		<texture on="1" file="desert_2.dds" fnorm="desert_2_nh.dds" scale="6.5" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.15 0.15 0.05 0.8" />
+		<texture on="0" file="jungle_0.dds" fnorm="jungle_0_nh.dds" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" />
+		<texture on="0" file="jungle_0.dds" fnorm="jungle_0_nh.dds" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" />
+		<texture on="0" file="jungle_0.dds" fnorm="jungle_0_nh.dds" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" />
+		<texture road="1" surf="roadGravel" dust="0" dustS="0.2" mud="0.2" smoke="0" tclr="0.3 0.26 0.16 0.8" />
 		<par dust="Dust" mud="Mud" smoke="Smoke" />
 	</terrain>
 	<paged densGrass="0" densTrees="0.5" grMtr="grassWinter" grClr="grClrWinter.png" grPage="60" grDist="60" grMinSx="0.7" grMinSy="0.7" grMaxSx="1.05" grMaxSy="1.2" grSwayDistr="4" grSwayLen="0.2" grSwaySpeed="0.5" trPage="100" trDist="110" trDistImp="800" trRdDist="0">
