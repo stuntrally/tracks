@@ -3,10 +3,10 @@
 	<fog mode="lin" color="0.73 0.86 1" exp="0" linStart="799.999" linEnd="1600" />
 	<light sceneryId="1" pitch="37.985" yaw="38.6597" ambient="0.57 0.57 0.57" diffuse="0.9 0.9 0.88" specular="0.99 0.99 0.97" />
 	<terrain size="513" triangle="1.4">
-		<texture on="1" file="adesert_3.dds" fnorm="adesert_3_nh.dds" scale="14.1" surf="Default" dust="0.8" dustS="1" mud="0.4" smoke="0" tclr="0.48 0.26 0.08 0.7" />
-		<texture on="1" file="adesert_6.dds" fnorm="adesert_6_nh.dds" scale="8.5" surf="Default" dust="0.7" dustS="1" mud="0.4" smoke="0" tclr="0.46 0.26 0.08 0.7" />
-		<texture on="0" file="desert_2.dds" fnorm="desert_2_nh.dds" scale="10.4" surf="Default" dust="0.5" dustS="1" mud="0.5" smoke="0" tclr="0.42 0.26 0.08 0.8" />
-		<texture on="1" file="jungle_2.dds" fnorm="jungle_2_nh.dds" scale="10.5" surf="Default" dust="0.6" dustS="1" mud="0.5" smoke="0" tclr="0.48 0.3 0.2 0.8" />
+		<texture on="1" file="adesert_3.dds" fnorm="adesert_3_nh.dds" scale="14.1" surf="DesertFast" dust="0.8" dustS="1" mud="0.4" smoke="0" tclr="0.48 0.26 0.08 0.7" />
+		<texture on="1" file="adesert_6.dds" fnorm="adesert_6_nh.dds" scale="8.5" surf="DesertFast" dust="0.7" dustS="1" mud="0.4" smoke="0" tclr="0.46 0.26 0.08 0.7" />
+		<texture on="0" file="desert_2.dds" fnorm="desert_2_nh.dds" scale="10.4" surf="DesertBumpy" dust="0.5" dustS="1" mud="0.5" smoke="0" tclr="0.42 0.26 0.08 0.8" />
+		<texture on="1" file="jungle_2.dds" fnorm="jungle_2_nh.dds" scale="10.5" surf="DesertFast" dust="0.6" dustS="1" mud="0.5" smoke="0" tclr="0.48 0.3 0.2 0.8" />
 		<texture on="0" file="jungle_0.dds" fnorm="jungle_0_nh.dds" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" />
 		<texture on="0" file="jungle_0.dds" fnorm="jungle_0_nh.dds" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" />
 		<texture road="1" surf="roadAdesert" dust="0.6" dustS="1" mud="0" smoke="0" tclr="0.54 0.3 0.22 0.7" />
