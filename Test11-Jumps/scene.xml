@@ -1,21 +1,21 @@
 <scene>
 	<car tires="0" />
 	<sky material="sky/light_blue" />
-	<fog mode="lin" color="0.86 0.97 1" exp="0" linStart="500" linEnd="899.999" />
-	<light sceneryId="0" pitch="35.325" yaw="8.09999" ambient="0.55 0.55 0.55" diffuse="0.7 0.7 0.7" specular="0.99 0.99 0.97" />
+	<fog mode="lin" color="0.73 0.86 1" exp="0" linStart="500" linEnd="899.999" />
+	<light sceneryId="0" pitch="44.9998" yaw="0" ambient="0.55 0.55 0.55" diffuse="0.7 0.7 0.7" specular="0.99 0.99 0.97" />
 	<fluids />
-	<terrain size="129" triangle="32">
-		<texture on="1" file="sand_2.dds" fnorm="sand_2_nh.dds" scale="14.1" surf="PerfTest" dust="0" dustS="0.2" mud="0.1" smoke="0" tclr="0.5 0.5 0.4 0.7" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" noise="1" nOnly="1" />
-		<texture on="0" file="desert_6.dds" fnorm="desert_6_nh.dds" scale="8.5" surf="PerfTest" dust="0" dustS="0.2" mud="0.1" smoke="0" tclr="0.4 0.4 0.1 0.7" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" noise="1" nOnly="1" />
-		<texture on="0" file="desert_2.dds" fnorm="desert_2_nh.dds" scale="10.4" surf="Default" dust="0" dustS="0.2" mud="0.7" smoke="0" tclr="0.4 0.25 0.04 0.7" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" noise="1" nOnly="1" />
+	<terrain size="513" triangle="1.60633">
+		<texture on="1" file="sand_2.dds" fnorm="sand_2_nh.dds" scale="14.1" surf="DesertFast" dust="0" dustS="0.2" mud="0.1" smoke="0" tclr="0.5 0.5 0.4 0.7" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" noise="1" nOnly="1" />
+		<texture on="1" file="desert_6.dds" fnorm="desert_6_nh.dds" scale="8.5" surf="DesertBumpy" dust="0" dustS="0.2" mud="0.1" smoke="0" tclr="0.4 0.4 0.1 0.7" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" noise="1" nOnly="1" />
+		<texture on="1" file="desert_2.dds" fnorm="desert_2_nh.dds" scale="10.4" surf="DesertRocks" dust="0" dustS="0.2" mud="0.1" smoke="0" tclr="0.4 0.25 0.04 0.7" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" noise="1" nOnly="1" />
 		<texture on="0" file="jungle_0.dds" fnorm="jungle_0_nh.dds" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" noise="1" nOnly="1" />
 		<texture on="0" file="jungle_0.dds" fnorm="jungle_0_nh.dds" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" noise="1" nOnly="1" />
 		<texture on="0" file="jungle_0.dds" fnorm="jungle_0_nh.dds" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" noise="1" nOnly="1" />
-		<texture road="1" surf="PerfTest" dust="0" dustS="1" mud="0" smoke="0" tclr="0.7 0.66 0.36 0.7" />
+		<texture road="1" surf="roadForest" dust="0" dustS="1" mud="0" smoke="0" tclr="0.7 0.66 0.36 0.7" />
 		<par dust="Dust" mud="Mud" smoke="Smoke" />
 	</terrain>
-	<paged densGrass="0.002" densTrees="0" grPage="180" grDist="180" grDensSmooth="6" trPage="200" trDist="210" trDistImp="800" trRdDist="0">
-		<grass on="1" mtr="grassGreece" clr="grClrWinter.png" dens="0.143275" minSx="0.7" maxSx="1.05" minSy="0.7" maxSy="1.2" swayDistr="4" swayLen="0.2" swaySpeed="0.5" terMaxAng="30" terMinH="-200" terMaxH="200" />
+	<paged densGrass="0.004" densTrees="0" grPage="180" grDist="180" grDensSmooth="6" trPage="200" trDist="210" trDistImp="800" trRdDist="0">
+		<grass on="1" mtr="grassSavanna" clr="grClrJungle.png" dens="0.143275" minSx="0.7" maxSx="1.05" minSy="0.7" maxSy="1.2" swayDistr="4" swayLen="0.2" swaySpeed="0.5" terMaxAng="30" terMinH="-200" terMaxH="200" />
 		<grass on="0" mtr="grass_04" clr="grClrJungle.png" dens="0.0761433" minSx="1" maxSx="2" minSy="1" maxSy="2" swayDistr="4" swayLen="0.2" swaySpeed="0.5" terMaxAng="30" terMinH="-200" terMaxH="200" />
 		<grass on="0" mtr="grass20" clr="grClrJungle.png" dens="0.032553" minSx="1" maxSx="2" minSy="1" maxSy="2" swayDistr="4" swayLen="0.2" swaySpeed="0.5" terMaxAng="30" terMinH="-200" terMaxH="200" />
 		<grass on="0" mtr="grassJungle" clr="grClrJungle.png" dens="0.0280516" minSx="0.6" maxSx="0.85" minSy="0.6" maxSy="0.9" swayDistr="4" swayLen="0.2" swaySpeed="0.5" terMaxAng="30" terMinH="-200" terMaxH="200" />
@@ -32,6 +32,6 @@
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 	</paged>
-	<cam pos="-368.772 12.1686 109.07" dir="0.571309 -0.154312 -0.806098" />
+	<cam pos="-294.953 41.5055 66.7427" dir="0.822929 -0.154312 -0.54679" />
 	<objects />
 </scene>
