@@ -4,7 +4,7 @@
 	<fog mode="lin" color="0.52 0.67 0.75" exp="0" linStart="45" linEnd="871.2" />
 	<light sceneryId="18" pitch="38.2442" yaw="124.2" ambient="0.35 0.45 0.45" diffuse="0.55 0.55 0.55" specular="0.5 0.5 0.5" />
 	<fluids>
-		<fluid name="water blue" pos="0.104229 3.33022 -0.0285969" rot="0 0 0" size="1750 40 1750" tile="0.01 0.01" />
+		<fluid name="water blue" pos="0.104229 3.33022 -0.0285969" rot="0 0 0" size="8000 40 8000" tile="0.01 0.01" />
 		<fluid name="water green med" pos="53.3572 8.75545 -88.9491" rot="0 0 0" size="120.153 20 63.8149" tile="0.01 0.01" />
 		<fluid name="mud hard" pos="35.1983 8.35188 126.23" rot="0 0 0" size="37.6743 20 24.3686" tile="0.01 0.01" />
 		<fluid name="mud soft" pos="-16.1779 9.5564 125.278" rot="0 0 0" size="37.3759 20 26.6302" tile="0.01 0.01" />

@@ -4,7 +4,7 @@
 	<fog mode="lin" color="0.6 0.73 0.8" exp="0" linStart="129.492" linEnd="888.887" />
 	<light sceneryId="9" pitch="31.8316" yaw="132.366" ambient="0.24 0.43 0.7" diffuse="0.6 0.66 0.8" specular="0.9 0.96 1" />
 	<fluids>
-		<fluid name="water shore" pos="1.75643 -2 0.258239" rot="0 0 0" size="1500 40 1500" tile="0.00356533 0.00375183" />
+		<fluid name="water shore" pos="1.75643 -2 0.258239" rot="0 0 0" size="8000 40 8000" tile="0.00356533 0.00375183" />
 	</fluids>
 	<terrain size="513" triangle="1.18027">
 		<texture on="1" file="sand_2.dds" fnorm="sand_2_nh.dds" scale="7.62453" surf="Default" dust="0" dustS="0.7" mud="0.2" smoke="0" tclr="0.3 0.4 0.46 0.6" angMin="0" angMax="20.1342" angSm="20" hMin="-300" hMax="300" hSm="20" noise="0.299776" nOnly="0" />

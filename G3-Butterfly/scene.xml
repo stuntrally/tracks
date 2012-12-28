@@ -4,7 +4,7 @@
 	<fog mode="lin" color="0.7 0.96 1" exp="0" linStart="69.6145" linEnd="550.977" />
 	<light sceneryId="0" pitch="41.6794" yaw="58.1674" ambient="0.6 0.6 0.6" diffuse="0.9 0.9 0.88" specular="0.99 0.99 0.97" />
 	<fluids>
-		<fluid name="water cyan" pos="31.5432 -16.169 -5.29882" rot="0 0 0" size="1151.03 40 1107.71" tile="0.004 0.004" />
+		<fluid name="water cyan" pos="31.5432 -16.169 -5.29882" rot="0 0 0" size="8000 40 8000" tile="0.004 0.004" />
 	</fluids>
 	<terrain size="257" triangle="1.1199">
 		<texture on="1" file="desert_1.dds" fnorm="desert_1_nh.dds" scale="5.87196" surf="Default" dust="0.3" dustS="0.2" mud="0.4" smoke="0" tclr="0.36 0.4 0.28 0.7" angMin="0" angMax="18.9261" angSm="20" hMin="-300" hMax="300" hSm="20" noise="1" nOnly="0" />

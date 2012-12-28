@@ -3,7 +3,7 @@
 	<fog mode="lin" color="0.73 0.86 1" exp="0" linStart="299.998" linEnd="1600" />
 	<light pitch="42.8" yaw="70.0" ambient="0.7 0.7 0.7" diffuse="0.65 0.65 0.62" specular="0.99 0.99 0.97" />
 	<fluids>
-		<fluid name="water blue" pos="0 -20 0" rot="0 0 0" size="4000 40 4000" tile="0.01 0.01" />
+		<fluid name="water blue" pos="0 -20 0" rot="0 0 0" size="12000 40 12000" tile="0.01 0.01" />
 	</fluids>
 	<terrain size="1025" triangle="1">
 		<texture on="1"  surf="grassVdrift" dust="0" dustS="0.2" mud="0.4" smoke="0" tclr="0.48 0.42 0.2 0.7" />

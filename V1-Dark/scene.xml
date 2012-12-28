@@ -4,7 +4,7 @@
 	<fog mode="lin" color="0.2 0.2 0.1" exp="0" linStart="129.492" linEnd="581.991" />
 	<light sceneryId="19" pitch="16.9466" yaw="19.6942" ambient="0.11 0.11 0.05" diffuse="0.53 0.53 0.36" specular="1 1 0.6" />
 	<fluids>
-		<fluid name="water dark" pos="0.0012537 -2 -0.530625" rot="0 0 0" size="1500 40 1500" tile="0.00482925 0.00508187" />
+		<fluid name="water dark" pos="0.0012537 -2 -0.530625" rot="0 0 0" size="8000 40 8000" tile="0.00482925 0.00508187" />
 	</fluids>
 	<terrain size="513" triangle="1.18027">
 		<texture on="1" file="volcano_7.dds" fnorm="volcano_7_nh.dds" scale="7.62453" surf="Default" dust="0" dustS="0.7" mud="0" smoke="0" tclr="0.44 0.44 0.26 0.1" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" noise="1" nOnly="1" />
