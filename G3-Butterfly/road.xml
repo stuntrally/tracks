@@ -4,7 +4,7 @@
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="800" lodPntLen="120" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5.56 16.608" iDir="-1" iChk1="36" />
 	<stats length="1099.9" width="7.51929" height="29.348" onTer="0" pipes="0" yaw="0" pitch="0" roll="0" />
-	<txt desc="A tiny slow coast track. Careful: don't fall out to water." />
+	<txt desc="A tiny slow coast track. Careful: don&apos;t fall out to water." />
 	<P pos="-96.1017 0 118.848" w="7.728" />
 	<P pos="-85.0347 0 117.226" w="7.728" />
 	<P pos="-73.1231 0 115.262" w="7.728" />
