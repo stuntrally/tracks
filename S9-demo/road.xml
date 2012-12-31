@@ -2,7 +2,7 @@
 	<mtr road="roadSavannah" pipe="pipeAsphalt" pipe2="pipeGlass" />
 	<dim tcMul="0.25" lenDim="1" widthSteps="8" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
-	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 4.284 10.4" iDir="1" iChk1="2" />
+	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 4.468 12.852" iDir="1" iChk1="2" />
 	<stats length="1081.73" width="7.37207" height="16.7453" onTer="24.7931" pipes="12.7499" yaw="0" pitch="0" roll="0" />
 	<txt desc="The tutorial demo track with pipe fragment, banked turn, in air bridge turn and bumpy terrain. Simple but fun." />
 	<P pos="-51.705 4.1954 -1.20469" w="10.1464" onTer="0" a="226.08" ar="-18" aT="0" />
@@ -28,7 +28,7 @@
 	<P pos="76.3354 0 14.2403" w="6.6" />
 	<P pos="84.0161 0 46.6675" w="6.6" />
 	<P pos="74.6994 0 91.033" w="6.6" />
-	<P pos="51.877 0 112.072" w="6.6" chkR="1.848" />
+	<P pos="51.877 0 112.072" w="6.6" chkR="2.212" />
 	<P pos="29.5112 0 118.594" w="6.6" />
 	<P pos="3.41217 0 115.545" w="6.6" />
 	<P pos="-11.4641 0 98.5437" w="6.6" />

@@ -3,7 +3,7 @@
 	<dim tcMul="0.25" lenDim="1" widthSteps="8" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 6.704 20.392" iDir="-1" iChk1="137" />
-	<stats length="2086.6" width="8.20973" height="104.655" onTer="40.151" pipes="0" yaw="0" pitch="0" roll="0" />
+	<stats length="2086.61" width="8.20973" height="104.653" onTer="40.1508" pipes="0" yaw="0" pitch="0" roll="0" />
 	<txt desc="Long, very high and madly twisted stunt track with stretched high loop." />
 	<P pos="34.5356 0 74.1391" w="8.01601" chkR="1.724" />
 	<P pos="45.6128 0 56.7733" w="8.01601" />
