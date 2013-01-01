@@ -3,7 +3,7 @@
 	<dim tcMul="0.25" lenDim="1" widthSteps="6" heightOfs="0.06" />
 	<mrg skirtLen="0.2" skirtH="0.06" merge="1" mergeLen="400" lodPntLen="10" />
 	<geom colN="5" colR="2.5" wsPm="4" lsPm="1" stBox="1 4.236 10.9" iDir="1" iChk1="87" />
-	<stats length="5328.34" width="8.18731" height="69.1901" onTer="83.7269" pipes="35.8196" yaw="0" pitch="0" roll="0" />
+	<stats length="5328.33" width="8.17874" height="69.1901" onTer="83.7277" pipes="35.8204" yaw="0" pitch="0" roll="0" />
 	<txt desc="Hard difficulty, stunt track. Intense skewed loops, pipes, very banked, twisted road and jumps. Caution: insanely crazy! For professional stunt drivers." />
 	<P pos="-43.911 30.5373 -28.3669" w="8.58" onTer="0" a="0" ar="0" aT="2" col="0" />
 	<P pos="-34.9745 27.9078 -12.6081" w="8.4" onTer="0" a="0" ar="-11.4" aT="2" col="0" chkR="1.328" />
