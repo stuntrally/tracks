@@ -15,22 +15,22 @@
 		<par dust="Dust" mud="Mud" smoke="Smoke" />
 	</terrain>
 	<paged densGrass="0.001" densTrees="0.2" grPage="100" grDist="100" grDensSmooth="6" trPage="200" trDist="200" trDistImp="1200" trRdDist="2">
-		<grass on="1" mtr="grassDesert" clr="grClrDesert.png" dens="1" minSx="1" maxSx="1.25" minSy="1" maxSy="1.3" swayDistr="4" swayLen="0.2" swaySpeed="0.5" terMaxAng="30" terMinH="-200" terMaxH="200" />
+		<grass on="1" mtr="grassDesert" clr="grClrDesert.png" dens="0.231653" minSx="1.44314" maxSx="1.66664" minSy="1" maxSy="1.3" swayDistr="4" swayLen="0.2" swaySpeed="0.5" terMaxAng="30" terMinH="-200" terMaxH="200" />
 		<grass on="0" mtr="grassJungle" clr="grClrJungle.png" dens="0.0761433" minSx="0.6" maxSx="0.85" minSy="0.6" maxSy="0.9" swayDistr="4" swayLen="0.2" swaySpeed="0.5" terMaxAng="30" terMinH="-200" terMaxH="200" />
 		<grass on="0" mtr="grassJungle" clr="grClrJungle.png" dens="0.032553" minSx="0.6" maxSx="0.85" minSy="0.6" maxSy="0.9" swayDistr="4" swayLen="0.2" swaySpeed="0.5" terMaxAng="30" terMinH="-200" terMaxH="200" />
 		<grass on="0" mtr="grassJungle" clr="grClrJungle.png" dens="0.0280516" minSx="0.6" maxSx="0.85" minSy="0.6" maxSy="0.9" swayDistr="4" swayLen="0.2" swaySpeed="0.5" terMaxAng="30" terMinH="-200" terMaxH="200" />
 		<grass on="0" mtr="grassJungle" clr="grClrJungle.png" dens="0.107768" minSx="0.6" maxSx="0.85" minSy="0.6" maxSy="0.9" swayDistr="4" swayLen="0.2" swaySpeed="0.5" terMaxAng="30" terMinH="-200" terMaxH="200" />
 		<grass on="0" mtr="grassJungle" clr="grClrJungle.png" dens="0.1" minSx="0.6" maxSx="0.85" minSy="0.6" maxSy="0.9" swayDistr="4" swayLen="0.2" swaySpeed="0.5" terMaxAng="30" terMinH="-200" terMaxH="200" />
-		<layer on="1" name="palm2.mesh" dens="0.0831671" minScale="2.34226" maxScale="3.75777" ofsY="0" addTrRdDist="3" windFx="0.295773" windFy="0.114733" maxTerAng="13.56" minTerH="-10" maxTerH="10" maxDepth="5" />
-		<layer on="1" name="tree.07.mesh" dens="0.0500584" minScale="0.849991" maxScale="1.15" ofsY="0" addTrRdDist="9" windFx="0.699996" windFy="0.00999533" maxTerAng="10.9423" minTerH="-10" maxTerH="10" maxDepth="5" />
-		<layer on="1" name="palm.mesh" dens="0.0481347" minScale="1.78362" maxScale="2.74176" ofsY="0" addTrRdDist="3" windFx="0.599994" windFy="0.009995" maxTerAng="13.2553" minTerH="-10" maxTerH="10" maxDepth="5" />
-		<layer on="1" name="farn1.mesh" dens="0.10167" minScale="0.149997" maxScale="0.249992" ofsY="0" addTrRdDist="2" windFx="7.29999" windFy="0.0599931" maxTerAng="26.933" minTerH="-10" maxTerH="10" maxDepth="5" />
-		<layer on="0" name="farn2.mesh" dens="0.0399999" minScale="0.149997" maxScale="0.249992" ofsY="0" addTrRdDist="0" windFx="7.29999" windFy="0.0599931" maxTerAng="20.8571" minTerH="-10" maxTerH="10" maxDepth="5" />
-		<layer on="1" name="rock.05.mesh" dens="0.0134539" minScale="0.134947" maxScale="0.316406" ofsY="0" addTrRdDist="4" windFx="0" windFy="0" maxTerAng="34.2693" minTerH="-10" maxTerH="10" maxDepth="5" />
-		<layer on="1" name="rock.07.mesh" dens="0.0115767" minScale="0.119856" maxScale="0.305434" ofsY="0" addTrRdDist="4" windFx="0" windFy="0" maxTerAng="28.9074" minTerH="-10" maxTerH="10" maxDepth="5" />
-		<layer on="0" name="" dens="0.0999996" minScale="0.0999994" maxScale="0.249992" ofsY="0" addTrRdDist="0" windFx="0" windFy="0" maxTerAng="50" minTerH="-10" maxTerH="10" maxDepth="5" />
-		<layer on="0" name="" dens="0.0999996" minScale="0.0999994" maxScale="0.249994" ofsY="0" addTrRdDist="0" windFx="0" windFy="0" maxTerAng="50" minTerH="-10" maxTerH="10" maxDepth="5" />
-		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
+		<layer on="1" name="palm2.mesh" dens="0.0831671" minScale="2.34226" maxScale="3.75777" ofsY="0" addTrRdDist="3" maxRdist="100" windFx="0.295773" windFy="0.114733" maxTerAng="7.54155" minTerH="-10" maxTerH="10" maxDepth="5" />
+		<layer on="1" name="palm.mesh" dens="0.0481347" minScale="1.78362" maxScale="2.74176" ofsY="0" addTrRdDist="3" maxRdist="100" windFx="0.599994" windFy="0.00999496" maxTerAng="7.54155" minTerH="-10" maxTerH="10" maxDepth="5" />
+		<layer on="1" name="treeD-22desMed.mesh" dens="0.030259" minScale="1.17759" maxScale="1.64109" ofsY="0" addTrRdDist="9" maxRdist="100" windFx="0.36237" windFy="0.0099953" maxTerAng="10.9423" minTerH="-10" maxTerH="10" maxDepth="5" />
+		<layer on="1" name="treeD-34desTiny.mesh" dens="0.0399543" minScale="0.907978" maxScale="1.34492" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0.101797" windFy="0.00641049" maxTerAng="17.4866" minTerH="-10" maxTerH="10" maxDepth="5" />
+		<layer on="0" name="farn2.mesh" dens="0.0399999" minScale="0.149997" maxScale="0.249992" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="7.29999" windFy="0.0599931" maxTerAng="20.8571" minTerH="-10" maxTerH="10" maxDepth="5" />
+		<layer on="1" name="rock.05.mesh" dens="0.0134539" minScale="0.134947" maxScale="0.316406" ofsY="0" addTrRdDist="4" maxRdist="100" windFx="0" windFy="0" maxTerAng="34.2693" minTerH="-10" maxTerH="10" maxDepth="5" />
+		<layer on="1" name="rock.07.mesh" dens="0.0115767" minScale="0.119856" maxScale="0.305434" ofsY="0" addTrRdDist="4" maxRdist="100" windFx="0" windFy="0" maxTerAng="28.9074" minTerH="-10" maxTerH="10" maxDepth="5" />
+		<layer on="0" name="" dens="0.0999996" minScale="0.0999994" maxScale="0.249992" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-10" maxTerH="10" maxDepth="5" />
+		<layer on="0" name="" dens="0.0999996" minScale="0.0999994" maxScale="0.249994" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-10" maxTerH="10" maxDepth="5" />
+		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 	</paged>
 	<cam pos="-547.111 130.506 424.883" dir="0.691192 -0.224092 -0.687049" />
 	<objects>
