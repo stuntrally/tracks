@@ -16,9 +16,9 @@
 	</terrain>
 	<paged densGrass="0" densTrees="0.2" grMtr="grassDesert" grClr="grClrDesert.png" grPage="100" grDist="100" grMinSx="1" grMinSy="1" grMaxSx="1.25" grMaxSy="1.3" grSwayDistr="4" grSwayLen="0.2" grSwaySpeed="0.5" grDensSmooth="6" grTerMaxAngle="30" grTerMinHeight="-200" grTerMaxHeight="200" trPage="160" trDist="160" trDistImp="600" trRdDist="1">
 		<layer on="1" name="palm2.mesh" dens="0.0831671" minScale="1.72566" maxScale="2.09301" ofsY="0" addTrRdDist="3" windFx="1.31116" windFy="0.168448" maxTerAng="30.0341" minTerH="-10" maxTerH="10" maxDepth="5" />
-		<layer on="1" name="tree.07.mesh" dens="0.0249996" minScale="0.628886" maxScale="0.821221" ofsY="0" addTrRdDist="4" windFx="5.15184" windFy="0.0697796" maxTerAng="15.7209" minTerH="-10" maxTerH="10" maxDepth="5" />
 		<layer on="1" name="palm.mesh" dens="0.0249996" minScale="1.38909" maxScale="2.15225" ofsY="0" addTrRdDist="3" windFx="2.57498" windFy="0.134303" maxTerAng="15.0691" minTerH="-10" maxTerH="10" maxDepth="5" />
-		<layer on="1" name="farn1.mesh" dens="0.10167" minScale="0.149997" maxScale="0.249992" ofsY="0" addTrRdDist="1" windFx="12" windFy="0.284512" maxTerAng="26.933" minTerH="-10" maxTerH="10" maxDepth="5" />
+		<layer on="1" name="tree.07.mesh" dens="0.0249996" minScale="0.628886" maxScale="0.821221" ofsY="0" addTrRdDist="4" windFx="5.15184" windFy="0.0697796" maxTerAng="15.7209" minTerH="-10" maxTerH="10" maxDepth="5" />
+		<layer on="0" name="farn1.mesh" dens="0.10167" minScale="0.149997" maxScale="0.249992" ofsY="0" addTrRdDist="1" windFx="12" windFy="0.284512" maxTerAng="26.933" minTerH="-10" maxTerH="10" maxDepth="5" />
 		<layer on="0" name="farn2.mesh" dens="0.0399999" minScale="0.149997" maxScale="0.249992" ofsY="0" addTrRdDist="0" windFx="7.29999" windFy="0.0599931" maxTerAng="20.8571" minTerH="-10" maxTerH="10" maxDepth="5" />
 		<layer on="1" name="rock.05.mesh" dens="0.0134539" minScale="0.134947" maxScale="0.404521" ofsY="0" addTrRdDist="4" windFx="0" windFy="0" maxTerAng="34.2693" minTerH="-10" maxTerH="10" maxDepth="5" />
 		<layer on="1" name="rock.07.mesh" dens="0.0115767" minScale="0.119856" maxScale="0.473331" ofsY="0" addTrRdDist="4" windFx="0" windFy="0" maxTerAng="28.9074" minTerH="-10" maxTerH="10" maxDepth="5" />
