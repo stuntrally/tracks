@@ -3,7 +3,7 @@
 	<dim tcMul="0.25" lenDim="1" widthSteps="8" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="160" lodPntLen="10" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 6.804 24.604" iDir="-1" iChk1="68" />
-	<stats length="1916.15" width="8.10393" height="59.4428" onTer="0" pipes="0" yaw="0" pitch="0" roll="0" />
+	<stats length="1916.15" width="8.10393" height="59.4427" onTer="0" pipes="0" yaw="0" pitch="0" roll="0" />
 	<txt desc="Tricky but fast track, with many sharp turns - hairpins, also very banked and high terrain angles." />
 	<P pos="-140.064 0 104.089" w="8.136" />
 	<P pos="-136.715 0 134.256" w="8.136" chkR="2.016" />
