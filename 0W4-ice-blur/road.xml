@@ -2,7 +2,7 @@
 	<mtr road="roadIce" />
 	<dim tcMul="0.25" lenDim="1" widthSteps="8" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
-	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5.748 14.124" iDir="-1" iChk1="0" />
+	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5.748 18.44" iDir="-1" iChk1="0" />
 	<stats length="530.823" width="13" height="2.73258" onTer="0" pipes="0" yaw="0" pitch="0" roll="0" />
 	<txt desc="Tiny and slippery ice track - drive slowly." />
 	<P pos="-49.53 0 86.1294" w="13" chkR="2.06" />
