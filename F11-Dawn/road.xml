@@ -2,8 +2,8 @@
 	<mtr road="roadJungle" />
 	<dim tcMul="0.12" lenDim="1" widthSteps="6" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
-	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 6.4079 11.968" iDir="1" iChk1="11" />
-	<stats length="860.225" width="6" height="22.2048" onTer="0" pipes="0" yaw="0" pitch="0" roll="0" />
+	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 6.4079 11.692" iDir="1" iChk1="11" />
+	<stats length="860.211" width="6" height="22.2048" onTer="0" pipes="0" yaw="0" pitch="0" roll="0" />
 	<txt desc="Short, narrow track in forest at dawn. Has few terrain bumps and banked turns." />
 	<P pos="10.5097 0 135.389" w="6" />
 	<P pos="34.6189 0 132.537" w="6" chkR="1.748" />

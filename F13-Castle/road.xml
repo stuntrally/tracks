@@ -3,7 +3,7 @@
 	<dim tcMul="0.12" lenDim="1" widthSteps="6" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="600" lodPntLen="20" />
 	<geom colN="8" colR="1.5" wsPm="4" lsPm="1" stBox="1 7.79601 18.148" iDir="-1" iChk1="32" />
-	<stats length="2268.22" width="8.66679" height="129.922" onTer="50.2013" pipes="0" yaw="0" pitch="0" roll="0" />
+	<stats length="2268.23" width="8.66678" height="129.922" onTer="50.2015" pipes="0" yaw="0" pitch="0" roll="0" />
 	<txt desc="Strange road going from very low to very high in mountains. From distance looking like a castle, having few circles as towers." />
 	<P pos="60.2053 0 87.9344" w="8.024" a="0" ar="0" aT="1" mtr="1" />
 	<P pos="42.1168 0 88.158" w="8.024" mtr="1" />
