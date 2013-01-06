@@ -1,14 +1,14 @@
 <SplineRoad>
 	<mtr road="roadJungle" />
 	<dim tcMul="0.25" lenDim="1" widthSteps="6" heightOfs="0.06" />
-	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="400" lodPntLen="40" />
+	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="600" lodPntLen="40" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 6.924 15.64" iDir="-1" iChk1="54" />
-	<stats length="2871.7" width="7.60311" height="99.1285" onTer="15.9242" pipes="0" yaw="0" pitch="0" roll="0" />
+	<stats length="2846.83" width="7.60321" height="82.748" onTer="16.0633" pipes="0" yaw="0" pitch="0" roll="0" />
 	<txt desc="Slow and difficult mountain track. Bumpy terrain and high slopes covered with slippy, winding road." />
 	<P pos="-67.0609 0 -133.616" w="7.592" />
-	<P pos="-46.9918 0 -137.162" w="7.592" />
-	<P pos="-35.6117 0 -125.924" w="7.592" />
-	<P pos="-28.4645 0 -102.298" w="7.592" />
+	<P pos="-46.8329 0 -132.216" w="7.592" />
+	<P pos="-34.2254 0 -114.936" w="7.592" />
+	<P pos="-28.0761 0 -101.016" w="7.592" />
 	<P pos="-16.7554 0 -86.8994" w="7.592" chkR="3.252" />
 	<P pos="-3.71298 0 -84.883" w="7.592" />
 	<P pos="14.4875 0 -91.4705" w="7.592" />
