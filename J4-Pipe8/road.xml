@@ -1,9 +1,9 @@
 <SplineRoad>
-	<mtr road="roadJungle" pipe="pipeAsphalt" pipe2="pipeGlass" pipe3="pipeGlassCyan" />
+	<mtr road="roadJDark" pipe="pipeAsphalt" pipe2="pipeGlass" pipe3="pipeGlassCyan" />
 	<dim tcMul="0.25" lenDim="1" widthSteps="8" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
 	<geom colN="6" colR="3" wsPm="4" lsPm="1" stBox="1 5 10.812" iDir="-1" iChk1="11" />
-	<stats length="877.519" width="12.1113" height="25.9128" onTer="98.0625" pipes="98.0625" yaw="0" pitch="0" roll="0" />
+	<stats length="877.502" width="12.1113" height="25.9128" onTer="98.0625" pipes="98.0625" yaw="0" pitch="0" roll="0" />
 	<txt desc="Extremely fast 8-shaped pipe track." />
 	<P pos="116.518 0 77.2472" w="14.768" onTer="0" a="116.412" ar="-12" aT="0" pipe="1" mtr="2" chkR="2.748" />
 	<P pos="153.466 0 48.9177" w="15.192" onTer="0" a="148.014" ar="-12" aT="0" pipe="1" mtr="2" />

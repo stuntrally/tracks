@@ -1,5 +1,5 @@
 <SplineRoad>
-	<mtr road="roadJungle" pipe="pipeAsphalt" pipe2="pipeGlass" pipe3="pipeGlassCyan" />
+	<mtr road="roadJDark" pipe="pipeAsphalt" pipe2="pipeGlass" pipe3="pipeGlassCyan" />
 	<dim tcMul="0.25" lenDim="1" widthSteps="8" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
 	<geom colN="6" colR="3" wsPm="4" lsPm="1" stBox="1 5.296 15.512" iDir="-1" iChk1="28" />
@@ -30,7 +30,7 @@
 	<P pos="-26.7515 -7.17999 20.8718" w="11.208" onTer="0" a="-193.92" ar="0" aT="0" pipe="1" mtr="1" />
 	<P pos="-31.2205 -9.45549 1.63626" w="11.552" onTer="0" a="-146.04" ar="0" aT="0" pipe="1" mtr="1" />
 	<P pos="-50.1115 0 -20.0175" w="10.272" a="-123.84" ar="0" aT="0" chkR="1.236" />
-	<P pos="-80.0179 0 -32.5099" w="9.368" a="-122.46" ar="0" aT="0" />
+	<P pos="-80.0179 0 -32.5099" w="9.368" a="-106.86" ar="0" aT="0" />
 	<P pos="-107.325 -9.01763 -28.5976" w="9.456" onTer="0" a="-50.88" ar="-15.54" aT="0" />
 	<P pos="-128.417 -5.15499 -6.72415" w="9.464" onTer="0" a="-31.98" ar="-50.1" aT="0" />
 	<P pos="-131.023 -2.61449 19.9893" w="9.704" onTer="0" a="28.98" ar="-43.86" aT="0" chkR="1.244" />
