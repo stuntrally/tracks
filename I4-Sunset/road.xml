@@ -3,7 +3,7 @@
 	<dim tcMul="0.15" lenDim="2" widthSteps="6" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 4.76 9.35238" iDir="1" iChk1="37" />
-	<stats length="1675.34" width="7.336" height="11.4669" onTer="0" pipes="0" yaw="0" pitch="0" roll="0" />
+	<stats length="1675.29" width="7.336" height="11.4669" onTer="0" pipes="0" yaw="0" pitch="0" roll="0" />
 	<txt desc="A curly track at sunset with a drive through water." />
 	<P pos="-125.299 0 -57.9111" w="7.336" chkR="1.728" />
 	<P pos="-148.095 0 -78.6954" w="7.336" />
