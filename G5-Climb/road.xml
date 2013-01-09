@@ -1,7 +1,7 @@
 <SplineRoad>
 	<mtr road="roadGDesert" pipe="pipeAsphalt" road2="roadDesert" pipe2="pipeGlass" road3="roadSandShore" />
 	<dim tcMul="0.25" lenDim="2" widthSteps="6" heightOfs="0.06" />
-	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="800" lodPntLen="120" />
+	<mrg skirtLen="0" skirtH="0.03" merge="1" mergeLen="800" lodPntLen="120" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5.516 18.22" iDir="-1" iChk1="120" />
 	<stats length="8102.21" width="9.51817" height="226.316" onTer="51.1453" pipes="0" yaw="0" pitch="0" roll="0" />
 	<txt desc="Long, wide, fast road, goind from sea level up to mountains and back, with great views." />
