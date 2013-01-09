@@ -1,9 +1,9 @@
 <SplineRoad>
 	<mtr road="roadJungle" pipe="pipeAsphalt" pipe2="pipeGlass" />
-	<dim tcMul="0.25" lenDim="2" widthSteps="6" heightOfs="0.06" />
+	<dim tcMul="0.1" lenDim="2" widthSteps="6" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="800" lodPntLen="120" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5 21.8241" iDir="1" iChk1="54" />
-	<stats length="5947.07" width="11.5313" height="131.699" onTer="4.01701" pipes="0" yaw="0" pitch="0" roll="0" />
+	<stats length="5947.08" width="11.5313" height="131.699" onTer="4.01701" pipes="0" yaw="0" pitch="0" roll="0" />
 	<txt desc="Jumps and fast driving in a majestic scenery." />
 	<P pos="167.653 0 -359.019" w="6" chkR="7.14" />
 	<P pos="173.975 0 -504.051" w="6" />
