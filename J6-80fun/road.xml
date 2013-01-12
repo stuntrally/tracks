@@ -1,9 +1,9 @@
 <SplineRoad>
 	<mtr road="roadJungle" pipe="pipeAsphalt" road2="roadMud" pipe2="pipeGlass" pipe3="pipeGlassCyan" />
 	<dim tcMul="0.15" lenDim="1" widthSteps="8" heightOfs="0.06" />
-	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="180" lodPntLen="10" />
+	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="400" lodPntLen="40" />
 	<geom colN="6" colR="3" wsPm="4" lsPm="1" stBox="1 5.664 18.128" iDir="-1" iChk1="112" />
-	<stats length="3497.65" width="13.5925" height="57.3765" onTer="61.8316" pipes="21.7734" yaw="0" pitch="0" roll="0" />
+	<stats length="3497.65" width="13.5925" height="57.3765" onTer="61.8316" pipes="21.7735" yaw="0" pitch="0" roll="0" />
 	<txt desc="Winding track with many small jumps and pipes." />
 	<P pos="100.495 0 74.5691" w="13.072" />
 	<P pos="129.453 0 119.076" w="9.704" a="20.16" ar="0" aT="0" />
