@@ -2,7 +2,7 @@
 	<car tires="0" />
 	<sky material="sky/blue_clouds" />
 	<fog mode="lin" color="0.6 0.63 0.63" exp="0" linStart="59.5125" linEnd="418.613" />
-	<light sceneryId="0" pitch="54.2038" yaw="-123.69" ambient="0.56 0.56 0.56" diffuse="0.75 0.75 0.73" specular="0.89 0.89 0.87" />
+	<light sceneryId="J3" pitch="54.2038" yaw="-123.69" ambient="0.56 0.56 0.56" diffuse="0.75 0.75 0.73" specular="0.89 0.89 0.87" />
 	<fluids />
 	<terrain size="513" triangle="1">
 		<texture on="0" file="jungle_0.png" fnorm="jungle_0_nh.png" scale="4.5" surf="GrassJungle" dust="0" dustS="0.2" mud="0.4" smoke="0" tclr="0.18 0.36 0.04 0.7" angMin="0" angMax="22.953" angSm="10.4605" hMin="-300" hMax="300" hSm="20" noise="0.22818" nOnly="0" />

@@ -2,7 +2,7 @@
 	<car tires="0" />
 	<sky material="sky/gray_clouds" rainName="RainFine" rainEmit="2600" rain2Name="RainFast" rain2Emit="2640" />
 	<fog mode="lin" color="0.93 0.96 1" exp="0" linStart="262.813" linEnd="1095.2" />
-	<light sceneryId="0" pitch="38.1558" yaw="45" ambient="0.6 0.6 0.6" diffuse="0.7 0.7 0.7" specular="0.3 0.3 0.3" />
+	<light sceneryId="T3" pitch="38.1558" yaw="45" ambient="0.6 0.6 0.6" diffuse="0.7 0.7 0.7" specular="0.3 0.3 0.3" />
 	<fluids />
 	<terrain size="513" triangle="1.05902">
 		<texture on="1" file="autumn_red.png" fnorm="autumn_red_nh.png" scale="5.03175" surf="GrassForest" dust="0" dustS="0.2" mud="0.4" smoke="0" tclr="0.48 0.42 0.2 0.7" angMin="0" angMax="14.6053" angSm="10.2632" hMin="-300" hMax="300" hSm="20" noise="0.991228" nOnly="1" />

@@ -2,7 +2,7 @@
 	<car tires="0" />
 	<sky material="sky/sunset" />
 	<fog mode="lin" color="0.8 0.6 0.5" exp="0" linStart="129.492" linEnd="581.989" />
-	<light sceneryId="8" pitch="16.9466" yaw="16.0301" ambient="0.47 0.33 0.3" diffuse="0.7 0.6 0.5" specular="0.7 0.7 0.5" />
+	<light sceneryId="I4" pitch="16.9466" yaw="16.0301" ambient="0.47 0.33 0.3" diffuse="0.7 0.6 0.5" specular="0.7 0.7 0.5" />
 	<fluids>
 		<fluid name="water sunset" pos="-0.493078 -2 5.89115" rot="0 0 0" size="8000 40 8000" tile="0.00482925 0.00508187" />
 	</fluids>

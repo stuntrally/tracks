@@ -2,7 +2,7 @@
 	<car tires="0" />
 	<sky material="sky/blue_clouds" />
 	<fog mode="lin" color="0.73 0.76 0.81" exp="0" linStart="178.213" linEnd="915.608" />
-	<light sceneryId="3" pitch="51.0448" yaw="64.4771" ambient="0.5 0.53 0.55" diffuse="0.6 0.55 0.55" specular="0.7 0.7 0.7" />
+	<light sceneryId="D7" pitch="51.0448" yaw="64.4771" ambient="0.5 0.53 0.55" diffuse="0.6 0.55 0.55" specular="0.7 0.7 0.7" />
 	<fluids />
 	<terrain size="513" triangle="2">
 		<texture on="1" file="desert_6.png" fnorm="desert_6_nh.png" scale="14.1" surf="DesertFast" dust="0.4" dustS="0.6" mud="0.1" smoke="0" tclr="0.48 0.46 0.08 0.7" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" noise="1" nOnly="1" />

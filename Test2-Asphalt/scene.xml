@@ -2,7 +2,7 @@
 	<car tires="1" />
 	<sky material="sky/blue_clouds" />
 	<fog mode="lin" color="0.73 0.86 1" exp="0" linStart="299.999" linEnd="599.999" />
-	<light sceneryId="0" pitch="44.9999" yaw="0" ambient="0.55 0.55 0.55" diffuse="0.85 0.85 0.82" specular="0.2 0.2 0.17" />
+	<light sceneryId="Test1" pitch="44.9999" yaw="0" ambient="0.55 0.55 0.55" diffuse="0.85 0.85 0.82" specular="0.2 0.2 0.17" />
 	<fluids />
 	<terrain size="257" triangle="8">
 		<texture on="1" file="roadAsphalt.jpg" fnorm="flat_n.png" scale="10.1" surf="Asphalt" dust="0" dustS="0.2" mud="0" smoke="1" tclr="0 0 0 1" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" noise="1" nOnly="1" />

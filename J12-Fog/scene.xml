@@ -2,7 +2,7 @@
 	<car tires="0" />
 	<sky material="sky/gray_clouds" rainName="RainFine" rainEmit="1297" rain2Name="RainFast" rain2Emit="1288" />
 	<fog mode="lin" color="0.52 0.57 0.6" exp="0" linStart="0" linEnd="109.999" />
-	<light sceneryId="5" pitch="41.6793" yaw="58.1674" ambient="0.4 0.4 0.4" diffuse="0.6 0.6 0.6" specular="0.6 0.6 0.6" />
+	<light sceneryId="J12" pitch="41.6793" yaw="58.1674" ambient="0.4 0.4 0.4" diffuse="0.6 0.6 0.6" specular="0.6 0.6 0.6" />
 	<fluids>
 		<fluid name="water green" pos="-120.718 -5.66228 64.6013" rot="0 0 0" size="231.173 40 267.495" tile="0.014 0.014" />
 	</fluids>

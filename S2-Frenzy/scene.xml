@@ -2,7 +2,7 @@
 	<car tires="0" />
 	<sky material="sky/blue_clouds" />
 	<fog mode="lin" color="0.76 0.83 0.86" exp="0" linStart="171.112" linEnd="832.05" />
-	<light sceneryId="0" pitch="42.8755" yaw="21.8009" ambient="0.55 0.55 0.55" diffuse="0.85 0.85 0.82" specular="0.99 0.99 0.97" />
+	<light sceneryId="S1" pitch="42.8755" yaw="21.8009" ambient="0.55 0.55 0.55" diffuse="0.85 0.85 0.82" specular="0.99 0.99 0.97" />
 	<fluids>
 		<fluid name="water cyan" pos="-167.193 -46.0774 -30.6089" rot="0 0 0" size="75.2532 20 69.588" tile="0.01 0.01" />
 		<fluid name="mud easy med" pos="-6.00463 -30.872 -195.377" rot="0 0 0" size="90.2143 20 78.93" tile="0.01 0.01" />

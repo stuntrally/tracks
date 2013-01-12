@@ -2,7 +2,7 @@
 	<car tires="0" />
 	<sky material="sky/gray_clouds" rainName="RainFine" rainEmit="1200" rain2Name="RainFast" rain2Emit="960" />
 	<fog mode="lin" color="0.6 0.76 0.7" exp="0" linStart="13.6125" linEnd="245" />
-	<light sceneryId="31" pitch="38.1558" yaw="45" ambient="0.5 0.5 0.5" diffuse="0.7 0.7 0.7" specular="0.8 0.77 0.6" />
+	<light sceneryId="O2" pitch="38.1558" yaw="45" ambient="0.5 0.5 0.5" diffuse="0.7 0.7 0.7" specular="0.8 0.77 0.6" />
 	<fluids>
 		<fluid name="water moss" pos="-44.0897 0.783436 107.53" rot="0 0 0" size="129.712 20 134.201" tile="0.01 0.01" />
 		<fluid name="water moss" pos="-92.0815 1.85595 -69.2945" rot="0 0 0" size="79.7172 20 53.4847" tile="0.01 0.01" />
