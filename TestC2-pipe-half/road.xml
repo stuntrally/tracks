@@ -1,16 +1,16 @@
 <SplineRoad>
-	<mtr road="roadJungle" pipe="roadJungle" />
+	<mtr road="roadJungle" pipe="pipeAsphalt" />
 	<dim tcMul="0.25" lenDim="1" widthSteps="24" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
-	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 17.756 11.528" iDir="-1" />
+	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 17.756 11.528" iDir="-1" iChk1="0" />
 	<stats length="564.063" width="12" height="9.28107" onTer="100" pipes="100" yaw="0" pitch="0" roll="0" />
 	<txt desc="Medium half-pipe circle track, for testing acceleration on suspension." />
-	<P pos="0 -8 90" w="12" onTer="0" a="90" ar="-32" pipe="0.5" />
-	<P pos="64 -8 64" w="12" onTer="0" a="135" ar="-32" pipe="0.5" />
-	<P pos="90 -8 0" w="12" onTer="0" a="-180" ar="-32" pipe="0.5" chkR="1.596" />
-	<P pos="64 -8 -64" w="12" onTer="0" a="-135" ar="-32" pipe="0.5" />
-	<P pos="0 -8 -90" w="12" onTer="0" a="-90" ar="-32" pipe="0.5" />
-	<P pos="-64 -8 -64" w="12" onTer="0" a="-45" ar="-32" pipe="0.5" />
-	<P pos="-90 -8 0" w="12" onTer="0" a="0" ar="-32" pipe="0.5" />
-	<P pos="-64 -8 64" w="12" onTer="0" a="45" ar="-32" pipe="0.5" />
+	<P pos="0 -8 90" w="12" onTer="0" a="90" ar="-32" aT="0" pipe="0.5" />
+	<P pos="64 -8 64" w="12" onTer="0" a="135" ar="-32" aT="0" pipe="0.5" />
+	<P pos="90 -8 0" w="12" onTer="0" a="-180" ar="-32" aT="0" pipe="0.5" chkR="1.596" />
+	<P pos="64 -8 -64" w="12" onTer="0" a="-135" ar="-32" aT="0" pipe="0.5" />
+	<P pos="0 -8 -90" w="12" onTer="0" a="-90" ar="-32" aT="0" pipe="0.5" />
+	<P pos="-64 -8 -64" w="12" onTer="0" a="-45" ar="-32" aT="0" pipe="0.5" />
+	<P pos="-90 -8 0" w="12" onTer="0" a="0" ar="-32" aT="0" pipe="0.5" />
+	<P pos="-64 -8 64" w="12" onTer="0" a="45" ar="-32" aT="0" pipe="0.5" />
 </SplineRoad>
