@@ -1,7 +1,7 @@
 <SplineRoad>
 	<mtr road="roadMud" pipe="pipeAsphalt" road2="roadAsphalt" />
 	<dim tcMul="0.25" lenDim="2" widthSteps="6" heightOfs="0.06" />
-	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
+	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="400" lodPntLen="40" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 6.4079 11.692" iDir="-1" iChk1="18" />
 	<stats length="1089.3" width="6" height="176.148" onTer="100" pipes="0" yaw="0" pitch="0" roll="0" />
 	<txt desc="A track inspired by a force of nature. Be careful not to go too fast, lest you slip off of the path." />
