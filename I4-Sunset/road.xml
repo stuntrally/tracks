@@ -1,25 +1,25 @@
 <SplineRoad>
-	<mtr road="roadSandSet" pipe="pipeAsphalt" pipe2="pipeGlassCyan" />
+	<mtr road="roadSandSet" pipe="pipeAsphalt" road2="roadSandDark" pipe2="pipeGlassCyan" road3="roadSand2" />
 	<dim tcMul="0.15" lenDim="2" widthSteps="6" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 4.76 9.35238" iDir="1" iChk1="37" />
 	<stats length="1675.29" width="7.336" height="11.4669" onTer="0" pipes="0" yaw="0" pitch="0" roll="0" />
 	<txt desc="A curly track at sunset with a drive through water." />
 	<P pos="-125.299 0 -57.9111" w="7.336" chkR="1.728" />
-	<P pos="-148.095 0 -78.6954" w="7.336" />
-	<P pos="-156.944 0 -107.383" w="7.336" chkR="1.804" />
-	<P pos="-152.325 0 -139.849" w="7.336" />
+	<P pos="-148.095 0 -78.6954" w="7.336" mtr="1" />
+	<P pos="-156.944 0 -107.383" w="7.336" mtr="1" chkR="1.804" />
+	<P pos="-152.325 0 -139.849" w="7.336" mtr="1" />
 	<P pos="-129.634 0 -165.548" w="7.336" />
-	<P pos="-96.2924 0 -178.212" w="7.336" chkR="1.632" />
-	<P pos="-53.9632 0 -178.367" w="7.336" />
-	<P pos="-12.0631 0 -176.582" w="7.336" />
+	<P pos="-96.2924 0 -178.212" w="7.336" mtr="1" chkR="1.632" />
+	<P pos="-53.9632 0 -178.367" w="7.336" mtr="1" />
+	<P pos="-12.0631 0 -176.582" w="7.336" mtr="1" />
 	<P pos="29.8919 0 -171.506" w="7.336" chkR="1.672" />
 	<P pos="65.9292 0 -148.182" w="7.336" />
 	<P pos="87.4216 0 -108.68" w="7.336" />
 	<P pos="90.3141 0 -65.3123" w="7.336" chkR="1.672" />
 	<P pos="76.1829 0 -26.8626" w="7.336" />
 	<P pos="50.1814 0 1.31578" w="7.336" />
-	<P pos="14.4326 0 21.9792" w="7.336" chkR="1.752" />
+	<P pos="14.4326 0 21.9792" w="7.336" mtr="1" chkR="1.752" />
 	<P pos="-29.2218 0 25.7532" w="7.336" />
 	<P pos="-85.9019 0 27.0054" w="7.336" />
 	<P pos="-111.312 0 30.648" w="7.336" chkR="1.604" />
