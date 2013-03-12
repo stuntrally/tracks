@@ -1,6 +1,6 @@
 <SplineRoad>
 	<mtr road="roadSavannah" pipe="pipeGlassCyan" pipe2="pipeGlass" />
-	<dim tcMul="0.25" lenDim="1" widthSteps="8" heightOfs="0.06" />
+	<dim tcMul="0.1" lenDim="1" widthSteps="8" heightOfs="0.06" />
 	<mrg skirtLen="0.1" skirtH="0.04" merge="1" mergeLen="120" lodPntLen="10" />
 	<geom colN="4" colR="2.5" wsPm="4" lsPm="1" stBox="1 5 7.724" iDir="1" iChk1="12" />
 	<stats length="868.934" width="7.35758" height="65.0441" onTer="69.859" pipes="69.859" yaw="0" pitch="0" roll="0" />
