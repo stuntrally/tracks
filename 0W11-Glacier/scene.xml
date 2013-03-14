@@ -1,0 +1,104 @@
+<scene>
+	<car tires="0" />
+	<sky material="sky/white" rainName="RainFine" rainEmit="45" rain2Name="SnowFine" rain2Emit="15" />
+	<fog mode="lin" color="0.84 0.92 0.94" exp="0" linStart="369.8" linEnd="1240.31" />
+	<light sceneryId="W1" pitch="48.5266" yaw="45" ambient="0.45 0.45 0.45" diffuse="0.5 0.52 0.52" specular="0.45 0.55 0.55" />
+	<fluids>
+		<fluid name="water white" pos="263.039 -2.16757 72.5737" rot="0 0 0" size="350.656 20 295.484" tile="0.01 0.01" />
+		<fluid name="water white" pos="-148.719 -7.19418 210.021" rot="0 0 0" size="178.323 20 207.359" tile="0.01 0.01" />
+	</fluids>
+	<terrain size="1025" triangle="1.15336">
+		<texture on="1" file="ice_7.png" fnorm="ice_7_nh.png" scale="7.36" surf="SnowWet" dust="0.4" dustS="0.6" mud="1" smoke="0" tclr="0.4 0.4 0.4 0.6" angMin="14.2105" angMax="29.2105" angSm="17.7632" hMin="-34.2105" hMax="27.6316" hSm="20" noise="0.245614" nOnly="1" />
+		<texture on="1" file="ice_2.png" fnorm="ice_2_nh.png" scale="7.5" surf="SnowMedium" dust="0.4" dustS="0.6" mud="1" smoke="0" tclr="0.4 0.4 0.4 0.6" angMin="0" angMax="14.4079" angSm="18.9474" hMin="-21.0526" hMax="23.6842" hSm="20" noise="0.122807" nOnly="0" />
+		<texture on="1" file="ice_0w.png" fnorm="volcano_7_nh.png" scale="16.2366" surf="SnowWet" dust="0" dustS="0.8" mud="1" smoke="0" tclr="0.4 0.4 0.4 0.6" angMin="0" angMax="90" angSm="19.1447" hMin="34.2105" hMax="110.526" hSm="25" noise="1" nOnly="0" />
+		<texture on="1" file="snow_1.png" fnorm="volcano_7_nh.png" scale="14.9262" surf="SnowWet" dust="0.4" dustS="0.6" mud="1" smoke="0" tclr="0.4 0.4 0.4 0.6" angMin="0" angMax="90" angSm="19.3421" hMin="63.1579" hMax="300" hSm="18.8596" noise="1" nOnly="0" />
+		<texture on="0" file="jungle_0.png" fnorm="jungle_0_nh.png" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" noise="1" nOnly="1" />
+		<texture on="0" file="jungle_0.png" fnorm="jungle_0_nh.png" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" noise="1" nOnly="1" />
+		<texture road="1" surf="roadSnow" dust="0.4" dustS="0.4" mud="0.2" smoke="0" tclr="0.6 0.6 0.6 0.8" />
+		<par dust="SnowDust" mud="SnowMud" smoke="Smoke" />
+	</terrain>
+	<paged densGrass="0.6" densTrees="0.8" grPage="100" grDist="100" grDensSmooth="4" trPage="120" trDist="160" trDistImp="800" trRdDist="1">
+		<grass on="1" mtr="grassWinter" clr="grClrWinter.png" dens="0.0417048" minSx="0.785277" maxSx="1.06066" minSy="0.621074" maxSy="0.864177" swayDistr="4" swayLen="0.2" swaySpeed="0.5" terMaxAng="15" terAngSm="6" terMinH="-200" terMaxH="20" />
+		<grass on="1" mtr="grass18w" clr="grClrWinter.png" dens="0.032553" minSx="1.11329" maxSx="1.41262" minSy="1.11329" maxSy="1.52099" swayDistr="4" swayLen="0.2" swaySpeed="0.5" terMaxAng="30" terMinH="-200" terMaxH="200" />
+		<grass on="1" mtr="grass7wy" clr="grClrJungle.png" dens="0.0500584" minSx="1.2796" maxSx="1.52099" minSy="1.36749" maxSy="1.71677" swayDistr="4" swayLen="0.2" swaySpeed="0.5" terMaxAng="30" terMinH="-200" terMaxH="200" />
+		<grass on="1" mtr="grass18wg" clr="grClrWinter.png" dens="0.0408248" minSx="0.887509" maxSx="1.11329" minSy="1.18105" maxSy="1.38244" swayDistr="4" swayLen="0.2" swaySpeed="0.5" terMaxAng="30" terMinH="-200" terMaxH="200" />
+		<grass on="0" mtr="grass3" clr="grClrWinter.png" dens="0.00948338" minSx="0.6" maxSx="0.85" minSy="0.6" maxSy="0.9" swayDistr="4" swayLen="0.2" swaySpeed="0.5" terMaxAng="30" terMinH="-200" terMaxH="200" />
+		<grass on="0" mtr="grass11wg" clr="grClrWinter.png" dens="0.0510346" minSx="0.742121" maxSx="1.0868" minSy="0.807381" maxSy="1.12667" swayDistr="4" swayLen="0.2" swaySpeed="0.5" terMaxAng="30" terMinH="-200" terMaxH="200" />
+		<layer on="1" name="pine1_half.mesh" dens="0.306402" minScale="0.701732" maxScale="1.11218" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0.499181" windFy="0.0199282" maxTerAng="21.524" minTerH="-10" maxTerH="15" maxDepth="0" />
+		<layer on="1" name="pine2_tall_half.mesh" dens="0.436716" minScale="0.6466" maxScale="0.965188" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0.610867" windFy="0.0234375" maxTerAng="29.9381" minTerH="-12" maxTerH="16" maxDepth="0" />
+		<layer on="1" name="pine2_tall_full.mesh" dens="0.215109" minScale="0.427211" maxScale="0.655581" ofsY="0" addTrRdDist="4" maxRdist="100" windFx="0.42713" windFy="0.0234374" maxTerAng="25.5579" minTerH="14" maxTerH="70" maxDepth="0" />
+		<layer on="1" name="pine1_full.mesh" dens="0.195295" minScale="0.420465" maxScale="0.701732" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0" windFy="0" maxTerAng="25.5579" minTerH="13" maxTerH="70" maxDepth="0" />
+		<layer on="1" name="rock_n5v-W.mesh" dens="0.0899504" minScale="0.521568" maxScale="1.38909" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0" windFy="0" maxTerAng="32.258" minTerH="-100" maxTerH="100" maxDepth="1" />
+		<layer on="1" name="rock_n4r-W.mesh" dens="0.130347" minScale="0.569438" maxScale="1.20445" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0" windFy="0" maxTerAng="32.0222" minTerH="-100" maxTerH="90" maxDepth="1" />
+		<layer on="0" name="rock.07.mesh" dens="0.0149999" minScale="0.0299992" maxScale="0.209997" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
+		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
+		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
+		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
+	</paged>
+	<cam pos="-239.925 145.747 -474.057" dir="0.0462134 -0.230589 0.971953" />
+	<objects>
+		<o name="rock_n4r-W" pos="-138.395 -273.066 -6.96946" rot="-0.648583 0.694372 -0.212815 -0.227838" sc="4.71813 2.54018 4.71813" />
+		<o name="rock_n4r-W" pos="-143.07 -253.105 -9.73075" rot="-0.973071 -0.127845 0.190197 -0.0249883" sc="2.01852 2.19001 2.01852" />
+		<o name="rock_n4r-W" pos="-153.445 -237.072 -9.66503" rot="-0.328567 0.927012 0.0604087 0.170437" sc="2.08335 2.44635 2.08335" />
+		<o name="rock_n4r-W" pos="-112.329 -246.911 -7.27411" rot="-0.512979 0.512979 -0.486689 -0.486691" sc="1.2647 2.29759 1.2647" />
+		<o name="rock_n3r" pos="-154.447 -262.707 -3.51897" rot="-0.78622 0.290355 -0.185038 0.513214" sc="3.8686 3.92326 3.8686" />
+		<o name="rock_n3r" pos="-178.375 -254.941 3.97659" rot="-0.207365 -0.189235 0.9346 0.218612" sc="3.18304 4.51111 3.18304" />
+		<o name="rock_n5f-W" pos="-118.182 -282.308 -2.42747" rot="-0.245111 0.948419 -0.0704118 -0.188383" sc="2.76942 2.53706 2.76942" />
+		<o name="rock_n5f-W" pos="-134.104 -287.372 -3.08205" rot="-0.140032 0.946067 -0.164995 -0.241184" sc="5.73891 5.62041 5.73891" />
+		<o name="rock_n5f-W" pos="-123.36 -274.892 -6.71659" rot="-0.683065 0.683064 -0.182838 -0.182839" sc="3.228 3.228 3.228" />
+		<o name="rock_n5f-W" pos="-128.144 -260.273 -5.8452" rot="0.0133823 0.013504 -0.71021 0.703777" sc="3.49953 2.92738 3.49953" />
+		<o name="rock_n5f-W" pos="-148.101 270.597 84.409" rot="0.116656 0.686832 -0.716694 0.0324684" sc="2.53457 2.53457 2.53457" />
+		<o name="rock_n5f-W" pos="-93.9674 286.693 98.1074" rot="-0.0558068 -0.0124271 -0.569939 -0.819746" sc="2.95521 1.53449 2.95521" />
+		<o name="rock_n5f-W" pos="-87.6259 279.954 94.0974" rot="-0.206611 0.688729 -0.690256 -0.0811498" sc="1.61448 1.44884 1.61448" />
+		<o name="rock_n5f-W" pos="-87.9084 294.139 93.3064" rot="-0.831205 0.493771 -0.130506 -0.219691" sc="1.70121 1.70121 1.70121" />
+		<o name="rock_n5f-W" pos="-132.721 284.051 91.403" rot="-0.328619 0.944464 -1.78814e-007 -3.49319e-008" sc="2.17073 1.72134 2.17073" />
+		<o name="rock_n5f-W" pos="-150.266 280.851 91.3416" rot="-0.0276154 0.0142303 0.639766 -0.767955" sc="3.1971 2.14126 3.1971" />
+		<o name="rock_n5f-W" pos="-149.673 289.935 85.4709" rot="-0.0215368 0.792943 0.608703 0.0165333" sc="2.4343 2.4343 2.4343" />
+		<o name="rock_n4r-W" pos="-123.302 270.152 86.7007" rot="-0.707107 0.707107 5.96046e-008 -5.96046e-008" sc="2.72625 2.72625 2.72625" />
+		<o name="rock_n4r-W" pos="-103.401 293.228 89.7803" rot="-0.984215 -0.177005 -7.45058e-008 2.28116e-007" sc="4.57614 2.27619 4.57614" />
+		<o name="rock_n4r-W" pos="-94.5188 293.689 91.5898" rot="-0.707107 0.707107 5.96046e-008 -5.96046e-008" sc="2.36138 1.70836 2.36138" />
+		<o name="rock_n4r-W" pos="-114.093 278.878 94.2939" rot="-0.707107 0.707107 5.96046e-008 -5.96046e-008" sc="4.43325 1.1535 4.43325" />
+		<o name="rock_n4r-W" pos="-95.5268 277.646 90.4654" rot="-0.227443 0.973795 -4.17233e-007 -5.42554e-007" sc="2.05962 2.14708 2.05962" />
+		<o name="rock_n4r-W" pos="-98.6553 275.836 90.9553" rot="-0.249667 0.668972 0.0399746 0.699059" sc="3.65321 7.07467 3.65321" />
+		<o name="rock_n4r-W" pos="-135.129 273.948 87.9838" rot="0.449672 -0.443583 -0.46474 -0.62061" sc="4.41155 1.86421 4.41155" />
+		<o name="rock_n2" pos="19.0843 -398.875 9.33658" rot="0.782406 -0.327783 -0.115714 -0.516963" sc="6.72177 6.72177 6.72177" />
+		<o name="rock_n2" pos="-4.08004 -395.931 14.4425" rot="-0.541857 0.385629 -0.0341579 -0.746046" sc="4.63189 3.26413 4.63189" />
+		<o name="rock_n2" pos="102.519 -415.737 9.04873" rot="-0.999941 0.0112494 2.95229e-007 -8.82917e-008" sc="3.52583 4.85559 3.52583" />
+		<o name="rock_n2" pos="54.885 -412.861 8.74438" rot="0.180703 0.531649 -0.812096 0.159006" sc="7.71888 2.86418 7.71888" />
+		<o name="rock_n2" pos="-5.8117 -367.154 22.2164" rot="-0.0265819 -0.108988 -0.849038 0.516373" sc="6.53358 2.56076 6.53358" />
+		<o name="rock_n2" pos="8.91959 -384.117 17.996" rot="-0.862032 0.506859 -1.19209e-007 -1.1918e-007" sc="6.6181 2.77362 6.6181" />
+		<o name="rock_n2" pos="33.8255 -394.248 17.4981" rot="0.245852 0.969068 0.0215564 -0.00546925" sc="6.7427 2.72906 6.7427" />
+		<o name="rock_n2" pos="58.2178 -370.062 -7.69201" rot="0.571555 0.820571 -1.66893e-006 -6.20816e-007" sc="7.24723 12.4197 7.24723" />
+		<o name="rock_n2" pos="86.6152 -380.738 2.1172" rot="-0.926386 0.376591 -4.17233e-007 -1.35769e-008" sc="6.25996 8.69763 6.25996" />
+		<o name="rock_n2" pos="7.24809 -358.646 -3.78636" rot="-0.619024 0.785386 -1.19209e-006 -1.03635e-006" sc="5.13535 9.61689 5.13535" />
+		<o name="rock_n2" pos="32.2618 -371.494 -2.58853" rot="-0.87486 0.484397 -7.15256e-007 2.21185e-007" sc="7.37221 11.1056 7.37221" />
+		<o name="rock_n2" pos="-35.5431 -361.805 11.0276" rot="-0.474109 -0.398881 0.771858 0.14298" sc="5.52003 5.74926 5.52003" />
+		<o name="rock_n2" pos="-23.2653 -378.727 11.4728" rot="-0.327195 0.607352 0.013797 -0.723832" sc="5.60635 4.47004 5.60635" />
+		<o name="rock_n2" pos="83.7821 -416.244 5.87617" rot="0.333573 0.942726 8.9407e-007 2.49478e-007" sc="4.25444 5.16256 4.25444" />
+		<o name="rock_n2" pos="93.0589 -402.539 17.9834" rot="-0.450949 0.892554 -2.98023e-007 -3.36247e-007" sc="6.64512 2.47952 6.64512" />
+		<o name="rock_n2" pos="61.7826 -400.234 16.4745" rot="0.933062 -0.359734 -4.17233e-007 -5.23545e-007" sc="8.62575 3.08106 8.62575" />
+		<o name="rock_n2" pos="-18.8729 -350.779 16.3989" rot="0.217986 0.975818 0.0162598 -0.00363178" sc="4.63924 2.57201 4.63924" />
+		<o name="rock_n2" pos="-2.06798 -340.693 0.0756829" rot="-0.606206 0.795321 5.96046e-008 -1.49593e-006" sc="4.61408 8.31254 4.61408" />
+		<o name="rock_n4r-W" pos="392.419 -209.535 1.52167" rot="-0.783323 0.0186639 -0.46855 -0.408104" sc="3.03311 1.86954 3.03311" />
+		<o name="rock_n4r-W" pos="379.298 -207.727 -2.43685" rot="-0.995406 -0.0957582 -1.78814e-007 -2.85072e-008" sc="3.15368 2.85036 3.15368" />
+		<o name="rock_n4r-W" pos="383.593 -217.944 2.51835" rot="-0.696945 0.696944 -0.119481 -0.119483" sc="2.86385 2.86385 2.86385" />
+		<o name="rock_n5f-W" pos="-149.465 -295.236 12.902" rot="0.701667 -0.633221 0.145441 0.292662" sc="3.97256 1.94438 3.97256" />
+		<o name="rock_n5f-W" pos="-125.437 -226.964 -7.94418" rot="-0.181768 0.969794 -0.0438831 0.156693" sc="2.21832 1.97337 2.21832" />
+		<o name="rock_n5f-W" pos="-135.992 -303.79 10.4484" rot="0.940928 -0.167108 0.0952519 0.278777" sc="4.56929 4.60034 4.56929" />
+		<o name="rock_n5f-W" pos="-105.117 -256.781 -6.52984" rot="-0.511408 -0.0912685 0.814523 0.258339" sc="2.14566 3.3925 2.14566" />
+		<o name="rock_n5f-W" pos="-120.816 -294.745 5.10165" rot="-0.594428 -0.733696 0.309063 -0.113506" sc="4.01493 2.42368 4.01493" />
+		<o name="rock_n4r-W" pos="-149.342 -313.956 23.3404" rot="-0.392766 0.846985 -0.253457 -0.253268" sc="6.5322 2.10406 6.5322" />
+		<o name="rock_n5f-W" pos="-137.833 290.053 88.4846" rot="-0.163726 0.633903 0.734434 0.178902" sc="3.64699 3.64699 3.64699" />
+		<o name="rock_n5f-W" pos="-113.784 290.371 93.5487" rot="-0.153225 0.731157 0.664579 0.0170196" sc="2.72002 2.72002 2.72002" />
+		<o name="rock_n5f-W" pos="-139.653 276.508 93.943" rot="-0.0027266 0.0162087 -0.986011 -0.165932" sc="3.2199 2.46337 3.2199" />
+		<o name="rock_n5f-W" pos="-125.598 279.46 95.2039" rot="-0.0118033 0.0104474 0.0491944 -0.998672" sc="3.78586 2.08603 3.78586" />
+		<o name="rock_n5f-W" pos="-104.134 285.456 94.9284" rot="-0.738345 0.674428 6.55651e-007 -1.83651e-007" sc="3.26221 1.99357 3.26221" />
+		<o name="plastic_big" pos="12.7716 459.679 146.557" rot="-0.683238 0.724947 -0.075572 -0.0438898" />
+		<o name="plastic_big" pos="-14.2857 314.564 116.559" rot="-0.678296 0.718752 -0.0883474 0.12452" />
+		<o name="plastic_big" pos="-270.814 231.61 34.837" rot="-0.525434 0.830911 0.171849 0.0630411" />
+		<o name="plastic_big" pos="25.504 430.627 150.766" rot="-0.695958 0.717344 0.00752351 0.031691" />
+		<o name="wood_block" pos="32.5054 88.3984 3.23024" rot="-0.631583 0.772999 0.0490492 0.0342031" />
+		<o name="wood_block" pos="15.717 90.5671 3.6863" rot="0.705621 -0.693878 -0.0965847 -0.106319" />
+		<o name="cone" pos="-371.999 256.676 60.6565" rot="0.826189 -0.560731 -0.0344716 0.0424886" />
+	</objects>
+</scene>
