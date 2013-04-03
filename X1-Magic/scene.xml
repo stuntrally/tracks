@@ -1,7 +1,7 @@
 <scene>
 	<car tires="0" />
 	<sky material="sky/magic" />
-	<fog mode="lin" color="0.1 0.05 0.15" exp="0" linStart="119.34" linEnd="291.358" />
+	<fog color="0.1 0.05 0.15 1" linStart="119.34" linEnd="291.358" />
 	<light sceneryId="X1" pitch="27.2516" yaw="-45.3438" ambient="0.2 0.2 0.5" diffuse="0.4 0.5 0.8" specular="0 0.5 1" />
 	<fluids>
 		<fluid name="grease jelly" pos="35.7994 -5.77838 -10.04" rot="0 0 0" size="292.682 20 205.448" tile="0.0011 0.0011" />

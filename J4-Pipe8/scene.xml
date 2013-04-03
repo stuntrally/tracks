@@ -1,7 +1,7 @@
 <scene>
 	<car tires="0" />
 	<sky material="sky/blue_clouds" />
-	<fog mode="lin" color="0.73 0.86 1" exp="0" linStart="148.513" linEnd="799.999" />
+	<fog color="0.73 0.86 1 1" linStart="148.513" linEnd="799.999" />
 	<light sceneryId="J3" pitch="54.204" yaw="-123.69" ambient="0.56 0.56 0.56" diffuse="0.75 0.75 0.73" specular="0.89 0.89 0.87" />
 	<fluids />
 	<terrain size="129" triangle="4">

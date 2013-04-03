@@ -1,6 +1,6 @@
 <scene>
 	<sky material="sky/blue_clouds" />
-	<fog mode="lin" color="0.73 0.86 1" exp="0" linStart="632.453" linEnd="1453.23" />
+	<fog color="0.73 0.86 1 1" linStart="632.453" linEnd="1453.23" />
 	<light sceneryId="Test1" pitch="44.9996" yaw="0" ambient="0.55 0.55 0.55" diffuse="0.85 0.85 0.82" specular="0.99 0.99 0.97" />
 	<terrain size="513" triangle="2">
 		<texture on="1" file="jungle_0.png" fnorm="jungle_0_nh.png" scale="4.5" surf="roadGravel" dust="0" dustS="0.2" mud="0.8" smoke="0" tclr="0.18 0.36 0.04 0.7" angMin="0" angMax="15.906" angSm="20" hMin="-300" hMax="300" hSm="20" noise="0.38926" nOnly="0" />

@@ -1,6 +1,6 @@
 <scene>
 	<sky material="sky/light_blue" />
-	<fog mode="lin" color="0.7 0.96 1" exp="0" linStart="253.848" linEnd="1149.94" />
+	<fog color="0.7 0.96 1 1" linStart="253.848" linEnd="1149.94" />
 	<light pitch="41.6794" yaw="58.1674" ambient="0.7 0.7 0.7" diffuse="0.75 0.75 0.73" specular="0.99 0.99 0.97" />
 	<fluids />
 	<terrain size="1025" triangle="1">

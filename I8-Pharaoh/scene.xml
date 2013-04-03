@@ -1,7 +1,7 @@
 <scene>
 	<car tires="0" />
 	<sky material="sky/dayovercast" rainName="RainFine" rainEmit="237" />
-	<fog mode="lin" color="0.7 0.8 0.9" exp="0" linStart="212.383" linEnd="730.785" />
+	<fog color="0.7 0.8 0.9 1" linStart="212.383" linEnd="730.785" />
 	<light sceneryId="I8" pitch="37.388" yaw="120.895" ambient="0.365 0.455 0.563" diffuse="0.75 0.85 0.9" specular="0.5 0.7 0.9" />
 	<fluids>
 		<fluid name="water shore" pos="-0.462203 -11.9514 -0.303303" rot="0 0 0" size="8000 40 8000" tile="0.01 0.01" />

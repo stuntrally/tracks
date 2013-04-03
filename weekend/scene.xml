@@ -1,6 +1,6 @@
 <scene>
 	<sky material="sky/light_blue" />
-	<fog mode="lin" color="0.73 0.86 1" exp="0" linStart="299.998" linEnd="1600" />
+	<fog color="0.73 0.86 1 1" linStart="299.998" linEnd="1600" />
 	<light pitch="42.8" yaw="70.0" ambient="0.7 0.7 0.7" diffuse="0.65 0.65 0.62" specular="0.99 0.99 0.97" />
 	<fluids>
 		<fluid name="water blue" pos="0 -20 0" rot="0 0 0" size="12000 40 12000" tile="0.01 0.01" />

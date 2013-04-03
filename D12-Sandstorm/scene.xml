@@ -1,7 +1,7 @@
 <scene>
 	<car tires="0" />
 	<sky material="sky/dust" rainName="SandStorm" rainEmit="1065" windAmt="3" />
-	<fog mode="lin" color="0.84 0.84 0.48" exp="0" linStart="0" linEnd="59.5125" />
+	<fog color="0.84 0.84 0.48 1" linStart="0" linEnd="59.5125" />
 	<light sceneryId="D12" pitch="55.0746" yaw="0" ambient="0.8 0.8 0.5" diffuse="0.2 0.2 0.2" specular="0.23 0.22 0.1" />
 	<fluids />
 	<terrain size="513" triangle="1.17986">

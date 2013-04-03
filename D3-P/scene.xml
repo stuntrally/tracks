@@ -1,7 +1,7 @@
 <scene>
 	<car tires="0" />
 	<sky material="sky/light_blue" />
-	<fog mode="lin" color="1 0.87 0.7" exp="0" linStart="141.692" linEnd="942.738" />
+	<fog color="1 0.87 0.7 1" linStart="141.692" linEnd="942.738" />
 	<light sceneryId="D3" pitch="37.985" yaw="38.6579" ambient="0.7 0.7 0.7" diffuse="0.7 0.7 0.7" specular="0.99 0.99 0.97" />
 	<fluids>
 		<fluid name="mud easy soft" pos="-63.0302 -13.9633 -157.254" rot="0 0 0" size="92.2632 18.7828 36.8066" tile="0.01 0.01" />
