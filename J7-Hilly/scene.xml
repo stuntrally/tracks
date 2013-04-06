@@ -1,7 +1,8 @@
 <scene>
 	<car tires="0" />
 	<sky material="sky/blue_clouds" />
-	<fog color="0.73 0.86 0.9 1" linStart="48.05" linEnd="485.507" />
+	<fog color="0.73 0.83 0.85 1" color2="0.63 0.76 0.75 1" linStart="21.0125" linEnd="374.113" />
+	<fogH color="0.4 0.4 0.3 0.8" height="0.0259094" dens="18.3013" linStart="0" linEnd="24.2" />
 	<light sceneryId="J3" pitch="54.2037" yaw="-123.69" ambient="0.53 0.53 0.53" diffuse="0.7 0.7 0.7" specular="0.8 0.8 0.8" />
 	<fluids />
 	<terrain size="513" triangle="1.12562">
@@ -14,7 +15,7 @@
 		<texture road="1" surf="roadJungle" dust="0" dustS="0.2" mud="0" smoke="0" tclr="0.38 0.35 0.13 0.7" />
 		<par dust="Dust" mud="Mud" smoke="Smoke" />
 	</terrain>
-	<paged densGrass="0.3" densTrees="0.7" grPage="90" grDist="90" grDensSmooth="4" trPage="150" trDist="150" trDistImp="800" trRdDist="0">
+	<paged densGrass="0.3" densTrees="0.7" grPage="90" grDist="90" grDensSmooth="4" trPage="120" trDist="160" trDistImp="800" trRdDist="0">
 		<grass on="1" mtr="grass3g" clr="grClrJungle2.png" dens="0.209064" minSx="1.18105" maxSx="1.53682" minSy="1.47402" maxSy="2.35994" swayDistr="4" swayLen="0.2" swaySpeed="0.5" terMaxAng="20" terAngSm="16" terMinH="-200" terMaxH="200" />
 		<grass on="1" mtr="grass17" clr="grClrAustralia.png" dens="0.112111" minSx="1.63366" maxSx="2.08978" minSy="2.12732" maxSy="2.90729" swayDistr="4" swayLen="0.2" swaySpeed="0.5" terMaxAng="30" terMinH="-200" terMaxH="200" />
 		<grass on="0" mtr="grass17hg" clr="grClrJungle.png" dens="0.0773504" minSx="0.875799" maxSx="1.38244" minSy="0.947375" maxSy="1.48959" swayDistr="4" swayLen="0.2" swaySpeed="0.5" terMaxAng="30" terMinH="-200" terMaxH="200" />
