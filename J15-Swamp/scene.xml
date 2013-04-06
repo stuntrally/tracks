@@ -1,7 +1,8 @@
 <scene>
 	<car tires="0" />
 	<sky material="sky/gray_clouds" />
-	<fog color="0.63 0.66 0.7 1" linStart="21.8309" linEnd="515.031" />
+	<fog color="0.66 0.7 0.73 1" color2="0.5 0.53 0.56 1" linStart="0" linEnd="183.013" />
+	<fogH color="0.45 0.55 0.4 1" height="2.45999" dens="3.00125" linStart="0" linEnd="36.45" />
 	<light sceneryId="J14" pitch="42.5372" yaw="21.8009" ambient="0.5 0.5 0.5" diffuse="0.65 0.65 0.63" specular="0.99 0.99 0.97" />
 	<fluids>
 		<fluid name="water green" pos="-0.25155 0.06 0.404012" rot="0 0 0" size="800 40 800" tile="0.00994745 0.00994745" />
@@ -17,11 +18,11 @@
 		<par dust="Dust" mud="Mud" smoke="Smoke" />
 	</terrain>
 	<paged densGrass="0.2" densTrees="0.5" grPage="80" grDist="80" grDensSmooth="6" trPage="80" trDist="160" trDistImp="800" trRdDist="2">
-		<grass on="1" mtr="grass3" clr="grClrJungle.png" dens="0.287319" minSx="1.03487" maxSx="1.33784" minSy="0.763524" maxSy="1.07368" swayDistr="4" swayLen="0.2" swaySpeed="0.5" terMaxAng="30" terMinH="-200" terMaxH="200" />
-		<grass on="1" mtr="grass15g" clr="grClrJungle.png" dens="0.318641" minSx="1.50525" maxSx="1.75063" minSy="0.763524" maxSy="1.07369" swayDistr="4" swayLen="0.2" swaySpeed="0.5" terMaxAng="30" terMinH="-200" terMaxH="200" />
-		<grass on="1" mtr="grassJungle" clr="grClrJungle.png" dens="0.0773504" minSx="1.26526" maxSx="1.50525" minSy="0.947375" maxSy="1.15368" swayDistr="4" swayLen="0.2" swaySpeed="0.5" terMaxAng="30" terMinH="-200" terMaxH="200" />
-		<grass on="1" mtr="grass16g" clr="grClrJungle.png" dens="0.0810294" minSx="1.6173" maxSx="1.99746" minSy="1.20877" maxSy="1.41262" swayDistr="4" swayLen="0.2" swaySpeed="0.5" terMaxAng="30" terMinH="-200" terMaxH="200" />
-		<grass on="0" mtr="grass5" clr="grClrJungle.png" dens="0.156817" minSx="0.911192" maxSx="1.20877" minSy="0.899307" maxSy="1.11329" swayDistr="4" swayLen="0.2" swaySpeed="0.5" terMaxAng="30" terMinH="-200" terMaxH="200" />
+		<grass on="1" mtr="grass3" clr="grClrJungle.png" dens="0.287319" minSx="1.03487" maxSx="1.44314" minSy="0.996847" maxSy="1.48959" swayDistr="4" swayLen="0.2" swaySpeed="0.5" terMaxAng="30" terMinH="-200" terMaxH="200" />
+		<grass on="1" mtr="grass15g" clr="grClrJungle.png" dens="0.318641" minSx="1.75063" maxSx="2.22271" minSy="1.16732" maxSy="1.42784" swayDistr="4" swayLen="0.2" swaySpeed="0.5" terMaxAng="30" terMinH="-200" terMaxH="200" />
+		<grass on="1" mtr="grassJungle" clr="grClrJungle.png" dens="0.0773504" minSx="1.6173" maxSx="1.90733" minSy="1.26526" maxSy="1.52099" swayDistr="4" swayLen="0.2" swaySpeed="0.5" terMaxAng="30" terMinH="-200" terMaxH="200" />
+		<grass on="1" mtr="grass16g" clr="grClrJungle.png" dens="0.0810294" minSx="1.30854" maxSx="1.78484" minSy="1.65011" maxSy="2.18429" swayDistr="4" swayLen="0.2" swaySpeed="0.5" terMaxAng="30" terMinH="-200" terMaxH="200" />
+		<grass on="1" mtr="grass5" clr="grClrJungle.png" dens="0.0295136" minSx="2.24206" maxSx="2.6473" minSy="1.76769" maxSy="2.10851" swayDistr="4" swayLen="0.2" swaySpeed="0.5" terMaxAng="30" terMinH="-200" terMaxH="200" />
 		<grass on="0" mtr="grass6g-" clr="grClrJungle.png" dens="0.264331" minSx="1.42784" maxSx="2.05259" minSy="1.47402" maxSy="1.97926" swayDistr="4" swayLen="0.2" swaySpeed="0.5" terMaxAng="30" terMinH="-200" terMaxH="200" />
 		<layer on="1" name="tree.07.mesh" dens="0.0499994" minScale="2.44959" maxScale="3.14995" ofsY="0" addTrRdDist="6" maxRdist="100" windFx="0.299995" windFy="0.00399929" maxTerAng="23.9279" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="1" name="tree.07.mesh" dens="0.110136" minScale="0.849972" maxScale="1.15" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0.699996" windFy="0.00999693" maxTerAng="33.1759" minTerH="-100" maxTerH="100" maxDepth="5" />
