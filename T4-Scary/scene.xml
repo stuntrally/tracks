@@ -1,7 +1,8 @@
 <scene>
 	<car tires="0" />
 	<sky material="sky/dark_clouds" rainName="RainFastA" rainEmit="2985" rain2Name="RainStorm" rain2Emit="45" />
-	<fog color="0.21 0.24 0.27 1" linStart="66.6125" linEnd="281.25" />
+	<fog color="0.32 0.34 0.35 1" color2="0.21 0.24 0.27 1" linStart="66.6125" linEnd="281.25" />
+	<fogH color="0.1 0.1 0.1 1" height="2.45999" dens="22.445" linStart="0" linEnd="23.1125" />
 	<light sceneryId="T4" pitch="25.875" yaw="28.8" ambient="0.2 0.2 0.2" diffuse="0.6 0.6 0.6" specular="0.7 0.71 0.72" />
 	<fluids />
 	<terrain size="513" triangle="1.544">
@@ -21,18 +22,18 @@
 		<grass on="1" mtr="grass2" clr="grClrSmall.png" dens="0.0280516" minSx="1.6" maxSx="1.85" minSy="1.6" maxSy="1.9" swayDistr="4" swayLen="0.2" swaySpeed="0.5" terMaxAng="30" terMinH="-200" terMaxH="200" />
 		<grass on="1" mtr="grass17" clr="grClrSmall.png" dens="0.107768" minSx="1" maxSx="2" minSy="1" maxSy="2" swayDistr="4" swayLen="0.2" swaySpeed="0.5" terMaxAng="30" terMinH="-200" terMaxH="200" />
 		<grass on="0" mtr="grass18" clr="grClrSmall.png" dens="0.1" minSx="1.6" maxSx="2" minSy="1.6" maxSy="2" swayDistr="4" swayLen="0.2" swaySpeed="0.5" terMaxAng="30" terMinH="-200" terMaxH="200" />
-		<layer on="1" name="treeAW-14LLHuge7k.mesh" dens="0.0668328" minScale="1.83093" maxScale="3.0018" ofsY="0" addTrRdDist="2" windFx="0.699996" windFy="0.00999974" maxTerAng="19.2698" minTerH="0" maxTerH="7" maxDepth="5" />
-		<layer on="1" name="treeAY-28aspTallEmp.mesh" dens="0.163819" minScale="1.90343" maxScale="2.57592" ofsY="0" addTrRdDist="2" windFx="0.599999" windFy="0.00999945" maxTerAng="21.9118" minTerH="5" maxTerH="30" maxDepth="5" />
-		<layer on="0" name="treeAYG-16birTallUp.mesh" dens="0.155091" minScale="0.810782" maxScale="1.23172" ofsY="0" addTrRdDist="2" windFx="0.599999" windFy="0.00999945" maxTerAng="15.9557" minTerH="-1" maxTerH="23" maxDepth="5" />
-		<layer on="1" name="treeARk-12oakSm.mesh" dens="0.0390934" minScale="1.94039" maxScale="2.59845" ofsY="0" addTrRdDist="2" windFx="0.699996" windFy="0.00999974" maxTerAng="27.4861" minTerH="-10" maxTerH="20" maxDepth="5" />
-		<layer on="1" name="rock.mesh" dens="0.0490917" minScale="0.863874" maxScale="1.64109" ofsY="0" addTrRdDist="5" windFx="0.599999" windFy="0.00999945" maxTerAng="26.8356" minTerH="-25" maxTerH="15" maxDepth="5" />
-		<layer on="1" name="treeAR-26oakWide.mesh" dens="0.11654" minScale="1.04925" maxScale="1.35954" ofsY="0" addTrRdDist="3" windFx="0.699996" windFy="0.00999974" maxTerAng="23.096" minTerH="-30" maxTerH="0" maxDepth="5" />
-		<layer on="1" name="rock.05.mesh" dens="0.0200876" minScale="0.103969" maxScale="0.155689" ofsY="0" addTrRdDist="4" windFx="0" windFy="0" maxTerAng="40.2636" minTerH="-100" maxTerH="100" maxDepth="1" />
-		<layer on="0" name="tree68bigUpW.mesh" dens="0.111069" minScale="0.740175" maxScale="1.17759" ofsY="0" addTrRdDist="2" windFx="0.599999" windFy="0.00999945" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
-		<layer on="0" name="tree69bigUpWb.mesh" dens="0.107768" minScale="1.74292" maxScale="2.855" ofsY="0" addTrRdDist="2" windFx="0.599999" windFy="0.00999946" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
-		<layer on="0" name="tree70lowMidDn.mesh" dens="0.0886472" minScale="1.20445" maxScale="1.41907" ofsY="0" addTrRdDist="2" windFx="0.699996" windFy="0.00999974" maxTerAng="50" minTerH="-100" maxTerH="20" maxDepth="5" />
+		<layer on="1" name="treeAW-14LLHuge7k.mesh" dens="0.0668328" minScale="1.83093" maxScale="3.0018" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0.699996" windFy="0.00999974" maxTerAng="19.2698" minTerH="0" maxTerH="7" maxDepth="5" />
+		<layer on="1" name="treeAY-28aspTallEmp.mesh" dens="0.163819" minScale="1.90343" maxScale="2.57592" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0.599999" windFy="0.00999945" maxTerAng="21.9118" minTerH="5" maxTerH="30" maxDepth="5" />
+		<layer on="0" name="treeAYG-16birTallUp.mesh" dens="0.155091" minScale="0.810782" maxScale="1.23172" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0.599999" windFy="0.00999945" maxTerAng="15.9557" minTerH="-1" maxTerH="23" maxDepth="5" />
+		<layer on="1" name="treeARk-12oakSm.mesh" dens="0.0390934" minScale="1.94039" maxScale="2.59845" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0.699996" windFy="0.00999974" maxTerAng="27.4861" minTerH="-10" maxTerH="20" maxDepth="5" />
+		<layer on="1" name="rock.mesh" dens="0.0490917" minScale="0.863874" maxScale="1.64109" ofsY="0" addTrRdDist="5" maxRdist="100" windFx="0.599999" windFy="0.00999945" maxTerAng="26.8356" minTerH="-25" maxTerH="15" maxDepth="5" />
+		<layer on="1" name="treeAR-26oakWide.mesh" dens="0.11654" minScale="1.04925" maxScale="1.35954" ofsY="0" addTrRdDist="3" maxRdist="100" windFx="0.699996" windFy="0.00999974" maxTerAng="23.096" minTerH="-30" maxTerH="0" maxDepth="5" />
+		<layer on="1" name="rock.05.mesh" dens="0.0200876" minScale="0.103969" maxScale="0.155689" ofsY="0" addTrRdDist="4" maxRdist="100" windFx="0" windFy="0" maxTerAng="40.2636" minTerH="-100" maxTerH="100" maxDepth="1" />
+		<layer on="0" name="tree68bigUpW.mesh" dens="0.111069" minScale="0.740175" maxScale="1.17759" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0.599999" windFy="0.00999945" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
+		<layer on="0" name="tree69bigUpWb.mesh" dens="0.107768" minScale="1.74292" maxScale="2.855" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0.599999" windFy="0.00999946" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
+		<layer on="0" name="tree70lowMidDn.mesh" dens="0.0886472" minScale="1.20445" maxScale="1.41907" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0.699996" windFy="0.00999974" maxTerAng="50" minTerH="-100" maxTerH="20" maxDepth="5" />
 	</paged>
-	<cam pos="-61.1967 46.9946 -69.3388" dir="-0.94808 -0.24735 0.19997" />
+	<cam pos="28.9323 9.83295 87.1707" dir="-0.565525 -0.171433 0.806738" />
 	<objects>
 		<o name="big_tire" pos="156.168 136.923 41.506" rot="0.720068 -0.687977 0.0505481 0.0750664" />
 		<o name="big_tire" pos="162.654 133.721 42.0882" rot="0.708998 -0.700861 0.0607596 0.0492319" />
