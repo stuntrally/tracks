@@ -1,7 +1,8 @@
 <scene>
 	<car tires="0" />
 	<sky material="sky/dawn" rainName="Snow" rainEmit="300" />
-	<fog color="0.67 0.65 0.5 1" linStart="52.8125" linEnd="423.2" />
+	<fog color="0.8 0.7 0.5 1" color2="0.6 0.6 0.5 0.96" linStart="0.05" linEnd="391.612" />
+	<fogH color="0.73 0.86 1 1" height="-200" dens="100" linStart="0" linEnd="400" />
 	<light sceneryId="W7" pitch="30.2188" yaw="-11.7" ambient="0.45 0.43 0.4" diffuse="0.7 0.55 0.3" specular="0.5 0.5 0.35" />
 	<fluids />
 	<terrain size="513" triangle="0.99">
@@ -32,6 +33,6 @@
 		<layer on="0" name="" dens="0.0999996" minScale="0.0999994" maxScale="0.249999" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="30" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="30" minTerH="-100" maxTerH="100" maxDepth="5" />
 	</paged>
-	<cam pos="196.64 12.7405 -83.0171" dir="-0.317715 -0.0318888 0.94765" />
+	<cam pos="196.64 12.7405 -83.0171" dir="-0.317712 -0.0318888 0.94765" />
 	<objects />
 </scene>
