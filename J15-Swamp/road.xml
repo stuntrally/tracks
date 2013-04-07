@@ -1,5 +1,5 @@
 <SplineRoad>
-	<mtr road="roadJungle" wall="road_wall_Jungle" pipeW="road_wall_Jungle" />
+	<mtr road="roadJungle" wall="road_wall_Jungle" pipeW="pipe_wall_Jungle" />
 	<dim tcMul="0.1" lenDim="1" widthSteps="8" heightOfs="0.1" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="320" lodPntLen="20" />
 	<geom colN="5" colR="1.8" wsPm="4" lsPm="1" stBox="1 3 5" iDir="-1" iChk1="96" />

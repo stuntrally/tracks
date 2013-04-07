@@ -17,7 +17,7 @@
 		<texture road="1" surf="roadJungle" dust="0" dustS="0.2" mud="0.2" smoke="0" tclr="0.4 0.36 0.16 0.8" />
 		<par dust="Dust" mud="Mud" smoke="Smoke" />
 	</terrain>
-	<paged densGrass="0.2" densTrees="0.4" grPage="80" grDist="80" grDensSmooth="1" trPage="80" trDist="160" trDistImp="800" trRdDist="1">
+	<paged densGrass="0.2" densTrees="0.4" grPage="80" grDist="80" grDensSmooth="1" trPage="120" trDist="160" trDistImp="800" trRdDist="1">
 		<grass on="1" mtr="grass3g" clr="grClrSavanna.png" dens="0.193367" minSx="1.18105" maxSx="1.53682" minSy="1.33784" maxSy="1.90733" swayDistr="4" swayLen="0.2" swaySpeed="0.5" terMaxAng="16" terAngSm="5" terMinH="-50" terMaxH="120" terHSm="8" />
 		<grass on="1" mtr="grass18gw" clr="grClrJungle.png" dens="0.112111" minSx="1.63366" maxSx="2.08978" minSy="1.73366" maxSy="2.281" swayDistr="4" swayLen="0.2" swaySpeed="0.5" terMaxAng="30" terMinH="-200" terMaxH="200" />
 		<grass on="0" mtr="grass17" clr="grClrJungle.png" dens="0.0773504" minSx="1.96115" maxSx="2.08978" minSy="2.50147" maxSy="3.01935" swayDistr="4" swayLen="0.2" swaySpeed="0.5" terMaxAng="30" terMinH="-200" terMaxH="200" />

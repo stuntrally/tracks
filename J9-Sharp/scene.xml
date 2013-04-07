@@ -1,7 +1,8 @@
 <scene>
 	<car tires="0" />
 	<sky material="sky/blue_clouds" />
-	<fog color="0.73 0.86 1 1" linStart="102.403" linEnd="450.206" />
+	<fog color="0.73 0.86 1 1" color2="0.73 0.86 1 1" linStart="102.403" linEnd="450.206" />
+	<fogH color="0.73 0.86 1 1" height="-300" dens="100" linStart="0" linEnd="400" />
 	<light sceneryId="J8" pitch="48.2844" yaw="45.9846" ambient="0.6 0.6 0.6" diffuse="0.75 0.75 0.73" specular="0.99 0.99 0.97" />
 	<fluids />
 	<terrain size="513" triangle="1.07297">
@@ -32,7 +33,7 @@
 		<layer on="0" name="" dens="0.0999996" minScale="0.0999983" maxScale="0.249999" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 	</paged>
-	<cam pos="15.3831 7.87318 22.3521" dir="-0.810883 -0.133852 -0.569695" />
+	<cam pos="-51.1485 6.50876 -20.6939" dir="0.805276 -0.133852 0.577594" />
 	<objects>
 		<o name="big_tire" pos="115.734 -77.24 0.291834" rot="0.709826 -0.703718 0.0116438 0.028155" />
 		<o name="big_tire" pos="-118.112 64.1174 0.171611" rot="0.708739 -0.703246 -0.0196335 0.0524209" />
