@@ -1,7 +1,8 @@
 <scene>
 	<car tires="0" />
 	<sky material="sky/white" rainName="Snow" rainEmit="300" />
-	<fog color="0.86 0.91 0.92 1" linStart="355.891" linEnd="1160.64" />
+	<fog color="0.86 0.91 0.92 1" color2="0.86 0.91 0.92 1" linStart="355.891" linEnd="1160.64" />
+	<fogH color="0.73 0.86 1 1" height="-300" dens="100" linStart="0" linEnd="400" />
 	<light sceneryId="W1" pitch="48.5266" yaw="45" ambient="0.5 0.5 0.5" diffuse="0.6 0.6 0.6" specular="0.6 0.62 0.62" />
 	<fluids>
 		<fluid name="water white" pos="71.5054 -6.50812 -5.83456" rot="0 0 0" size="831.059 20 988.555" tile="0.01 0.01" />
