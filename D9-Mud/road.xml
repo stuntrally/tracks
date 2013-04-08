@@ -1,9 +1,9 @@
 <SplineRoad>
 	<mtr road="roadDesert" road2="roadMud" road3="roadJungle" />
-	<dim tcMul="0.1" lenDim="2" widthSteps="6" heightOfs="0.06" />
+	<dim tcMul="0.1" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="2" widthSteps="6" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5.244 13.676" iDir="1" iChk1="27" />
-	<stats length="1168.21" width="7.736" height="23.9306" onTer="0" pipes="0" yaw="0" pitch="0" roll="0" />
+	<stats length="1168.44" width="7.736" height="23.9306" onTer="0" pipes="0" yaw="0" pitch="0" roll="0" />
 	<txt desc="Small, fast round track with mud areas." />
 	<P pos="-121.37 0 -45.8906" w="7.736" aT="2" mtr="-1" />
 	<P pos="-121.466 0 -78.4469" w="7.736" aT="2" mtr="1" chkR="2.676" />
