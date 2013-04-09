@@ -1,7 +1,8 @@
 <scene>
 	<car tires="0" />
 	<sky material="sky/gray_clouds" rainName="RainFine" rainEmit="2600" rain2Name="RainFast" rain2Emit="2640" />
-	<fog color="0.93 0.96 1 1" linStart="262.813" linEnd="1095.2" />
+	<fog color="0.93 0.96 1 1" color2="0.93 0.96 1 1" linStart="262.813" linEnd="1095.2" />
+	<fogH color="0.73 0.86 1 1" height="-300" dens="100" linStart="0" linEnd="400" />
 	<light sceneryId="T3" pitch="38.1558" yaw="45" ambient="0.6 0.6 0.6" diffuse="0.7 0.7 0.7" specular="0.3 0.3 0.3" />
 	<fluids />
 	<terrain size="513" triangle="1.05902">
@@ -21,17 +22,17 @@
 		<grass on="1" mtr="grass2" clr="grClrSmall.png" dens="0.0280516" minSx="1.6" maxSx="1.85" minSy="1.6" maxSy="1.9" swayDistr="4" swayLen="0.2" swaySpeed="0.5" terMaxAng="30" terMinH="-200" terMaxH="200" />
 		<grass on="1" mtr="grass17" clr="grClrSmall.png" dens="0.408246" minSx="1" maxSx="2" minSy="1" maxSy="2" swayDistr="4" swayLen="0.2" swaySpeed="0.5" terMaxAng="30" terMinH="-200" terMaxH="200" />
 		<grass on="0" mtr="grass18" clr="grClrSmall.png" dens="0.1" minSx="1.6" maxSx="2" minSy="1.6" maxSy="2" swayDistr="4" swayLen="0.2" swaySpeed="0.5" terMaxAng="30" terMinH="-200" terMaxH="200" />
-		<layer on="1" name="treeAYO-18mplTall.mesh" dens="0.0886472" minScale="1.52739" maxScale="2.29478" ofsY="0" addTrRdDist="2" windFx="0.699996" windFy="0.00999974" maxTerAng="20.5696" minTerH="-100" maxTerH="18" maxDepth="5" />
-		<layer on="1" name="treeAOG-17birTall.mesh" dens="0.104921" minScale="1.17759" maxScale="1.64109" ofsY="0" addTrRdDist="2" windFx="0.599999" windFy="0.00999945" maxTerAng="40.7934" minTerH="-100" maxTerH="22" maxDepth="5" />
-		<layer on="1" name="treeAO-25oakWMed.mesh" dens="0.107768" minScale="0.810782" maxScale="1.48032" ofsY="0" addTrRdDist="2" windFx="0.599999" windFy="0.00999945" maxTerAng="15.9557" minTerH="-100" maxTerH="18" maxDepth="5" />
-		<layer on="0" name="treeAOY-27mplMed.mesh" dens="0.0390934" minScale="0.919234" maxScale="1.21804" ofsY="0" addTrRdDist="2" windFx="0.699996" windFy="0.00999974" maxTerAng="19.4529" minTerH="-100" maxTerH="20" maxDepth="5" />
-		<layer on="0" name="rock.mesh" dens="0.0510346" minScale="0.68302" maxScale="1.41907" ofsY="0" addTrRdDist="3" windFx="0.599999" windFy="0.00999945" maxTerAng="23.4977" minTerH="-100" maxTerH="17" maxDepth="5" />
-		<layer on="0" name="treeARk-12oakSm.mesh" dens="0.0570942" minScale="1.04925" maxScale="1.35954" ofsY="0" addTrRdDist="2" windFx="0.699996" windFy="0.00999974" maxTerAng="16.9685" minTerH="-100" maxTerH="20" maxDepth="5" />
-		<layer on="0" name="tree67bigDnWide.mesh" dens="0.117972" minScale="1.04925" maxScale="1.35954" ofsY="0" addTrRdDist="2" windFx="0.699996" windFy="0.00999974" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
-		<layer on="0" name="tree68bigUpW.mesh" dens="0.111069" minScale="0.740175" maxScale="1.17759" ofsY="0" addTrRdDist="2" windFx="0.599999" windFy="0.00999945" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
-		<layer on="0" name="tree69bigUpWb.mesh" dens="0.107768" minScale="1.74292" maxScale="2.855" ofsY="0" addTrRdDist="2" windFx="0.599999" windFy="0.00999947" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
-		<layer on="0" name="tree70lowMidDn.mesh" dens="0.0886472" minScale="1.20445" maxScale="1.41907" ofsY="0" addTrRdDist="2" windFx="0.699996" windFy="0.00999974" maxTerAng="50" minTerH="-100" maxTerH="20" maxDepth="5" />
+		<layer on="1" name="treeAYO-18mplTall.mesh" dens="0.0886472" minScale="1.52739" maxScale="2.29478" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0.699996" windFy="0.00999974" maxTerAng="20.5696" minTerH="-100" maxTerH="18" maxDepth="5" />
+		<layer on="1" name="treeAOG-17birTall.mesh" dens="0.104921" minScale="1.17759" maxScale="1.64109" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0.599999" windFy="0.00999945" maxTerAng="40.7934" minTerH="-100" maxTerH="22" maxDepth="5" />
+		<layer on="1" name="treeAO-25oakWMed.mesh" dens="0.107768" minScale="0.810782" maxScale="1.48032" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0.599999" windFy="0.00999945" maxTerAng="15.9557" minTerH="-100" maxTerH="18" maxDepth="5" />
+		<layer on="0" name="treeAOY-27mplMed.mesh" dens="0.0390934" minScale="0.919234" maxScale="1.21804" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0.699996" windFy="0.00999974" maxTerAng="19.4529" minTerH="-100" maxTerH="20" maxDepth="5" />
+		<layer on="0" name="rock.mesh" dens="0.0510346" minScale="0.68302" maxScale="1.41907" ofsY="0" addTrRdDist="3" maxRdist="100" windFx="0.599999" windFy="0.00999945" maxTerAng="23.4977" minTerH="-100" maxTerH="17" maxDepth="5" />
+		<layer on="0" name="treeARk-12oakSm.mesh" dens="0.0570942" minScale="1.04925" maxScale="1.35954" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0.699996" windFy="0.00999974" maxTerAng="16.9685" minTerH="-100" maxTerH="20" maxDepth="5" />
+		<layer on="0" name="tree67bigDnWide.mesh" dens="0.117972" minScale="1.04925" maxScale="1.35954" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0.699996" windFy="0.00999974" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
+		<layer on="0" name="tree68bigUpW.mesh" dens="0.111069" minScale="0.740175" maxScale="1.17759" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0.599999" windFy="0.00999945" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
+		<layer on="0" name="tree69bigUpWb.mesh" dens="0.107768" minScale="1.74292" maxScale="2.855" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0.599999" windFy="0.00999947" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
+		<layer on="0" name="tree70lowMidDn.mesh" dens="0.0886472" minScale="1.20445" maxScale="1.41907" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0.699996" windFy="0.00999974" maxTerAng="50" minTerH="-100" maxTerH="20" maxDepth="5" />
 	</paged>
-	<cam pos="106.392 15.7759 -4.06773" dir="-0.985124 -0.152575 0.0790625" />
+	<cam pos="123.923 16.2707 -0.461405" dir="-0.994436 -0.0829362 -0.0649381" />
 	<objects />
 </scene>
