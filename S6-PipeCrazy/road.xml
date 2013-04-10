@@ -4,20 +4,20 @@
 	<mrg skirtLen="0.1" skirtH="0.04" merge="1" mergeLen="120" lodPntLen="10" />
 	<geom colN="4" colR="2.5" wsPm="4" lsPm="1" stBox="1 5 7.724" iDir="1" iChk1="12" />
 	<stats length="868.934" width="7.35758" height="65.0441" onTer="69.859" pipes="69.859" yaw="0" pitch="0" roll="0" />
-	<txt desc="Crazy, fast and very twisted pipe road. Go fast through loop, slow down at exit - changes turn." />
-	<P pos="22.5348 0 59.9907" w="6" />
-	<P pos="35.6255 0 53.3807" w="6" col="0" chkR="2.072" />
-	<P pos="48.3988 0 47.0175" w="6" />
-	<P pos="61.8547 0 41.4299" w="6" />
-	<P pos="76.3851 0 41.459" w="6" />
-	<P pos="86.8353 0 51.2263" w="6" chkR="1.508" />
-	<P pos="88.6091 0 66.3018" w="6" />
-	<P pos="82.2551 0 80.958" w="6" />
-	<P pos="69.2393 0 88.7215" w="6" chkR="1.416" />
-	<P pos="51.7135 0 90.5398" w="6" />
-	<P pos="26.9696 0 90.6774" w="6" />
-	<P pos="-9.38238 0 90.2138" w="6" />
-	<P pos="-35.7855 0 91.2086" w="6" chkR="1.464" />
+	<txt desc="Short, crazy twisted pipe road. Go fast through loop, slow down at exit - changes turn." />
+	<P pos="22.5348 0 59.9907" w="6" aT="2" />
+	<P pos="35.6255 0 53.3807" w="6" aT="2" col="0" chkR="2.072" />
+	<P pos="48.3988 0 47.0175" w="6" aT="2" />
+	<P pos="61.8547 0 41.4299" w="6" aT="2" />
+	<P pos="76.3851 0 41.459" w="6" aT="2" />
+	<P pos="86.8353 0 51.2263" w="6" aT="2" chkR="1.508" />
+	<P pos="88.6091 0 66.3018" w="6" aT="2" />
+	<P pos="82.2551 0 80.958" w="6" aT="2" />
+	<P pos="69.2393 0 88.7215" w="6" aT="2" chkR="1.416" />
+	<P pos="51.7135 0 90.5398" w="6" aT="2" />
+	<P pos="26.9696 0 90.6774" w="6" aT="2" />
+	<P pos="-9.38238 0 90.2138" w="6" aT="2" />
+	<P pos="-35.7855 0 91.2086" w="6" aT="2" chkR="1.464" />
 	<P pos="-56.0716 0 94.1554" w="6" a="-92.4" ar="0" aT="0" mtr="1" />
 	<P pos="-71.871 3.28456 100.132" w="8" onTer="0" a="-62.4" ar="0" aT="0" pipe="1" mtr="1" />
 	<P pos="-84.2175 6.61204 104.579" w="8" onTer="0" a="-71.16" ar="0" aT="0" col="0" pipe="1" mtr="1" />
