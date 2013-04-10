@@ -2,7 +2,7 @@
 	<mtr road="roadDesert" wall="road_wall_Desert" col="road_col_Desert" />
 	<dim tcMul="0.1" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="2" widthSteps="6" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
-	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5.048 6.97601" iDir="-1" iChk1="25" />
+	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 4.888 13.424" iDir="-1" iChk1="25" />
 	<stats length="1963.28" width="7.19656" height="15.7534" onTer="25.776" pipes="0" yaw="0" pitch="0" roll="0" />
 	<txt desc="A winding track with narrow bridged road." />
 	<P pos="147.448 0 -70.4497" w="7.216" aT="2" />
