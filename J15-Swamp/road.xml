@@ -2,7 +2,7 @@
 	<mtr road="roadJungle" wall="road_wall_Jungle" pipeW="pipe_wall_Jungle" />
 	<dim tcMul="0.1" lenDim="1" widthSteps="8" heightOfs="0.1" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="320" lodPntLen="20" />
-	<geom colN="5" colR="1.8" wsPm="4" lsPm="1" stBox="1 3 5" iDir="-1" iChk1="96" />
+	<geom colN="5" colR="1.8" wsPm="4" lsPm="1" stBox="1 4 9" iDir="-1" iChk1="96" />
 	<stats length="2843.38" width="5.58339" height="15.6926" onTer="12.3488" pipes="0" yaw="0" pitch="0" roll="0" />
 	<txt desc="Difficult, winding, bumpy road inside a swamp. Easy to loose direction." />
 	<P pos="-74.747 0 -80.7318" w="6.064" />

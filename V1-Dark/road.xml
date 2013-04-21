@@ -2,7 +2,7 @@
 	<mtr road="roadSandDark" pipe="pipeAsphalt" pipe2="pipeGlassCyan" />
 	<dim tcMul="0.15" lenDim="2" widthSteps="6" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
-	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 4.76 9.35238" iDir="1" iChk1="18" />
+	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 4.76 11.35238" iDir="1" iChk1="18" />
 	<stats length="1139.21" width="6.776" height="8.47402" onTer="0" pipes="0" yaw="0" pitch="0" roll="0" />
 	<txt desc="A black volcanic terrain in a very dark clouded dusk, horrifying." />
 	<P pos="150.208 0 147.598" w="6.776" />

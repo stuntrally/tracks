@@ -2,7 +2,7 @@
 	<mtr road="roadSavannah" />
 	<dim tcMul="0.1" lenDim="1" widthSteps="6" heightOfs="0.06" />
 	<mrg skirtLen="0" skirtH="0.12" merge="1" mergeLen="200" lodPntLen="10" />
-	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5 9.976" iDir="1" iChk1="90" />
+	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5 11.176" iDir="1" iChk1="90" />
 	<stats length="1734.03" width="6.52253" height="44.322" onTer="71.1431" pipes="0" yaw="0" pitch="0" roll="0" />
 	<txt desc="Medium difficulty, stunt track, featuring: loop, double loop, side loop and skew, bridged, circular turns." />
 	<P pos="-92.4691 30.5373 -54.5915" w="8.58" onTer="0" a="165.18" ar="179.94" aT="0" chkR="1.328" />

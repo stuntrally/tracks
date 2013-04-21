@@ -2,7 +2,7 @@
 	<mtr road="roadJungle" wall="road_wall_Jungle" pipeW="pipe_wall_Jungle" />
 	<dim tcMul="0.12" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="6" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
-	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5 9.692" iDir="-1" iChk1="19" />
+	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5 11.692" iDir="-1" iChk1="19" />
 	<stats length="1408.41" width="7.91405" height="41.1979" onTer="18.5818" pipes="0" yaw="0" pitch="0" roll="0" />
 	<txt desc="Small bridged track with 2 circles and 2 sharp turns (hairpins)." />
 	<P pos="-17.5046 0 20.6544" w="7.152" aT="2" />

@@ -2,7 +2,7 @@
 	<mtr road="roadMud" />
 	<dim tcMul="0.12" lenDim="1" widthSteps="6" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
-	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 4.972 8.53202" iDir="-1" iChk1="1" />
+	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 4.972 11.53202" iDir="-1" iChk1="1" />
 	<stats length="942.317" width="9.776" height="34.66" onTer="0" pipes="0" yaw="0" pitch="0" roll="0" />
 	<txt desc="Small track with hills and jumps - don&apos;t drive too fast." />
 	<P pos="-70.1568 0 -153.292" w="9.776" chkR="1.808" />
