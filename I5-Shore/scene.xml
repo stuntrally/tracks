@@ -10,7 +10,7 @@
 	<terrain size="513" triangle="1.18027">
 		<texture on="1" file="sand_2.png" fnorm="sand_2_nh.png" scale="7.62453" surf="Default" dust="0" dustS="0.7" mud="0.2" smoke="0" tclr="0.3 0.4 0.46 0.6" angMin="0" angMax="20.1342" angSm="20" hMin="-300" hMax="300" hSm="20" noise="0.299776" nOnly="0" />
 		<texture on="1" file="ice_6.png" fnorm="ice_6_nh.png" scale="8.79889" surf="Default" dust="0" dustS="0.7" mud="0.2" smoke="0" tclr="0.1 0.2 0.3 0.6" angMin="18.7248" angMax="40.4698" angSm="20" hMin="-300" hMax="300" hSm="20" noise="0.353464" nOnly="0" />
-		<texture on="1" file="ice_6.png" fnorm="ice_6_nh.png" scale="34" surf="Default" dust="0" dustS="0.6" mud="0.4" smoke="0" tclr="0.1 0.22 0.3 0.6" angMin="42.0804" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" noise="0.183444" nOnly="0" />
+		<texture on="1" file="ice_6.png" fnorm="ice_6_nh.png" scale="34" surf="Default" dust="0" dustS="0.6" mud="0.4" smoke="0" tclr="0.1 0.22 0.3 0.6" angMin="42.0804" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" noise="0.183444" nOnly="0" triplanar="1" />
 		<texture on="0" file="sand_3.png" fnorm="sand_3_nh.png" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 0.1" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" noise="1" nOnly="1" />
 		<texture on="0" file="sand_5.png" fnorm="sand_5_nh.png" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 0.1" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" noise="1" nOnly="1" />
 		<texture on="0" file="sand_6.png" fnorm="sand_6_nh.png" scale="5.55224" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 0.1" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" noise="1" nOnly="1" />

@@ -12,7 +12,7 @@
 		<texture on="0" file="sand_6.png" fnorm="sand_6_nh.png" scale="4.77911" surf="Default" dust="0.6" dustS="0.7" mud="0" smoke="0" tclr="0.44 0.4 0.23 0.7" angMin="0" angMax="4.73684" angSm="20" hMin="-300" hMax="300" hSm="20" noise="1" nOnly="0" />
 		<texture on="1" file="sand_6.png" fnorm="sand_6_nh.png" scale="7.24803" surf="Default" dust="0.4" dustS="0.6" mud="0" smoke="0" tclr="0.62 0.57 0.42 0.7" angMin="14.8026" angMax="24.6711" angSm="20" hMin="-300" hMax="-1.3158" hSm="1.75439" noise="1" nOnly="0" />
 		<texture on="1" file="desert_1.png" fnorm="desert_1_nh.png" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="0.5" smoke="0" tclr="0.45 0.5 0.1 0.7" angMin="0" angMax="49.3421" angSm="20" hMin="10.5263" hMax="300" hSm="1.31579" noise="1" nOnly="0" />
-		<texture on="1" file="jungle_5d.png" fnorm="jungle_5_nh.png" scale="15.6023" surf="Default" dust="0" dustS="0.2" mud="0" smoke="0" tclr="0.35 0.35 0.1 1" angMin="33.75" angMax="89.0132" angSm="24.0789" hMin="-300" hMax="300" hSm="20" noise="1" nOnly="0" />
+		<texture on="1" file="jungle_5d.png" fnorm="jungle_5_nh.png" scale="15.6023" surf="Default" dust="0" dustS="0.2" mud="0" smoke="0" tclr="0.35 0.35 0.1 1" angMin="33.75" angMax="89.0132" angSm="24.0789" hMin="-300" hMax="300" hSm="20" noise="1" nOnly="0" triplanar="1" />
 		<texture on="0" file="sand_6.png" fnorm="sand_6_nh.png" scale="5.55224" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" noise="1" nOnly="1" />
 		<texture road="1" surf="roadGravel" dust="0.2" dustS="0.5" mud="0" smoke="0" tclr="0.5 0.44 0.3 0.5" />
 		<par dust="Dust" mud="Mud" smoke="Smoke" />
