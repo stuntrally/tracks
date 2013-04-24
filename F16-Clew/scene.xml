@@ -5,7 +5,7 @@
 	<fogH color="0.63 0.64 0.65 0.9" height="-36.6562" dens="10.125" linStart="0" linEnd="148.513" />
 	<light sceneryId="F12" pitch="47.2388" yaw="57.3124" ambient="0.5 0.5 0.45" diffuse="0.66 0.63 0.5" specular="0.5 0.5 0.5" />
 	<fluids />
-	<terrain size="257" triangle="0.557584">
+	<terrain size="257" triangle="0.557584" errNorm="1.7">
 		<texture on="1" file="jungle_1.png" fnorm="jungle_1_nh.png" scale="6.5" surf="GrassForest" dust="0" dustS="0.2" mud="0.8" smoke="0" tclr="0.1 0.05 0 0.75" angMin="0" angMax="22.2536" angSm="13.9824" hMin="-300" hMax="-41.3574" hSm="20" noise="0.681216" nOnly="0" />
 		<texture on="1" file="jungle_4.png" fnorm="jungle_4_nh.png" scale="9.5" surf="GrassForest" dust="0" dustS="0.2" mud="0.6" smoke="0" tclr="0.15 0.2 0.1 0.9" angMin="0" angMax="54.7483" angSm="21.0259" hMin="-24.2892" hMax="300" hSm="9.628" noise="-0.052408" nOnly="0" />
 		<texture on="1" file="jungle_5.png" fnorm="jungle_5_nh.png" scale="21" surf="Rocks" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.23 0.23 0.1 0.8" angMin="52.5821" angMax="90" angSm="26.0526" hMin="-261.926" hMax="300" hSm="11.8156" noise="0.0785961" nOnly="0" triplanar="1" />

@@ -2,7 +2,7 @@
 	<mtr road="roadJungle" pipe="pipeAsphalt" road2="roadMud" pipe2="pipeGlass" pipe3="pipeGlassCyan" wall="road_wall_Jungle" pipeW="pipe_wall_Jungle" />
 	<dim tcMul="0.15" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="8" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="400" lodPntLen="40" />
-	<geom colN="6" colR="3" wsPm="4" lsPm="1" stBox="1 5.664 18.128" iDir="-1" iChk1="112" />
+	<geom colN="6" colR="3" wsPm="4" lsPm="1" stBox="1 5.664 22.336" iDir="-1" iChk1="112" />
 	<stats length="3497.65" width="13.5925" height="57.3765" onTer="61.8316" pipes="21.7735" yaw="0" pitch="0" roll="0" />
 	<txt desc="Winding track with many small jumps and pipes." />
 	<P pos="100.495 0 74.5691" w="13.072" aT="2" />

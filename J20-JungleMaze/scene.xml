@@ -7,7 +7,7 @@
 	<fluids>
 		<fluid name="water green" pos="-25.4398 63.3156 -27.3054" rot="0 0 0" size="80.7123 20 158.69" tile="0.01 0.01" />
 	</fluids>
-	<terrain size="513" triangle="1.35533">
+	<terrain size="513" triangle="1.35533" errNorm="1.7">
 		<texture on="1" file="jungle_0.png" fnorm="jungle_0_nh.png" scale="8.96607" surf="Default" dust="0" dustS="0.2" mud="0.4" smoke="0" tclr="0.18 0.36 0.04 0.7" angMin="0" angMax="14.4079" angSm="14.8026" hMin="-300" hMax="300" hSm="20" noise="0.763158" nOnly="0" />
 		<texture on="1" file="jungle_rocky.png" fnorm="jungle_rocky_nh.png" scale="9.34714" surf="Default" dust="0" dustS="0.2" mud="0.6" smoke="0" tclr="0.42 0.46 0.08 0.7" angMin="14.4079" angMax="34.4295" angSm="21.1184" hMin="-300" hMax="300" hSm="20" noise="0.335568" nOnly="0" />
 		<texture on="1" file="jungle_mntn.png" fnorm="flat_n.png" scale="22.0005" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.42 0.26 0.08 0.8" angMin="32.8188" angMax="50.1316" angSm="20" hMin="-300" hMax="300" hSm="20" noise="0.049212" nOnly="0" />

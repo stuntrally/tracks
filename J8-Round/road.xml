@@ -2,7 +2,7 @@
 	<mtr road="roadJungle" wall="road_wall_JDark" pipeW="pipe_wall_JDark" />
 	<dim tcMul="0.12" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="6" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
-	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5 11.02" iDir="-1" iChk1="2" />
+	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5 11.788" iDir="-1" iChk1="2" />
 	<stats length="2549.31" width="7.03462" height="6.78782" onTer="0" pipes="0" yaw="0" pitch="0" roll="0" />
 	<txt desc="Fast long bumpy jungle road with 2 banked circles." />
 	<P pos="41.3009 0 244.132" w="7.03462" aT="2" />

@@ -2,7 +2,7 @@
 	<mtr road="roadSavannah" road2="roadJungle" road3="roadSandDark" road4="roadGDesert" />
 	<dim tcMul="0.12" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="6" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
-	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 6.456 11.7" iDir="-1" iChk1="15" />
+	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 6.456 12.884" iDir="-1" iChk1="15" />
 	<stats length="3117.13" width="5.41474" height="83.189" onTer="0" pipes="0" yaw="0" pitch="0" roll="0" />
 	<txt desc="A big egg-shaped hole in ground with a curly road on its slopes. Can be driven only from in-car cameras." />
 	<P pos="58.7234 0 16.2118" w="6.424" aT="2" mtr="1" />

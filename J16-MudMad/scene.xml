@@ -14,7 +14,7 @@
 		<fluid name="water green med" pos="-48.342 -13.0592 51.1001" rot="0 0 0" size="45.3468 20 27.3975" tile="0.01 0.01" />
 		<fluid name="water green" pos="-41.9941 -0.0842013 95.0628" rot="0 0 0" size="55.5118 19.551 16.5317" tile="0.00985236 0.00985236" />
 	</fluids>
-	<terrain size="257" triangle="1.07642">
+	<terrain size="257" triangle="1.07642" errNorm="1.7">
 		<texture on="1" file="jungle_0.png" fnorm="jungle_0_nh.png" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="0.4" smoke="0" tclr="0.18 0.36 0.04 0.7" angMin="0" angMax="23.2895" angSm="20" hMin="-300" hMax="300" hSm="20" noise="0.289474" nOnly="0" />
 		<texture on="1" file="jungle_rocky.png" fnorm="jungle_rocky_nh.png" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="0.6" smoke="0" tclr="0.42 0.46 0.08 0.7" angMin="19.5301" angMax="34.4295" angSm="20" hMin="-300" hMax="300" hSm="20" noise="0.335568" nOnly="0" />
 		<texture on="0" file="jungle_rocky.png" fnorm="jungle_rocky_nh.png" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.42 0.26 0.08 0.8" angMin="32.8188" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" noise="0.049212" nOnly="0" />

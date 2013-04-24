@@ -5,7 +5,7 @@
 	<fogH color="0.65 0.5 0.4 0.8" height="-42.585" dens="54.08" linStart="0" linEnd="400" />
 	<light sceneryId="C3" pitch="33.975" yaw="16.0301" ambient="0.55 0.36 0.3" diffuse="0.86 0.7 0.6" specular="0.9 0.7 0.5" />
 	<fluids />
-	<terrain size="1025" triangle="1.79006">
+	<terrain size="1025" triangle="1.79006" errNorm="1.7">
 		<texture on="1" file="jungle_6.png" fnorm="jungle_6_nh.png" scale="6.5" surf="DesertFast" dust="0" dustS="0.2" mud="0.8" smoke="0" tclr="0.14 0.14 0.05 0.7" angMin="0" angMax="14.4079" angSm="13.9824" hMin="-300" hMax="56.5789" hSm="20" noise="0.324561" nOnly="0" />
 		<texture on="1" file="jungle_4.png" fnorm="jungle_4_nh.png" scale="9.5" surf="DesertFast" dust="0" dustS="0.2" mud="0.6" smoke="0" tclr="0.14 0.14 0.05 0.7" angMin="14.6053" angMax="31.1842" angSm="21.0259" hMin="-132.895" hMax="300" hSm="9.628" noise="0.263158" nOnly="0" />
 		<texture on="1" file="jungle_5.png" fnorm="jungle_5_nh.png" scale="21" surf="DesertFast" dust="0" dustS="0.2" mud="0.1" smoke="0" tclr="0.3 0.2 0.15 0.7" angMin="29.4079" angMax="90" angSm="26.25" hMin="-168.421" hMax="300" hSm="29.8246" noise="0.350877" nOnly="0" />

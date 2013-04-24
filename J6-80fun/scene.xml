@@ -8,7 +8,7 @@
 		<fluid name="water green" pos="-97.3612 -11.172 -124.238" rot="0 0 0" size="50 20 50" tile="0.00989609 0.00989609" />
 		<fluid name="mud easy soft" pos="-42.5777 -11.3335 153.79" rot="0 0 0" size="30.2401 7.61001 23.2641" tile="0.0103725 0.0108162" />
 	</fluids>
-	<terrain size="513" triangle="1.47296">
+	<terrain size="513" triangle="1.47296" errNorm="1.7">
 		<texture on="1" file="jungle_0.png" fnorm="jungle_0_nh.png" scale="6.46114" surf="Default" dust="0" dustS="0.2" mud="0.4" smoke="0" tclr="0.18 0.36 0.04 0.7" angMin="0" angMax="23.2895" angSm="20" hMin="-300" hMax="300" hSm="20" noise="1.00877" nOnly="0" />
 		<texture on="1" file="jungle_4.png" fnorm="jungle_4_nh.png" scale="7.43391" surf="Default" dust="0" dustS="0.2" mud="0.6" smoke="0" tclr="0.3 0.26 0.1 0.7" angMin="19.5301" angMax="34.4295" angSm="20" hMin="-300" hMax="300" hSm="20" noise="0.335568" nOnly="0" />
 		<texture on="0" file="jungle_mntn2.png" fnorm="flat_n.png" scale="26" surf="Default" dust="0" dustS="0.2" mud="0" smoke="0" tclr="0.1 0.1 0.1 0.8" angMin="32.8188" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" noise="0.049212" nOnly="0" />

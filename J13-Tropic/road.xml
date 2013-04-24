@@ -2,7 +2,7 @@
 	<mtr road="roadJungle" pipe="pipeAsphalt" pipe2="pipeGlass" wall="road_wall_Jungle" pipeW="pipe_wall_Jungle" />
 	<dim tcMul="0.1" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="2" widthSteps="6" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="800" lodPntLen="120" />
-	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5 11.848" iDir="1" iChk1="18" />
+	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5 14.968" iDir="1" iChk1="18" />
 	<stats length="6843.4" width="7.59461" height="86.0919" onTer="16.8821" pipes="0" yaw="0" pitch="0" roll="0" />
 	<txt desc="Long, winding and bumpy road in tropical jungle, partly bridged on mountains with great views." />
 	<P pos="-94.8785 0 98.2406" w="7.6" aT="2" />

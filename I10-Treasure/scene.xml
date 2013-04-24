@@ -10,7 +10,7 @@
 		<fluid name="mud hard" pos="35.1983 8.35188 126.23" rot="0 0 0" size="37.6743 20 24.3686" tile="0.01 0.01" />
 		<fluid name="mud soft" pos="-16.1779 9.5564 125.278" rot="0 0 0" size="37.3759 20 26.6302" tile="0.01 0.01" />
 	</fluids>
-	<terrain size="513" triangle="1.18877">
+	<terrain size="513" triangle="1.18877" errNorm="1.7">
 		<texture on="1" file="sand_6.png" fnorm="sand_6_nh.png" scale="5" surf="Default" dust="0.05" dustS="0.2" mud="0" smoke="0" tclr="0.3 0.35 0 0.6" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" noise="0.0263157" nOnly="0" />
 		<texture on="1" file="jungle_0.png" fnorm="jungle_0_nh.png" scale="5.72353" surf="Default" dust="0" dustS="0.2" mud="0.5" smoke="0" tclr="0.2 0.2 0 0.6" angMin="0" angMax="85.8553" angSm="9.07895" hMin="7.89474" hMax="92.1053" hSm="1.31579" noise="0.403509" nOnly="0" />
 		<texture on="1" file="desert_6.png" fnorm="desert_6_nh.png" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="0.1" smoke="0" tclr="0.3 0.34 0.1 0.6" angMin="8.48684" angMax="24.2763" angSm="5.32895" hMin="-300" hMax="-2.63159" hSm="13.1579" noise="0" nOnly="0" />

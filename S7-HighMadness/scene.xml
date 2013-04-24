@@ -9,7 +9,7 @@
 		<fluid name="water blue" pos="210.747 10.23 -5.75151" rot="0 0 0" size="90.2643 20 199.831" tile="0.01 0.01" />
 		<fluid name="water blue" pos="139.378 10.2385 -135.91" rot="0 0 0" size="132.5 20 61.6699" tile="0.01 0.01" />
 	</fluids>
-	<terrain size="513" triangle="1">
+	<terrain size="513" triangle="1" errNorm="1.7">
 		<texture on="1" file="jungle_0.png" fnorm="jungle_0_nh.png" scale="9.47566" surf="Default" dust="0" dustS="0.2" mud="0.8" smoke="0" tclr="0.18 0.36 0.04 0.7" angMin="0" angMax="28.8158" angSm="20" hMin="-300" hMax="300" hSm="20" noise="0.970916" nOnly="0" />
 		<texture on="1" file="jungle_1.png" fnorm="jungle_1_nh.png" scale="6.24589" surf="Default" dust="0" dustS="0.2" mud="0.6" smoke="0" tclr="0.42 0.46 0.08 0.7" angMin="29.6053" angMax="41.0738" angSm="20" hMin="-300" hMax="300" hSm="20" noise="0.908276" nOnly="0" />
 		<texture on="0" file="jungle_6.png" fnorm="jungle_6_nh.png" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="0.4" smoke="0" tclr="0.48 0.42 0.2 0.7" angMin="39.8658" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" noise="0.908276" nOnly="0" />

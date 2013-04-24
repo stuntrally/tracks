@@ -1,10 +1,11 @@
 <scene>
 	<car tires="0" />
 	<sky material="sky/gray_clouds" rainName="RainFine" rainEmit="1320" rain2Name="RainHeavy" rain2Emit="1695" />
-	<fog color="0.63 0.65 0.67 1" linStart="101.25" linEnd="485.113" />
+	<fog color="0.63 0.65 0.67 1" color2="0.63 0.65 0.67 1" linStart="101.25" linEnd="485.113" />
+	<fogH color="0.73 0.86 1 1" height="-300" dens="100" linStart="0" linEnd="400" />
 	<light sceneryId="F1" pitch="35.2643" yaw="45" ambient="0.5 0.5 0.5" diffuse="0.6 0.6 0.6" specular="0.5 0.5 0.5" />
 	<fluids />
-	<terrain size="513" triangle="1.2">
+	<terrain size="513" triangle="1.2" errNorm="1.7">
 		<texture on="1" file="jungle_0.png" fnorm="jungle_0_nh.png" scale="4.5" surf="GrassForestWet" dust="0" dustS="0.2" mud="0.8" smoke="0" tclr="0.22 0.2 0.04 0.9" angMin="0.197368" angMax="17.3684" angSm="20" hMin="-300" hMax="300" hSm="20" noise="0.877193" nOnly="0" />
 		<texture on="1" file="jungle_1.png" fnorm="jungle_1_nh.png" scale="4.5" surf="GrassForestWet" dust="0" dustS="0.2" mud="0.6" smoke="0" tclr="0.32 0.31 0.08 0.9" angMin="15.5921" angMax="33.1579" angSm="20" hMin="-300" hMax="300" hSm="20" noise="1" nOnly="0" />
 		<texture on="1" file="jungle_5.png" fnorm="jungle_5_nh.png" scale="21.8813" surf="Rocks" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="33.75" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" noise="0.192982" nOnly="0" />

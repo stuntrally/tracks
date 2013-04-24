@@ -1,10 +1,11 @@
 <scene>
 	<car tires="0" />
 	<sky material="sky/magic" rainName="Snow" rainEmit="15" rain2Name="RainFine" rain2Emit="45" />
-	<fog color="0.33 0.13 0.34 1" linStart="72.2" linEnd="738.113" />
+	<fog color="0.33 0.13 0.34 1" color2="0.33 0.13 0.34 1" linStart="72.2" linEnd="738.113" />
+	<fogH color="0.73 0.86 1 1" height="-300" dens="100" linStart="0" linEnd="400" />
 	<light sceneryId="X2" pitch="47.2388" yaw="-45.3438" ambient="0.2 0.2 0.5" diffuse="0.34 0.3 1" specular="0.5 0.5 1" />
 	<fluids />
-	<terrain size="1025" triangle="1.20704">
+	<terrain size="1025" triangle="1.20704" errNorm="1.7">
 		<texture on="1" file="volcano_7.png" fnorm="volcano_7_nh.png" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="0.02" smoke="0" tclr="0.22 0.2 0.4 0.9" angMin="0" angMax="37.1397" angSm="20" hMin="-300" hMax="300" hSm="20" noise="0.331876" nOnly="0" />
 		<texture on="1" file="ice_5.png" fnorm="ice_5_nh.png" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="0.02" smoke="0" tclr="0.32 0.31 0.8 0.9" angMin="39.6941" angMax="53.0566" angSm="20" hMin="-300" hMax="300" hSm="20" noise="0.323136" nOnly="0" />
 		<texture on="0" file="volcano_7.png" fnorm="volcano_7_nh.png" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="0.02" smoke="0" tclr="0.2 0.2 0.4 1" angMin="49.9125" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" noise="0.317672" nOnly="0" />
@@ -14,7 +15,7 @@
 		<texture road="1" surf="roadSnow" dust="0" dustS="0.2" mud="0" smoke="0" tclr="0.5 0.44 0.3 0.1" />
 		<par dust="Dust" mud="Mud" smoke="Smoke" />
 	</terrain>
-	<paged densGrass="0.07" densTrees="1.0" grPage="100" grDist="100" grDensSmooth="6" trPage="200" trDist="200" trDistImp="1200" trRdDist="3">
+	<paged densGrass="0.07" densTrees="1" grPage="100" grDist="100" grDensSmooth="6" trPage="200" trDist="200" trDistImp="1200" trRdDist="3">
 		<grass on="0" mtr="grassUnidentified" clr="grClrSmall.png" dens="0.211069" minSx="2.08978" maxSx="2.42007" minSy="1.60103" maxSy="1.90733" swayDistr="4" swayLen="0.2" swaySpeed="0.5" terMaxAng="30" terAngSm="8" terMinH="-5" terMaxH="200" terHSm="3" />
 		<grass on="0" mtr="grassXc" clr="grClrUnidentified.png" dens="0.149969" minSx="2.66848" maxSx="3.22657" minSy="1.85431" maxSy="2.22271" swayDistr="4" swayLen="0.2" swaySpeed="0.5" terMaxAng="30" terMinH="-200" terMaxH="200" />
 		<grass on="1" mtr="grassXv" clr="grClrUnidentified.png" dens="0.093918" minSx="3.01935" maxSx="3.58774" minSy="2.39994" maxSy="3.08763" swayDistr="4" swayLen="0.2" swaySpeed="0.5" terMaxAng="30" terMinH="-200" terMaxH="200" />

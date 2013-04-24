@@ -1,8 +1,8 @@
 <SplineRoad>
 	<mtr road="roadJungle" pipe="pipeAsphalt" road2="roadSavannah" pipe2="pipeGlass" wall="road_wall_Jungle" pipeW="pipe_wall_Jungle" />
-	<dim tcMul="0.15" lenDim="1" widthSteps="8" heightOfs="0.06" />
+	<dim tcMul="0.15" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="8" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="180" lodPntLen="10" />
-	<geom colN="6" colR="3" wsPm="4" lsPm="1" stBox="1 4.94 11.236" iDir="-1" iChk1="50" />
+	<geom colN="6" colR="3" wsPm="4" lsPm="1" stBox="1 4.94 13.928" iDir="-1" iChk1="50" />
 	<stats length="1751.18" width="8.29535" height="30.1595" onTer="3.32432" pipes="0" yaw="0" pitch="0" roll="0" />
 	<txt desc="Fast winding track with bridge over dip and banked circles on hilly terrain." />
 	<P pos="167.928 0 -122.286" w="8.12482" aT="2" />
