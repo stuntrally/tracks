@@ -5,7 +5,7 @@
 	<fogH color="0.73 0.86 1 1" height="-300" dens="100" linStart="0" linEnd="400" />
 	<light sceneryId="C2" pitch="44.9994" yaw="-90" ambient="0.55 0.55 0.55" diffuse="0.85 0.85 0.82" specular="0.7 0.7 0.7" />
 	<fluids />
-	<terrain size="1025" triangle="0.769559">
+	<terrain size="1025" triangle="0.769559" errNorm="10">
 		<texture on="1" file="adesert_6.png" fnorm="adesert_6_nh.png" scale="8.5" surf="DesertFast" dust="0.7" dustS="1" mud="0.4" smoke="0" tclr="0.46 0.26 0.08 0.7" angMin="0" angMax="22.349" angSm="20.7383" hMin="-300" hMax="300" hSm="20" noise="0.102908" nOnly="0" />
 		<texture on="1" file="jungle_2.png" fnorm="jungle_2_nh.png" scale="10.5" surf="DesertFast" dust="0.6" dustS="1" mud="0.5" smoke="0" tclr="0.48 0.3 0.2 0.8" angMin="21.7448" angMax="42.6844" angSm="20" hMin="-300" hMax="300" hSm="20" noise="0.496644" nOnly="0" />
 		<texture on="1" file="adesert_3.png" fnorm="adesert_3_nh.png" scale="17.9743" surf="DesertBumpy" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="45.1006" angMax="90" angSm="27.9865" hMin="-300" hMax="300" hSm="20" noise="0.111856" nOnly="0" triplanar="1" />

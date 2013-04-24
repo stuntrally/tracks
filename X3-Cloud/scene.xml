@@ -5,7 +5,7 @@
 	<fogH color="0.73 0.86 1 1" height="-300" dens="100" linStart="0" linEnd="400" />
 	<light sceneryId="X2" pitch="47.2388" yaw="-45.3438" ambient="0.2 0.2 0.5" diffuse="0.34 0.3 1" specular="0.5 0.5 1" />
 	<fluids />
-	<terrain size="1025" triangle="1.20704" errNorm="1.7">
+	<terrain size="1025" triangle="1.20704" errNorm="3">
 		<texture on="1" file="volcano_7.png" fnorm="volcano_7_nh.png" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="0.02" smoke="0" tclr="0.22 0.2 0.4 0.9" angMin="0" angMax="37.1397" angSm="20" hMin="-300" hMax="300" hSm="20" noise="0.331876" nOnly="0" />
 		<texture on="1" file="ice_5.png" fnorm="ice_5_nh.png" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="0.02" smoke="0" tclr="0.32 0.31 0.8 0.9" angMin="39.6941" angMax="53.0566" angSm="20" hMin="-300" hMax="300" hSm="20" noise="0.323136" nOnly="0" />
 		<texture on="0" file="volcano_7.png" fnorm="volcano_7_nh.png" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="0.02" smoke="0" tclr="0.2 0.2 0.4 1" angMin="49.9125" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" noise="0.317672" nOnly="0" />

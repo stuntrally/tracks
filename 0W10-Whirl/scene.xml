@@ -5,7 +5,7 @@
 	<fogH color="0.8 0.8 0.8 1" height="13.2038" dens="25.205" linStart="0" linEnd="22.05" />
 	<light sceneryId="W1" pitch="48.5266" yaw="45" ambient="0.4 0.4 0.4" diffuse="0.6 0.6 0.6" specular="0.3 0.3 0.3" />
 	<fluids />
-	<terrain size="513" triangle="1.18114">
+	<terrain size="513" triangle="1.18114" errNorm="5">
 		<texture on="0" file="snow_1.png" fnorm="flat_n.png" scale="4.5" surf="SnowDeep" dust="1" dustS="0.8" mud="1" smoke="0" tclr="0.4 0.4 0.4 0.6" angMin="0" angMax="13.6912" angSm="11.6776" hMin="-300" hMax="300" hSm="20" noise="0.102908" nOnly="0" />
 		<texture on="1" file="snow_1.png" fnorm="ice_0_nh.png" scale="6.5" surf="SnowDeep" dust="1" dustS="0.8" mud="1" smoke="0" tclr="0.4 0.4 0.4 0.6" angMin="0" angMax="23.5567" angSm="19.5301" hMin="-300" hMax="300" hSm="20" noise="0.147648" nOnly="0" />
 		<texture on="1" file="ice_0w.png" fnorm="ice_0_nh.png" scale="9.5" surf="SnowDeep" dust="1" dustS="0.8" mud="1" smoke="0" tclr="0.4 0.4 0.4 0.6" angMin="23.1543" angMax="41.8792" angSm="20" hMin="-300" hMax="300" hSm="20" noise="0.156596" nOnly="0" />

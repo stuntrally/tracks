@@ -8,7 +8,7 @@
 		<fluid name="water white" pos="263.039 -2.16757 72.5737" rot="0 0 0" size="350.656 20 295.484" tile="0.01 0.01" />
 		<fluid name="water white" pos="-148.719 -7.19418 210.021" rot="0 0 0" size="178.323 20 207.359" tile="0.01 0.01" />
 	</fluids>
-	<terrain size="1025" triangle="1.15336">
+	<terrain size="1025" triangle="1.15336" errNorm="10">
 		<texture on="1" file="ice_7.png" fnorm="ice_7_nh.png" scale="7.36" surf="SnowWet" dust="0.4" dustS="0.6" mud="1" smoke="0" tclr="0.4 0.4 0.4 0.6" angMin="14.2105" angMax="29.2105" angSm="17.7632" hMin="-34.2105" hMax="27.6316" hSm="20" noise="0.245614" nOnly="1" />
 		<texture on="1" file="ice_2.png" fnorm="ice_2_nh.png" scale="7.5" surf="SnowMedium" dust="0.4" dustS="0.6" mud="1" smoke="0" tclr="0.4 0.4 0.4 0.6" angMin="0" angMax="14.4079" angSm="18.9474" hMin="-21.0526" hMax="23.6842" hSm="20" noise="0.122807" nOnly="0" />
 		<texture on="1" file="ice_0w.png" fnorm="volcano_7_nh.png" scale="16.2366" surf="SnowWet" dust="0" dustS="0.8" mud="1" smoke="0" tclr="0.4 0.4 0.4 0.6" angMin="0" angMax="90" angSm="19.1447" hMin="34.2105" hMax="110.526" hSm="25" noise="1" nOnly="0" />
