@@ -1,7 +1,7 @@
 <SplineRoad>
 	<mtr road="roadJDark" road2="roadJungle" road3="roadMud" road4="roadJDarkD" wall="road_wall_JDark" pipeW="pipe_wall_JDark" col="road_col_Dark" />
 	<dim tcMul="0.05" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.1" lenDim="2" widthSteps="6" heightOfs="0.06" />
-	<mrg skirtLen="0.02" skirtH="0.02" merge="1" mergeLen="600" lodPntLen="20" />
+	<mrg skirtLen="0.02" skirtH="0.02" merge="1" mergeLen="1200" lodPntLen="60" />
 	<geom colN="4" colR="2.5" wsPm="4" lsPm="1" stBox="1 6.70405 16.576" iDir="-1" iChk1="179" />
 	<stats length="7160.11" width="9.27012" height="151.766" onTer="46.178" pipes="0" yaw="0" pitch="0" roll="0" />
 	<txt desc="Long winding track on high jungle mountains connected with suspended bridges. With drive through ancient temples in the middle." />
