@@ -8,7 +8,7 @@
 		<fluid name="water white" pos="-46.8829 -18.2492 -208.849" rot="0 0 0" size="238.84 20 233.125" tile="0.01 0.01" />
 		<fluid name="water white" pos="184.122 -23.86 3.86204" rot="0 0 0" size="78.5104 20 235.842" tile="0.00989296 0.00989296" />
 	</fluids>
-	<terrain size="513" triangle="1.6">
+	<terrain size="513" triangle="1.6" errNorm="5">
 		<texture on="0" file="snow_1.png" fnorm="flat_n.png" scale="4.5" surf="SnowWet" dust="1" dustS="0.8" mud="1" smoke="0" tclr="0.4 0.4 0.4 0.6" angMin="13.8158" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" noise="1" nOnly="0" />
 		<texture on="1" file="ice_4.png" fnorm="ice_4_nh.png" scale="12.9682" surf="SnowWet" dust="1" dustS="0.8" mud="1" smoke="0" tclr="0.4 0.4 0.4 0.6" angMin="8.88158" angMax="90" angSm="12.6316" hMin="-300" hMax="300" hSm="20" noise="1" nOnly="0" />
 		<texture on="0" file="ice_0w.png" fnorm="ice_0_nh.png" scale="9.5" surf="SnowWet" dust="1" dustS="0.8" mud="1" smoke="0" tclr="0.4 0.4 0.4 0.6" angMin="11.25" angMax="26.6447" angSm="20" hMin="-300" hMax="300" hSm="20" noise="1.01754" nOnly="0" />
@@ -18,7 +18,7 @@
 		<texture road="1" surf="roadSnow" dust="0.4" dustS="0.5" mud="0.2" smoke="0" tclr="0.3 0.4 0.3 0.8" />
 		<par dust="SnowDust" mud="SnowMud" smoke="Smoke" />
 	</terrain>
-	<paged densGrass="0.2" densTrees="0.6" grPage="120" grDist="120" grDensSmooth="6" trPage="100" trDist="200" trDistImp="800" trRdDist="1">
+	<paged densGrass="0.2" densTrees="0.6" grPage="100" grDist="100" grDensSmooth="6" trPage="140" trDist="140" trDistImp="800" trRdDist="1">
 		<grass on="1" mtr="grassWinter" clr="grClrWinter.png" dens="0.0749458" minSx="0.785277" maxSx="1.06066" minSy="0.431959" maxSy="0.650151" swayDistr="4" swayLen="0.1" swaySpeed="0.5" terMaxAng="15" terAngSm="6" terMinH="-25" terMaxH="200" terHSm="2" />
 		<grass on="1" mtr="grass18w" clr="grClrWinter.png" dens="0.104921" minSx="1.11329" maxSx="1.65011" minSy="1.03487" maxSy="1.32315" swayDistr="4" swayLen="0.2" swaySpeed="0.5" terMaxAng="30" terMinH="-200" terMaxH="200" />
 		<grass on="1" mtr="grass7wy" clr="grClrJungle.png" dens="0.093918" minSx="1.2796" maxSx="1.6173" minSy="1.50525" maxSy="2.08978" swayDistr="4" swayLen="0.2" swaySpeed="0.5" terMaxAng="30" terMinH="-200" terMaxH="200" />
