@@ -5,9 +5,9 @@
 	<fogH color="0.73 0.86 1 1" height="-300" dens="100" linStart="0" linEnd="400" />
 	<light sceneryId="I2" pitch="58.05" yaw="73.5761" ambient="0.44 0.44 0.44" diffuse="0.6 0.6 0.6" specular="0.7 0.7 0.7" />
 	<fluids>
-		<fluid name="water blue" pos="-0.432671 1.72066 -0.362514" rot="0 0 0" size="16000 40 16000" tile="0.01 0.01" />
+		<fluid name="water blue" pos="-0.259603 1.10156 -0.217508" rot="0 0 0" size="9600 40 9600" tile="0.01 0.01" />
 	</fluids>
-	<terrain size="513" triangle="3.02666">
+	<terrain size="513" triangle="1.816" errNorm="1">
 		<texture on="1" file="sand_2.png" fnorm="sand_2_nh.png" scale="7.62453" surf="Default" dust="0.6" dustS="0.7" mud="0" smoke="0" tclr="0.44 0.44 0.26 0.7" angMin="0" angMax="19.7368" angSm="20" hMin="-300" hMax="300" hSm="20" noise="0.385965" nOnly="0" />
 		<texture on="1" file="sand_6.png" fnorm="sand_6_nh.png" scale="4.77911" surf="Default" dust="0.6" dustS="0.7" mud="0" smoke="0" tclr="0.44 0.4 0.23 0.7" angMin="20.3289" angMax="44.2105" angSm="20" hMin="-300" hMax="300" hSm="20" noise="0.315789" nOnly="0" />
 		<texture on="1" file="jungle_2.png" fnorm="jungle_2_nh.png" scale="19.3206" surf="Default" dust="0" dustS="0.6" mud="0.4" smoke="0" tclr="0.38 0.22 0.04 0.7" angMin="49.7368" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" noise="0.0438597" nOnly="0" triplanar="1" />
@@ -24,8 +24,8 @@
 		<grass on="0" mtr="grass16g" clr="grClrJungle.png" dens="0.1" minSx="1.6173" maxSx="1.99746" minSy="2.20346" maxSy="3.15671" swayDistr="4" swayLen="0.2" swaySpeed="0.5" terMaxAng="30" terMinH="-200" terMaxH="200" />
 		<grass on="1" mtr="grass15g" clr="grClrJungle.png" dens="0.55694" minSx="1.07368" maxSx="1.33784" minSy="0.996847" maxSy="1.22276" swayDistr="4" swayLen="0.2" swaySpeed="0.5" terMaxAng="30" terMinH="-200" terMaxH="200" />
 		<grass on="0" mtr="grass6g-" clr="grClrJungle.png" dens="0.264331" minSx="1.42784" maxSx="2.05259" minSy="1.47402" maxSy="1.97926" swayDistr="4" swayLen="0.2" swaySpeed="0.5" terMaxAng="30" terMinH="8" terMaxH="200" terHSm="3" />
-		<layer on="1" name="tree.07.mesh" dens="0.0777678" minScale="0.416" maxScale="0.986157" ofsY="0" addTrRdDist="3" maxRdist="100" windFx="0.699969" windFy="0.00999279" maxTerAng="30" minTerH="3" maxTerH="100" maxDepth="0" />
-		<layer on="1" name="palm.mesh" dens="0.199788" minScale="0.503928" maxScale="2.9186" ofsY="0" addTrRdDist="3" maxRdist="100" windFx="0.246534" windFy="0.0229887" maxTerAng="30" minTerH="2" maxTerH="100" maxDepth="0" />
+		<layer on="1" name="tree.07.mesh" dens="0.0777678" minScale="0.416" maxScale="0.986157" ofsY="0" addTrRdDist="3" maxRdist="100" windFx="0.699969" windFy="0.00999279" maxTerAng="24.4376" minTerH="3" maxTerH="15" maxDepth="0" />
+		<layer on="1" name="palm.mesh" dens="0.199788" minScale="0.503928" maxScale="2.9186" ofsY="0" addTrRdDist="3" maxRdist="100" windFx="0.246534" windFy="0.0229887" maxTerAng="25.0059" minTerH="2" maxTerH="15" maxDepth="0" />
 		<layer on="1" name="farn1.mesh" dens="0.34" minScale="0.110813" maxScale="0.435681" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="7.29999" windFy="0.0599931" maxTerAng="30" minTerH="2" maxTerH="100" maxDepth="0" />
 		<layer on="1" name="farn2.mesh" dens="0.34" minScale="0.136625" maxScale="0.406429" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="7.29999" windFy="0.0599931" maxTerAng="30" minTerH="2" maxTerH="100" maxDepth="0" />
 		<layer on="1" name="rock.05.mesh" dens="0.0305751" minScale="0.0535431" maxScale="0.26552" ofsY="0" addTrRdDist="4" maxRdist="100" windFx="0" windFy="0" maxTerAng="30" minTerH="2" maxTerH="100" maxDepth="0" />
@@ -35,8 +35,8 @@
 		<layer on="0" name="" dens="0.0999996" minScale="0.0999994" maxScale="0.249999" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="30" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="30" minTerH="-100" maxTerH="100" maxDepth="5" />
 	</paged>
-	<cam pos="-136.633 285.374 1013.37" dir="0.0999191 -0.225707 -0.969058" />
+	<cam pos="-90.9262 202.483 644.428" dir="0.0999191 -0.225707 -0.969058" />
 	<objects>
-		<o name="dish_hole" pos="-30.6075 3.93608 144.985" rot="0 1 0 0" sc="9.13128 9.13128 9.13128" />
+		<o name="dish_hole" pos="-18.0392 2.77316 86.7864" rot="0 1 0 0" sc="5.47975 5.47817 5.47975" />
 	</objects>
 </scene>
