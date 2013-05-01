@@ -1,7 +1,7 @@
 <SplineRoad>
 	<mtr road="roadAdesert" pipe="pipeAsphalt" pipe2="pipeGlass" wall="road_wall_Red" col="road_col_Red" />
 	<dim tcMul="0.1" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="2" widthSteps="6" heightOfs="0.06" />
-	<mrg skirtLen="0.4" skirtH="0.12" merge="1" mergeLen="600" lodPntLen="40" />
+	<mrg skirtLen="0.4" skirtH="0.12" merge="1" mergeLen="1200" lodPntLen="80" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 6.136 24.812" iDir="-1" iChk1="154" />
 	<stats length="15585.7" width="9.77377" height="339.736" onTer="17.4262" pipes="0" yaw="0" pitch="0" roll="0" />
 	<txt desc="Very long, tricky road with few surprises. Partly quite fast, partly slower and winding. Quite banked and high slopes. Crucial to know when to brake. Many bumps and terrain jumps." />
