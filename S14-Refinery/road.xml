@@ -1,7 +1,7 @@
 <SplineRoad>
 	<mtr road="roadSavannah" pipe="pipeGlass" road2="roadSnow" pipe2="pipeGlassCyan" pipe3="pipeGlassOrange" />
 	<dim tcMul="0.1" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="6" heightOfs="0.06" />
-	<mrg skirtLen="0.2" skirtH="0.06" merge="1" mergeLen="400" lodPntLen="10" />
+	<mrg skirtLen="0" skirtH="0" merge="1" mergeLen="600" lodPntLen="20" />
 	<geom colN="5" colR="2.5" wsPm="4" lsPm="1" stBox="1 4.236 10.9" iDir="1" iChk1="87" />
 	<stats length="5328.33" width="8.17874" height="69.1901" onTer="83.7277" pipes="35.8204" yaw="0" pitch="0" roll="0" />
 	<txt desc="Hard difficulty, stunt track. Intense skewed loops, pipes, very banked, twisted road and jumps. Caution: insanely crazy! For professional stunt drivers." />
