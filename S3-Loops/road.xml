@@ -1,7 +1,7 @@
 <SplineRoad>
 	<mtr road="roadSavannah" />
 	<dim tcMul="0.1" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="6" heightOfs="0.06" />
-	<mrg skirtLen="0" skirtH="0.12" merge="1" mergeLen="200" lodPntLen="10" />
+	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="300" lodPntLen="20" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5 11.176" iDir="1" iChk1="90" />
 	<stats length="1734.03" width="6.52253" height="44.3089" onTer="71.1431" pipes="0" yaw="0" pitch="0" roll="0" />
 	<txt desc="Medium difficulty, stunt track, featuring: loop, double loop, side loop and skew, bridged, circular turns." />

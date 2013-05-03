@@ -1,5 +1,5 @@
 <SplineRoad>
-	<mtr road="roadSavannah" pipe="pipeGlass" road2="roadSnow" pipe2="pipeGlassCyan" pipe3="pipeGlassOrange" />
+	<mtr road="roadSavannah" pipe="pipeGlassYellow" road2="roadSnow" pipe2="pipeGlassCyan" pipe3="pipeGlassOrange" pipe4="pipeGlassWhiteV" wall="road_wall_Red" pipeW="pipe_wall_Jungle" col="road_col_Winter" />
 	<dim tcMul="0.1" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="6" heightOfs="0.06" />
 	<mrg skirtLen="0" skirtH="0" merge="1" mergeLen="600" lodPntLen="20" />
 	<geom colN="5" colR="2.5" wsPm="4" lsPm="1" stBox="1 4.236 10.9" iDir="1" iChk1="87" />
@@ -57,11 +57,11 @@
 	<P pos="56.7105 25.34 84.6857" w="13.648" onTer="0" a="0" ar="0" aT="2" pipe="1" mtr="1" />
 	<P pos="10.537 9.82 85.7297" w="15.24" onTer="0" a="0" ar="0" aT="2" col="0" pipe="1" mtr="1" chkR="1.7094" />
 	<P pos="-26.1051 1.44 83.345" w="15.24" onTer="0" a="0" ar="0" aT="2" pipe="1" mtr="1" />
-	<P pos="-53.3439 8.62 67.5764" w="13.544" onTer="0" a="0" ar="0" aT="2" pipe="1" />
-	<P pos="-48.601 23.4 48.0788" w="9.136" onTer="0" a="0" ar="0" aT="2" pipe="1" chkR="1.721" />
-	<P pos="-17.7442 32.26 29.7115" w="9.136" onTer="0" a="0" ar="0" aT="2" col="0" pipe="1" />
-	<P pos="76.9954 31.92 -27.5487" w="9.136" onTer="0" a="0" ar="0" aT="2" pipe="1" />
-	<P pos="108.918 28.42 -44.3895" w="8.8908" onTer="0" a="0" ar="0" aT="2" col="0" pipe="1" chkR="1.668" />
+	<P pos="-53.3439 8.62 67.5764" w="13.544" onTer="0" a="0" ar="0" aT="2" pipe="1" mtr="3" />
+	<P pos="-48.601 23.4 48.0788" w="9.136" onTer="0" a="0" ar="0" aT="2" pipe="1" mtr="3" chkR="1.721" />
+	<P pos="-17.7442 32.26 29.7115" w="9.136" onTer="0" a="0" ar="0" aT="2" col="0" pipe="1" mtr="3" />
+	<P pos="76.9954 31.92 -27.5487" w="9.136" onTer="0" a="0" ar="0" aT="2" pipe="1" mtr="3" />
+	<P pos="108.918 28.42 -44.3895" w="8.8908" onTer="0" a="0" ar="0" aT="2" col="0" pipe="1" mtr="3" chkR="1.668" />
 	<P pos="129.649 22.62 -50.3698" w="8.8908" onTer="0" a="0" ar="0" aT="2" col="0" pipe="1" />
 	<P pos="152.624 15.42 -50.2811" w="8.8908" onTer="0" a="0" ar="0" aT="2" col="0" pipe="1" mtr="1" />
 	<P pos="160.175 14.275 -44.4697" w="8.8908" onTer="0" a="0" ar="0" aT="2" col="0" pipe="1" />

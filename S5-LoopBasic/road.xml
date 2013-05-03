@@ -1,7 +1,7 @@
 <SplineRoad>
 	<mtr road="roadSavannah" pipe="pipeAsphalt" pipe2="pipeGlass" />
 	<dim tcMul="0.1" lenDim="1" widthSteps="8" heightOfs="0.06" />
-	<mrg skirtLen="0" skirtH="0.12" merge="1" mergeLen="160" lodPntLen="20" />
+	<mrg skirtLen="1" skirtH="0.1" merge="1" mergeLen="300" lodPntLen="20" />
 	<geom colN="4" colR="2.4" wsPm="4" lsPm="1" stBox="1 5 11.86" iDir="-1" iChk1="120" />
 	<stats length="2135.34" width="6.84666" height="52.1007" onTer="61.5101" pipes="21.1191" yaw="0" pitch="0" roll="0" />
 	<txt desc="Basic stunt elements: loop, side loop, side bridge turn and pipe turn (all 180 degrees)." />
