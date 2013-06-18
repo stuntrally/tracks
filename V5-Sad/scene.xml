@@ -3,7 +3,7 @@
 	<sky material="sky/dark_clouds" rainName="RainFast" rainEmit="800" />
 	<fog color="0.3 0.3 0.3 0.5" color2="0.35 0.35 0.35 0.5" linStart="139.957" linEnd="629.546" />
 	<fogH color="0.3 0.3 0.3 0.5" height="3.48837" dens="6.92266" linStart="54.9114" linEnd="380.273" />
-	<light sceneryId="V3" pitch="20.1453" yaw="45" ambient="0.05 0.05 0.05" diffuse="0.4 0.4 0.4" specular="0.5 0.5 0.5" />
+	<light sceneryId="V5" pitch="20.1453" yaw="45" ambient="0.05 0.05 0.05" diffuse="0.4 0.4 0.4" specular="0.5 0.5 0.5" />
 	<fluids>
 		<fluid name="mud soft JD" pos="-170.95 16.5813 -143.665" rot="0 0 0" size="50 20 50" tile="0.01 0.01" />
 		<fluid name="mud soft JD" pos="11.9655 3.21292 30.9856" rot="0 0 0" size="50 20 50" tile="0.01 0.01" />
