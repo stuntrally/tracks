@@ -4,7 +4,7 @@
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
 	<geom colN="4" colR="5" wsPm="6" lsPm="2" stBox="1 5.336 21.7764" iDir="-1" iChk1="241" />
 	<stats length="10255" width="8.36026" height="43.1246" onTer="45.8753" pipes="3.36019" yaw="0" pitch="0" roll="0" />
-	<txt desc="Very technical track with crossings, bridges, dips, and banked sharp turns.&#x0A;Big jump - at least 180 km/h (112 mph) and for reverse 190 km/h (118 mph)." />
+	<txt desc="Quite long but mostly flat track filled with all stunt elements. Includes loops, pipe with obstacles, dips, lots of bridges, and easy jumps (140 kmh / 87 mph)." />
 	<P pos="-608.035 0 423.301" w="8.13599" aT="2" />
 	<P pos="-589.958 0 447.412" w="8.13599" aT="2" chkR="1.952" />
 	<P pos="-561.311 0 455.548" w="8.13599" aT="2" />
