@@ -1,31 +1,31 @@
 <SplineRoad>
-	<mtr road="roadStone" pipe="pipeAsphalt" road2="roadSandDark" />
+	<mtr road="roadStone" pipe="pipeAsphalt" road2="roadMud" />
 	<dim tcMul="0.1" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="2" widthSteps="6" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5.33599 13.1521" iDir="-1" iChk1="9" />
 	<stats length="2346.13" width="7" height="17.4844" onTer="10.9025" pipes="0" yaw="0" pitch="0" roll="0" />
 	<txt desc="A mix of wide curves, sharp curves and banked curves in an orange autumn forest at sunset." />
-	<P pos="225.822 0 148.95" w="7" aT="2" chkR="1.556" />
+	<P pos="225.822 0 148.95" w="7" aT="2" mtr="1" chkR="1.556" />
 	<P pos="84.095 0 48.3708" w="7" aT="2" chkR="1.452" />
-	<P pos="156.705 0 23.1392" w="7" aT="2" />
+	<P pos="156.705 0 23.1392" w="7" aT="2" mtr="1" />
 	<P pos="223.559 0 78.9594" w="7" aT="2" chkR="1.46" />
 	<P pos="246.162 0 14.0926" w="7" aT="2" chkR="1.544" />
-	<P pos="161.76 0 -132.914" w="7" aT="2" />
+	<P pos="161.76 0 -132.914" w="7" aT="2" mtr="1" />
 	<P pos="66.0539 0 -198.644" w="7" aT="2" chkR="1.396" />
-	<P pos="-144.306 0 -127.656" w="7" aT="2" chkR="1.508" />
+	<P pos="-144.306 0 -127.656" w="7" aT="2" mtr="1" chkR="1.508" />
 	<P pos="-199.067 0 -10.7278" w="7" aT="2" />
-	<P pos="-161.79 0 63.0452" w="7" aT="2" chkR="1.552" />
-	<P pos="-23.1779 0 -22.1144" w="7" aT="2" col="0" chkR="1.568" />
-	<P pos="-10.2291 0 -109.81" w="7" a="0" ar="0" aT="2" col="0" />
+	<P pos="-161.79 0 63.0452" w="7" aT="2" mtr="1" chkR="1.552" />
+	<P pos="-23.1779 0 -22.1144" w="7" aT="2" col="0" mtr="1" chkR="1.568" />
+	<P pos="-10.2291 0 -109.81" w="7" a="0" ar="0.726" aT="2" col="0" />
 	<P pos="-38.2656 5.44745 -162.615" w="7" onTer="0" a="0" ar="0" aT="2" chkR="1.0184" />
 	<P pos="-63.6326 0 -211.565" w="7" a="0" ar="0" aT="2" />
 	<P pos="-22.5967 0 -238.051" w="7" aT="2" chkR="1.492" />
 	<P pos="21.6536 0 -237.35" w="7" a="0" ar="0" aT="2" chkR="1.472" />
 	<P pos="54.6304 5.5591 -196.899" w="7" onTer="0" a="0" ar="0" aT="2" />
 	<P pos="95.961 0 -122.789" w="7" a="0" ar="0" aT="2" chkR="1.588" />
-	<P pos="85.9562 0 -62.4271" w="7" aT="2" />
+	<P pos="85.9562 0 -62.4271" w="7" aT="2" mtr="1" />
 	<P pos="-10.6398 0 101.593" w="7" aT="2" chkR="1.612" />
 	<P pos="62.2812 0 159.846" w="7" aT="2" />
-	<P pos="122.619 0 181.259" w="7" aT="2" />
+	<P pos="122.619 0 181.259" w="7" aT="2" mtr="1" />
 	<P pos="214.924 0 196.321" w="7" aT="2" />
 </SplineRoad>
