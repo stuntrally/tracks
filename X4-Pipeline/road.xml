@@ -1,7 +1,7 @@
 <SplineRoad>
 	<mtr road="roadSandMagic" pipe="pipeGlassRed" road2="roadIce" pipe2="pipeGlassBlueD" road3="roadSandSet" pipe3="pipeGlassWhiteV" pipe4="pipeGlassYellow" pipeW="pipe_wall_Orange" col="road_col_Winter" />
 	<dim tcMul="0.15" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="2" widthSteps="12" heightOfs="0.06" />
-	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="100" lodPntLen="20" />
+	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="600" lodPntLen="40" />
 	<geom colN="8" colR="4" wsPm="4" lsPm="1" stBox="1 14.2 36.3283" iDir="1" iChk1="5" />
 	<stats length="7888.7" width="11.6182" height="89.9379" onTer="53.689" pipes="69.8063" yaw="0" pitch="0" roll="0" />
 	<txt desc="Difficult, long, winding track, made in remrants of pipeline installations. Few obstacles inside. Partly driven on pipe." />

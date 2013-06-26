@@ -5,7 +5,7 @@
 	<fogH color="0.7 0.9 0.9 1.5" height="-1" dens="19.845" linStart="0" linEnd="12.8" />
 	<light sceneryId="X4" pitch="47.2388" yaw="-45.3438" ambient="0.3 0.2 0.4" diffuse="0.4 0.5 1" specular="1 0.7 0.2" />
 	<fluids />
-	<terrain size="1025" triangle="1.11867" errNorm="3.00">
+	<terrain size="1025" triangle="1.11867" errNorm="8.00">
 		<texture on="1" file="volcano_7.png" fnorm="volcano_7_nh.png" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="0.02" smoke="0" tclr="0.22 0.2 0.4 0.9" angMin="0" angMax="37.1397" angSm="20" hMin="-300" hMax="300" hSm="20" noise="0.331876" nOnly="0" />
 		<texture on="1" file="ice_5.png" fnorm="ice_5_nh.png" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="0.02" smoke="0" tclr="0.32 0.31 0.8 0.9" angMin="39.6941" angMax="53.0566" angSm="20" hMin="-300" hMax="300" hSm="20" noise="0.323136" nOnly="0" />
 		<texture on="0" file="volcano_7.png" fnorm="volcano_7_nh.png" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="0.02" smoke="0" tclr="0.2 0.2 0.4 1" angMin="49.9125" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" noise="0.317672" nOnly="0" />
@@ -15,7 +15,7 @@
 		<texture road="1" surf="roadForest" dust="0" dustS="0.2" mud="0" smoke="0" tclr="0.5 0.44 0.3 0.1" />
 		<par dust="Dust" mud="Mud" smoke="Smoke" />
 	</terrain>
-	<paged densGrass="0.1" densTrees="0.5" grPage="100" grDist="100" grDensSmooth="6" trPage="200" trDist="200" trDistImp="800" trRdDist="3">
+	<paged densGrass="0.1" densTrees="0.5" grPage="100" grDist="100" grDensSmooth="6" trPage="160" trDist="160" trDistImp="800" trRdDist="3">
 		<grass on="0" mtr="grassUnidentified" clr="grClrWinter.png" dens="0.289671" minSx="1.38244" maxSx="1.76769" minSy="1.26526" maxSy="1.56875" swayDistr="4" swayLen="0.2" swaySpeed="0.5" terMaxAng="24" terAngSm="8" terMinH="-1" terMaxH="44" terHSm="10" />
 		<grass on="0" mtr="grassXc" clr="grClrWinter.png" dens="0.201138" minSx="2.66848" maxSx="3.22657" minSy="1.29403" maxSy="1.55274" swayDistr="4" swayLen="0.2" swaySpeed="0.5" terMaxAng="30" terMinH="-200" terMaxH="200" />
 		<grass on="0" mtr="grassXv" clr="grClrWinter.png" dens="0.203105" minSx="3.01935" maxSx="3.58774" minSy="1.71677" maxSy="2.24206" swayDistr="4" swayLen="0.2" swaySpeed="0.5" terMaxAng="30" terMinH="-200" terMaxH="200" />
