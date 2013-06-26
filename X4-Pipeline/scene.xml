@@ -26,9 +26,9 @@
 		<layer on="1" name="shroom1_3.mesh" dens="0.195229" minScale="1.67458" maxScale="2.62111" ofsY="0" addTrRdDist="8" maxRdist="100" windFx="7.29999" windFy="0.0599931" maxTerAng="22.2297" minTerH="-1" maxTerH="100" maxDepth="5" />
 		<layer on="1" name="shroom1_2.mesh" dens="0.11654" minScale="1.90343" maxScale="3.17933" ofsY="0" addTrRdDist="12" maxRdist="100" windFx="7.29999" windFy="0.0599931" maxTerAng="21.6941" minTerH="-1" maxTerH="100" maxDepth="5" />
 		<layer on="1" name="shroom2_2.mesh" dens="0.138355" minScale="2.31564" maxScale="3.75362" ofsY="0" addTrRdDist="11" maxRdist="100" windFx="0" windFy="0" maxTerAng="21.6941" minTerH="-1" maxTerH="100" maxDepth="5" />
-		<layer on="1" name="rock_n1-W.mesh" dens="0.299173" minScale="2.23295" maxScale="3.05183" ofsY="0" addTrRdDist="1" maxRdist="100" windFx="0.599985" windFy="0.00999213" maxTerAng="8.16519" minTerH="-2" maxTerH="5" maxDepth="5" />
-		<layer on="1" name="rock_n4r-W.mesh" dens="0.0999996" minScale="1.65778" maxScale="2.25343" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0" windFy="0" maxTerAng="16.0038" minTerH="-2" maxTerH="4" maxDepth="5" />
-		<layer on="1" name="rock_n5v-W.mesh" dens="0.163819" minScale="1.04925" maxScale="1.43422" ofsY="0" addTrRdDist="1" maxRdist="100" windFx="0" windFy="0" maxTerAng="11.9547" minTerH="-2" maxTerH="4" maxDepth="5" />
+		<layer on="1" name="rock_n1-W.mesh" dens="0.397127" minScale="2.23295" maxScale="3.05183" ofsY="0" addTrRdDist="1" maxRdist="100" windFx="0.599985" windFy="0.0099921" maxTerAng="28.859" minTerH="-6" maxTerH="1" maxDepth="5" />
+		<layer on="1" name="rock_n4r-W.mesh" dens="0.292032" minScale="1.65778" maxScale="2.25343" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0" windFy="0" maxTerAng="16.0038" minTerH="-6" maxTerH="1" maxDepth="5" />
+		<layer on="1" name="rock_n5v-W.mesh" dens="0.244464" minScale="1.04925" maxScale="1.43422" ofsY="0" addTrRdDist="1" maxRdist="100" windFx="0" windFy="0" maxTerAng="15.3252" minTerH="-6" maxTerH="1" maxDepth="5" />
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
