@@ -2,7 +2,7 @@
 	<mtr road="roadSavannah" pipe="pipeAsphalt" road2="roadJungle" road3="roadStone" />
 	<dim tcMul="0.1" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="2" widthSteps="6" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
-	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5.33599 13.1521" iDir="-1" iChk1="49" />
+	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5.33599 16.7841" iDir="-1" iChk1="49" />
 	<stats length="2554.1" width="8.93997" height="22.7814" onTer="0" pipes="0" yaw="0" pitch="0" roll="0" />
 	<txt desc="Highly banked and tricky track in orange autumn forest with rain." />
 	<P pos="2.4197 0 110.893" w="10.792" aT="2" />

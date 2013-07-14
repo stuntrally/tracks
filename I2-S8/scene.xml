@@ -1,12 +1,13 @@
 <scene>
 	<car tires="0" />
 	<sky material="sky/light_blue" />
-	<fog color="0.78 0.96 1 1" linStart="309.115" linEnd="614.699" />
+	<fog color="0.78 0.96 1 1" color2="0.78 0.96 1 1" linStart="309.115" linEnd="614.699" />
+	<fogH color="0.73 0.86 1 1" height="-300" dens="100" linStart="0" linEnd="400" />
 	<light sceneryId="I2" pitch="58.1386" yaw="73.5761" ambient="0.48 0.48 0.48" diffuse="0.65 0.65 0.65" specular="0.7 0.7 0.7" />
 	<fluids>
 		<fluid name="water blue" pos="0 -6 0" rot="0 0 0" size="8000 40 8000" tile="0.01 0.01" />
 	</fluids>
-	<terrain size="513" triangle="1.07297">
+	<terrain size="513" triangle="1.07297" errNorm="1.70">
 		<texture on="1" file="sand_2.png" fnorm="sand_2_nh.png" scale="7.62453" surf="Default" dust="0.6" dustS="0.7" mud="0" smoke="0" tclr="0.44 0.44 0.26 0.7" angMin="0" angMax="12.6316" angSm="15.7895" hMin="-300" hMax="300" hSm="20" noise="0.45614" nOnly="0" />
 		<texture on="0" file="sand_4.png" fnorm="sand_4_nh.png" scale="4.77911" surf="Default" dust="0.6" dustS="0.7" mud="0" smoke="0" tclr="0.44 0.4 0.23 0.7" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" noise="1" nOnly="0" />
 		<texture on="1" file="desert_1.png" fnorm="desert_1_nh.png" scale="7.24803" surf="Default" dust="0.2" dustS="0.6" mud="0.4" smoke="0" tclr="0.38 0.22 0.04 0.7" angMin="31.1842" angMax="90" angSm="45.5921" hMin="-300" hMax="300" hSm="20" noise="1" nOnly="0" />

@@ -8,7 +8,7 @@
 		<fluid name="mud easy med" pos="94.7709 -9.34165 101.421" rot="0 0 0" size="122.092 20 122.427" tile="0.01 0.01" />
 		<fluid name="water blue" pos="-71.7271 -12.4483 103.669" rot="0 0 0" size="134.231 20 115.976" tile="0.010709 0.010709" />
 	</fluids>
-	<terrain size="513" triangle="1">
+	<terrain size="513" triangle="1" errNorm="1.70">
 		<texture on="1" file="desert_6o.png" fnorm="flat_n.png" scale="14.1" surf="DesertFast" dust="0.9" dustS="1" mud="0.1" smoke="0" tclr="0.48 0.46 0.08 0.7" angMin="9.67105" angMax="21.663" angSm="20" hMin="-147.704" hMax="-33.48" hSm="20" noise="0.385965" nOnly="1" />
 		<texture on="1" file="desert_6.png" fnorm="snow_rocky_nh.png" scale="8.5" surf="DesertFast" dust="0.8" dustS="1" mud="0.1" smoke="0" tclr="0.46 0.46 0.08 0.7" angMin="0" angMax="11.2253" angSm="20" hMin="-300" hMax="300" hSm="20" noise="0.894737" nOnly="0" />
 		<texture on="1" file="desert_4.png" fnorm="desert_4_nh.png" scale="17.8085" surf="DesertBumpy" dust="0.4" dustS="1" mud="0.7" smoke="0" tclr="0.42 0.36 0.08 0.8" angMin="36.5132" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" noise="0.065644" nOnly="0" />
