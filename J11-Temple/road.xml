@@ -1,6 +1,6 @@
 <SplineRoad>
 	<mtr road="roadJDark" wall="road_wall_Jungle" pipeW="pipe_wall_Jungle" />
-	<dim tcMul="0.15" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="8" heightOfs="0.1" />
+	<dim tcMul="0.08" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="8" heightOfs="0.1" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="180" lodPntLen="10" />
 	<geom colN="4" colR="1.5" wsPm="4" lsPm="1" stBox="1 5.232 16.892" iDir="-1" iChk1="40" />
 	<stats length="924.522" width="6.74608" height="18.92" onTer="24.1299" pipes="0" yaw="0" pitch="0" roll="0" />
