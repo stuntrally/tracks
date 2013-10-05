@@ -18,7 +18,7 @@
 		<par dust="Dust" mud="Mud" smoke="Smoke" />
 	</terrain>
 	<paged densGrass="0.2" densTrees="0.7" grPage="100" grDist="100" grDensSmooth="6" trPage="120" trDist="120" trDistImp="800" trRdDist="0">
-		<grass on="1" mtr="grass17" clr="grClrForest.png" dens="0.204238" minSx="1.3387" maxSx="1.59269" minSy="1.24732" maxSy="1.6756" swayDistr="4" swayLen="0.2" swaySpeed="0.5" terMaxAng="36" terMinH="32" terMaxH="100" />
+		<grass on="1" mtr="grass17" clr="grClrForest.png" dens="0.204238" minSx="1.3387" maxSx="1.59269" minSy="1.24732" maxSy="1.6756" swayDistr="4" swayLen="0.2" swaySpeed="0.5" terMaxAng="36" terMinH="36" terMaxH="100" />
 		<grass on="1" mtr="grass8g" clr="grClrJungle.png" dens="0.0181997" minSx="1.80207" maxSx="1.92518" minSy="2.01575" maxSy="2.39415" swayDistr="4" swayLen="0.2" swaySpeed="0.5" terMaxAng="30" terMinH="-200" terMaxH="200" />
 		<grass on="1" mtr="grass6s" clr="grClrJungle.png" dens="0.0269861" minSx="1.53682" maxSx="1.76769" minSy="1.47402" maxSy="1.78484" swayDistr="4" swayLen="0.2" swaySpeed="0.5" terMaxAng="30" terMinH="-200" terMaxH="200" />
 		<grass on="0" mtr="grass20" clr="grClrJungle.png" dens="0.143275" minSx="1.0868" maxSx="1.29403" minSy="1.18105" maxSy="1.47402" swayDistr="4" swayLen="0.2" swaySpeed="0.5" terMaxAng="30" terMinH="-200" terMaxH="200" />
