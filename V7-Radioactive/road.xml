@@ -3,7 +3,7 @@
 	<dim tcMul="0.15" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="2" widthSteps="6" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 4.76 12.6324" iDir="-1" iChk1="51" />
-	<stats length="3112.24" width="8.39674" height="39.6692" onTer="79.9342" pipes="37.1246" yaw="0" pitch="0" roll="0" />
+	<stats length="3106.69" width="8.39718" height="39.6692" onTer="79.983" pipes="37.0972" yaw="0" pitch="0" roll="0" />
 	<txt desc="A track with a shape of a radioactive-sign with a lot of barrels with radioactive stuff in them. Careful, slow down for the on-pipe turns." />
 	<P pos="276.457 23.4741 -114.578" w="11.048" onTer="0" a="0" ar="0" aT="2" pipe="1" />
 	<P pos="299.194 23.3755 -88.3755" w="11.112" onTer="0" a="0" ar="0" aT="2" pipe="1" />
@@ -44,10 +44,10 @@
 	<P pos="-251.052 24.2386 -162.804" w="10.0023" onTer="0" a="0" ar="0" aT="2" pipe="1" />
 	<P pos="-251.535 25.3965 -192.368" w="12.016" onTer="0" a="0" ar="0" aT="2" pipe="1" />
 	<P pos="-211.637 24.6018 -260.814" w="12.376" onTer="0" a="0" ar="0" aT="2" pipe="1" chkR="2.033" />
-	<P pos="-132.203 29.3108 -290.879" w="12.272" onTer="0" a="0" ar="0" aT="2" pipe="1" />
-	<P pos="-101.52 25.765 -288.117" w="9.864" onTer="0" a="0" ar="0" aT="2" pipe="1" />
-	<P pos="-85.2852 16.6379 -265.885" w="8.376" onTer="0" a="0" ar="0" aT="2" pipe="1" mtr="-1" />
-	<P pos="-89.5043 0 -274.136" w="7" a="0" ar="0" aT="2" chkR="1.48" />
+	<P pos="-132.203 23.0308 -290.879" w="12.272" onTer="0" a="0" ar="0" aT="2" pipe="1" />
+	<P pos="-101.52 22.605 -288.117" w="9.864" onTer="0" a="0" ar="0" aT="2" pipe="1" />
+	<P pos="-79.1211 16.6379 -256.814" w="8.376" onTer="0" a="0" ar="0" aT="2" pipe="1" mtr="-1" />
+	<P pos="-85.0901 0 -266.349" w="7" a="0" ar="0" aT="2" chkR="1.48" />
 	<P pos="-13.8026 0 -148.179" w="7" a="0" ar="0" aT="2" col="0" chkR="1" />
 	<P pos="33.3405 46.3788 -43.3254" w="7" onTer="0" a="0" ar="8.76" aT="2" col="0" />
 	<P pos="38.6218 49.078 -1.9601" w="7" onTer="0" a="0" ar="18.96" aT="2" col="0" />
