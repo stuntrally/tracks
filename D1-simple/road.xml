@@ -3,7 +3,7 @@
 	<dim tcMul="0.1" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="8" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 4.96 21.436" iDir="-1" iChk1="32" />
-	<stats length="2751.16" width="8.42651" height="15.1697" onTer="0" pipes="0" yaw="0" pitch="0" roll="0" />
+	<stats length="2751.16" width="8.42651" height="15.1697" onTer="0" pipes="0" bnkAvg="6.03617" bnkMax="24.5188" />
 	<txt desc="Simple and fast track on desert dunes with terrain jumps." />
 	<P pos="103.93 0 132.494" w="8.12" aT="2" />
 	<P pos="139.364 0 114.472" w="8.12" aT="2" chkR="1.776" />

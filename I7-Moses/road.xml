@@ -3,7 +3,7 @@
 	<dim tcMul="0.08" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="2" widthSteps="6" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 4.76 14.4364" iDir="-1" iChk1="7" />
-	<stats length="1475.12" width="6.6932" height="20.2892" onTer="5.26101" pipes="0" yaw="0" pitch="0" roll="0" />
+	<stats length="1475.12" width="6.6932" height="20.2892" onTer="5.26101" pipes="0" bnkAvg="6.72" bnkMax="17.9707" />
 	<txt desc="Track around medium-sized hilly island." />
 	<P pos="-43.9473 0 -96.9178" w="11.192" aT="2" />
 	<P pos="-9.95135 0 -112.909" w="6" aT="2" chkR="4.616" />

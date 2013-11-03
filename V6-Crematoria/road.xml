@@ -3,7 +3,7 @@
 	<dim tcMul="0.08" tcW="0.1" tcP="0.1" tcPW="0.3" tcC="0.1" lenDim="2" widthSteps="6" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="800" lodPntLen="60" />
 	<geom colN="4" colR="3" wsPm="4" lsPm="1" stBox="1 6.516 10.568" iDir="-1" iChk1="39" />
-	<stats length="9417.6" width="8.90607" height="181.982" onTer="90.0861" pipes="0" yaw="0" pitch="0" roll="0" />
+	<stats length="9417.6" width="8.90607" height="181.982" onTer="90.0861" pipes="0" bnkAvg="25.0069" bnkMax="78.8399" />
 	<txt desc="A long, twisted and difficult road near hot lava. With highly banked corners. Slow down in loops and turns to not damage car." />
 	<P pos="-192.084 51.0793 258.691" w="8.904" onTer="0" a="0" ar="13.92" aT="2" />
 	<P pos="-239.228 70.7927 214.494" w="11.728" onTer="0" a="0" ar="0.779991" aT="2" col="0" chkR="1" />

@@ -3,7 +3,7 @@
 	<dim tcMul="0.1" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="2" widthSteps="6" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 4.888 13.424" iDir="-1" iChk1="0" />
-	<stats length="3376.25" width="7.52725" height="50.3914" onTer="13.6498" pipes="0" yaw="0" pitch="0" roll="0" />
+	<stats length="3376.25" width="7.52725" height="50.3914" onTer="13.6498" pipes="0" bnkAvg="4.10168" bnkMax="22.9075" />
 	<txt desc="A track on wall and inside a small town. Curly and a bit bumpy." />
 	<P pos="261.655 0 -0.477192" w="7" a="0" ar="0" aT="2" col="0" chkR="1" />
 	<P pos="257.528 64.0253 49.1755" w="7" onTer="0" a="-11.16" ar="0" aT="2" col="0" />

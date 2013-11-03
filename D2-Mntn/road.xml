@@ -3,7 +3,7 @@
 	<dim tcMul="0.1" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="6" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5.62 12.444" iDir="-1" iChk1="46" />
-	<stats length="1656.49" width="6.19049" height="57.4953" onTer="18.7495" pipes="0" yaw="0" pitch="0" roll="0" />
+	<stats length="1656.49" width="6.19049" height="57.4953" onTer="18.7495" pipes="0" bnkAvg="2.60858" bnkMax="10.9688" />
 	<txt desc="Difficult mountain track with rocky road, bad for suspension." />
 	<P pos="44.9394 0 143.209" w="6" aT="2" chkR="1.66" />
 	<P pos="12.4846 0 173.467" w="6" aT="2" />

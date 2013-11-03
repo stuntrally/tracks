@@ -3,7 +3,7 @@
 	<dim tcMul="0.06" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="2.6" widthSteps="4" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="600" lodPntLen="100" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5 15.24" iDir="1" iChk1="99" />
-	<stats length="13843.9" width="9.64662" height="237.085" onTer="0" pipes="0" yaw="0" pitch="0" roll="0" />
+	<stats length="13843.9" width="9.64662" height="237.085" onTer="0" pipes="0" bnkAvg="3.57463" bnkMax="29.8505" />
 	<txt desc="Long, fast and partly winding track in Greece like scenery." />
 	<P pos="1021.21 0 431.85" w="9.536" aT="2" chkR="2.052" />
 	<P pos="987.234 0 311.74" w="9.536" aT="2" />

@@ -3,7 +3,7 @@
 	<dim tcMul="0.05" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="8" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
 	<geom colN="6" colR="3" wsPm="4" lsPm="1" stBox="1 5.296 15.512" iDir="-1" iChk1="28" />
-	<stats length="1119.8" width="11.8079" height="45.5938" onTer="97.0848" pipes="76.7844" yaw="0" pitch="0" roll="0" />
+	<stats length="1119.8" width="11.8079" height="45.5938" onTer="97.0849" pipes="76.7844" bnkAvg="1.#QNAN" bnkMax="50.1" />
 	<txt desc="Fast, curly, pipe road with rising in circular, glass, full pipe." />
 	<P pos="91.5179 3.37076 77.8725" w="14.04" onTer="0" a="0" ar="0" aT="1" pipe="1" mtr="1" chkR="2.148" />
 	<P pos="133.116 9.70879 67.482" w="15.72" onTer="0" a="0" ar="0" aT="2" pipe="1" mtr="3" />

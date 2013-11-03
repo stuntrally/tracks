@@ -3,7 +3,7 @@
 	<dim tcMul="0.12" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="6" heightOfs="0.06" />
 	<mrg skirtLen="0.1" skirtH="0.12" merge="1" mergeLen="600" lodPntLen="20" />
 	<geom colN="6" colR="1.1" wsPm="4" lsPm="1" stBox="1 10.032 18.148" iDir="1" iChk1="4" />
-	<stats length="1718.4" width="6.49464" height="73.7972" onTer="66.1376" pipes="21.9716" yaw="0" pitch="0" roll="0" />
+	<stats length="1718.4" width="6.49465" height="73.7972" onTer="66.1376" pipes="21.9716" bnkAvg="8.67364" bnkMax="31.2734" />
 	<txt desc="Very curly and cluttered road. Slow and banked partly in narrow pipe with 2 direction changes. Caution: don&apos;t fall off the U turns." />
 	<P pos="-2.73165 0 -28.6911" w="6" aT="2" />
 	<P pos="2.61657 0 -6.74504" w="6" aT="2" />

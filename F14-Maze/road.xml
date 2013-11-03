@@ -3,7 +3,7 @@
 	<dim tcMul="0.12" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="6" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="800" lodPntLen="30" />
 	<geom colN="8" colR="1.5" wsPm="4" lsPm="1" stBox="1 7.79601 18.148" iDir="-1" iChk1="234" />
-	<stats length="3301.3" width="6.54781" height="40.178" onTer="18.5263" pipes="8.84958" yaw="0" pitch="0" roll="0" />
+	<stats length="3301.3" width="6.54782" height="40.178" onTer="18.5263" pipes="8.84958" bnkAvg="4.73354" bnkMax="26.7715" />
 	<txt desc="Slow, difficult and extremely curly, winding track. Many turns on terrain, part in twisted pipe and bridge. For sharp U turns use handbrake." />
 	<P pos="27.1305 0 2.44544" w="6.48" aT="2" col="0" mtr="1" />
 	<P pos="41.0781 0 0.581268" w="6.48" aT="2" col="0" mtr="1" chkR="2" />

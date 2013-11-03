@@ -3,7 +3,7 @@
 	<dim tcMul="0.1" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="2" widthSteps="6" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="800" lodPntLen="120" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5.56 19.968" iDir="-1" iChk1="7" />
-	<stats length="1790.21" width="9.30085" height="62.3533" onTer="66.9082" pipes="0" yaw="0" pitch="0" roll="0" />
+	<stats length="1790.21" width="9.30085" height="62.3533" onTer="66.9082" pipes="0" bnkAvg="17.3411" bnkMax="26.58" />
 	<txt desc="Fast, banked, circullar road around a volcano crater." />
 	<P pos="56.7494 34.2443 34.6295" w="9.71201" onTer="0" a="0" ar="18.66" aT="2" />
 	<P pos="51.9543 33.0244 74.7272" w="9.71201" onTer="0" a="0" ar="18.9" aT="2" col="0" />

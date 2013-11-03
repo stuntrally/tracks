@@ -3,7 +3,7 @@
 	<dim tcMul="0.1" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="2" widthSteps="6" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="800" lodPntLen="120" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5.56 19.968" iDir="-1" iChk1="114" />
-	<stats length="5833.15" width="7.416" height="55.3883" onTer="14.841" pipes="0" yaw="0" pitch="0" roll="0" />
+	<stats length="5833.15" width="7.416" height="55.3883" onTer="14.841" pipes="0" bnkAvg="3.94143" bnkMax="26.0768" />
 	<txt desc="Dark terrain from volcanic rock with few islands in water." />
 	<P pos="173.456 0 -91.2777" w="7.416" aT="2" chkR="1.912" />
 	<P pos="174.384 0 -36.34" w="7.416" aT="2" />

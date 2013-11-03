@@ -3,7 +3,7 @@
 	<dim tcMul="0.1" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="8" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="160" lodPntLen="20" />
 	<geom colN="6" colR="3" wsPm="4" lsPm="1" stBox="1 18.356 23.424" iDir="-1" iChk1="3" />
-	<stats length="2007.47" width="12.4769" height="37.7451" onTer="100" pipes="100" onPipe="100" />
+	<stats length="2007.47" width="12.4769" height="37.7451" onTer="100" pipes="100" onPipe="100" bnkAvg="0" bnkMax="0" />
 	<txt desc="Whole track driven on pipe. Don&apos;t fall off! Use colors for hints: yellow is for turns, red is dangerous, and violet for side change (best to be on top), blue is fast." />
 	<P pos="-72.243 20.4775 50.8027" w="15.216" onTer="0" a="0" ar="0" aT="2" col="0" pipe="1" mtr="2" onP="1" />
 	<P pos="-93.7183 20.4775 52.476" w="15.984" onTer="0" a="0" ar="0" aT="2" col="0" pipe="1" mtr="2" chkR="2.0178" onP="1" />

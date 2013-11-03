@@ -3,7 +3,7 @@
 	<dim tcMul="0.1" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="8" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="160" lodPntLen="10" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 20.04 16.5761" iDir="-1" iChk1="67" />
-	<stats length="2817.31" width="10.3058" height="51.237" onTer="100" pipes="100" yaw="0" pitch="0" roll="0" />
+	<stats length="2817.31" width="10.3058" height="51.237" onTer="100" pipes="100" bnkAvg="0.508696" bnkMax="23.64" />
 	<txt desc="An all-pipe track, with various obstacles inside. Watch out for columns in orange sections." />
 	<P pos="-34.3423 11.7891 63.0386" w="10.256" onTer="0" a="0" ar="0" aT="2" pipe="1" mtr="1" />
 	<P pos="-2.54089 13.7866 52.6686" w="10.256" onTer="0" a="0" ar="0" aT="2" pipe="1" mtr="1" />

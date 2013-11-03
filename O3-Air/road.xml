@@ -3,7 +3,7 @@
 	<dim tcMul="0.06" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="2" widthSteps="6" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
 	<geom colN="4" colR="1" wsPm="4" lsPm="1" stBox="1 5.152 16.568" iDir="-1" iChk1="7" />
-	<stats length="1069.6" width="8.99913" height="38.9533" onTer="5.01097" pipes="0" yaw="0" pitch="0" roll="0" />
+	<stats length="1069.6" width="8.99913" height="38.9533" onTer="5.01097" pipes="0" bnkAvg="7.05968" bnkMax="24.9739" />
 	<txt desc="Simple, fast figure-8-track with a short jump. The jump can be taken with a speed of at least 92 km/h (57 mph) in either direction." />
 	<P pos="-163.73 0 -39.2106" w="9.0008" aT="2" chkR="1.656" />
 	<P pos="-189.503 0 -18.113" w="9.0024" aT="2" />

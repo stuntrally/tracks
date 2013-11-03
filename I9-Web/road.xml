@@ -3,7 +3,7 @@
 	<dim tcMul="0.05" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="2" widthSteps="6" heightOfs="0.06" />
 	<mrg skirtLen="0" skirtH="0.12" merge="1" mergeLen="1000" lodPntLen="20" />
 	<geom colN="8" colR="6" wsPm="4" lsPm="1" stBox="1 9.672 28.4404" iDir="1" iChk1="23" />
-	<stats length="13334.6" width="14.3021" height="128.254" onTer="92.1942" pipes="0" yaw="0" pitch="0" roll="0" />
+	<stats length="13334.6" width="14.3021" height="128.254" onTer="92.1942" pipes="0" bnkAvg="14.3379" bnkMax="84.96" />
 	<txt desc="Extremely long and banked road, levitating in air. Very fast but tricky. Has few jumps and over 70deg. banked turns in upper part. Quite difficult, so use Rewind after mistakes." />
 	<P pos="40.4699 0 4.36142" w="11.3264" a="0" ar="0" aT="2" col="0" chkR="1.1" />
 	<P pos="115.807 4.25806 -4.65991" w="10.4353" onTer="0" a="0" ar="-4.68" aT="2" col="0" />

@@ -3,7 +3,7 @@
 	<dim tcMul="0.1" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="8" heightOfs="0.1" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="180" lodPntLen="10" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5.532 18.32" iDir="-1" iChk1="35" />
-	<stats length="1299.51" width="10.7145" height="17.6169" onTer="0" pipes="0" yaw="0" pitch="0" roll="0" />
+	<stats length="1299.51" width="10.7145" height="17.6169" onTer="0" pipes="0" bnkAvg="4.66095" bnkMax="15.2477" />
 	<txt desc="Drive through desert sandstorm. Very low visibility 60m, and heavy dust wind, make it quite a challenge." />
 	<P pos="2.94509 0 95.1268" w="10.28" aT="2" />
 	<P pos="-34.017 0 128.557" w="10.28" aT="2" chkR="1.968" />

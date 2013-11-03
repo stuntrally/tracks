@@ -3,7 +3,7 @@
 	<dim tcMul="0.1" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="6" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="300" lodPntLen="20" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5.26 13.412" iDir="1" iChk1="12" />
-	<stats length="5803.93" width="7.21803" height="110.211" onTer="21.6762" pipes="0" yaw="0" pitch="0" roll="0" />
+	<stats length="5803.93" width="7.21803" height="110.211" onTer="21.6762" pipes="0" bnkAvg="11.59" bnkMax="55.2243" />
 	<txt desc="Long, fast road with bridges, few banked 180 turns, few terrain jumps, and bumpy 2 circles (mad eye)." />
 	<P pos="102.234 0 153.142" w="6.736" aT="2" chkR="1.576" />
 	<P pos="114.178 0 175.594" w="6.736" aT="2" />

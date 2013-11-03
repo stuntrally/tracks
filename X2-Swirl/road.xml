@@ -3,7 +3,7 @@
 	<dim tcMul="0.08" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="18" heightOfs="0.06" />
 	<mrg skirtLen="2" skirtH="0.12" merge="1" mergeLen="200" lodPntLen="10" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 6.616 23.66" iDir="1" iChk1="27" />
-	<stats length="3308.61" width="9.63733" height="186.705" onTer="55.3843" pipes="52.6111" yaw="0" pitch="0" roll="0" />
+	<stats length="3308.61" width="9.63733" height="186.705" onTer="55.3843" pipes="52.6111" bnkAvg="5.76639" bnkMax="40.9301" />
 	<txt desc="Another track from that mysterious planet. Few curly pipes and a triple loop, partly in water." />
 	<P pos="122.008 0 -89.0541" w="8.576" aT="2" col="0" />
 	<P pos="76.1711 0 -97.1664" w="8.576" a="253.44" ar="0" aT="1" col="0" mtr="1" />

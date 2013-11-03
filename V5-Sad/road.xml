@@ -3,7 +3,7 @@
 	<dim tcMul="0.1" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="2" widthSteps="6" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="800" lodPntLen="120" />
 	<geom colN="6" colR="2" wsPm="4" lsPm="1" stBox="1 5.56 19.968" iDir="-1" iChk1="4" />
-	<stats length="4327.26" width="7.29247" height="34.0249" onTer="17.1717" pipes="10.7185" yaw="0" pitch="0" roll="0" />
+	<stats length="4327.26" width="7.29247" height="34.0249" onTer="17.1717" pipes="10.7185" bnkAvg="4.08669" bnkMax="24.84" />
 	<txt desc="Long, muddy, slippery road. The wide curves allow for high speeds for the skilled drivers." />
 	<P pos="-320.001 0 -139.009" w="7" aT="2" />
 	<P pos="-277.164 0 -223.612" w="7" aT="2" />

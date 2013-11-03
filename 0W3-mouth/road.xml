@@ -3,7 +3,7 @@
 	<dim tcMul="0.06" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="8" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="200" lodPntLen="10" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5 16.456" iDir="-1" iChk1="29" />
-	<stats length="1384.87" width="9.62256" height="29.6648" onTer="0" pipes="0" yaw="0" pitch="0" roll="0" />
+	<stats length="1384.87" width="9.62256" height="29.6648" onTer="0" pipes="0" bnkAvg="18.3976" bnkMax="26.2556" />
 	<txt desc="Fast, winding and quite banked route." />
 	<P pos="-51.7743 0 250.794" w="10.672" aT="2" />
 	<P pos="-87.5234 0 248.726" w="10.672" aT="2" chkR="1.704" />

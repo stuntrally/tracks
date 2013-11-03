@@ -3,7 +3,7 @@
 	<dim tcMul="0.07" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="8" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 4.96 21.436" iDir="-1" iChk1="50" />
-	<stats length="2835.33" width="8.20531" height="32.3658" onTer="36.8053" pipes="0" yaw="0" pitch="0" roll="0" />
+	<stats length="2835.33" width="8.21134" height="32.3658" onTer="36.8053" pipes="0" bnkAvg="5.49075" bnkMax="43.56" />
 	<txt desc="Asphalt track on desert with jumps." />
 	<P pos="12.5514 0 267.409" w="8.12" aT="2" chkR="1.784" />
 	<P pos="-17.8165 0 188.767" w="8.12" a="0" ar="0" aT="2" />

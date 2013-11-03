@@ -3,7 +3,7 @@
 	<dim tcMul="0.05" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="2" widthSteps="6" heightOfs="0.06" />
 	<mrg skirtLen="0.4" skirtH="0.12" merge="1" mergeLen="400" lodPntLen="40" />
 	<geom colN="5" colR="2.5" wsPm="4" lsPm="1" stBox="1 4.824 20.748" iDir="-1" iChk1="13" />
-	<stats length="5328.53" width="13.4073" height="65.8931" onTer="38.3939" pipes="0" yaw="0" pitch="0" roll="0" />
+	<stats length="5328.53" width="13.4073" height="65.8931" onTer="38.3939" pipes="0" bnkAvg="4.85143" bnkMax="25.8185" />
 	<txt desc="Long winding road, both on terrain and between its tops with twisted bridges. Tricky at tops, slow down to not jump and fall out. Also with mysterious dark fog below." />
 	<P pos="-110.956 0 -98.9665" w="13.352" a="13.62" ar="0.0300001" aT="0" chkR="1.26" />
 	<P pos="-101.631 0 -63.843" w="13.352" a="10.98" ar="0" aT="0" col="0" />

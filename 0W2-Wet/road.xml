@@ -3,7 +3,7 @@
 	<dim tcMul="0.05" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1.5" widthSteps="6" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="800" lodPntLen="40" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5 19.168" iDir="-1" iChk1="53" />
-	<stats length="2610.98" width="9.32" height="22.6131" onTer="0" pipes="0" yaw="0" pitch="0" roll="0" />
+	<stats length="2610.98" width="9.32" height="22.6131" onTer="0" pipes="0" bnkAvg="7.2109" bnkMax="14.0646" />
 	<txt desc="Curly and fast with 2,5 circles." />
 	<P pos="30.8749 0 161.202" w="9.32" aT="2" />
 	<P pos="28.8478 0 227.306" w="9.32" aT="2" />

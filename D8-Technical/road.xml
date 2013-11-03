@@ -3,7 +3,7 @@
 	<dim tcMul="0.1" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="2" widthSteps="6" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5.356 10.5684" iDir="-1" iChk1="7" />
-	<stats length="4992.29" width="7.61403" height="25.7123" onTer="12.4418" pipes="0" yaw="0" pitch="0" roll="0" />
+	<stats length="4992.29" width="7.61403" height="25.7124" onTer="12.4418" pipes="0" bnkAvg="7.25605" bnkMax="45.2967" />
 	<txt desc="Very technical track with crossings, bridges, dips, and banked sharp turns.&#x0A;Big jump - at least 180 km/h (112 mph) and for reverse 190 km/h (118 mph)." />
 	<P pos="-326.956 0 74.5695" w="9.1512" a="0" ar="0" aT="0" />
 	<P pos="-327.593 0 152.229" w="8.0312" aT="2" />

@@ -3,7 +3,7 @@
 	<dim tcMul="0.1" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="6" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="300" lodPntLen="20" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5 11.176" iDir="1" iChk1="90" />
-	<stats length="1734.03" width="6.52253" height="44.1889" onTer="71.1431" pipes="0" yaw="0" pitch="0" roll="0" />
+	<stats length="1734.03" width="6.52253" height="44.1889" onTer="71.1431" pipes="0" bnkAvg="10.8609" bnkMax="88.2" />
 	<txt desc="Medium difficulty, stunt track, featuring: loop, double loop, side loop and skew, bridged, circular turns." />
 	<P pos="-92.4691 30.5373 -54.5915" w="8.58" onTer="0" a="165.18" ar="179.94" aT="0" chkR="1.128" />
 	<P pos="-97.2161 25.0878 -35.0715" w="8.4" onTer="0" a="165.18" ar="180" aT="0" col="0" />

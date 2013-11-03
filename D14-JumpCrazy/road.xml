@@ -3,7 +3,7 @@
 	<dim tcMul="0.1" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="2" widthSteps="6" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 6.056 19.18" iDir="-1" iChk1="0" />
-	<stats length="1646.48" width="11.4558" height="29.8013" onTer="53.132" pipes="0" yaw="0" pitch="0" roll="0" />
+	<stats length="1646.48" width="11.4558" height="29.8013" onTer="53.132" pipes="0" bnkAvg="4.35245" bnkMax="18.2396" />
 	<txt desc="A track where you jump over 4 pyramids. Aim at 120 km/h (76 mph) to jump over safely. Not drivable in reversed." />
 	<P pos="188.442 0 173.253" w="7.544" aT="2" chkR="1.848" />
 	<P pos="135.814 0 187.348" w="7.984" aT="2" chkR="1.856" />

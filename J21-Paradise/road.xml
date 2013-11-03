@@ -3,7 +3,7 @@
 	<dim tcMul="0.1" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="2" widthSteps="6" heightOfs="0.06" />
 	<mrg skirtLen="0" skirtH="0.03" merge="1" mergeLen="1200" lodPntLen="120" />
 	<geom colN="6" colR="2.5" wsPm="4" lsPm="1" stBox="1 5.516 18.22" iDir="-1" iChk1="61" />
-	<stats length="7330" width="9.06554" height="113.038" onTer="61.4971" pipes="0" yaw="0" pitch="0" roll="0" />
+	<stats length="7330" width="9.06554" height="113.038" onTer="61.4971" pipes="0" bnkAvg="3.02103" bnkMax="14.5693" />
 	<txt desc="Fast, long, easy road winding on sand and over bridges." />
 	<P pos="-161.383 0 278.979" w="8.272" aT="2" chkR="1.836" />
 	<P pos="-199.485 0 237.694" w="8.96" aT="2" />

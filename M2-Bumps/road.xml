@@ -3,7 +3,7 @@
 	<dim tcMul="0.12" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="6" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 7.2399 15.896" iDir="-1" iChk1="18" />
-	<stats length="1508.03" width="10.1304" height="49.3006" onTer="12.3925" pipes="0" yaw="0" pitch="0" roll="0" />
+	<stats length="1508.03" width="10.1304" height="49.3006" onTer="12.3925" pipes="0" bnkAvg="4.28763" bnkMax="17.7805" />
 	<txt desc="Difficult mud track with bumpy road and a big mountain at center." />
 	<P pos="91.7492 0 71.3416" w="10.1705" aT="2" />
 	<P pos="-6.5652 0 145.637" w="10.1705" aT="2" chkR="1.416" />

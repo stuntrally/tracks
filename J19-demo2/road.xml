@@ -3,7 +3,7 @@
 	<dim tcMul="0.1" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="2" widthSteps="6" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="800" lodPntLen="120" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5 21.8241" iDir="-1" iChk1="19" />
-	<stats length="1886.55" width="7.78706" height="78.121" onTer="35.7771" pipes="16.6658" yaw="0" pitch="0" roll="0" />
+	<stats length="1886.55" width="7.78706" height="78.121" onTer="35.7771" pipes="16.6658" bnkAvg="4.922" bnkMax="32.433" />
 	<txt desc="Tutorial track, with various road elements." />
 	<P pos="49.0202 0 -157.962" w="7.624" aT="2" />
 	<P pos="10.6353 0 -199.902" w="7.624" aT="2" chkR="1.988" />

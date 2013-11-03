@@ -3,7 +3,7 @@
 	<dim tcMul="0.06" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="2" widthSteps="6" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 11.976 24.116" iDir="-1" iChk1="62" />
-	<stats length="2239.68" width="8.47762" height="12.6395" onTer="0" pipes="0" yaw="0" pitch="0" roll="0" />
+	<stats length="2239.68" width="8.47763" height="12.6395" onTer="0" pipes="0" bnkAvg="3.58892" bnkMax="17.2766" />
 	<txt desc="A track around and inside an island. Bumpy at places." />
 	<P pos="53.3187 0 229.577" w="10.584" aT="2" />
 	<P pos="35.5185 0 226.363" w="11.664" aT="2" chkR="1.452" />

@@ -3,7 +3,7 @@
 	<dim tcMul="0.1" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="2" widthSteps="6" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="200" lodPntLen="10" />
 	<geom colN="4" colR="3" wsPm="4" lsPm="1" stBox="1 5.52 17.636" iDir="-1" iChk1="89" />
-	<stats length="4023.67" width="8.85233" height="27.8859" onTer="17.2023" pipes="0" yaw="0" pitch="0" roll="0" />
+	<stats length="4023.66" width="8.85233" height="27.8859" onTer="17.2023" pipes="0" bnkAvg="6.90824" bnkMax="41.9296" />
 	<txt desc="Long fast track with a lot of jumps." />
 	<P pos="15.1359 0 364.096" w="8.656" aT="2" />
 	<P pos="-28.1856 0 356.798" w="8.656" aT="2" chkR="1.86" />

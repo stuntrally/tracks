@@ -3,7 +3,7 @@
 	<dim tcMul="0.1" tcW="0.4" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="2" widthSteps="6" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="400" lodPntLen="40" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 4.824 15.096" iDir="-1" iChk1="133" />
-	<stats length="5470.31" width="8.83581" height="135.453" onTer="32.2495" pipes="0" yaw="0" pitch="0" roll="0" />
+	<stats length="5470.31" width="8.83581" height="135.453" onTer="32.2495" pipes="0" bnkAvg="2.60087" bnkMax="21.9" />
 	<txt desc="Long and wide road through canyon like landscape." />
 	<P pos="395.23 0 -251.102" w="8.488" aT="2" />
 	<P pos="430.963 0 -286.468" w="10.416" a="134.64" ar="0" aT="1" chkR="1.648" />

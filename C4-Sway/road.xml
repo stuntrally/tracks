@@ -3,7 +3,7 @@
 	<dim tcMul="0.1" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="8" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="160" lodPntLen="10" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 8.468 24.604" iDir="-1" iChk1="93" />
-	<stats length="5636.6" width="11.4314" height="113.423" onTer="3.56779" pipes="0" yaw="0" pitch="0" roll="0" />
+	<stats length="5636.6" width="11.4314" height="113.423" onTer="3.56779" pipes="0" bnkAvg="25.5605" bnkMax="60.4329" />
 	<txt desc="High hilly smooth terrain with road on slopes. Highly banked, fast and with jumps. Knowing where to land is crucial." />
 	<P pos="222.262 0 -258.195" w="10.176" aT="2" mtr="1" />
 	<P pos="154.309 0 -253.783" w="10.176" aT="2" />

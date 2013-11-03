@@ -3,7 +3,7 @@
 	<dim tcMul="0.1" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="8" heightOfs="0.1" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="320" lodPntLen="20" />
 	<geom colN="5" colR="1.8" wsPm="4" lsPm="1" stBox="1 5.08 15.64" iDir="-1" iChk1="54" />
-	<stats length="2728.95" width="6.2848" height="15.3139" onTer="0" pipes="0" yaw="0" pitch="0" roll="0" />
+	<stats length="2728.95" width="6.2848" height="15.3139" onTer="0" pipes="0" bnkAvg="4.53272" bnkMax="29.4139" />
 	<txt desc="Difficult, winding, bumpy road inside a muddy swamp with terrain jumps. Only for patient drivers." />
 	<P pos="-115.985 0 154.774" w="6.2848" aT="2" />
 	<P pos="-135.218 0 142.575" w="6.2848" aT="2" mtr="1" chkR="2.16" />

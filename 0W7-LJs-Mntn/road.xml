@@ -3,7 +3,7 @@
 	<dim tcMul="0.07" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="6" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="120" lodPntLen="15" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5.748 14.124" iDir="-1" iChk1="13" />
-	<stats length="1300.77" width="11.0313" height="4.20299" onTer="0" pipes="0" yaw="0" pitch="0" roll="0" />
+	<stats length="1300.77" width="11.0313" height="4.20299" onTer="0" pipes="0" bnkAvg="3.17379" bnkMax="12.3214" />
 	<txt desc="Short tricky mountain track in winter at dawn." />
 	<P pos="172.469 0 22.2822" w="13.5439" aT="2" />
 	<P pos="154.899 0 57.6474" w="15.6511" aT="2" chkR="1.588" />

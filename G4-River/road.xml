@@ -1,9 +1,9 @@
 <SplineRoad>
 	<mtr road="roadGDesert" pipe="pipeAsphalt" pipe2="pipeGlass" />
-	<dim tcMul="0.1" lenDim="2" widthSteps="6" heightOfs="0.06" />
+	<dim tcMul="0.1" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="2" widthSteps="6" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="800" lodPntLen="120" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5.56 16.608" iDir="-1" iChk1="22" />
-	<stats length="740.717" width="6" height="10.19935" onTer="7.98053" pipes="0" yaw="0" pitch="0" roll="0" />
+	<stats length="740.717" width="6" height="8.19935" onTer="7.98053" pipes="0" bnkAvg="9.5359" bnkMax="31.257" />
 	<txt desc="A small winding track near a river at dawn." />
 	<P pos="48.4503 0 40.6575" w="6" a="0" ar="0" aT="2" col="0" />
 	<P pos="40.0437 -0.117383 49.2789" w="6" onTer="0" a="0" ar="0" aT="2" col="0" chkR="1.428" />

@@ -3,7 +3,7 @@
 	<dim tcMul="0.05" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="8" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="200" lodPntLen="10" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 4.596 15.376" iDir="-1" iChk1="59" />
-	<stats length="2538.4" width="11.16" height="13.5551" onTer="0" pipes="0" yaw="0" pitch="0" roll="0" />
+	<stats length="2538.4" width="11.16" height="13.5551" onTer="0" pipes="0" bnkAvg="7.88917" bnkMax="23.4809" />
 	<txt desc="Round, curly and positively banked road with 4 circles." />
 	<P pos="181.365 0 -125.013" w="11.16" aT="2" />
 	<P pos="210.337 0 -108.87" w="11.16" aT="2" chkR="1.872" />

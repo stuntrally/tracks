@@ -3,7 +3,7 @@
 	<dim tcMul="0.12" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="6" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 4.972 17.372" iDir="-1" iChk1="1" />
-	<stats length="942.317" width="9.776" height="34.66" onTer="0" pipes="0" yaw="0" pitch="0" roll="0" />
+	<stats length="942.317" width="9.776" height="34.66" onTer="0" pipes="0" bnkAvg="11.7181" bnkMax="32.2543" />
 	<txt desc="Small track with hills and jumps - don&apos;t drive too fast." />
 	<P pos="-70.1568 0 -153.292" w="9.776" aT="2" chkR="1.808" />
 	<P pos="49.6094 0 -121.384" w="9.776" aT="2" chkR="1.388" />

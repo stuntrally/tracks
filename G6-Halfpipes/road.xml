@@ -3,7 +3,7 @@
 	<dim tcMul="0.1" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="2" widthSteps="6" heightOfs="0.06" />
 	<mrg skirtLen="0" skirtH="0.03" merge="1" mergeLen="1200" lodPntLen="120" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 6.136 24.812" iDir="-1" iChk1="14" />
-	<stats length="3643.79" width="10.1335" height="104.271" onTer="100" pipes="100" yaw="0" pitch="0" roll="0" />
+	<stats length="3643.79" width="10.1335" height="104.271" onTer="100" pipes="100" bnkAvg="21.8034" bnkMax="83.671" />
 	<txt desc="Track with an opened pipe, the track is partly heavy drilled." />
 	<P pos="-117.446 36.8048 120.141" w="9.136" onTer="0" a="0" ar="14.28" aT="2" col="0" pipe="0.468" mtr="3" />
 	<P pos="-161.907 40.2725 139.352" w="9.136" onTer="0" a="0" ar="0" aT="2" col="0" pipe="1" mtr="1" />

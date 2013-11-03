@@ -3,7 +3,7 @@
 	<dim tcMul="0.1" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="6" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="300" lodPntLen="20" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5 16.396" iDir="1" iChk1="6" />
-	<stats length="5909.14" width="7.2" height="50.7778" onTer="0" pipes="0" yaw="0" pitch="0" roll="0" />
+	<stats length="5909.14" width="7.2" height="50.7778" onTer="0" pipes="0" bnkAvg="8.37642" bnkMax="29.0856" />
 	<txt desc="Tricky, very long and winding road not for amateurs. Has few water and mud puddles, slight banked turns and bumps." />
 	<P pos="140.341 0 -238.316" w="7.2" aT="2" />
 	<P pos="146.122 0 -203.832" w="7.2" aT="2" />

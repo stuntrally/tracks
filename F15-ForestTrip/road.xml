@@ -3,7 +3,7 @@
 	<dim tcMul="0.1" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="2" widthSteps="6" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="800" lodPntLen="120" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5.212 15.74" iDir="-1" iChk1="4" />
-	<stats length="3520.82" width="8.17092" height="70.5409" onTer="9.19809" pipes="0" yaw="0" pitch="0" roll="0" />
+	<stats length="3520.82" width="8.17092" height="70.5409" onTer="9.19809" pipes="0" bnkAvg="2.54509" bnkMax="11.7837" />
 	<txt desc="A nice winding road through forest, with few bumps. Partly near water." />
 	<P pos="-237.057 0 -124.109" w="7.5" aT="2" />
 	<P pos="-221.935 0 -175.076" w="8.00714" a="0" ar="0" aT="2" />

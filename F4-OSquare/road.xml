@@ -3,7 +3,7 @@
 	<dim tcMul="0.1" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="8" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="220" lodPntLen="20" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5.976 17.584" iDir="-1" iChk1="60" />
-	<stats length="2567.6" width="8.4" height="47.9366" onTer="0" pipes="0" yaw="0" pitch="0" roll="0" />
+	<stats length="2567.6" width="8.4" height="47.9366" onTer="0" pipes="0" bnkAvg="3.76599" bnkMax="15.3852" />
 	<txt desc="Fast and easy forest road with 4 circles and few terrain bumps." />
 	<P pos="109.075 0 -50.6294" w="8.4" aT="2" />
 	<P pos="151.148 0 -53.6628" w="8.4" aT="2" chkR="1.544" />

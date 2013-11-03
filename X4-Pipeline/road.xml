@@ -3,7 +3,7 @@
 	<dim tcMul="0.1" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="2" widthSteps="12" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="600" lodPntLen="40" />
 	<geom colN="8" colR="4" wsPm="4" lsPm="1" stBox="1 14.2 36.3283" iDir="1" iChk1="5" />
-	<stats length="7888.7" width="11.6182" height="89.9379" onTer="53.689" pipes="69.8063" onPipe="5.26866" />
+	<stats length="7888.7" width="11.6182" height="89.9379" onTer="53.689" pipes="69.8063" onPipe="5.26866" bnkAvg="2.7113" bnkMax="52.9244" />
 	<txt desc="Difficult, long, winding track, made in remrants of pipeline installations. Few obstacles inside. Partly driven on pipe." />
 	<P pos="488.404 0 -79.9069" w="9.1368" aT="2" mtr="1" chkR="2.14" />
 	<P pos="456.935 0 -113.514" w="9.1368" aT="2" />

@@ -3,7 +3,7 @@
 	<dim tcMul="0.1" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="2" widthSteps="6" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="800" lodPntLen="120" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5 13.004" iDir="-1" iChk1="28" />
-	<stats length="1505.88" width="6.48" height="20.0598" onTer="0" pipes="0" yaw="0" pitch="0" roll="0" />
+	<stats length="1505.88" width="6.48" height="20.0598" onTer="0" pipes="0" bnkAvg="2.64334" bnkMax="10.3803" />
 	<txt desc="Short jungle track  with rain and dense fog. Caution: very slippery and close to road trees." />
 	<P pos="135.112 0 52.2406" w="6.48" aT="2" />
 	<P pos="101.9 0 77.0721" w="6.48" aT="2" chkR="2.736" />

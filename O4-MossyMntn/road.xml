@@ -3,7 +3,7 @@
 	<dim tcMul="0.06" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="2" widthSteps="6" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="300" lodPntLen="20" />
 	<geom colN="4" colR="2.4" wsPm="4" lsPm="1" stBox="1 5.248 16.904" iDir="-1" iChk1="57" />
-	<stats length="2740.75" width="8.10186" height="69.2933" onTer="24.5333" pipes="0" yaw="0" pitch="0" roll="0" />
+	<stats length="2740.75" width="8.04988" height="69.2933" onTer="24.5333" pipes="0" bnkAvg="5.25626" bnkMax="32.6933" />
 	<txt desc="Easy curly road in mossy mountains, many rocks and few trees. Going on bridges and banked turns." />
 	<P pos="-166.628 0 -138.656" w="8.472" aT="2" />
 	<P pos="-196.843 0 -153.022" w="8.472" aT="2" chkR="1.792" />

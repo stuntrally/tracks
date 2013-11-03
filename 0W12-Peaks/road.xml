@@ -3,7 +3,7 @@
 	<dim tcMul="0.05" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.1" lenDim="2" widthSteps="6" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
 	<geom colN="6" colR="7" wsPm="4" lsPm="1" stBox="1 6.64405 17.128" iDir="-1" iChk1="15" />
-	<stats length="1056.62" width="15.2405" height="49.7003" onTer="100" pipes="0" yaw="0" pitch="0" roll="0" />
+	<stats length="1056.62" width="15.2405" height="49.7003" onTer="100" pipes="0" bnkAvg="13.6499" bnkMax="35.049" />
 	<txt desc="This is a short, very broad track high in the foggy mountains. All curves are banked.  It is hard to fall off the track." />
 	<P pos="-58.3983 116.937 -122.514" w="14.9972" onTer="0" a="9" ar="-23.034" aT="2" mtr="1" />
 	<P pos="-86.9756 107.096 -129.699" w="15.016" onTer="0" a="-26.46" ar="-21.72" aT="2" mtr="1" chkR="1.208" />
