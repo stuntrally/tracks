@@ -3,7 +3,7 @@
 	<dim tcMul="0.08" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="2" widthSteps="6" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5.288 16.8084" iDir="-1" iChk1="55" />
-	<stats length="3477.53" width="7.16299" height="15.6838" onTer="18.2452" pipes="7.32573" bnkAvg="1.#QNAN" bnkMax="23.521" />
+	<stats length="3477.53" width="7.16299" height="15.6838" onTer="18.2452" pipes="7.32573" bnkAvg="2.24859" bnkMax="23.521" />
 	<txt desc="A track connecting few small islands. Includes drives through water." />
 	<P pos="-179.66 0 178.205" w="7.592" aT="2" pipe="1" mtr="1" />
 	<P pos="-205.437 0 191.242" w="7.592" aT="2" pipe="1" mtr="1" />
