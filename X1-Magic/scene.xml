@@ -7,7 +7,7 @@
 	<fluids>
 		<fluid name="grease jelly" pos="35.7994 -5.77838 -10.04" rot="0 0 0" size="292.682 20 205.448" tile="0.0011 0.0011" />
 	</fluids>
-	<terrain size="513" triangle="1" errNorm="1.7">
+	<terrain size="513" triangle="1" errNorm="1.70">
 		<texture on="1" file="volcano_7.png" fnorm="volcano_7_nh.png" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="0.2" smoke="0" tclr="0.22 0.2 0.4 0.9" angMin="0" angMax="28.1476" angSm="20" hMin="-300" hMax="300" hSm="20" noise="1.00671" nOnly="0" />
 		<texture on="1" file="ice_5.png" fnorm="ice_5_nh.png" scale="7.05223" surf="Default" dust="0" dustS="0.2" mud="0.2" smoke="0" tclr="0.32 0.31 0.5 0.9" angMin="28.9526" angMax="44.295" angSm="20" hMin="-300" hMax="300" hSm="20" noise="0.568228" nOnly="0" />
 		<texture on="0" file="volcano_7.png" fnorm="volcano_7_nh.png" scale="6.5701" surf="Default" dust="0" dustS="0.2" mud="0.2" smoke="0" tclr="0.2 0.2 0.4 1" angMin="40.2682" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" noise="0.317672" nOnly="0" />
@@ -24,13 +24,13 @@
 		<grass on="1" mtr="grassX10b" clr="grClrWinter.png" dens="0.0357463" minSx="2.35994" maxSx="2.56344" minSy="3.25004" maxSy="3.68739" swayDistr="4" swayLen="0.2" swaySpeed="0.5" terMaxAng="30" terMinH="-6" terMaxH="200" terHSm="2" />
 		<grass on="0" mtr="grassJungle" clr="grClrJungle.png" dens="0.0462495" minSx="0.6" maxSx="0.85" minSy="0.6" maxSy="0.9" swayDistr="4" swayLen="0.2" swaySpeed="0.5" terMaxAng="30" terMinH="-200" terMaxH="200" />
 		<grass on="0" mtr="grassJungle" clr="grClrJungle.png" dens="0.1" minSx="0.6" maxSx="0.85" minSy="0.6" maxSy="0.9" swayDistr="4" swayLen="0.2" swaySpeed="0.5" terMaxAng="30" terMinH="-200" terMaxH="200" />
-		<layer on="0" name="tree.07.mesh" dens="0.0499994" minScale="5.52963" maxScale="6" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0.299995" windFy="0.00399704" maxTerAng="50" minTerH="-6" maxTerH="100" maxDepth="0" />
-		<layer on="1" name="gum_tree.mesh" dens="0.124998" minScale="5.19345" maxScale="6" ofsY="0" addTrRdDist="3" maxRdist="100" windFx="0.699996" windFy="0.00999498" maxTerAng="50" minTerH="-6" maxTerH="100" maxDepth="0" />
+		<layer on="0" name="tree.07.mesh" dens="0.0499994" minScale="2.37459" maxScale="4" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0.299995" windFy="0.00399704" maxTerAng="50" minTerH="-6" maxTerH="100" maxDepth="0" />
+		<layer on="1" name="gum_tree.mesh" dens="0.0914529" minScale="1.74769" maxScale="2.39035" ofsY="0" addTrRdDist="3" maxRdist="100" windFx="0.699996" windFy="0.00999498" maxTerAng="50" minTerH="-6" maxTerH="100" maxDepth="0" />
 		<layer on="0" name="gum_tree.mesh" dens="0.0572335" minScale="0.180414" maxScale="0.296311" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0.599985" windFy="0.0099953" maxTerAng="50" minTerH="-5" maxTerH="100" maxDepth="0" />
 		<layer on="1" name="shroom1_3.mesh" dens="0.195229" minScale="2.05997" maxScale="3.98939" ofsY="0" addTrRdDist="8" maxRdist="100" windFx="7.29999" windFy="0.0599931" maxTerAng="18.1895" minTerH="-7" maxTerH="100" maxDepth="0" />
-		<layer on="1" name="shroom2_3.mesh" dens="0.195229" minScale="1.4278" maxScale="4.36421" ofsY="0" addTrRdDist="7" maxRdist="100" windFx="7.29999" windFy="0.0599931" maxTerAng="25.5579" minTerH="-7" maxTerH="100" maxDepth="0" />
-		<layer on="0" name="shroom1_2.mesh" dens="0.0406404" minScale="2.594" maxScale="4.80145" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-7" maxTerH="100" maxDepth="0" />
-		<layer on="1" name="shroom2_2.mesh" dens="0.0868842" minScale="3.80384" maxScale="5.30395" ofsY="0" addTrRdDist="6" maxRdist="100" windFx="0" windFy="0" maxTerAng="21.524" minTerH="-7" maxTerH="100" maxDepth="0" />
+		<layer on="1" name="shroom2_3.mesh" dens="0.195229" minScale="1.4278" maxScale="4" ofsY="0" addTrRdDist="7" maxRdist="100" windFx="7.29999" windFy="0.0599931" maxTerAng="25.5579" minTerH="-7" maxTerH="100" maxDepth="0" />
+		<layer on="0" name="shroom1_2.mesh" dens="0.0406404" minScale="2.594" maxScale="4" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-7" maxTerH="100" maxDepth="0" />
+		<layer on="1" name="shroom2_2.mesh" dens="0.0868842" minScale="3.61249" maxScale="4" ofsY="0" addTrRdDist="6" maxRdist="100" windFx="0" windFy="0" maxTerAng="21.524" minTerH="-7" maxTerH="100" maxDepth="0" />
 		<layer on="0" name="" dens="0.0999996" minScale="0.0999971" maxScale="0.249988" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="0" name="" dens="0.0999996" minScale="0.0999971" maxScale="0.249994" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
