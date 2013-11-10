@@ -1,6 +1,6 @@
 <scene>
 	<car tires="0" />
-	<sky material="sky/dayovercast" rainName="RainFine" rainEmit="1260" rain2Name="RainHeavy" rain2Emit="540" />
+	<sky material="sky/dayovercast" rainName="RainFast" rainEmit="2000" rain2Name="RainFastA" rain2Emit="2090" />
 	<fog color="0.72 0.82 0.89 1" color2="0.5 0.62 0.72 1" linStart="45" linEnd="871.2" />
 	<fogH color="0.73 0.86 1 1" height="-300" dens="100" linStart="0" linEnd="400" />
 	<light sceneryId="I10" pitch="38.2442" yaw="124.2" ambient="0.35 0.45 0.45" diffuse="0.55 0.55 0.55" specular="0.5 0.5 0.5" />
