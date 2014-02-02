@@ -1,10 +1,10 @@
 <SplineRoad>
-	<mtr road="roadSnow" wall="road_wall_Winter" pipeW="pipe_wall_JDark" col="road_col_Winter" />
+	<mtr road="roadSnow" road2="roadIce" wall="road_wall_Winter" pipeW="pipe_wall_JDark" col="road_col_Winter" />
 	<dim tcMul="0.0591973" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.1" lenDim="1" widthSteps="8" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
-	<geom colN="4" colR="5.15483" wsPm="4" lsPm="1" stBox="1 6.70405 16.576" iDir="-1" iChk1="28" />
-	<stats length="2657.34" width="9.81286" height="204.386" onTer="20.1533" pipes="0" bnkAvg="1.47642" bnkMax="7.06926" />
-	<txt desc="A track with a deep drop and jump on the snow. Landing safe, rather than flying far, is the key to success. Reverse direction impossible without boost." />
+	<geom colN="4" colR="5.15483" wsPm="4" lsPm="1" stBox="1 6.70405 16.576" iDir="-1" iChk1="29" />
+	<stats length="2678.18" width="9.8922" height="204.384" onTer="10.9235" pipes="0" bnkAvg="1.59522" bnkMax="7.06926" />
+	<txt desc="A track with a deep drop and jump on the snow. Landing safe, rather than flying far, is the key to success. Reverse direction very hard without boost." />
 	<P pos="282.541 0 -32.1852" w="7" aT="2" />
 	<P pos="294.636 0 -126.372" w="7" aT="2" chkR="1.5" />
 	<P pos="293.507 0 -181.077" w="7" aT="2" />
@@ -19,22 +19,22 @@
 	<P pos="-190.287 0 -292.895" w="15.192" aT="2" />
 	<P pos="-119.365 0 -294.751" w="19.9988" aT="2" />
 	<P pos="-83.869 0 -254.477" w="20.012" aT="2" chkR="1.388" />
-	<P pos="-78.9564 0 -162.892" w="20" a="0" ar="0" aT="2" />
-	<P pos="-78.1131 2.83408 -101.104" w="19.9956" onTer="0" a="0" ar="0" aT="2" />
-	<P pos="-77.9999 39.7749 -40.1365" w="19.9956" onTer="0" a="1.029" ar="0.66" aT="2" />
-	<P pos="-78.4634 75.5037 9.50541" w="20.004" onTer="0" a="2.43899" ar="-0.779992" aT="2" />
-	<P pos="-78.3599 97.841 45.0937" w="20" onTer="0" a="-1.14599" ar="-0.0599877" aT="2" mtr="-1" />
-	<P pos="-77.5068 105.678 68.0288" w="20.012" onTer="0" a="-4.41002" ar="0" aT="2" mtr="-1" />
+	<P pos="-78.9564 0 -162.892" w="20" aT="2" />
+	<P pos="-78.1131 0 -101.104" w="19.9956" aT="2" mtr="1" />
+	<P pos="-77.9999 0 -40.1365" w="19.9956" aT="2" mtr="1" />
+	<P pos="-78.4634 0 9.50541" w="20.004" aT="2" mtr="1" />
+	<P pos="-78.3599 0 45.0937" w="20" aT="2" mtr="-1" />
+	<P pos="-77.5068 0 68.0288" w="20.012" a="-4.41002" ar="0" aT="2" mtr="-1" />
 	<P pos="-78.9762 122.479 71.2211" w="19.9952" onTer="0" a="4.149" ar="0" aT="2" mtr="-1" />
 	<P pos="-80.0293 108.012 100.538" w="7" onTer="0" a="4.83" ar="0.0300008" aT="2" mtr="-1" />
-	<P pos="-80.1775 105.727 105.201" w="7" onTer="0" a="0" ar="0" aT="2" chkR="1" />
+	<P pos="-80.1775 105.727 105.201" w="7" onTer="0" a="0" ar="0" aT="2" />
 	<P pos="-80.4118 103.515 113.305" w="7" onTer="0" a="-3.12" ar="0" aT="2" col="0" />
 	<P pos="-80.5358 103.484 121.51" w="7" onTer="0" a="2.577" ar="0" aT="2" col="0" />
 	<P pos="-80.6308 107.715 130.066" w="7" onTer="0" a="0.987" ar="0" aT="2" col="0" />
 	<P pos="-80.3936 121.027 142.976" w="7" onTer="0" a="-1.011" ar="0" aT="2" />
 	<P pos="-80.2003 159.664 174.499" w="7" onTer="0" a="-0.402" ar="0" aT="2" col="0" />
-	<P pos="-80.254 182.873 201.06" w="7" onTer="0" a="1.455" ar="0" aT="2" col="0" chkR="1" />
-	<P pos="-79.828 191.572 218.371" w="7" onTer="0" a="0" ar="0" aT="2" col="0" />
+	<P pos="-80.254 182.873 201.06" w="7" onTer="0" a="1.455" ar="0" aT="2" col="0" />
+	<P pos="-79.828 191.572 218.371" w="7" onTer="0" a="0" ar="0" aT="2" col="0" chkR="1" />
 	<P pos="-79.8173 193.468 237.245" w="7" onTer="0" a="5" ar="0" aT="2" col="0" />
 	<P pos="-79.8635 193.125 257.965" w="7" onTer="0" a="-1.698" ar="0" aT="2" />
 	<P pos="-78.988 0 285.59" w="7.416" a="0" ar="0" aT="2" />
