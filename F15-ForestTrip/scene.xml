@@ -7,13 +7,25 @@
 	<fluids>
 		<fluid name="water blue" pos="-34.2514 -3.8313 -223.601" rot="0 0 0" size="1001.02 20 428.195" tile="0.00686782 0.00686782" />
 	</fluids>
-	<terrain size="513" triangle="1.6" errNorm="15">
-		<texture on="1" file="jungle_0.png" fnorm="jungle_0_nh.png" scale="5.87196" surf="GrassForest" dust="0" dustS="0.2" mud="0.2" smoke="0" tclr="0.3 0.2 0.1 0.7" angMin="0" angMax="32.5227" angSm="20" hMin="-1.3638" hMax="300" hSm="20" noise="0.51818" nOnly="0" />
-		<texture on="1" file="jungle_1.png" fnorm="jungle_1_nh.png" scale="6.60567" surf="GrassForest" dust="0" dustS="0.2" mud="0.2" smoke="0" tclr="0.4 0.3 0.2 0.6" angMin="25.7727" angMax="55.4316" angSm="20" hMin="-1.3638" hMax="300" hSm="20" noise="0.263636" nOnly="0" />
-		<texture on="1" file="jungle_5.png" fnorm="jungle_5_nh.png" scale="11" surf="Rocks" dust="0" dustS="0" mud="0.2" smoke="0" tclr="0.32 0.32 0.32 0.4" angMin="53.3862" angMax="90" angSm="18" hMin="0" hMax="300" hSm="20" noise="0.73636" nOnly="0" />
-		<texture on="1" file="sand_4.png" fnorm="sand_4_nh.png" scale="10.5" surf="GrassForest" dust="0" dustS="0.2" mud="0" smoke="0" tclr="0.48 0.3 0.2 0.6" angMin="0" angMax="90" angSm="52.5681" hMin="-177.274" hMax="-5.45459" hSm="5" noise="0.163636" nOnly="0" />
-		<texture on="0" file="jungle_0.png" fnorm="jungle_0_nh.png" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" noise="1" nOnly="0" />
-		<texture on="0" file="jungle_0.png" fnorm="jungle_0_nh.png" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" noise="1" nOnly="0" />
+	<terrain size="513" triangle="1.6" errNorm="15.00">
+		<texture on="1" file="sand_4.png" fnorm="sand_4_nh.png" scale="10.5" surf="GrassForest" dust="0" dustS="0.2" mud="0" smoke="0" tclr="0.48 0.3 0.2 0.6" angMin="0" angMax="90" angSm="19.3442" hMin="-177.274" hMax="-3.88128" hSm="8.73197" nOn="0" noise="0.998652" n_1="0" n2="0">
+			<noise frq0="7.78908" oct0="5" prs0="0.7" pow0="3.61261" frq1="37.5" oct1="3" prs1="0.4" pow1="1.2" />
+		</texture>
+		<texture on="1" file="jungle_0.png" fnorm="jungle_0_nh.png" scale="5.87196" surf="GrassForest" dust="0" dustS="0.2" mud="0.2" smoke="0" tclr="0.3 0.2 0.1 0.7" angMin="0" angMax="25.7143" angSm="11.3931" hMin="0.684929" hMax="300" hSm="2.8324" nOn="0" noise="1.02291" n_1="0" n2="1.00674">
+			<noise frq0="13.385" oct0="3" prs0="0.3" pow0="2.0372" frq1="8.3284" oct1="3" prs1="0.568493" pow1="4.42307" />
+		</texture>
+		<texture on="1" file="jungle_1.png" fnorm="jungle_1_nh.png" scale="6.60567" surf="GrassForest" dust="0" dustS="0.2" mud="0.2" smoke="0" tclr="0.4 0.3 0.2 0.6" angMin="29.2368" angMax="53.0137" angSm="11.9169" hMin="2.51142" hMax="300" hSm="2.09711" nOn="0" noise="0" n_1="0" n2="0">
+			<noise frq0="26.2" oct0="3" prs0="0.3" pow0="1.5" frq1="31.5" oct1="3" prs1="0.4" pow1="1.2" />
+		</texture>
+		<texture on="1" file="jungle_5.png" fnorm="jungle_5_nh.png" scale="20.8542" surf="Rocks" dust="0" dustS="0" mud="0.2" smoke="0" tclr="0.32 0.32 0.32 0.4" angMin="53.3862" angMax="90" angSm="18" hMin="1.59817" hMax="300" hSm="4.46689" nOn="0" triplanar="1" noise="0.73636" n_1="0" n2="0">
+			<noise frq0="30.2" oct0="3" prs0="0.3" pow0="1.5" frq1="34.5" oct1="3" prs1="0.4" pow1="1.2" />
+		</texture>
+		<texture on="0" file="jungle_0.png" fnorm="jungle_0_nh.png" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
+			<noise frq0="38.2" oct0="3" prs0="0.3" pow0="1.5" frq1="40.5" oct1="3" prs1="0.4" pow1="1.2" />
+		</texture>
+		<texture on="0" file="jungle_0.png" fnorm="jungle_0_nh.png" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
+			<noise frq0="42.2" oct0="3" prs0="0.3" pow0="1.5" frq1="43.5" oct1="3" prs1="0.4" pow1="1.2" />
+		</texture>
 		<texture road="1" surf="roadGravel" dust="0" dustS="0.4" mud="0" smoke="0" tclr="0.6 0.6 0.4 0.5" />
 		<par dust="Dust" mud="Mud" smoke="Smoke" />
 	</terrain>
