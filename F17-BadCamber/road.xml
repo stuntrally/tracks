@@ -3,7 +3,7 @@
 	<dim tcMul="0.1" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.1" lenDim="1" widthSteps="6" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="600" lodPntLen="40" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 6.70405 16.576" iDir="-1" iChk1="28" />
-	<stats length="1028.59" width="7.29439" height="26.9455" onTer="0" pipes="0" bnkAvg="14.8332" bnkMax="28.4887" />
+	<stats length="1028.6" width="7.68368" height="27.1717" onTer="0" pipes="0" bnkAvg="15.0021" bnkMax="28.4887" />
 	<txt desc="A track with long curves which have been tilted away from the curve, making it very annoying to drive. Avoid spinning wheels and keep on inside of corners." />
 	<P pos="103.826 0 -52.9181" w="7.888" aT="2" />
 	<P pos="120.123 0 -58.8057" w="8.36" aT="2" />
