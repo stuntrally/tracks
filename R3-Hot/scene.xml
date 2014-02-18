@@ -2,16 +2,28 @@
 	<car tires="0" />
 	<sky material="sky/duskred" />
 	<fog color="1 0.05 0 0.3" color2="1 0 0 0.4" linStart="112.812" linEnd="315.02" />
-	<fogH color="0.15 0.01 0 0.55" height="-63.75" dens="3.78125" linStart="16.4258" linEnd="90.3125" />
-	<light sceneryId="R1" pitch="64.9688" yaw="29.25" ambient="0.24 0.12 0.024" diffuse="0.57 0.17 0.15" specular="0.6 0.57 0.57" />
+	<fogH color="2 1 0 1" height="108.772" dens="200" linStart="0" linEnd="99.5094" />
+	<light sceneryId="R3" pitch="64.9688" yaw="29.25" ambient="0.4 0.12 0.024" diffuse="1 0.17 0.15" specular="1 0.4 0" />
 	<fluids />
 	<terrain size="513" triangle="0.922457" errNorm="12.00">
-		<texture on="1" file="adesert_0.png" fnorm="adesert_0_nh.png" scale="11.2124" surf="DesertFast" dust="0.5" dustS="1" mud="0.7" smoke="0" tclr="0.25 0.1 0.08 0.8" angMin="0" angMax="22.349" angSm="20.7383" hMin="-300" hMax="300" hSm="20" noise="0.102908" nOnly="0" />
-		<texture on="1" file="volcano_7.png" fnorm="volcano_7_nh.png" scale="14.7868" surf="DesertFast" dust="0.5" dustS="1" mud="0.7" smoke="0" tclr="0.22 0.09 0.07 0.8" angMin="20.6557" angMax="79.6721" angSm="53.8525" hMin="-300" hMax="300" hSm="20" noise="0.622951" nOnly="0" triplanar="1" />
-		<texture on="1" file="adesert_3.png" fnorm="adesert_3_nh.png" scale="26" surf="DesertFast" dust="0.5" dustS="0.5" mud="1" smoke="0" tclr="0.2 0.08 0.03 0.8" angMin="45.1006" angMax="78.1967" angSm="23.6066" hMin="-122.819" hMax="300" hSm="54.6448" noise="-1.21311" nOnly="0" />
-		<texture on="1" file="lava_mars.png" fnorm="lava_nh.png" scale="32" surf="Rocks" dust="0.3" dustS="1" mud="0.8" smoke="0" tclr="0.15 0.06 0.03 0.9" angMin="63.4426" angMax="90" angSm="23.3607" hMin="-173.154" hMax="111.745" hSm="53.5519" noise="-0.382514" nOnly="0" triplanar="1" />
-		<texture on="0" file="volcano_7.png" fnorm="volcano_7_nh.png" scale="10.4" surf="Default" dust="0.5" dustS="1" mud="0.5" smoke="0" tclr="0.2 0.1 0.08 0.8" angMin="0" angMax="90" angSm="23.6066" hMin="-258.725" hMax="148.993" hSm="20" noise="1" nOnly="1" />
-		<texture on="0" file="jungle_0.png" fnorm="jungle_0_nh.png" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" noise="1" nOnly="1" />
+		<texture on="1" file="adesert_0.png" fnorm="adesert_0_nh.png" scale="11.2124" surf="DesertFast" dust="0.5" dustS="1" mud="0.7" smoke="0" tclr="0.25 0.1 0.08 0.8" angMin="0" angMax="18.317" angSm="5.06361" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
+			<noise frq0="24.5701" oct0="3" prs0="0.188388" pow0="1.06544" frq1="28.5" oct1="3" prs1="0.4" pow1="1.2" />
+		</texture>
+		<texture on="1" file="volcano_7.png" fnorm="volcano_7_nh.png" scale="14.7868" surf="DesertFast" dust="0.5" dustS="1" mud="0.7" smoke="0" tclr="0.22 0.09 0.07 0.8" angMin="23.2485" angMax="42.9746" angSm="5.90122" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
+			<noise frq0="26.2" oct0="3" prs0="0.3" pow0="1.5" frq1="31.5" oct1="3" prs1="0.4" pow1="1.2" />
+		</texture>
+		<texture on="1" file="adesert_3.png" fnorm="adesert_3_nh.png" scale="26" surf="DesertFast" dust="0.5" dustS="0.5" mud="1" smoke="0" tclr="0.2 0.08 0.03 0.8" angMin="44.7358" angMax="61.82" angSm="9.89247" hMin="-122.819" hMax="300" hSm="54.6448" nOn="0" noise="0" n_1="1" n2="0">
+			<noise frq0="30.2" oct0="3" prs0="0.3" pow0="1.5" frq1="34.5" oct1="3" prs1="0.4" pow1="1.2" />
+		</texture>
+		<texture on="1" file="lava_mars.png" fnorm="lava_nh.png" scale="32" surf="Rocks" dust="0.3" dustS="1" mud="0.8" smoke="0" tclr="0.15 0.06 0.03 0.9" angMin="64.638" angMax="90" angSm="23.6049" hMin="-173.154" hMax="111.745" hSm="53.5519" nOn="0" triplanar="1" noise="-0.382514" n_1="0" n2="0">
+			<noise frq0="34.2" oct0="3" prs0="0.3" pow0="1.5" frq1="37.5" oct1="3" prs1="0.4" pow1="1.2" />
+		</texture>
+		<texture on="0" file="volcano_7.png" fnorm="volcano_7_nh.png" scale="10.4" surf="Default" dust="0.5" dustS="1" mud="0.5" smoke="0" tclr="0.2 0.1 0.08 0.8" angMin="0" angMax="90" angSm="23.6066" hMin="-258.725" hMax="148.993" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
+			<noise frq0="38.2" oct0="3" prs0="0.3" pow0="1.5" frq1="40.5" oct1="3" prs1="0.4" pow1="1.2" />
+		</texture>
+		<texture on="0" file="jungle_0.png" fnorm="jungle_0_nh.png" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
+			<noise frq0="42.2" oct0="3" prs0="0.3" pow0="1.5" frq1="43.5" oct1="3" prs1="0.4" pow1="1.2" />
+		</texture>
 		<texture road="1" surf="roadAdesert" dust="0.5" dustS="0.5" mud="0.7" smoke="0" tclr="0.25 0.1 0.05 0.8" />
 		<par dust="MarsDust" mud="MarsMud" smoke="Smoke" />
 	</terrain>
@@ -33,6 +45,6 @@
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 	</paged>
-	<cam pos="158.094 51.8791 60.8335" dir="-0.978845 -0.169618 0.114423" />
+	<cam pos="158.093 51.879 60.8249" dir="-0.978845 -0.169618 0.114423" />
 	<objects />
 </scene>

@@ -6,12 +6,24 @@
 	<light sceneryId="W1" pitch="48.5266" yaw="45" ambient="0.45 0.45 0.45" diffuse="0.6 0.6 0.6" specular="0.5 0.5 0.5" />
 	<fluids />
 	<terrain size="513" triangle="1.64009" errNorm="10.00">
-		<texture on="1" file="snow_1.png" fnorm="ice_0_nh.png" scale="6.5" surf="SnowMedium" dust="1" dustS="0.8" mud="1" smoke="0" tclr="0.4 0.4 0.4 0.6" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" noise="1" nOnly="1" />
-		<texture on="1" file="ice_0w.png" fnorm="ice_0_nh.png" scale="9.5" surf="SnowMedium" dust="1" dustS="0.8" mud="1" smoke="0" tclr="0.4 0.4 0.4 0.6" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" noise="1" nOnly="1" />
-		<texture on="1" file="ice_7.png" fnorm="ice_7_nh.png" scale="7.5" surf="SnowMedium" dust="1" dustS="0.8" mud="1" smoke="0" tclr="0.4 0.4 0.4 0.6" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" noise="0.885965" nOnly="0" />
-		<texture on="1" file="snow_rocky.png" fnorm="snow_rocky_nh.png" scale="51" surf="SnowDeep" dust="0" dustS="0.8" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="33.5526" angMax="90" angSm="7.89474" hMin="-300" hMax="300" hSm="20" noise="1" nOnly="0" triplanar="1" />
-		<texture on="0" file="jungle_0.png" fnorm="jungle_0_nh.png" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" noise="1" nOnly="1" />
-		<texture on="0" file="jungle_0.png" fnorm="jungle_0_nh.png" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" noise="1" nOnly="1" />
+		<texture on="1" file="snow_1.png" fnorm="ice_0_nh.png" scale="6.5" surf="SnowMedium" dust="1" dustS="0.8" mud="1" smoke="0" tclr="0.4 0.4 0.4 0.6" angMin="0" angMax="20.9589" angSm="6.93696" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0.370656">
+			<noise frq0="15.1083" oct0="3" prs0="0.3" pow0="1.5" frq1="17.4889" oct1="3" prs1="0.4" pow1="4.88428" />
+		</texture>
+		<texture on="1" file="ice_0w.png" fnorm="ice_0_nh.png" scale="9.5" surf="SnowMedium" dust="1" dustS="0.8" mud="1" smoke="0" tclr="0.4 0.4 0.4 0.6" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="1" noise="0" n_1="0" n2="0">
+			<noise frq0="22.1791" oct0="3" prs0="0.3" pow0="1.5" frq1="31.5" oct1="3" prs1="0.4" pow1="1.2" />
+		</texture>
+		<texture on="1" file="ice_7.png" fnorm="ice_7_nh.png" scale="8.90945" surf="SnowMedium" dust="1" dustS="0.8" mud="1" smoke="0" tclr="0.4 0.4 0.4 0.6" angMin="25.7143" angMax="33.816" angSm="11.3931" hMin="-300" hMax="71.4612" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
+			<noise frq0="30.2" oct0="3" prs0="0.3" pow0="1.5" frq1="34.5" oct1="3" prs1="0.4" pow1="1.2" />
+		</texture>
+		<texture on="1" file="snow_rocky.png" fnorm="snow_rocky_nh.png" scale="51" surf="SnowDeep" dust="0" dustS="0.8" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="38.9237" angMax="90" angSm="12.6335" hMin="-300" hMax="300" hSm="20" nOn="0" triplanar="1" noise="1" n_1="0" n2="0">
+			<noise frq0="34.2" oct0="3" prs0="0.3" pow0="1.5" frq1="37.5" oct1="3" prs1="0.4" pow1="1.2" />
+		</texture>
+		<texture on="0" file="jungle_0.png" fnorm="jungle_0_nh.png" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
+			<noise frq0="38.2" oct0="3" prs0="0.3" pow0="1.5" frq1="40.5" oct1="3" prs1="0.4" pow1="1.2" />
+		</texture>
+		<texture on="0" file="jungle_0.png" fnorm="jungle_0_nh.png" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
+			<noise frq0="42.2" oct0="3" prs0="0.3" pow0="1.5" frq1="43.5" oct1="3" prs1="0.4" pow1="1.2" />
+		</texture>
 		<texture road="1" surf="roadSnow" dust="0.5" dustS="0.8" mud="1" smoke="0" tclr="0.6 0.6 0.6 0.6" />
 		<par dust="SnowDust" mud="SnowMud" smoke="Smoke" />
 	</terrain>

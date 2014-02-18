@@ -6,12 +6,24 @@
 	<light sceneryId="C5" pitch="55.9688" yaw="-3.375" ambient="0.5 0.5 0.4" diffuse="0.55 0.53 0.47" specular="0.34 0.3 0.27" />
 	<fluids />
 	<terrain size="513" triangle="0.903331" errNorm="1.70">
-		<texture on="0" file="desert_6o.png" fnorm="desert_6_nh.png" scale="9.13441" surf="DesertFast" dust="0.5" dustS="0.5" mud="0" smoke="0" tclr="0.4 0.2 0.2 0.5" angMin="0" angMax="23.2895" angSm="18.1181" hMin="-300" hMax="300" hSm="20" noise="0.102908" nOnly="0" />
-		<texture on="1" file="adesert_0.png" fnorm="adesert_0_nh.png" scale="10.7103" surf="DesertFast" dust="0.4" dustS="0.8" mud="0" smoke="0" tclr="0.4 0.3 0.2 0.5" angMin="25.6579" angMax="42.6316" angSm="17.5658" hMin="-300" hMax="300" hSm="20" noise="0.147648" nOnly="0" />
-		<texture on="1" file="desert_4.png" fnorm="desert_4_nh.png" scale="23.8162" surf="DesertBumpy" dust="0" dustS="0.8" mud="0.5" smoke="0" tclr="0.2 0.1 0.1 0.5" angMin="42.8289" angMax="57.0395" angSm="14.4079" hMin="-300" hMax="300" hSm="20" noise="0.156596" nOnly="0" triplanar="1" />
-		<texture on="1" file="volcano_7.png" fnorm="volcano_7_nh.png" scale="15.4453" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="62.9605" angMax="89.8026" angSm="12.6316" hMin="-300" hMax="187.248" hSm="14.4737" noise="0.031316" nOnly="0" triplanar="1" />
-		<texture on="0" file="ice_6.png" fnorm="ice_6_nh.png" scale="10.7591" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="42.5381" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" noise="-0.228188" nOnly="0" />
-		<texture on="0" file="ice_7.png" fnorm="ice_7_nh.png" scale="21" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="0" angMax="15.5578" angSm="20" hMin="-300" hMax="300" hSm="20" noise="1" nOnly="1" />
+		<texture on="0" file="desert_6o.png" fnorm="desert_6_nh.png" scale="9.13441" surf="DesertFast" dust="0.5" dustS="0.5" mud="0" smoke="0" tclr="0.4 0.2 0.2 0.5" angMin="0" angMax="19.726" angSm="14.3225" hMin="-300" hMax="300" hSm="20" nOn="0" noise="0.102908" n_1="0" n2="0">
+			<noise frq0="22.2" oct0="3" prs0="0.3" pow0="1.5" frq1="28.5" oct1="3" prs1="0.4" pow1="1.2" />
+		</texture>
+		<texture on="1" file="adesert_0.png" fnorm="adesert_0_nh.png" scale="10.7103" surf="DesertFast" dust="0.4" dustS="0.8" mud="0" smoke="0" tclr="0.4 0.3 0.2 0.5" angMin="0" angMax="39.6282" angSm="11.9169" hMin="-300" hMax="300" hSm="20" nOn="0" noise="0.147648" n_1="0" n2="0">
+			<noise frq0="26.2" oct0="3" prs0="0.3" pow0="1.5" frq1="31.5" oct1="3" prs1="0.4" pow1="1.2" />
+		</texture>
+		<texture on="1" file="desert_4.png" fnorm="desert_4_nh.png" scale="23.8162" surf="DesertBumpy" dust="0" dustS="0.8" mud="0.5" smoke="0" tclr="0.2 0.1 0.1 0.5" angMin="42.8289" angMax="57.0395" angSm="12.4524" hMin="-300" hMax="300" hSm="20" nOn="0" triplanar="1" noise="0" n_1="0" n2="0">
+			<noise frq0="30.2" oct0="3" prs0="0.525049" pow0="5.17248" frq1="34.5" oct1="3" prs1="0.4" pow1="1.2" />
+		</texture>
+		<texture on="1" file="volcano_7.png" fnorm="volcano_7_nh.png" scale="15.4453" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="62.9605" angMax="89.8026" angSm="12.4524" hMin="-300" hMax="187.248" hSm="14.4737" nOn="0" triplanar="1" noise="0.031316" n_1="1" n2="0">
+			<noise frq0="34.2" oct0="3" prs0="0.3" pow0="1.5" frq1="37.5" oct1="3" prs1="0.4" pow1="1.2" />
+		</texture>
+		<texture on="0" file="ice_6.png" fnorm="ice_6_nh.png" scale="10.7591" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="42.5381" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="-0.228188" n_1="0" n2="0">
+			<noise frq0="38.2" oct0="3" prs0="0.3" pow0="1.5" frq1="40.5" oct1="3" prs1="0.4" pow1="1.2" />
+		</texture>
+		<texture on="0" file="ice_7.png" fnorm="ice_7_nh.png" scale="21" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="0" angMax="15.5578" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
+			<noise frq0="42.2" oct0="3" prs0="0.3" pow0="1.5" frq1="43.5" oct1="3" prs1="0.4" pow1="1.2" />
+		</texture>
 		<texture road="1" surf="roadForest" dust="0" dustS="0.2" mud="0" smoke="0" tclr="0.3 0.2 0.1 0.7" />
 		<par dust="Adust" mud="Mud" smoke="Smoke" />
 	</terrain>
