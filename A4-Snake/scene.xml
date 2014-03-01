@@ -6,16 +6,16 @@
 	<light sceneryId="A1" pitch="37.985" yaw="38.6597" ambient="0.57 0.57 0.57" diffuse="0.9 0.9 0.88" specular="0.99 0.99 0.97" />
 	<fluids />
 	<terrain size="513" triangle="2.1016" errNorm="1.70">
-		<texture on="1" file="adesert_sand2_d.png" fnorm="desert_sand2_n.png" scale="8.5" surf="DesertFast" dust="0.7" dustS="1" mud="0.4" smoke="0" tclr="0.46 0.26 0.08 0.7" angMin="0" angMax="22.349" angSm="12.8159" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
+		<texture on="1" file="adesert_sand2_d.jpg" fnorm="desert_sand2_n.jpg" scale="8.5" surf="DesertFast" dust="0.7" dustS="1" mud="0.4" smoke="0" tclr="0.46 0.26 0.08 0.7" angMin="0" angMax="22.349" angSm="12.8159" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
 			<noise frq0="32.1743" oct0="3" prs0="0.613112" pow0="1.92058" frq1="10.275" oct1="3" prs1="0.4" pow1="3.85922" />
 		</texture>
-		<texture on="1" file="adesert_mntn4_d.png" fnorm="adesert_mntn4_n.png" scale="20.2878" surf="DesertFast" dust="0.6" dustS="1" mud="0.5" smoke="0" tclr="0.48 0.3 0.2 0.8" angMin="21.7448" angMax="40.1566" angSm="9.4158" hMin="-300" hMax="300" hSm="20" nOn="0" noise="0" n_1="0" n2="0.490348">
+		<texture on="1" file="adesert_mntn4_d.jpg" fnorm="adesert_mntn4_n.jpg" scale="20.2878" surf="DesertFast" dust="0.6" dustS="1" mud="0.5" smoke="0" tclr="0.48 0.3 0.2 0.8" angMin="21.7448" angMax="40.1566" angSm="9.4158" hMin="-300" hMax="300" hSm="20" nOn="0" noise="0" n_1="0" n2="0.490348">
 			<noise frq0="12.2228" oct0="3" prs0="0.3" pow0="4.00706" frq1="31.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
-		<texture on="1" file="adesert_mntn_d.png" fnorm="desert_mntn_n.png" scale="40.8113" surf="DesertFast" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="42.2701" angMax="90" angSm="12.8159" hMin="-300" hMax="300" hSm="20" nOn="0" triplanar="1" noise="0.548263" n_1="0" n2="0">
+		<texture on="1" file="adesert_mntn_d.jpg" fnorm="desert_mntn_n.jpg" scale="40.8113" surf="DesertFast" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="42.2701" angMax="90" angSm="12.8159" hMin="-300" hMax="300" hSm="20" nOn="0" triplanar="1" noise="0.548263" n_1="0" n2="0">
 			<noise frq0="4.59092" oct0="5" prs0="0.623679" pow0="2.17296" frq1="34.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
-		<texture on="1" file="adesert_mntn3_d.png" fnorm="desert_mntn3_n.png" scale="34.4642" surf="Default" dust="0.8" dustS="1" mud="0.4" smoke="0" tclr="0.48 0.26 0.08 0.7" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="1" noise="1" n_1="0" n2="0">
+		<texture on="1" file="adesert_mntn3_d.jpg" fnorm="desert_mntn3_n.jpg" scale="34.4642" surf="Default" dust="0.8" dustS="1" mud="0.4" smoke="0" tclr="0.48 0.26 0.08 0.7" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="1" noise="1" n_1="0" n2="0">
 			<noise frq0="34.2" oct0="3" prs0="0.3" pow0="1.5" frq1="37.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
 		<texture on="0" file="" fnorm="" scale="10.4" surf="Default" dust="0.5" dustS="1" mud="0.5" smoke="0" tclr="0.42 0.26 0.08 0.8" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
