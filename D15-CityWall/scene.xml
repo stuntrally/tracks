@@ -3,7 +3,7 @@
 	<sky material="sky/light_blue" />
 	<fog color="0.73 0.86 1 1" color2="0.73 0.86 1 1" linStart="246.23" linEnd="687.885" />
 	<fogH color="0.6 0.7 0.6 0.7" height="27.5689" dens="10.1758" linStart="0" linEnd="30.1631" />
-	<light sceneryId="D4" pitch="27.0677" yaw="38.6597" ambient="0.5 0.5 0.5" diffuse="1.5 1.5 1.5" specular="0.2 0.2 0.2" />
+	<light sceneryId="D4" pitch="27.0677" yaw="38.6597" ambient="0.5 0.5 0.5" diffuse="1.4 1.4 1.4" specular="0.2 0.2 0.2" />
 	<fluids>
 		<fluid name="water green" pos="-21.5845 23.2118 20.0618" rot="0 0 0" size="580 20 580" tile="0.01 0.01" />
 	</fluids>
@@ -51,7 +51,7 @@
 		<layer on="0" name="" dens="0.0999996" minScale="0.0999994" maxScale="0.249994" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-10" maxTerH="10" maxDepth="5" />
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 	</paged>
-	<cam pos="-293.693 121.26 115.276" dir="0.945533 -0.244192 -0.215329" />
+	<cam pos="-293.693 121.26 115.276" dir="0.945519 -0.244188 -0.215326" />
 	<objects>
 		<o name="pers_tower1" pos="249.719 -90.9228 25.2126" rot="-0.109174 -0.994023 0 0" sc="4.9386 4.9386 4.9386" />
 		<o name="pers_tower1" pos="259.55 -21.2749 20.9403" rot="-0.0609251 -0.998143 0 0" sc="5.56843 5.63018 7.87668" />
