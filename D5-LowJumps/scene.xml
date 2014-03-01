@@ -8,7 +8,7 @@
 		<fluid name="mud easy med" pos="94.7709 -9.34165 101.421" rot="0 0 0" size="122.092 20 122.427" tile="0.01 0.01" />
 		<fluid name="water blue" pos="-71.7271 -12.4483 103.669" rot="0 0 0" size="134.231 20 115.976" tile="0.010709 0.010709" />
 	</fluids>
-	<terrain size="513" triangle="1" errNorm="1.70">
+	<terrain size="513" triangle="1" errNorm="1.70" normSc="0.4">
 		<texture on="0" file="desert_sand2_d.png" fnorm="desert_sand2_n.png" scale="16.2057" surf="DesertFast" dust="0.9" dustS="1" mud="0.1" smoke="0" tclr="0.48 0.46 0.08 0.7" angMin="0" angMax="14.2661" angSm="2.12444" hMin="-147.704" hMax="280.263" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
 			<noise frq0="43.2116" oct0="5" prs0="0.7" pow0="2" frq1="31.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
@@ -24,7 +24,7 @@
 		<texture on="1" file="desert_mntn2_d.png" fnorm="desert_mntn2_n.png" scale="32.3879" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="32.0548" angMax="90" angSm="14.7122" hMin="-300" hMax="300" hSm="20" nOn="0" triplanar="1" noise="1" n_1="0" n2="0">
 			<noise frq0="38.2" oct0="3" prs0="0.3" pow0="1.5" frq1="40.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
-		<texture on="0" file="jungle_0.png" fnorm="jungle_0_nh.png" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
+		<texture on="0" file="" fnorm="" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
 			<noise frq0="42.2" oct0="3" prs0="0.3" pow0="1.5" frq1="43.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
 		<texture road="1" surf="roadDesert" dust="0.2" dustS="1" mud="0" smoke="0" tclr="0.7 0.66 0.36 0.7" />
