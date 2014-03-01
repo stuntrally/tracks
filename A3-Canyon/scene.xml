@@ -3,21 +3,21 @@
 	<sky material="sky/light_blue" />
 	<fog color="0.73 0.86 1 1" color2="0.73 0.86 1 1" linStart="799.999" linEnd="1600" />
 	<fogH color="0.5 0.7 0.6 1" height="-67.4962" dens="15.9612" linStart="0" linEnd="208.012" />
-	<light sceneryId="A1" pitch="37.985" yaw="38.6597" ambient="0.57 0.57 0.57" diffuse="0.95 0.95 0.94" specular="0.99 0.99 0.97" />
+	<light sceneryId="A1" pitch="37.985" yaw="38.6597" ambient="0.5 0.5 0.5" diffuse="0.95 0.95 0.94" specular="0.99 0.99 0.97" />
 	<fluids>
 		<fluid name="water cyan" pos="-250 -74.5 -50" rot="0 0 0" size="200 40 300" tile="0.01 0.01" />
 	</fluids>
 	<terrain size="1025" triangle="0.943622" errNorm="15.00">
-		<texture on="1" file="adesert_6.png" fnorm="adesert_6_nh.png" scale="8.84677" surf="DesertFast" dust="0.7" dustS="1" mud="0.4" smoke="0" tclr="0.46 0.26 0.08 0.7" angMin="0" angMax="17.2603" angSm="11.2211" hMin="-300" hMax="300" hSm="20" nOn="0" noise="0.98248" n_1="0" n2="0">
-			<noise frq0="42.773" oct0="3" prs0="0.42407" pow0="1.11481" frq1="28.5" oct1="3" prs1="0.4" pow1="1.2" />
+		<texture on="1" file="adesert_sand2_d.png" fnorm="adesert_sand2_n.png" scale="8.84677" surf="DesertFast" dust="0.7" dustS="1" mud="0.4" smoke="0" tclr="0.46 0.26 0.08 0.7" angMin="0" angMax="13.5616" angSm="5.41474" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
+			<noise frq0="9.46889" oct0="4" prs0="0.7" pow0="5.02731" frq1="28.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
-		<texture on="1" file="jungle_2.png" fnorm="jungle_2_nh.png" scale="10.5" surf="DesertFast" dust="0.6" dustS="1" mud="0.5" smoke="0" tclr="0.48 0.3 0.2 0.8" angMin="22.7202" angMax="42.6844" angSm="18.6753" hMin="-300" hMax="300" hSm="20" nOn="0" noise="0" n_1="0" n2="0">
+		<texture on="1" file="adesert_mntn_d.png" fnorm="adesert_mntn_n.png" scale="40.0927" surf="DesertFast" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="42.7984" angMax="90" angSm="15.3066" hMin="-300" hMax="300" hSm="20" nOn="0" triplanar="1" noise="0" n_1="1" n2="0">
+			<noise frq0="51.9794" oct0="3" prs0="0.3" pow0="1.5" frq1="34.5" oct1="3" prs1="0.4" pow1="1.2" />
+		</texture>
+		<texture on="1" file="adesert_cracks_d.png" fnorm="adesert_cracks_n.png" scale="10.5" surf="DesertFast" dust="0.6" dustS="1" mud="0.5" smoke="0" tclr="0.48 0.3 0.2 0.8" angMin="13.5616" angMax="27.1233" angSm="4.29007" hMin="-300" hMax="300" hSm="20" nOn="1" noise="0" n_1="0" n2="0">
 			<noise frq0="21.255" oct0="5" prs0="0.626027" pow0="6.16854" frq1="31.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
-		<texture on="1" file="adesert_3.png" fnorm="adesert_3_nh.png" scale="25.8734" surf="DesertFast" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="45.1006" angMax="90" angSm="14.3225" hMin="-300" hMax="300" hSm="20" nOn="0" triplanar="1" noise="0.111856" n_1="0.602426" n2="0">
-			<noise frq0="64.7754" oct0="3" prs0="0.3" pow0="1.5" frq1="34.5" oct1="3" prs1="0.4" pow1="1.2" />
-		</texture>
-		<texture on="0" file="desert_4.png" fnorm="desert_4_nh.png" scale="14.1" surf="Default" dust="0.8" dustS="1" mud="0.4" smoke="0" tclr="0.48 0.26 0.08 0.7" angMin="54.5637" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
+		<texture on="1" file="canyon_stone3_d.png" fnorm="flat_n.png" scale="14.1" surf="Default" dust="0.8" dustS="1" mud="0.4" smoke="0" tclr="0.48 0.26 0.08 0.7" angMin="14.09" angMax="42.0939" angSm="2.19964" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="1" n2="0">
 			<noise frq0="34.2" oct0="3" prs0="0.3" pow0="1.5" frq1="37.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
 		<texture on="0" file="desert_2.png" fnorm="desert_2_nh.png" scale="10.4" surf="Default" dust="0.5" dustS="1" mud="0.5" smoke="0" tclr="0.42 0.26 0.08 0.8" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
@@ -30,12 +30,16 @@
 		<par dust="Adust" mud="Mud" smoke="Smoke" />
 	</terrain>
 	<paged densGrass="0.05" densTrees="0.5" grPage="80" grDist="80" grDensSmooth="3" trPage="200" trDist="200" trDistImp="600" trRdDist="3">
-		<grass on="1" mtr="grass6r" clr="grClrWinter.png" dens="0.201138" minSx="0.829836" maxSx="1.06066" minSy="1.1" maxSy="1.26526" swayDistr="4" swayLen="0.2" swaySpeed="0.5" terMaxAng="7" terAngSm="3" terMinH="-200" terMaxH="200" />
-		<grass on="0" mtr="grass16r" clr="grClrWinter.png" dens="0.0357463" minSx="1.63366" maxSx="1.8719" minSy="1.30854" maxSy="1.45854" swayDistr="4" swayLen="0.2" swaySpeed="0.5" terMaxAng="30" terMinH="-200" terMaxH="200" />
-		<grass on="1" mtr="grass17r" clr="grClrSmall.png" dens="0.30883" minSx="0.841196" maxSx="0.984347" minSy="0.611557" maxSy="0.864177" swayDistr="4" swayLen="0.2" swaySpeed="0.5" terMaxAng="30" terMinH="-200" terMaxH="200" />
-		<grass on="1" mtr="grass12o" clr="grClrAustralia.png" dens="0.160299" minSx="1.23684" maxSx="1.41262" minSy="0.864177" maxSy="1.12667" swayDistr="4" swayLen="0.2" swaySpeed="0.5" terMaxAng="30" terMinH="-200" terMaxH="200" />
-		<grass on="1" mtr="grass19" clr="grClrAustralia.png" dens="0.0462495" minSx="0.971935" maxSx="1.0868" minSy="1.02211" maxSy="1.23684" swayDistr="4" swayLen="0.2" swaySpeed="0.5" terMaxAng="30" terMinH="-200" terMaxH="200" />
-		<grass on="1" mtr="grass20p" clr="grClrWinter.png" dens="0.1" minSx="0.996847" maxSx="1.18105" minSy="1.38244" maxSy="1.56875" swayDistr="4" swayLen="0.2" swaySpeed="0.5" terMaxAng="30" terMinH="-200" terMaxH="200" />
+		<grass on="1" mtr="grass6r" clr="grClrWinter.png" dens="0.201138" chan="0" minSx="0.829836" maxSx="1.06066" minSy="1.1" maxSy="1.26526" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
+		<grass on="0" mtr="grass16r" clr="grClrWinter.png" dens="0.0357463" chan="0" minSx="1.63366" maxSx="1.8719" minSy="1.30854" maxSy="1.45854" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
+		<grass on="1" mtr="grass17r" clr="grClrSmall.png" dens="0.30883" chan="0" minSx="0.841196" maxSx="0.984347" minSy="0.611557" maxSy="0.864177" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
+		<grass on="1" mtr="grass12o" clr="grClrAustralia.png" dens="0.160299" chan="0" minSx="1.23684" maxSx="1.41262" minSy="0.864177" maxSy="1.12667" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
+		<grass on="1" mtr="grass19" clr="grClrAustralia.png" dens="0.0462495" chan="0" minSx="0.971935" maxSx="1.0868" minSy="1.02211" maxSy="1.23684" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
+		<grass on="1" mtr="grass20p" clr="grClrWinter.png" dens="0.1" chan="0" minSx="0.996847" maxSx="1.18105" minSy="1.38244" maxSy="1.56875" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
+		<gchan amin="0" amax="7" asm="3" hmin="-200" hmax="200" hsm="20" ns="0" frq="25" oct="3" prs="0.3" pow="1.2" rd="0" />
+		<gchan amin="0" amax="30" asm="20" hmin="-100" hmax="100" hsm="20" ns="0" frq="31" oct="3" prs="0.3" pow="1.2" rd="0" />
+		<gchan amin="0" amax="30" asm="20" hmin="-100" hmax="100" hsm="20" ns="0" frq="37" oct="3" prs="0.3" pow="1.2" rd="0" />
+		<gchan amin="0" amax="30" asm="20" hmin="-100" hmax="100" hsm="20" ns="0" frq="43" oct="3" prs="0.3" pow="1.2" rd="0" />
 		<layer on="1" name="gum_tree.mesh" dens="0.0925859" minScale="0.339999" maxScale="0.885743" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0.799976" windFy="0.0139938" maxTerAng="13.7136" minTerH="-20" maxTerH="44" maxDepth="0" />
 		<layer on="1" name="treeD-22desMed.mesh" dens="0.0613263" minScale="0.849991" maxScale="1.15" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0.699996" windFy="0.00999652" maxTerAng="14.8135" minTerH="-20" maxTerH="44" maxDepth="0" />
 		<layer on="1" name="treeD-34desTiny.mesh" dens="0.0691027" minScale="0.849991" maxScale="1.15" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0.599994" windFy="0.00999656" maxTerAng="18.3674" minTerH="-20" maxTerH="44" maxDepth="0" />

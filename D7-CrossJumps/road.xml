@@ -1,6 +1,6 @@
 <SplineRoad>
-	<mtr road="roadDesert" wall="road_wall_Desert" col="road_col_Desert" />
-	<dim tcMul="0.1" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="2" widthSteps="6" heightOfs="0.06" />
+	<mtr road="roadDesert" road2="roadMud" wall="road_wall_Desert" col="road_col_Desert" />
+	<dim tcMul="0.0473075" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="2" widthSteps="6" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="200" lodPntLen="10" />
 	<geom colN="4" colR="3" wsPm="4" lsPm="1" stBox="1 5.52 17.636" iDir="-1" iChk1="89" />
 	<stats length="4023.66" width="8.85233" height="27.8859" onTer="17.2023" pipes="0" bnkAvg="6.90824" bnkMax="41.9296" />
@@ -69,8 +69,8 @@
 	<P pos="-216.969 0 60.1427" w="9.464" aT="2" />
 	<P pos="-276.645 0 48.8298" w="9.464" aT="2" chkR="1.708" />
 	<P pos="-318.332 0 12.2701" w="9.464" aT="2" />
-	<P pos="-331.372 0 -37.3607" w="9.464" aT="2" chkR="1.744" />
-	<P pos="-326.085 0 -87.3997" w="9.464" aT="2" />
+	<P pos="-331.372 0 -37.3607" w="9.464" aT="2" mtr="1" chkR="1.744" />
+	<P pos="-326.085 0 -87.3997" w="9.464" aT="2" mtr="1" />
 	<P pos="-292.039 0 -130.725" w="9.464" aT="2" chkR="1.732" />
 	<P pos="-242.979 0 -149.171" w="9.464" aT="2" />
 	<P pos="-199.166 0 -152.793" w="8.656" aT="2" />

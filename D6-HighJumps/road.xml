@@ -1,6 +1,6 @@
 <SplineRoad>
 	<mtr road="roadDesert" wall="road_wall_Desert" col="road_col_Desert" />
-	<dim tcMul="0.1" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="2" widthSteps="6" heightOfs="0.06" />
+	<dim tcMul="0.0509048" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="2" widthSteps="6" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 7.724 19.908" iDir="-1" iChk1="34" />
 	<stats length="1182.5" width="10.36" height="13.9452" onTer="20.1684" pipes="0" bnkAvg="1.01635" bnkMax="2.97726" />

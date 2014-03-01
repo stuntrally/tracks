@@ -3,7 +3,7 @@
 	<dim tcMul="0.1" tcW="0.4" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="2" widthSteps="6" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="400" lodPntLen="40" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 4.824 14.348" iDir="-1" iChk1="250" />
-	<stats length="5470.75" width="8.81809" height="43.6292" onTer="68.1265" pipes="18.0132" bnkAvg="9.34454" bnkMax="89.4" />
+	<stats length="5470.64" width="8.81758" height="43.6292" onTer="67.9838" pipes="18.0139" bnkAvg="9.34605" bnkMax="89.4" />
 	<txt desc="Long crazy track with loops, pipes, circular bridged turns and small jumps." />
 	<P pos="148.789 0 76.066" w="9.35999" aT="2" chkR="1.6" />
 	<P pos="134.701 0 75.967" w="9.35999" aT="2" />
