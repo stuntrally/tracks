@@ -6,7 +6,7 @@
 	<light sceneryId="D8" pitch="25.4887" yaw="79.2" ambient="0.5 0.5 0.5" diffuse="1.6 1.6 1.6" specular="1 1 1" />
 	<fluids />
 	<terrain size="513" triangle="2" errNorm="1.70" normSc="0.2">
-		<texture on="1" file="island_sand_d.jpg" fnorm="island_sand_n.jpg" scale="14.1" surf="DesertFast" dust="0.9" dustS="1" mud="0.1" smoke="0" tclr="0.48 0.46 0.08 0.7" angMin="0" angMax="2.818" angSm="8.49776" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
+		<texture on="1" file="island_sand_d.jpg" fnorm="desert_sand_n.jpg" scale="14.1" surf="DesertFast" dust="0.9" dustS="1" mud="0.1" smoke="0" tclr="0.48 0.46 0.08 0.7" angMin="0" angMax="2.818" angSm="8.49776" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
 			<noise frq0="8.88834" oct0="5" prs0="0.7" pow0="3.31643" frq1="28.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
 		<texture on="1" file="desert_cracks_d.jpg" fnorm="desert_cracks_n.jpg" scale="9.09234" surf="DesertFast" dust="0.8" dustS="1" mud="0.1" smoke="0" tclr="0.46 0.46 0.08 0.7" angMin="8.98239" angMax="22.1918" angSm="6.67018" hMin="-300" hMax="300" hSm="20" nOn="0" noise="0" n_1="0" n2="0">
