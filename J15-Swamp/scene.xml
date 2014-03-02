@@ -8,10 +8,10 @@
 		<fluid name="water green" pos="-0.25155 0.06 0.404012" rot="0 0 0" size="800 40 800" tile="0.00994745 0.00994745" />
 	</fluids>
 	<terrain size="513" triangle="0.735017" errNorm="1.00">
-		<texture on="1" file="grass_green_d.png" fnorm="grass_green_n.png" scale="6.16095" surf="Default" dust="0" dustS="0.2" mud="0.8" smoke="0" tclr="0.18 0.36 0.04 0.7" angMin="0" angMax="32.6174" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
+		<texture on="1" file="grass_green_d.jpg" fnorm="grass_green_n.jpg" scale="6.16095" surf="Default" dust="0" dustS="0.2" mud="0.8" smoke="0" tclr="0.18 0.36 0.04 0.7" angMin="0" angMax="32.6174" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
 			<noise frq0="22.2" oct0="3" prs0="0.546184" pow0="2.78195" frq1="28.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
-		<texture on="1" file="grass_ground_d.png" fnorm="grass_ground_n.png" scale="7.06531" surf="Default" dust="0" dustS="0.2" mud="0.6" smoke="0" tclr="0.42 0.46 0.08 0.7" angMin="31.6107" angMax="43.0871" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="0.219236" n_1="0" n2="0">
+		<texture on="1" file="grass_ground_d.jpg" fnorm="grass_ground_n.jpg" scale="7.06531" surf="Default" dust="0" dustS="0.2" mud="0.6" smoke="0" tclr="0.42 0.46 0.08 0.7" angMin="31.6107" angMax="43.0871" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="0.219236" n_1="0" n2="0">
 			<noise frq0="26.2" oct0="3" prs0="0.3" pow0="1.5" frq1="31.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
 		<texture on="0" file="jungle_6.png" fnorm="jungle_6_nh.png" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="0.4" smoke="0" tclr="0.48 0.42 0.2 0.7" angMin="39.0604" angMax="50" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="0.648768" n_1="0" n2="0">

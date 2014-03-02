@@ -6,13 +6,13 @@
 	<light sceneryId="J3" pitch="54.2037" yaw="-123.69" ambient="0.53 0.53 0.53" diffuse="0.7 0.7 0.7" specular="0.8 0.8 0.8" />
 	<fluids />
 	<terrain size="513" triangle="1.12562" errNorm="1.70">
-		<texture on="1" file="grass_mix_d.png" fnorm="grass_mix_n.png" scale="8.02455" surf="GrassJungle" dust="0" dustS="0.2" mud="0.8" smoke="0" tclr="0.18 0.36 0.04 0.7" angMin="0" angMax="28.3562" angSm="2.84828" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="1">
+		<texture on="1" file="grass_mix_d.jpg" fnorm="grass_mix_n.jpg" scale="8.02455" surf="GrassJungle" dust="0" dustS="0.2" mud="0.8" smoke="0" tclr="0.18 0.36 0.04 0.7" angMin="0" angMax="28.3562" angSm="2.84828" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="1">
 			<noise frq0="22.2" oct0="4" prs0="0.219765" pow0="1.24457" frq1="52.4637" oct1="3" prs1="0.520352" pow1="3.92222" />
 		</texture>
-		<texture on="1" file="ground_mud_d.png" fnorm="ground_mud_n.png" scale="6.97427" surf="GrassJungle" dust="0" dustS="0.2" mud="0.6" smoke="0" tclr="0.42 0.46 0.08 0.7" angMin="15.8513" angMax="29.0607" angSm="8.05639" hMin="-300" hMax="300" hSm="20" nOn="1" noise="0" n_1="0" n2="0">
+		<texture on="1" file="ground_mud_d.jpg" fnorm="ground_mud_n.jpg" scale="6.97427" surf="GrassJungle" dust="0" dustS="0.2" mud="0.6" smoke="0" tclr="0.42 0.46 0.08 0.7" angMin="15.8513" angMax="29.0607" angSm="8.05639" hMin="-300" hMax="300" hSm="20" nOn="1" noise="0" n_1="0" n2="0">
 			<noise frq0="26.2" oct0="3" prs0="0.3" pow0="1.5" frq1="31.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
-		<texture on="1" file="jungle_mntn_d.png" fnorm="jungle_mntn_n.png" scale="12.4112" surf="Rocks" dust="0" dustS="0.2" mud="0.4" smoke="0" tclr="0.48 0.42 0.2 0.7" angMin="30.6458" angMax="90" angSm="8.20221" hMin="-300" hMax="300" hSm="20" nOn="0" triplanar="1" noise="1" n_1="0" n2="0">
+		<texture on="1" file="jungle_mntn_d.jpg" fnorm="jungle_mntn_n.jpg" scale="12.4112" surf="Rocks" dust="0" dustS="0.2" mud="0.4" smoke="0" tclr="0.48 0.42 0.2 0.7" angMin="30.6458" angMax="90" angSm="8.20221" hMin="-300" hMax="300" hSm="20" nOn="0" triplanar="1" noise="1" n_1="0" n2="0">
 			<noise frq0="34.2" oct0="3" prs0="0.3" pow0="1.5" frq1="37.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
 		<texture on="0" file="jungle_6.png" fnorm="jungle_6_nh.png" scale="4.5" surf="GrassJungle" dust="0" dustS="0.2" mud="0.4" smoke="0" tclr="0.48 0.42 0.2 0.7" angMin="32" angMax="50" angSm="7.91189" hMin="-300" hMax="300" hSm="20" nOn="0" noise="0.648768" n_1="0" n2="0">

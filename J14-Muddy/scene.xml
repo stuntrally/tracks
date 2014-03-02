@@ -12,16 +12,16 @@
 		<fluid name="mud med" pos="0.862104 -0.0759133 -66.3736" rot="0 0 0" size="56.1656 13.4747 13.482" tile="0.01 0.01" />
 	</fluids>
 	<terrain size="257" triangle="1.07642" errNorm="1.70">
-		<texture on="1" file="ground_mud_d.png" fnorm="ground_mud_n.png" scale="5.75271" surf="GrassJungleWet" dust="0" dustS="0.2" mud="0.5" smoke="0" tclr="0.3 0.26 0.04 0.7" angMin="0" angMax="17.9648" angSm="7.34694" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1.0027" n_1="0" n2="0">
+		<texture on="1" file="ground_mud_d.jpg" fnorm="ground_mud_n.jpg" scale="5.75271" surf="GrassJungleWet" dust="0" dustS="0.2" mud="0.5" smoke="0" tclr="0.3 0.26 0.04 0.7" angMin="0" angMax="17.9648" angSm="7.34694" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1.0027" n_1="0" n2="0">
 			<noise frq0="50.0648" oct0="5" prs0="0.478082" pow0="1.69882" frq1="28.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
-		<texture on="1" file="ground_dry2_d.png" fnorm="ground_dry2_n.png" scale="5.59905" surf="GrassJungleWet" dust="0" dustS="0.2" mud="0.6" smoke="0" tclr="0.21 0.22 0.12 0.7" angMin="19.5301" angMax="31.1842" angSm="7.34694" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
+		<texture on="1" file="ground_dry2_d.jpg" fnorm="ground_dry2_n.jpg" scale="5.59905" surf="GrassJungleWet" dust="0" dustS="0.2" mud="0.6" smoke="0" tclr="0.21 0.22 0.12 0.7" angMin="19.5301" angMax="31.1842" angSm="7.34694" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
 			<noise frq0="26.2" oct0="3" prs0="0.3" pow0="1.96387" frq1="31.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
-		<texture on="1" file="ground_mud2_d.png" fnorm="ground_mud2_n.png" scale="15.6372" surf="GrassJungleWet" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.42 0.26 0.08 0.8" angMin="32.0548" angMax="90" angSm="8.49776" hMin="-300" hMax="300" hSm="20" nOn="0" triplanar="1" noise="0" n_1="0" n2="0">
+		<texture on="1" file="ground_mud2_d.jpg" fnorm="ground_mud2_n.jpg" scale="15.6372" surf="GrassJungleWet" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.42 0.26 0.08 0.8" angMin="32.0548" angMax="90" angSm="8.49776" hMin="-300" hMax="300" hSm="20" nOn="0" triplanar="1" noise="0" n_1="0" n2="0">
 			<noise frq0="30.2" oct0="3" prs0="0.3" pow0="2.69487" frq1="34.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
-		<texture on="0" file="ground_mud2_d.png" fnorm="ground_mud2_n.png" scale="9.611" surf="Rocks" dust="0" dustS="0.2" mud="0" smoke="0" tclr="0.2 0.2 0.2 0.6" angMin="42.4832" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
+		<texture on="0" file="ground_mud2_d.jpg" fnorm="ground_mud2_n.jpg" scale="9.611" surf="Rocks" dust="0" dustS="0.2" mud="0" smoke="0" tclr="0.2 0.2 0.2 0.6" angMin="42.4832" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
 			<noise frq0="34.2" oct0="3" prs0="0.3" pow0="1.5" frq1="37.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
 		<texture on="0" file="" fnorm="" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
