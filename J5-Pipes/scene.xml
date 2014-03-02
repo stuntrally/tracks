@@ -6,7 +6,7 @@
 	<light sceneryId="J3" pitch="54.2038" yaw="-123.69" ambient="0.56 0.56 0.56" diffuse="0.75 0.75 0.73" specular="0.6 0.6 0.6" />
 	<fluids />
 	<terrain size="129" triangle="4" errNorm="1.70">
-		<texture on="1" file="grass_green2y_d.png" fnorm="grass_green_n.png" scale="8.90945" surf="Default" dust="0" dustS="0.2" mud="0.8" smoke="0" tclr="0.18 0.36 0.04 0.7" angMin="0" angMax="16.7319" angSm="6.80292" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0.978437">
+		<texture on="1" file="grass_green2y_d.png" fnorm="grass_green2y_n.png" scale="8.90945" surf="Default" dust="0" dustS="0.2" mud="0.8" smoke="0" tclr="0.18 0.36 0.04 0.7" angMin="0" angMax="16.7319" angSm="6.80292" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0.978437">
 			<noise frq0="34.3" oct0="4" prs0="0.54" pow0="1" frq1="62.6" oct1="3" prs1="0.12" pow1="5.90448" />
 		</texture>
 		<texture on="1" file="ground_leaves_d.png" fnorm="ground_leaves_n.png" scale="5.62183" surf="Default" dust="0" dustS="0.2" mud="0.6" smoke="0" tclr="0.42 0.46 0.08 0.7" angMin="16.1842" angMax="30.998" angSm="5.5344" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
