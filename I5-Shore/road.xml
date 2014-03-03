@@ -1,5 +1,5 @@
 <SplineRoad>
-	<mtr road="roadSandShore" pipe="pipeAsphalt" road2="roadSand" road3="roadStone" road4="roadMoss" />
+	<mtr road="roadSandShore" pipe="pipeAsphalt" road2="roadSand" road3="roadStone" road4="roadJDarkD" />
 	<dim tcMul="0.1" tcW="0.1" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="2" widthSteps="6" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 4.76 12.7284" iDir="-1" iChk1="25" />
@@ -11,11 +11,11 @@
 	<P pos="205.923 0 -89.5024" w="8.008" aT="2" chkR="1.896" />
 	<P pos="239.299 0 -101.021" w="8.008" aT="2" />
 	<P pos="261.503 0 -101.554" w="8.008" aT="2" mtr="2" />
-	<P pos="273.576 0 -94.2665" w="6.936" aT="2" mtr="2" chkR="1.936" />
-	<P pos="282.047 0 -84.616" w="6.936" aT="2" mtr="2" />
-	<P pos="285.562 0 -66.8192" w="6.936" aT="2" mtr="2" />
+	<P pos="273.576 0 -94.2665" w="6.936" aT="2" mtr="3" chkR="1.936" />
+	<P pos="282.047 0 -84.616" w="6.936" aT="2" mtr="3" />
+	<P pos="285.562 0 -66.8192" w="6.936" aT="2" mtr="3" />
 	<P pos="286.561 0 -46.467" w="6.936" aT="2" mtr="3" />
-	<P pos="286.064 0 -18.5926" w="6.936" aT="2" mtr="2" />
+	<P pos="286.064 0 -18.5926" w="6.936" aT="2" mtr="3" />
 	<P pos="279.452 0 4.66942" w="6.936" aT="2" mtr="2" />
 	<P pos="266.561 0 13.6764" w="6.936" aT="2" mtr="2" chkR="1.8" />
 	<P pos="251.543 0 17.1686" w="6.936" aT="2" mtr="2" />
