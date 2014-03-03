@@ -4,7 +4,11 @@
 	<fog color="0.7 0.96 1 0.9" color2="0.7 0.96 1 1" linStart="275.174" linEnd="1199.5" />
 	<fogH color="0.73 0.86 1 1" height="-300" dens="100" linStart="0" linEnd="400" />
 	<light sceneryId="G1" pitch="36.225" yaw="61.2" ambient="0.6 0.6 0.6" diffuse="0.9 0.9 0.9" specular="0.7 0.7 0.7" />
-	<fluids />
+	<fluids>
+		<fluid name="mud med" pos="96.2855 0.146341 -304.385" rot="0 0 0" size="50 20 50" tile="0.0103507 0.0103507" />
+		<fluid name="water cyan" pos="281.444 -1.51667 -456.64" rot="0 0 0" size="80.6245 20 74.7749" tile="0.01 0.01" />
+		<fluid name="mud soft" pos="138.133 1.35135 -122.503" rot="0 0 0" size="94.8302 20 43.2832" tile="0.01 0.01" />
+	</fluids>
 	<terrain size="1025" triangle="1.35177" errNorm="3.00">
 		<texture on="1" file="ground_white_d.jpg" fnorm="ground_white_n.jpg" scale="8.5414" surf="Default" dust="0.3" dustS="0.2" mud="0.4" smoke="0" tclr="0.36 0.4 0.28 0.7" angMin="0" angMax="18.9261" angSm="7.91189" hMin="-300" hMax="150" hSm="20" nOn="0" noise="1" n_1="0" n2="1">
 			<noise frq0="14.8553" oct0="4" prs0="0.534442" pow0="3.23972" frq1="24.4154" oct1="4" prs1="0.494521" pow1="3.77606" />
@@ -49,6 +53,6 @@
 		<layer on="1" name="rock_Y01.mesh" dens="0.0188489" minScale="1.00399" maxScale="1.63483" ofsY="0" addTrRdDist="1" maxRdist="100" windFx="0" windFy="0" maxTerAng="35.3716" minTerH="-60" maxTerH="120" maxDepth="5" />
 		<layer on="1" name="rock_Y03.mesh" dens="0.0100371" minScale="1.77345" maxScale="3.21223" ofsY="0" addTrRdDist="8" maxRdist="100" windFx="0" windFy="0" maxTerAng="21.8172" minTerH="-0.91743" maxTerH="100.917" maxDepth="5" />
 	</paged>
-	<cam pos="346.844 26.1779 61.1846" dir="-0.851518 -0.0659546 0.520222" />
+	<cam pos="346.844 26.1779 61.1846" dir="-0.851491 -0.0659525 0.520205" />
 	<objects />
 </scene>
