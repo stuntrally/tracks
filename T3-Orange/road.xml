@@ -1,5 +1,5 @@
 <SplineRoad>
-	<mtr road="roadSavannah" pipe="pipeAsphalt" road2="roadJungle" road3="roadStone" />
+	<mtr road="roadSavannah" pipe="pipeAsphalt" road2="roadJungle" road3="roadMud" />
 	<dim tcMul="0.1" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="2" widthSteps="6" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5.33599 16.7841" iDir="-1" iChk1="49" />
@@ -41,7 +41,7 @@
 	<P pos="160.967 0 92.2911" w="7.064" aT="2" mtr="2" />
 	<P pos="166.076 0 64.9205" w="7.784" aT="2" mtr="2" chkR="2.524" />
 	<P pos="162.617 0 39.2988" w="6.648" aT="2" mtr="2" />
-	<P pos="145.962 0 16.0428" w="7.456" aT="2" />
+	<P pos="145.962 0 16.0428" w="7.456" aT="2" mtr="1" />
 	<P pos="129.433 0 5.21951" w="7.064" aT="2" />
 	<P pos="92.7445 0 -4.86341" w="9.544" aT="2" mtr="1" chkR="2.048" />
 	<P pos="32.7865 0 -10.4473" w="9.544" aT="2" mtr="1" />

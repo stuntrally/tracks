@@ -6,34 +6,38 @@
 	<light sceneryId="T2" pitch="38.1558" yaw="45" ambient="0.6 0.6 0.6" diffuse="0.8 0.78 0.76" specular="0.3 0.3 0.3" />
 	<fluids />
 	<terrain size="513" triangle="1.05902" errNorm="1.00">
-		<texture on="0" file="autumn_red.png" fnorm="autumn_red_nh.png" scale="4.47773" surf="Default" dust="0" dustS="0.2" mud="0.6" smoke="0" tclr="0.42 0.46 0.08 0.7" angMin="0" angMax="34.3421" angSm="11.0526" hMin="-300" hMax="300" hSm="20" nOn="0" noise="0.991228" n_1="0" n2="0">
+		<texture on="0" file="" fnorm="" scale="4.2271" surf="Default" dust="0" dustS="0.2" mud="0.6" smoke="0" tclr="0.42 0.46 0.08 0.7" angMin="0" angMax="34.3421" angSm="11.0526" hMin="-300" hMax="300" hSm="20" nOn="0" noise="0.991228" n_1="0" n2="0">
 			<noise frq0="26.2" oct0="3" prs0="0.3" pow0="1.5" frq1="31.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
-		<texture on="1" file="autumn_red.png" fnorm="autumn_red_nh.png" scale="6.10436" surf="Default" dust="0" dustS="0.2" mud="0.4" smoke="0" tclr="0.44 0.42 0.2 0.7" angMin="0" angMax="19.3421" angSm="6.27982" hMin="-300" hMax="300" hSm="20" nOn="0" noise="0.991228" n_1="0" n2="0">
-			<noise frq0="41.9028" oct0="3" prs0="0.3" pow0="1.5" frq1="28.5" oct1="3" prs1="0.4" pow1="1.2" />
+		<texture on="1" file="gr_autumn_red_d.jpg" fnorm="gr_autumn_n.jpg" scale="6.10436" surf="Default" dust="0" dustS="0.2" mud="0.4" smoke="0" tclr="0.44 0.42 0.2 0.7" angMin="0" angMax="12.681" angSm="6.27982" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="1">
+			<noise frq0="41.9028" oct0="3" prs0="0.3" pow0="1.5" frq1="28.5" oct1="3" prs1="0.4" pow1="4.72014" />
 		</texture>
-		<texture on="1" file="jungle_4.png" fnorm="jungle_5_nh.png" scale="12.9194" surf="Default" dust="0" dustS="0.2" mud="0.8" smoke="0" tclr="0.18 0.36 0.04 0.7" angMin="20.6067" angMax="90" angSm="8.6475" hMin="-300" hMax="300" hSm="20" nOn="0" noise="0.0964913" n_1="0" n2="0">
-			<noise frq0="30.2" oct0="3" prs0="0.3" pow0="1.5" frq1="34.5" oct1="3" prs1="0.4" pow1="1.2" />
+		<texture on="1" file="grass_mix_ylw_d.jpg" fnorm="grass_mix_n.jpg" scale="12.9194" surf="Default" dust="0" dustS="0.2" mud="0.8" smoke="0" tclr="0.18 0.36 0.04 0.7" angMin="14.2661" angMax="25.8904" angSm="2.93525" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
+			<noise frq0="16.408" oct0="3" prs0="0.3" pow0="1.30117" frq1="34.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
-		<texture on="0" file="jungle_5.png" fnorm="jungle_4_nh.png" scale="10.4853" surf="Rocks" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="71.0526" angMax="90" angSm="20" hMin="-193.421" hMax="151.316" hSm="10.9649" nOn="0" noise="0.149123" n_1="0" n2="0">
-			<noise frq0="34.2" oct0="3" prs0="0.3" pow0="1.5" frq1="37.5" oct1="3" prs1="0.4" pow1="1.2" />
+		<texture on="1" file="ground_mud2_d.jpg" fnorm="ground_mud2_n.jpg" scale="21.5806" surf="Rocks" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="29.4129" angMax="90" angSm="13.1847" hMin="-193.421" hMax="300" hSm="10.9649" nOn="0" noise="0.149123" n_1="1" n2="0">
+			<noise frq0="34.2" oct0="3" prs0="0.3" pow0="3.29717" frq1="37.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
-		<texture on="0" file="jungle_0.png" fnorm="jungle_0_nh.png" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
+		<texture on="0" file="" fnorm="" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
 			<noise frq0="38.2" oct0="3" prs0="0.3" pow0="1.5" frq1="40.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
-		<texture on="0" file="jungle_0.png" fnorm="jungle_0_nh.png" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
+		<texture on="0" file="" fnorm="" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
 			<noise frq0="42.2" oct0="3" prs0="0.3" pow0="1.5" frq1="43.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
 		<texture road="1" surf="roadGravel" dust="0" dustS="0.2" mud="0" smoke="0" tclr="0.2 0.13 0.06 0.7" />
 		<par dust="Dust" mud="Mud" smoke="Smoke" />
 	</terrain>
 	<paged densGrass="0.1" densTrees="1.5" grPage="100" grDist="100" grDensSmooth="6" trPage="70" trDist="120" trDistImp="800" trRdDist="0">
-		<grass on="1" mtr="grass3y" clr="grClrJungle2.png" dens="0.127212" minSx="0.864177" maxSx="1.32315" minSy="0.864177" maxSy="1.26526" swayDistr="3" swayLen="0.3" swaySpeed="0.4" terMaxAng="15" terMinH="-200" terMaxH="30" />
-		<grass on="0" mtr="grass9r" clr="grClrSmall.png" dens="0.0194865" minSx="1.6" maxSx="1.85" minSy="1.6" maxSy="1.9" swayDistr="4" swayLen="0.2" swaySpeed="0.5" terMaxAng="15" terMinH="-200" terMaxH="200" />
-		<grass on="1" mtr="grass16r" clr="grClrSmall.png" dens="0.0188949" minSx="1.6" maxSx="2.2" minSy="1.6" maxSy="2.2" swayDistr="4" swayLen="0.2" swaySpeed="0.5" terMaxAng="30" terMinH="-200" terMaxH="200" />
-		<grass on="1" mtr="grass2" clr="grClrSmall.png" dens="0.0280516" minSx="1.7" maxSx="2" minSy="1.7" maxSy="2" swayDistr="4" swayLen="0.2" swaySpeed="0.5" terMaxAng="30" terMinH="-200" terMaxH="200" />
-		<grass on="1" mtr="grass17" clr="grClrSmall.png" dens="0.408246" minSx="1" maxSx="2" minSy="1" maxSy="2" swayDistr="4" swayLen="0.2" swaySpeed="0.5" terMaxAng="30" terMinH="-200" terMaxH="200" />
-		<grass on="0" mtr="grass18" clr="grClrSmall.png" dens="0.1" minSx="1.6" maxSx="2" minSy="1.6" maxSy="2" swayDistr="4" swayLen="0.2" swaySpeed="0.5" terMaxAng="30" terMinH="-200" terMaxH="200" />
+		<grass on="1" mtr="grass3y" clr="grClrJungle2.png" dens="0.150475" chan="0" minSx="0.864177" maxSx="1.32315" minSy="0.763556" maxSy="1.06984" swayDistr="3" swayLen="0.3" swaySpeed="0.4" />
+		<grass on="1" mtr="grass9r" clr="grClrSmall.png" dens="0.0615311" chan="0" minSx="1.6" maxSx="1.85" minSy="1.43406" maxSy="1.9049" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
+		<grass on="1" mtr="grass16r" clr="grClrSmall.png" dens="0.0392228" chan="0" minSx="1.92127" maxSx="2.37285" minSy="1.82415" maxSy="2.63671" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
+		<grass on="1" mtr="grass2" clr="grClrSmall.png" dens="0.106698" chan="0" minSx="1.7" maxSx="2" minSy="1.7" maxSy="2" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
+		<grass on="1" mtr="grass17r" clr="grClrWinter.png" dens="0.408246" chan="0" minSx="1" maxSx="2" minSy="1" maxSy="2" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
+		<grass on="0" mtr="grass18" clr="grClrSmall.png" dens="0.1" chan="0" minSx="1.6" maxSx="2" minSy="1.6" maxSy="2" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
+		<gchan amin="0" amax="15" asm="20" hmin="-200" hmax="30" hsm="20" ns="0" frq="25" oct="3" prs="0.3" pow="1.2" rd="0" />
+		<gchan amin="0" amax="30" asm="20" hmin="-100" hmax="100" hsm="20" ns="0" frq="28" oct="3" prs="0.3" pow="1.2" rd="0" />
+		<gchan amin="0" amax="30" asm="20" hmin="-100" hmax="100" hsm="20" ns="0" frq="31" oct="3" prs="0.3" pow="1.2" rd="0" />
+		<gchan amin="0" amax="30" asm="20" hmin="-100" hmax="100" hsm="20" ns="0" frq="34" oct="3" prs="0.3" pow="1.2" rd="0" />
 		<layer on="0" name="treeAOR-13oakWBig.mesh" dens="0.0886472" minScale="1.52739" maxScale="2.29478" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0.699996" windFy="0.00999974" maxTerAng="24.3114" minTerH="-100" maxTerH="20" maxDepth="5" />
 		<layer on="1" name="treeAR-26oakWide.mesh" dens="0.125659" minScale="1.17759" maxScale="1.64109" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0.599999" windFy="0.00999945" maxTerAng="24.7234" minTerH="-100" maxTerH="14" maxDepth="5" />
 		<layer on="1" name="treeAO-25oakWMed.mesh" dens="0.107768" minScale="0.810782" maxScale="1.48032" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0.599999" windFy="0.00999945" maxTerAng="32.9709" minTerH="-100" maxTerH="15" maxDepth="5" />
