@@ -4,7 +4,7 @@
 	<mrg skirtLen="0" skirtH="0.05" merge="1" mergeLen="400" lodPntLen="40" />
 	<geom colN="6" colR="2.71669" wsPm="4" lsPm="1" stBox="1 5 11.848" iDir="1" iChk1="14" />
 	<stats length="4574.29" width="10.9476" height="51.2233" onTer="100" pipes="0" bnkAvg="11.0109" bnkMax="42.06" />
-	<txt desc="Fast and wide, strange mountain bridged road." />
+	<txt desc="Fast and wide, strange mountain bridged road. Very banked and twisted." />
 	<P pos="125.408 13.24 131.831" w="18.0736" onTer="0" a="2.7" ar="11.1" aT="0" col="0" chkR="1.0518" />
 	<P pos="114.833 12.68 148.537" w="15.4256" onTer="0" a="-30" ar="17.4" aT="0" col="0" />
 	<P pos="95.1328 13.24 161.255" w="10.6496" onTer="0" a="-78.9" ar="13.8" aT="0" chkR="1.112" />

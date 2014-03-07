@@ -27,7 +27,7 @@
 		<texture road="1" surf="roadForest" dust="0" dustS="0.2" mud="0" smoke="0" tclr="0.3 0.26 0.16 0.8" />
 		<par dust="Dust" mud="Mud" smoke="Smoke" />
 	</terrain>
-	<paged densGrass="0.2" densTrees="0.4" grPage="120" grDist="120" grDensSmooth="1" trPage="100" trDist="100" trDistImp="800" trRdDist="1">
+	<paged densGrass="0.2" densTrees="0.4" grPage="120" grDist="120" grDensSmooth="1" trPage="100" trDist="240" trDistImp="800" trRdDist="1">
 		<grass on="1" mtr="grass17" clr="grClrForest.png" dens="0.416686" chan="0" minSx="1.57818" maxSx="1.76089" minSy="1.6379" maxSy="2.10623" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
 		<grass on="1" mtr="gplant1" clr="grClrJungle.png" dens="0.0206984" chan="0" minSx="0.984347" maxSx="1.30854" minSy="0.984347" maxSy="1.14013" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
 		<grass on="1" mtr="grass2" clr="grClrJungle.png" dens="0.032553" chan="0" minSx="1.53682" maxSx="1.76769" minSy="1.78484" maxSy="2.07114" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
