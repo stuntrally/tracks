@@ -1,9 +1,9 @@
 <SplineRoad>
-	<mtr road="roadJungle" />
-	<dim tcMul="0.1" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="8" heightOfs="0.1" />
+	<mtr road="roadStone" />
+	<dim tcMul="0.0679848" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="8" heightOfs="0.1" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="180" lodPntLen="10" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 6.304 23.624" iDir="-1" iChk1="6" />
-	<stats length="635.342" width="12.9931" height="20.4734" onTer="0" pipes="0" yaw="0" pitch="0" roll="0" />
+	<stats length="635.342" width="12.9931" height="20.4735" onTer="0" pipes="0" bnkAvg="12.6506" bnkMax="36.8291" />
 	<txt desc="Short oval track in hilly terrain. Whole road made using bridged road and then align terrain to road tool." />
 	<P pos="-70.3609 0 103.312" w="13.16" aT="2" chkR="1.676" />
 	<P pos="-19.2787 0 134.436" w="11.64" aT="2" />
