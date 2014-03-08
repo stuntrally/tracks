@@ -11,19 +11,19 @@
 		<texture on="1" file="desert_sand2_d.jpg" fnorm="desert_sand2_n.jpg" scale="7.06531" surf="Default" dust="0" dustS="0.7" mud="0" smoke="0" tclr="0.44 0.4 0.23 0.1" angMin="0" angMax="20.9589" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="1">
 			<noise frq0="15.6213" oct0="4" prs0="0.54" pow0="1.84964" frq1="19.7607" oct1="4" prs1="0.7" pow1="3.14518" />
 		</texture>
-		<texture on="1" file="ground_cracks2y_d.png" fnorm="ground_cracks2_n.png" scale="6.92943" surf="Default" dust="0" dustS="0.6" mud="0.4" smoke="0" tclr="0.38 0.22 0.04 0.1" angMin="0" angMax="20.4305" angSm="7.34694" hMin="-300" hMax="300" hSm="20" nOn="1" noise="0" n_1="0" n2="0">
+		<texture on="1" file="ground_cracks2y_d.jpg" fnorm="ground_cracks2_n.jpg" scale="6.92943" surf="Default" dust="0" dustS="0.6" mud="0.4" smoke="0" tclr="0.38 0.22 0.04 0.1" angMin="0" angMax="20.4305" angSm="7.34694" hMin="-300" hMax="300" hSm="20" nOn="1" noise="0" n_1="0" n2="0">
 			<noise frq0="30.2" oct0="3" prs0="0.3" pow0="1.5" frq1="34.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
 		<texture on="1" file="desert_mud_d.jpg" fnorm="desert_mud_n.jpg" scale="16.3216" surf="Default" dust="0" dustS="0.7" mud="0" smoke="0" tclr="0.44 0.44 0.26 0.1" angMin="20.9589" angMax="90" angSm="10.2168" hMin="-300" hMax="300" hSm="20" nOn="0" triplanar="1" noise="1" n_1="0" n2="0">
 			<noise frq0="22.2" oct0="3" prs0="0.3" pow0="1.5" frq1="28.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
-		<texture on="0" file="sand_3.png" fnorm="sand_3_nh.png" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 0.1" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
+		<texture on="0" file="" fnorm="" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 0.1" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
 			<noise frq0="34.2" oct0="3" prs0="0.3" pow0="1.5" frq1="37.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
-		<texture on="0" file="sand_5.png" fnorm="sand_5_nh.png" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 0.1" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
+		<texture on="0" file="" fnorm="" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 0.1" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
 			<noise frq0="38.2" oct0="3" prs0="0.3" pow0="1.5" frq1="40.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
-		<texture on="0" file="sand_6.png" fnorm="sand_6_nh.png" scale="5.55224" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 0.1" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
+		<texture on="0" file="" fnorm="" scale="5.55224" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 0.1" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
 			<noise frq0="42.2" oct0="3" prs0="0.3" pow0="1.5" frq1="43.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
 		<texture road="1" surf="roadGravel" dust="0" dustS="0.2" mud="0" smoke="0" tclr="0.5 0.44 0.3 0.1" />
