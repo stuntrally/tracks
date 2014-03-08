@@ -3,7 +3,7 @@
 	<sky material="sky/gray_clouds" rainName="RainFine" rainEmit="2600" rain2Name="RainFast" rain2Emit="2640" />
 	<fog color="0.63 0.66 0.7 0.8" color2="0.55 0.57 0.59 0.8" linStart="48.2912" linEnd="371.656" />
 	<fogH color="0.73 0.86 1 1" height="-300" dens="100" linStart="0" linEnd="400" />
-	<light sceneryId="T3" pitch="38.1558" yaw="45" ambient="0.6 0.6 0.6" diffuse="0.7 0.7 0.7" specular="0.5 0.5 0.5" />
+	<light sceneryId="T3" pitch="38.1558" yaw="45" ambient="0.5 0.5 0.5" diffuse="0.75 0.75 0.75" specular="0.7 0.7 0.7" />
 	<fluids />
 	<terrain size="513" triangle="1.05902" errNorm="1.70">
 		<texture on="1" file="gr_autumn_orn_d.jpg" fnorm="gr_autumn_n.jpg" scale="5.72122" surf="GrassForest" dust="0" dustS="0.2" mud="0.4" smoke="0" tclr="0.48 0.42 0.2 0.7" angMin="0" angMax="11.9765" angSm="4.83606" hMin="-300" hMax="300" hSm="20" nOn="0" noise="0.991228" n_1="0" n2="0">

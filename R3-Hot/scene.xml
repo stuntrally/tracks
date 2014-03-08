@@ -3,9 +3,9 @@
 	<sky material="sky/duskred" />
 	<fog color="1 0.05 0 0.3" color2="1 0 0 0.4" linStart="112.812" linEnd="315.02" />
 	<fogH color="2 1 0 1" height="108.772" dens="200" linStart="0" linEnd="99.5094" />
-	<light sceneryId="R3" pitch="64.9688" yaw="29.25" ambient="0.4 0.12 0.024" diffuse="1 0.17 0.15" specular="1 0.4 0" />
+	<light sceneryId="R3" pitch="64.9688" yaw="29.25" ambient="0.4 0.12 0.024" diffuse="1 0.17 0.15" specular="2 0.4 0" />
 	<fluids />
-	<terrain size="513" triangle="0.922457" errNorm="12.00">
+	<terrain size="513" triangle="0.922457" errNorm="12.00" emissive="1">
 		<texture on="1" file="adesert_mntn4_d.jpg" fnorm="adesert_mntn4_n.jpg" scale="11.2124" surf="DesertFast" dust="0.5" dustS="1" mud="0.7" smoke="0" tclr="0.25 0.1 0.08 0.8" angMin="0" angMax="18.317" angSm="5.06361" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
 			<noise frq0="24.5701" oct0="3" prs0="0.188388" pow0="1.06544" frq1="28.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
@@ -15,7 +15,7 @@
 		<texture on="1" file="adesert_mntn2_d.jpg" fnorm="desert_mntn2_n.jpg" scale="26" surf="DesertFast" dust="0.5" dustS="0.5" mud="1" smoke="0" tclr="0.2 0.08 0.03 0.8" angMin="44.7358" angMax="61.82" angSm="9.89247" hMin="-122.819" hMax="300" hSm="54.6448" nOn="0" noise="0" n_1="1" n2="0">
 			<noise frq0="30.2" oct0="3" prs0="0.3" pow0="1.5" frq1="34.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
-		<texture on="1" file="lava_mars_d.png" fnorm="lava_n.png" scale="32" surf="Rocks" dust="0.3" dustS="1" mud="0.8" smoke="0" tclr="0.15 0.06 0.03 0.9" angMin="64.638" angMax="90" angSm="23.6049" hMin="-173.154" hMax="111.745" hSm="53.5519" nOn="0" triplanar="1" noise="-0.382514" n_1="0" n2="0">
+		<texture on="1" file="lava_mars_d.jpg" fnorm="lava_n.jpg" scale="32" surf="Rocks" dust="0.3" dustS="1" mud="0.8" smoke="0" tclr="0.15 0.06 0.03 0.9" angMin="64.638" angMax="90" angSm="23.6049" hMin="-173.154" hMax="111.745" hSm="53.5519" nOn="0" triplanar="1" noise="-0.382514" n_1="0" n2="0">
 			<noise frq0="34.2" oct0="3" prs0="0.3" pow0="1.5" frq1="37.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
 		<texture on="0" file="volcano_7.png" fnorm="volcano_7_nh.png" scale="10.4" surf="Default" dust="0.5" dustS="1" mud="0.5" smoke="0" tclr="0.2 0.1 0.08 0.8" angMin="0" angMax="90" angSm="23.6066" hMin="-258.725" hMax="148.993" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
