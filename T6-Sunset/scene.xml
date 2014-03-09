@@ -6,10 +6,10 @@
 	<light sceneryId="T6" pitch="25.6395" yaw="25.1163" ambient="0.7 0.35 0.175" diffuse="0.8 0.8 0.6" specular="1 1 0.4" />
 	<fluids />
 	<terrain size="513" triangle="1.05902" errNorm="1.70">
-		<texture on="0" file="gr_autumn_orn_d.jpg" fnorm="gr_autumn_n.jpg" scale="4.2271" surf="Default" dust="0" dustS="0.2" mud="0.6" smoke="0" tclr="0.42 0.46 0.08 0.7" angMin="0" angMax="34.3421" angSm="11.0526" hMin="-300" hMax="300" hSm="20" nOn="0" noise="0.991228" n_1="0" n2="0">
+		<texture on="0" file="grass_autumn_orn_d.jpg" fnorm="grass_autumn_n.jpg" scale="4.2271" surf="Default" dust="0" dustS="0.2" mud="0.6" smoke="0" tclr="0.42 0.46 0.08 0.7" angMin="0" angMax="34.3421" angSm="11.0526" hMin="-300" hMax="300" hSm="20" nOn="0" noise="0.991228" n_1="0" n2="0">
 			<noise frq0="26.2" oct0="3" prs0="0.3" pow0="1.5" frq1="31.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
-		<texture on="1" file="gr_autumn_red_d.jpg" fnorm="gr_autumn_n.jpg" scale="5.31922" surf="Default" dust="0" dustS="0.2" mud="0.4" smoke="0" tclr="0.44 0.42 0.2 0.7" angMin="0" angMax="12.681" angSm="6.27982" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="1">
+		<texture on="1" file="grass_autumn_red_d.jpg" fnorm="grass_autumn_n.jpg" scale="5.31922" surf="Default" dust="0" dustS="0.2" mud="0.4" smoke="0" tclr="0.44 0.42 0.2 0.7" angMin="0" angMax="12.681" angSm="6.27982" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="1">
 			<noise frq0="41.9028" oct0="3" prs0="0.3" pow0="0.945705" frq1="28.5" oct1="3" prs1="0.4" pow1="4.72014" />
 		</texture>
 		<texture on="1" file="grass_mix_ylw_d.jpg" fnorm="grass_mix_n.jpg" scale="8.78464" surf="Default" dust="0" dustS="0.2" mud="0.8" smoke="0" tclr="0.18 0.36 0.04 0.7" angMin="14.2661" angMax="25.8904" angSm="2.93525" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
