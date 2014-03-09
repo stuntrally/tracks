@@ -9,16 +9,16 @@
 		<fluid name="grease jelly" pos="63.6428 -114.174 275.235" rot="0 0 0" size="297.515 20 330.296" tile="0.01 0.01" />
 	</fluids>
 	<terrain size="1025" triangle="1" errNorm="5.00" emissive="1">
-		<texture on="1" file="196_d.png" fnorm="196_n.png" scale="7.08998" surf="Default" dust="0" dustS="0.2" mud="0.02" smoke="0" tclr="0.22 0.2 0.4 0.9" angMin="0" angMax="22.1918" angSm="6.67018" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="1">
+		<texture on="1" file="desert_sand_bigx_d.jpg" fnorm="desert_sand_big_n.jpg" scale="7.08998" surf="Default" dust="0" dustS="0.2" mud="0.02" smoke="0" tclr="0.22 0.2 0.4 0.9" angMin="0" angMax="22.1918" angSm="6.67018" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="1">
 			<noise frq0="15.8812" oct0="4" prs0="0.673632" pow0="2.5252" frq1="28.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
 		<texture on="1" file="snow_rocky_d.jpg" fnorm="snow_rocky_n.jpg" scale="20.7114" surf="Default" dust="0" dustS="0.2" mud="0.02" smoke="0" tclr="0.2 0.2 0.4 1" angMin="49.9125" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="1" noise="0" n_1="0" n2="0">
 			<noise frq0="30.2" oct0="3" prs0="0.3" pow0="1.5" frq1="34.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
-		<texture on="1" file="80u_d.png" fnorm="80u_n.png" scale="30.2153" surf="Default" dust="0" dustS="0.2" mud="0.02" smoke="0" tclr="0.32 0.31 0.8 0.9" angMin="24.8337" angMax="49.4912" angSm="6.67018" hMin="-300" hMax="300" hSm="20" nOn="0" triplanar="1" noise="1" n_1="0.50193" n2="0">
+		<texture on="1" file="mntn_x1_d.jpg" fnorm="mntn_x1_n.jpg" scale="30.2153" surf="Default" dust="0" dustS="0.2" mud="0.02" smoke="0" tclr="0.32 0.31 0.8 0.9" angMin="24.8337" angMax="49.4912" angSm="6.67018" hMin="-300" hMax="300" hSm="20" nOn="0" triplanar="1" noise="1" n_1="0.50193" n2="0">
 			<noise frq0="26.2" oct0="3" prs0="0.3" pow0="1.5" frq1="31.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
-		<texture on="1" file="mntn_darku_d.png" fnorm="mntn_dark_n.jpg" scale="33.8311" surf="Default" dust="0" dustS="0.2" mud="0.02" smoke="0" tclr="0.2 0.2 0.4 1" angMin="51.6047" angMax="90" angSm="20.2544" hMin="-300" hMax="300" hSm="20" nOn="0" triplanar="1" noise="1" n_1="1" n2="0">
+		<texture on="1" file="mntn_darkx_d.jpg" fnorm="mntn_dark_n.jpg" scale="33.8311" surf="Default" dust="0" dustS="0.2" mud="0.02" smoke="0" tclr="0.2 0.2 0.4 1" angMin="51.6047" angMax="90" angSm="20.2544" hMin="-300" hMax="300" hSm="20" nOn="0" triplanar="1" noise="1" n_1="1" n2="0">
 			<noise frq0="34.2" oct0="3" prs0="0.3" pow0="1.5" frq1="37.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
 		<texture on="0" file="" fnorm="" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="0.1" smoke="0" tclr="0.2 0.2 0.4 1" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
