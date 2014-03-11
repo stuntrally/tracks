@@ -7,11 +7,11 @@
 	<fluids>
 		<fluid name="water sunset cyan" pos="0.104229 3.33022 -0.0285969" rot="0 0 0" size="8000 40 8000" tile="0.00892702 0.00868648" />
 	</fluids>
-	<terrain size="1025" triangle="1.38424" errNorm="15.00" normSc="0.8">
-		<texture on="1" file="island_sand_d.jpg" fnorm="desert_sand_n.jpg" scale="8.78464" surf="Default" dust="0.5" dustS="0.7" mud="0" smoke="0" tclr="0.5 0.5 0.2 0.7" angMin="0" angMax="13.5616" angSm="6.27982" hMin="-300" hMax="2.96804" hSm="16.4096" nOn="0" noise="1" n_1="0" n2="0">
-			<noise frq0="23.1238" oct0="3" prs0="0.555577" pow0="1.00342" frq1="28.5" oct1="3" prs1="0.4" pow1="1.2" />
+	<terrain size="1025" triangle="1.38424" errNorm="15.00">
+		<texture on="1" file="desert_wet_d.jpg" fnorm="desert_wet_n.jpg" scale="8.78464" surf="Default" dust="0.5" dustS="0.7" mud="0" smoke="0" tclr="0.5 0.5 0.2 0.7" angMin="0" angMax="13.5616" angSm="6.27982" hMin="-300" hMax="2.96804" hSm="16.4096" nOn="0" noise="1" n_1="0" n2="0">
+			<noise frq0="23.1238" oct0="3" prs0="0.555577" pow0="1.93495" frq1="28.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
-		<texture on="1" file="desert_cracks_d.jpg" fnorm="desert_cracks_n.jpg" scale="7.91529" surf="Default" dust="0" dustS="0.2" mud="0.1" smoke="0" tclr="0.3 0.3 0.1 0.7" angMin="12.5049" angMax="90" angSm="5.32895" hMin="-300" hMax="-8.44749" hSm="23.5538" nOn="0" noise="1" n_1="0" n2="1">
+		<texture on="1" file="island_sand_d.jpg" fnorm="desert_sand_n.jpg" scale="7.91529" surf="Default" dust="0" dustS="0.2" mud="0.1" smoke="0" tclr="0.3 0.3 0.1 0.7" angMin="12.5049" angMax="90" angSm="5.32895" hMin="-300" hMax="3.88128" hSm="6.27449" nOn="0" noise="0" n_1="0" n2="0">
 			<noise frq0="22.8066" oct0="3" prs0="0.3" pow0="1.5" frq1="34.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
 		<texture on="1" file="grass_green_d.jpg" fnorm="grass_green_n.jpg" scale="7.54848" surf="Default" dust="0" dustS="0.2" mud="0.5" smoke="0" tclr="0.2 0.2 0 0.7" angMin="0" angMax="27.8278" angSm="9.07895" hMin="7.53425" hMax="300" hSm="1.47211" nOn="0" noise="0" n_1="0" n2="0">

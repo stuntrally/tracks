@@ -7,7 +7,7 @@
 	<fluids>
 		<fluid name="water blue" pos="-0.259603 1.10156 -0.217508" rot="0 0 0" size="9600 40 9600" tile="0.01 0.01" />
 	</fluids>
-	<terrain size="513" triangle="1.816" errNorm="1.00" normSc="0.2">
+	<terrain size="513" triangle="1.816" errNorm="1.00" normSc="1.0">
 		<texture on="1" file="island_sand_d.jpg" fnorm="desert_sand_n.jpg" scale="12.7769" surf="Default" dust="0.6" dustS="0.7" mud="0" smoke="0" tclr="0.44 0.44 0.26 0.7" angMin="0" angMax="12.8571" angSm="5.65536" hMin="-300" hMax="300" hSm="4.14214" nOn="0" noise="1" n_1="0" n2="1">
 			<noise frq0="22.2" oct0="3" prs0="0.461644" pow0="0.926946" frq1="28.5" oct1="2" prs1="0.525049" pow1="4.93172" />
 		</texture>
