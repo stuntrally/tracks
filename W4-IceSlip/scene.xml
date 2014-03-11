@@ -6,13 +6,13 @@
 	<light sceneryId="W1" pitch="48.5269" yaw="45" ambient="0.4 0.4 0.4" diffuse="0.6 0.6 0.6" specular="0.5 0.5 0.5" />
 	<fluids />
 	<terrain size="257" triangle="1.3" errNorm="1.70">
-		<texture on="1" file="snow1_d.png" fnorm="snow1_n.png" scale="5.98392" surf="SnowDeep" dust="1" dustS="0.8" mud="1" smoke="0" tclr="0.4 0.4 0.4 0.6" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="1">
+		<texture on="1" file="snow1_d.jpg" fnorm="snow1_n.jpg" scale="5.98392" surf="SnowDeep" dust="1" dustS="0.8" mud="1" smoke="0" tclr="0.4 0.4 0.4 0.6" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="1">
 			<noise frq0="32.5534" oct0="3" prs0="0.215983" pow0="1.99302" frq1="55.418" oct1="3" prs1="0.188388" pow1="2.26616" />
 		</texture>
-		<texture on="1" file="snow2_d.png" fnorm="snow2_n.png" scale="6.75459" surf="SnowDeep" dust="1" dustS="0.8" mud="1" smoke="0" tclr="0.4 0.4 0.4 0.6" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="1" triplanar="1" noise="0" n_1="0" n2="0">
+		<texture on="1" file="snow2_d.jpg" fnorm="snow2_n.jpg" scale="6.75459" surf="SnowDeep" dust="1" dustS="0.8" mud="1" smoke="0" tclr="0.4 0.4 0.4 0.6" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="1" triplanar="1" noise="0" n_1="0" n2="0">
 			<noise frq0="26.2" oct0="3" prs0="0.3" pow0="1.5" frq1="31.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
-		<texture on="1" file="snow_bumpy_d.png" fnorm="snow_bumpy_n.png" scale="9.5" surf="SnowDeep" dust="1" dustS="0.8" mud="1" smoke="0" tclr="0.4 0.4 0.4 0.6" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="1" noise="1" n_1="0" n2="0">
+		<texture on="1" file="snow_bumpy_d.jpg" fnorm="snow_bumpy_n.jpg" scale="9.5" surf="SnowDeep" dust="1" dustS="0.8" mud="1" smoke="0" tclr="0.4 0.4 0.4 0.6" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="1" noise="1" n_1="0" n2="0">
 			<noise frq0="30.2" oct0="3" prs0="0.3" pow0="1.5" frq1="34.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
 		<texture on="0" file="" fnorm="" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">

@@ -6,14 +6,14 @@
 	<light sceneryId="W13" pitch="90" yaw="100.465" ambient="0.5 0.5 0.5" diffuse="0.5 0.5 0.5" specular="0.5 0.5 0.5" />
 	<fluids />
 	<terrain size="513" triangle="1.05902" errNorm="1.70">
-		<texture on="1" file="snow1_d.png" fnorm="snow1_n.png" scale="22.7076" surf="SnowDeep" dust="0.8" dustS="1" mud="0.3" smoke="0" tclr="0.7 0.7 0.7 0.8" angMin="0" angMax="10.0391" angSm="4.50454" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
+		<texture on="1" file="snow1_d.jpg" fnorm="snow1_n.jpg" scale="22.7076" surf="SnowDeep" dust="0.8" dustS="1" mud="0.3" smoke="0" tclr="0.7 0.7 0.7 0.8" angMin="0" angMax="10.0391" angSm="4.50454" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
 			<noise frq0="30.2" oct0="3" prs0="0.3" pow0="1.5" frq1="34.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
-		<texture on="1" file="snow_bumpy_d.png" fnorm="snow_bumpy_n.png" scale="13.6089" surf="SnowMedium" dust="0.1" dustS="0.4" mud="1" smoke="0" tclr="0.6 0.6 0.5 0.7" angMin="9.51076" angMax="22.8963" angSm="1.97797" hMin="-300" hMax="-8.90411" hSm="12.2137" nOn="0" noise="0" n_1="0" n2="0">
-			<noise frq0="26.2" oct0="3" prs0="0.3" pow0="1.5" frq1="31.5" oct1="3" prs1="0.4" pow1="1.2" />
+		<texture on="1" file="snow_bumpy_d.jpg" fnorm="snow_bumpy_n.jpg" scale="13.6089" surf="SnowMedium" dust="0.1" dustS="0.4" mud="1" smoke="0" tclr="0.6 0.6 0.5 0.7" angMin="9.51076" angMax="22.8963" angSm="1.97797" hMin="-300" hMax="-8.90411" hSm="12.2137" nOn="0" noise="0" n_1="0" n2="0">
+			<noise frq0="19.179" oct0="3" prs0="0.3" pow0="1.04309" frq1="31.5" oct1="3" prs1="0.4" pow1="0.535633" />
 		</texture>
-		<texture on="1" file="mntn_ice2_d.png" fnorm="mntn_ice_n.png" scale="14.2423" surf="Rocks" dust="0" dustS="0.1" mud="0.2" smoke="0" tclr="0.6 0.6 0.6 0.7" angMin="22.8963" angMax="47.0254" angSm="7.07231" hMin="-300" hMax="300" hSm="28.4987" nOn="0" noise="1" n_1="0" n2="0">
-			<noise frq0="34.2" oct0="3" prs0="0.3" pow0="1.5" frq1="37.5" oct1="3" prs1="0.4" pow1="1.2" />
+		<texture on="1" file="snow_mntn2_d.jpg" fnorm="snow_mntn2_n.jpg" scale="14.2423" surf="Rocks" dust="0" dustS="0.1" mud="0.2" smoke="0" tclr="0.6 0.6 0.6 0.7" angMin="22.8963" angMax="47.0254" angSm="7.07231" hMin="-300" hMax="300" hSm="28.4987" nOn="0" noise="0" n_1="1" n2="0">
+			<noise frq0="34.4828" oct0="3" prs0="0.3" pow0="1.5" frq1="37.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
 		<texture on="1" file="mntn_white_d.jpg" fnorm="jungle_stone_n.jpg" scale="30.6018" surf="Rocks" dust="0" dustS="0" mud="1" smoke="0" tclr="0.4 0.4 0.4 0.7" angMin="51.9569" angMax="90" angSm="1.20901" hMin="-300" hMax="300" hSm="20" nOn="0" triplanar="1" noise="0.763158" n_1="0" n2="0">
 			<noise frq0="22.2" oct0="3" prs0="0.3" pow0="1.5" frq1="28.5" oct1="3" prs1="0.4" pow1="1.2" />
@@ -49,6 +49,6 @@
 		<layer on="0" name="" dens="0.0999996" minScale="0.0999983" maxScale="0.249999" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 	</paged>
-	<cam pos="94.6449 2.69664 87.651" dir="-0.262217 -0.0196045 0.96481" />
+	<cam pos="94.6449 2.69668 87.651" dir="-0.262217 -0.0196045 0.96481" />
 	<objects />
 </scene>

@@ -6,13 +6,13 @@
 	<light sceneryId="W1" pitch="48.5266" yaw="45" ambient="0.45 0.45 0.45" diffuse="0.6 0.62 0.62" specular="0.5 0.5 0.5" />
 	<fluids />
 	<terrain size="513" triangle="1.6" errNorm="1.70">
-		<texture on="1" file="snow1_d.png" fnorm="snow1_n.png" scale="10.6571" surf="SnowDeep" dust="1" dustS="0.8" mud="1" smoke="0" tclr="0.4 0.4 0.4 0.6" angMin="0" angMax="15.3229" angSm="8.95089" hMin="-300" hMax="-21.2329" hSm="27.9181" nOn="0" noise="1" n_1="0" n2="1">
+		<texture on="1" file="snow1_d.jpg" fnorm="snow1_n.jpg" scale="10.6571" surf="SnowDeep" dust="1" dustS="0.8" mud="1" smoke="0" tclr="0.4 0.4 0.4 0.6" angMin="0" angMax="15.3229" angSm="8.95089" hMin="-300" hMax="-21.2329" hSm="27.9181" nOn="0" noise="1" n_1="0" n2="1">
 			<noise frq0="31.7976" oct0="3" prs0="0.495695" pow0="1.78019" frq1="13.385" oct1="3" prs1="0.1" pow1="8" />
 		</texture>
-		<texture on="1" file="snow2_d.png" fnorm="snow2_n.png" scale="9.63486" surf="SnowMedium" dust="1" dustS="0.8" mud="1" smoke="0" tclr="0.4 0.4 0.4 0.6" angMin="0" angMax="22.3679" angSm="3.1131" hMin="-300" hMax="300" hSm="20" nOn="1" noise="0" n_1="0" n2="0">
+		<texture on="1" file="snow2_d.jpg" fnorm="snow2_n.jpg" scale="9.63486" surf="SnowMedium" dust="1" dustS="0.8" mud="1" smoke="0" tclr="0.4 0.4 0.4 0.6" angMin="0" angMax="22.3679" angSm="3.1131" hMin="-300" hMax="300" hSm="20" nOn="1" noise="0" n_1="0" n2="0">
 			<noise frq0="25.3" oct0="3" prs0="0.3" pow0="2.99702" frq1="34.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
-		<texture on="1" file="snow_mud_d.png" fnorm="snow_mud_n.png" scale="9.5" surf="SnowDeep" dust="1" dustS="0.8" mud="1" smoke="0" tclr="0.4 0.4 0.4 0.6" angMin="0" angMax="20.9589" angSm="4.83606" hMin="-300" hMax="300" hSm="20" nOn="1" triplanar="1" noise="0" n_1="0" n2="0">
+		<texture on="1" file="snow_mud_d.jpg" fnorm="snow_mud_n.jpg" scale="9.5" surf="SnowDeep" dust="1" dustS="0.8" mud="1" smoke="0" tclr="0.4 0.4 0.4 0.6" angMin="0" angMax="20.9589" angSm="4.83606" hMin="-300" hMax="300" hSm="20" nOn="1" triplanar="1" noise="0" n_1="0" n2="0">
 			<noise frq0="7.44098" oct0="3" prs0="0.391194" pow0="4.37827" frq1="31.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
 		<texture on="1" file="snow_mntn_d.jpg" fnorm="snow_mntn_n.jpg" scale="62.0185" surf="SnowDeep" dust="0" dustS="0.8" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="0" angMax="90" angSm="9.25952" hMin="18.0365" hMax="300" hSm="20" nOn="0" triplanar="1" noise="1" n_1="0.525097" n2="0">

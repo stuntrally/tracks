@@ -9,16 +9,16 @@
 		<fluid name="water white" pos="-148.719 -7.19418 210.021" rot="0 0 0" size="178.323 20 207.359" tile="0.01 0.01" />
 	</fluids>
 	<terrain size="1025" triangle="1.15336" errNorm="10.00">
-		<texture on="1" file="snow_grass2_d.png" fnorm="snow_grass2_n.png" scale="8.24913" surf="SnowMedium" dust="0.4" dustS="0.6" mud="1" smoke="0" tclr="0.4 0.4 0.4 0.6" angMin="0" angMax="10.7436" angSm="5.90122" hMin="-300" hMax="27.6256" hSm="14.1176" nOn="0" noise="1.0027" n_1="0" n2="0">
+		<texture on="1" file="snow_grass2_d.jpg" fnorm="snow_grass2_n.jpg" scale="8.24913" surf="SnowMedium" dust="0.4" dustS="0.6" mud="1" smoke="0" tclr="0.4 0.4 0.4 0.6" angMin="0" angMax="10.7436" angSm="5.90122" hMin="-300" hMax="30.3653" hSm="2.45097" nOn="0" noise="1.0027" n_1="0" n2="0">
 			<noise frq0="17.2152" oct0="4" prs0="0.53092" pow0="1.16783" frq1="31.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
-		<texture on="1" file="snow_rough_d.png" fnorm="snow_rough_n.png" scale="8.97266" surf="SnowWet" dust="0.4" dustS="0.6" mud="1" smoke="0" tclr="0.4 0.4 0.4 0.6" angMin="11.9765" angMax="90" angSm="5.65536" hMin="-300" hMax="24.4292" hSm="15.7816" nOn="0" noise="1.0027" n_1="0" n2="0">
+		<texture on="1" file="snow_rough_d.jpg" fnorm="snow_rough_n.jpg" scale="12.1437" surf="SnowWet" dust="0.4" dustS="0.6" mud="1" smoke="0" tclr="0.4 0.4 0.4 0.6" angMin="11.9765" angMax="90" angSm="5.65536" hMin="-300" hMax="24.4292" hSm="15.7816" nOn="0" noise="1.0027" n_1="0" n2="0">
 			<noise frq0="22.2" oct0="4" prs0="0.594325" pow0="1.56798" frq1="28.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
-		<texture on="1" file="snow_mntn_d.jpg" fnorm="snow_mntn_n.jpg" scale="33.0005" surf="SnowWet" dust="0" dustS="0.8" mud="1" smoke="0" tclr="0.4 0.4 0.4 0.6" angMin="0" angMax="90" angSm="19.1447" hMin="50" hMax="58.6758" hSm="60.9683" nOn="0" triplanar="1" noise="1" n_1="0" n2="0">
-			<noise frq0="30.2" oct0="3" prs0="0.3" pow0="1.5" frq1="34.5" oct1="3" prs1="0.4" pow1="1.2" />
+		<texture on="1" file="snow_mntn_d.jpg" fnorm="snow_mntn_n.jpg" scale="30.2153" surf="SnowWet" dust="0" dustS="0.8" mud="1" smoke="0" tclr="0.4 0.4 0.4 0.6" angMin="0" angMax="90" angSm="19.1447" hMin="50" hMax="69.1781" hSm="60.9683" nOn="0" triplanar="1" noise="1" n_1="0" n2="0">
+			<noise frq0="30.2" oct0="3" prs0="0.3" pow0="1.97841" frq1="34.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
-		<texture on="1" file="snow1c_d.png" fnorm="snow2_n.png" scale="14.9262" surf="SnowWet" dust="0.4" dustS="0.6" mud="1" smoke="0" tclr="0.4 0.4 0.4 0.6" angMin="0" angMax="90" angSm="19.3421" hMin="69.1781" hMax="300" hSm="18.8596" nOn="0" noise="1" n_1="0" n2="0">
+		<texture on="1" file="snow2ice_d.jpg" fnorm="snow2_n.jpg" scale="14.9262" surf="SnowWet" dust="0.4" dustS="0.6" mud="1" smoke="0" tclr="0.4 0.4 0.4 0.6" angMin="0" angMax="90" angSm="19.3421" hMin="71.9178" hMax="300" hSm="18.8596" nOn="0" noise="1" n_1="0.490348" n2="0">
 			<noise frq0="34.2" oct0="3" prs0="0.3" pow0="1.5" frq1="37.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
 		<texture on="0" file="" fnorm="" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
@@ -52,7 +52,7 @@
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 	</paged>
-	<cam pos="-239.925 145.747 -474.057" dir="0.0462134 -0.230589 0.971953" />
+	<cam pos="-239.918 145.752 -474.056" dir="0.0462134 -0.230589 0.971953" />
 	<objects>
 		<o name="rock_n4r-W" pos="-138.395 -273.066 -6.96946" rot="-0.648583 0.694372 -0.212815 -0.227838" sc="4.71813 2.54018 4.71813" />
 		<o name="rock_n4r-W" pos="-143.07 -253.105 -9.73075" rot="-0.973071 -0.127845 0.190197 -0.0249883" sc="2.01852 2.19001 2.01852" />
