@@ -12,7 +12,7 @@
 		<texture on="1" file="grass_ground_d.jpg" fnorm="grass_ground_n.jpg" scale="9.5" surf="GrassForest" dust="0" dustS="0.2" mud="0.6" smoke="0" tclr="0.15 0.2 0.1 0.9" angMin="0" angMax="6.16438" angSm="2.43307" hMin="-300" hMax="300" hSm="28.1253" nOn="0" noise="1" n_1="0" n2="0">
 			<noise frq0="106.822" oct0="4" prs0="0.626027" pow0="3.37459" frq1="31.5" oct1="3" prs1="0.4" pow1="1.75282" />
 		</texture>
-		<texture on="0" file="snow_rocky_d.jpg" fnorm="snow_rocky_n.jpg" scale="37.3116" surf="SnowMedium" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="1" noise="0" n_1="0" n2="0">
+		<texture on="0" file="snow_mntn_d.jpg" fnorm="snow_mntn_n.jpg" scale="37.3116" surf="SnowMedium" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="1" noise="0" n_1="0" n2="0">
 			<noise frq0="38.2" oct0="3" prs0="0.3" pow0="1.5" frq1="40.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
 		<texture on="1" file="mntn_gray_d.jpg" fnorm="mntn_dark_n.jpg" scale="17.7698" surf="Rocks" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.23 0.23 0.1 0.8" angMin="7.92564" angMax="19.3738" angSm="5.41474" hMin="-300" hMax="300" hSm="0" nOn="0" noise="0" n_1="0.196911" n2="0">
