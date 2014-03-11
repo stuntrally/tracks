@@ -3,22 +3,22 @@
 	<sky material="sky/dayovercast" rainName="RainFine" rainEmit="237" />
 	<fog color="0.7 0.8 0.9 1" color2="0.7 0.8 0.9 1" linStart="212.383" linEnd="730.785" />
 	<fogH color="0.73 0.86 1 1" height="-300" dens="100" linStart="0" linEnd="400" />
-	<light sceneryId="I8" pitch="37.388" yaw="120.895" ambient="0.365 0.455 0.563" diffuse="0.75 0.85 0.9" specular="0.5 0.7 0.9" />
+	<light sceneryId="I8" pitch="37.388" yaw="120.895" ambient="0.365 0.455 0.563" diffuse="0.75 0.85 0.9" specular="0.75 0.8 0.8" />
 	<fluids>
 		<fluid name="water shore" pos="-0.462203 -11.9514 -0.303303" rot="0 0 0" size="8000 40 8000" tile="0.01 0.01" />
 	</fluids>
 	<terrain size="513" triangle="1.65043" errNorm="1.70" normSc="0.5">
-		<texture on="1" file="island_sand_d.jpg" fnorm="desert_sand_n.jpg" scale="14.1399" surf="Default" dust="0.7" dustS="0.6" mud="0" smoke="0" tclr="0.44 0.44 0.26 0.5" angMin="0" angMax="8.80626" angSm="3.87682" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
-			<noise frq0="9.66698" oct0="4" prs0="0.7" pow0="1.60661" frq1="20.9516" oct1="3" prs1="0.4" pow1="2.5252" />
+		<texture on="1" file="island_sand_d.jpg" fnorm="desert_sand_n.jpg" scale="14.1399" surf="Default" dust="0.7" dustS="0.6" mud="0" smoke="0" tclr="0.44 0.44 0.26 0.5" angMin="0" angMax="8.80626" angSm="3.87682" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="1">
+			<noise frq0="9.66698" oct0="4" prs0="0.7" pow0="1.60661" frq1="20.9516" oct1="3" prs1="0.4" pow1="5.19689" />
 		</texture>
-		<texture on="1" file="desert_cracks_d.jpg" fnorm="desert_cracks_n.jpg" scale="10.3534" surf="Default" dust="0.3" dustS="0.5" mud="0.1" smoke="0" tclr="0.34 0.3 0.23 0.5" angMin="9.86301" angMax="20.6067" angSm="4.39666" hMin="-300" hMax="300" hSm="20" nOn="0" noise="0" n_1="0.281853" n2="0">
+		<texture on="1" file="desert_wet_d.jpg" fnorm="desert_wet_n.jpg" scale="10.3534" surf="Default" dust="0.3" dustS="0.5" mud="0.1" smoke="0" tclr="0.34 0.3 0.23 0.5" angMin="9.86301" angMax="20.6067" angSm="4.39666" hMin="-300" hMax="300" hSm="20" nOn="0" noise="0" n_1="0" n2="0">
 			<noise frq0="20.3516" oct0="4" prs0="0.478082" pow0="4.83709" frq1="31.5" oct1="3" prs1="0.4" pow1="1.2" />
+		</texture>
+		<texture on="1" file="desert_cracks_d.jpg" fnorm="desert_cracks_n.jpg" scale="9.29686" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="1" noise="0" n_1="0" n2="0">
+			<noise frq0="34.2" oct0="3" prs0="0.3" pow0="1.5" frq1="37.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
 		<texture on="1" file="desert_mntn_d.jpg" fnorm="desert_mntn_n.jpg" scale="23.8844" surf="Default" dust="0.4" dustS="0.6" mud="0.2" smoke="0" tclr="0.38 0.22 0.04 0.5" angMin="22.0157" angMax="90" angSm="9.25952" hMin="-300" hMax="300" hSm="20" nOn="0" triplanar="1" noise="1" n_1="1" n2="0">
 			<noise frq0="30.2" oct0="3" prs0="0.3" pow0="1.5" frq1="34.5" oct1="3" prs1="0.4" pow1="1.2" />
-		</texture>
-		<texture on="0" file="desert_mntn_d.jpg" fnorm="desert_mntn_n.jpg" scale="27.4355" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="48.2583" angMax="90" angSm="11.741" hMin="-300" hMax="300" hSm="20" nOn="0" triplanar="1" noise="1" n_1="0" n2="0">
-			<noise frq0="34.2" oct0="3" prs0="0.3" pow0="1.5" frq1="37.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
 		<texture on="0" file="" fnorm="" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
 			<noise frq0="38.2" oct0="3" prs0="0.3" pow0="1.5" frq1="40.5" oct1="3" prs1="0.4" pow1="1.2" />
@@ -51,7 +51,7 @@
 		<layer on="0" name="" dens="0.0999996" minScale="0.0999983" maxScale="0.249999" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="30" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="30" minTerH="-100" maxTerH="100" maxDepth="5" />
 	</paged>
-	<cam pos="234.935 45.9223 -61.435" dir="-0.991793 -0.127121 0.0136777" />
+	<cam pos="234.692 45.7969 -61.4317" dir="-0.991793 -0.127121 0.0136777" />
 	<objects>
 		<o name="pyramid_big" pos="-90.8151 150.189 2.25628" rot="0 -1 0 0" sc="1.24155 1.24155 1.24155" />
 		<o name="pyramid_small" pos="110.183 160.241 1.41912" rot="0 -1 0 0" sc="1.35455 1.35455 1.35455" />
