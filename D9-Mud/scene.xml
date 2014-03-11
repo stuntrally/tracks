@@ -8,7 +8,7 @@
 		<fluid name="mud easy med" pos="93.4905 -8.93704 -13.7254" rot="0 0 0" size="101.157 20 107.611" tile="0.01 0.01" />
 		<fluid name="mud easy soft" pos="-124.1 -9.18731 -5.40631" rot="0 0 0" size="52.8634 20 170.067" tile="0.01 0.01" />
 	</fluids>
-	<terrain size="513" triangle="1" errNorm="1.70" normSc="0.4">
+	<terrain size="513" triangle="1" errNorm="1.70">
 		<texture on="0" file="desert_sand2_d.jpg" fnorm="desert_sand2_n.jpg" scale="16.2057" surf="DesertFast" dust="0.9" dustS="1" mud="0.1" smoke="0" tclr="0.48 0.46 0.08 0.7" angMin="4.93151" angMax="14.2661" angSm="2.12444" hMin="-147.704" hMax="280.263" hSm="20" nOn="0" noise="0" n_1="0" n2="0">
 			<noise frq0="43.2116" oct0="5" prs0="0.7" pow0="2" frq1="31.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
