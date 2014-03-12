@@ -4,7 +4,7 @@
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="300" lodPntLen="20" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 6.704 20.392" iDir="-1" iChk1="142" />
 	<stats length="2086.61" width="8.20973" height="104.617" onTer="40.1508" pipes="0" bnkAvg="11.1168" bnkMax="38.4" />
-	<txt desc="Long, very high and madly twisted stunt track with stretched high loop." />
+	<txt desc="Very banked and madly twisted stunt track with stretched high loop." />
 	<P pos="34.5356 0 74.1391" w="8.01601" aT="2" chkR="1.724" />
 	<P pos="45.6128 0 56.7733" w="8.01601" aT="2" />
 	<P pos="52.0342 0 45.9733" w="8.01601" aT="2" />

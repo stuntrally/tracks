@@ -1,5 +1,5 @@
 <SplineRoad>
-	<mtr road="roadIce" />
+	<mtr road="roadSnow" />
 	<dim tcMul="0.05" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="8" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="200" lodPntLen="10" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 4.596 15.376" iDir="-1" iChk1="59" />
