@@ -30,9 +30,9 @@
 	<paged densGrass="0.147041" densTrees="0.04" grPage="80" grDist="80" grDensSmooth="6" trPage="200" trDist="200" trDistImp="800" trRdDist="2">
 		<grass on="1" mtr="grassSavanna" clr="grClrSmall.png" dens="0.121464" chan="0" minSx="1.32408" maxSx="1.7297" minSy="1.11832" maxSy="1.47652" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
 		<grass on="1" mtr="grass2" clr="grClrSavanna.png" dens="0.024645" chan="0" minSx="1.31067" maxSx="1.68347" minSy="1.57818" maxSy="2.08978" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
-		<grass on="1" mtr="grass3y" clr="grClrJungle2.png" dens="0.0773504" chan="0" minSx="1.48959" maxSx="2.01575" minSy="1.6173" maxSy="2.42007" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
-		<grass on="1" mtr="grass16g" clr="grClrForest2.png" dens="0.060455" chan="0" minSx="1.53417" maxSx="2.1757" minSy="1.37848" maxSy="2.03793" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
-		<grass on="1" mtr="grass12y-" clr="grClrForest2.png" dens="0.55694" chan="0" minSx="1.07369" maxSx="2.68975" minSy="1.03487" maxSy="1.66664" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
+		<grass on="1" mtr="grass3s" clr="grClrJungle2.png" dens="0.0773504" chan="0" minSx="1.48959" maxSx="2.01575" minSy="1.6173" maxSy="2.42007" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
+		<grass on="1" mtr="grass16s" clr="grClrForest2.png" dens="0.060455" chan="0" minSx="1.53417" maxSx="2.1757" minSy="1.37848" maxSy="2.03793" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
+		<grass on="1" mtr="grass12s" clr="grClrForest2.png" dens="0.55694" chan="0" minSx="1.07369" maxSx="2.68975" minSy="1.03487" maxSy="1.66664" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
 		<grass on="0" mtr="grassJungle" clr="grClrJungle.png" dens="0.1" chan="0" minSx="0.6" maxSx="0.85" minSy="0.6" maxSy="0.9" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
 		<gchan amin="0" amax="21.1051" asm="4.97272" hmin="-200" hmax="200" hsm="20" ns="0" frq="25" oct="3" prs="0.3" pow="1.2" rd="0" />
 		<gchan amin="0" amax="30" asm="20" hmin="-100" hmax="100" hsm="20" ns="0" frq="37" oct="3" prs="0.3" pow="1.2" rd="0" />

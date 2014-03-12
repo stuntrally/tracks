@@ -30,7 +30,7 @@
 	<paged densGrass="0.2" densTrees="0.4" grPage="80" grDist="80" grDensSmooth="6" trPage="200" trDist="200" trDistImp="800" trRdDist="3">
 		<grass on="1" mtr="grassSavanna" clr="grClrDesert.png" dens="0.150475" chan="0" minSx="1.13063" maxSx="1.57818" minSy="1.04604" maxSy="1.54877" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
 		<grass on="1" mtr="grass2g" clr="grClrAustralia.png" dens="0.0925859" chan="0" minSx="1.38244" maxSx="1.73366" minSy="1.39749" maxSy="2.20346" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
-		<grass on="1" mtr="grass3y" clr="grClrDesert.png" dens="0.165594" chan="0" minSx="1.33784" maxSx="1.68326" minSy="1.75063" maxSy="2.50147" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
+		<grass on="1" mtr="grass3s" clr="grClrDesert.png" dens="0.165594" chan="0" minSx="1.33784" maxSx="1.68326" minSy="1.75063" maxSy="2.50147" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
 		<grass on="1" mtr="grass8g" clr="grClrAustralia.png" dens="0.0615311" chan="0" minSx="1.68347" maxSx="2.24636" minSy="1.44814" maxSy="2.12348" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
 		<grass on="1" mtr="grass12w" clr="grClrJungle2.png" dens="0.55694" chan="0" minSx="1.07369" maxSx="2.68975" minSy="1.03487" maxSy="1.8719" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
 		<grass on="0" mtr="grassJungle" clr="grClrJungle.png" dens="0.1" chan="0" minSx="0.6" maxSx="0.85" minSy="0.6" maxSy="0.9" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />

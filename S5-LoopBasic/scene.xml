@@ -15,7 +15,7 @@
 		<texture on="1" file="savanna_yellow_d.png" fnorm="savanna_yellow_n.png" scale="8.72303" surf="Default" dust="0" dustS="0.2" mud="0.8" smoke="0" tclr="0.18 0.36 0.04 0.7" angMin="17.3684" angMax="33.5526" angSm="11.741" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1.07143" n_1="0" n2="0">
 			<noise frq0="30.2" oct0="3" prs0="0.3" pow0="1.5" frq1="34.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
-		<texture on="1" file="mntn_green_d.jpg" fnorm="mntn_green_n.jpg" scale="20.5694" surf="Rocks" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="33.9474" angMax="90" angSm="6.40863" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
+		<texture on="1" file="mntn_white_d.jpg" fnorm="jungle_stone_n.jpg" scale="20.5694" surf="Rocks" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="33.9474" angMax="90" angSm="6.40863" hMin="-300" hMax="300" hSm="20" nOn="0" triplanar="1" noise="1" n_1="0" n2="0">
 			<noise frq0="34.2" oct0="3" prs0="0.3" pow0="1.5" frq1="37.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
 		<texture on="0" file="" fnorm="" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
@@ -29,8 +29,8 @@
 	</terrain>
 	<paged densGrass="0.13" densTrees="0.04" grPage="80" grDist="80" grDensSmooth="6" trPage="200" trDist="200" trDistImp="800" trRdDist="2">
 		<grass on="0" mtr="grassSavanna" clr="grClrSavanna.png" dens="0.758969" chan="0" minSx="0.7" maxSx="1.05" minSy="0.7" maxSy="1.2" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
-		<grass on="1" mtr="grass18gw" clr="grClrDark3.png" dens="0.0925859" chan="0" minSx="1.23173" maxSx="1.79237" minSy="1.04772" maxSy="1.62286" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
-		<grass on="1" mtr="grass3y" clr="grClrDark3.png" dens="0.0773504" chan="0" minSx="1.00943" maxSx="1.44314" minSy="1.12667" maxSy="2.50147" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
+		<grass on="1" mtr="grass18s" clr="grClrDark3.png" dens="0.0925859" chan="0" minSx="1.23173" maxSx="1.79237" minSy="1.04772" maxSy="1.62286" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
+		<grass on="1" mtr="grass3s" clr="grClrDark3.png" dens="0.0773504" chan="0" minSx="1.00943" maxSx="1.44314" minSy="1.12667" maxSy="2.50147" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
 		<grass on="0" mtr="grass5" clr="grClrJungle.png" dens="0.1" chan="0" minSx="0.6" maxSx="0.85" minSy="0.6" maxSy="0.9" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
 		<grass on="1" mtr="grass12w" clr="grClrDark3.png" dens="0.55694" chan="0" minSx="1.07369" maxSx="2.24636" minSy="1.03487" maxSy="1.8719" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
 		<grass on="1" mtr="grass17" clr="grClrJungle.png" dens="0.0500584" chan="0" minSx="1.97926" maxSx="2.08978" minSy="2.56344" maxSy="2.88514" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />

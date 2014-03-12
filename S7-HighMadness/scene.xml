@@ -33,11 +33,11 @@
 	</terrain>
 	<paged densGrass="0.208064" densTrees="0.379973" grPage="90" grDist="90" grDensSmooth="6" trPage="150" trDist="150" trDistImp="800" trRdDist="2">
 		<grass on="0" mtr="grassSavanna" clr="grClrSavanna.png" dens="0.0955799" chan="0" minSx="0.7" maxSx="1.05" minSy="0.7" maxSy="1.2" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
-		<grass on="1" mtr="grass16g" clr="grClrSmall.png" dens="0.0763985" chan="0" minSx="1.76089" maxSx="2.10623" minSy="2.00423" maxSy="2.54081" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
-		<grass on="1" mtr="grass3y" clr="grClrJungle.png" dens="0.0773504" chan="0" minSx="1.00943" maxSx="1.44314" minSy="1.12667" maxSy="2.50147" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
+		<grass on="1" mtr="grass16s" clr="grClrSmall.png" dens="0.0763985" chan="0" minSx="1.76089" maxSx="2.10623" minSy="2.00423" maxSy="2.54081" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
+		<grass on="1" mtr="grass3s" clr="grClrJungle.png" dens="0.0773504" chan="0" minSx="1.00943" maxSx="1.44314" minSy="1.12667" maxSy="2.50147" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
 		<grass on="1" mtr="grass12w" clr="grClrJungle2.png" dens="0.1" chan="0" minSx="1.28406" maxSx="2.26421" minSy="1.32408" maxSy="1.85623" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
-		<grass on="1" mtr="grass12y-" clr="grClrForest2.png" dens="0.55694" chan="0" minSx="1.07369" maxSx="2.28213" minSy="1.03487" maxSy="1.8719" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
-		<grass on="1" mtr="grass18gw" clr="grClrJungle.png" dens="0.0889448" chan="0" minSx="1.53417" maxSx="1.87238" minSy="1.62286" maxSy="2.22858" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
+		<grass on="1" mtr="grass12s" clr="grClrForest2.png" dens="0.55694" chan="0" minSx="1.07369" maxSx="2.28213" minSy="1.03487" maxSy="1.8719" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
+		<grass on="1" mtr="grass18s" clr="grClrJungle.png" dens="0.0889448" chan="0" minSx="1.53417" maxSx="1.87238" minSy="1.62286" maxSy="2.22858" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
 		<gchan amin="0" amax="17" asm="4.97272" hmin="-200" hmax="200" hsm="20" ns="0" frq="25" oct="3" prs="0.3" pow="1.2" rd="0" />
 		<gchan amin="0" amax="30" asm="20" hmin="-100" hmax="100" hsm="20" ns="0" frq="34" oct="3" prs="0.3" pow="1.2" rd="0" />
 		<gchan amin="0" amax="30" asm="20" hmin="-100" hmax="100" hsm="20" ns="0" frq="43" oct="3" prs="0.3" pow="1.2" rd="0" />
