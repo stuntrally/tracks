@@ -13,7 +13,7 @@
 		<texture on="1" file="grass_green_d.jpg" fnorm="grass_green_n.jpg" scale="9.47566" surf="Default" dust="0" dustS="0.2" mud="0.8" smoke="0" tclr="0.18 0.36 0.04 0.7" angMin="0" angMax="20.7828" angSm="10.2168" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
 			<noise frq0="22.2" oct0="3" prs0="0.3" pow0="1.5" frq1="28.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
-		<texture on="1" file="savanna_43_d.png" fnorm="savanna_43_n.png" scale="8.97266" surf="Default" dust="0" dustS="0.2" mud="0.6" smoke="0" tclr="0.42 0.46 0.08 0.7" angMin="25.7143" angMax="41.0738" angSm="12.2726" hMin="-300" hMax="300" hSm="20" nOn="0" noise="0.660232" n_1="0" n2="0">
+		<texture on="1" file="savanna_dry_d.jpg" fnorm="savanna_dry_n.jpg" scale="8.97266" surf="Default" dust="0" dustS="0.2" mud="0.6" smoke="0" tclr="0.42 0.46 0.08 0.7" angMin="25.7143" angMax="41.0738" angSm="12.2726" hMin="-300" hMax="300" hSm="20" nOn="0" noise="0.660232" n_1="0" n2="0">
 			<noise frq0="47.7232" oct0="4" prs0="0.593151" pow0="1.82168" frq1="31.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
 		<texture on="1" file="mntn_gray_d.jpg" fnorm="mntn_dark_n.jpg" scale="40.8113" surf="Rocks" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="43.5029" angMax="90" angSm="13.5588" hMin="-300" hMax="300" hSm="20" nOn="0" triplanar="1" noise="1" n_1="0.513514" n2="0">
