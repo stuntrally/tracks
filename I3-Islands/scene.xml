@@ -7,7 +7,7 @@
 	<fluids>
 		<fluid name="water blue" pos="0 -2 0" rot="0 0 0" size="8000 40 8000" tile="0.01 0.01" />
 	</fluids>
-	<terrain size="513" triangle="1.18027" errNorm="1.70">
+	<terrain size="513" triangle="1.18027" errNorm="1.70" normSc="2">
 		<texture on="1" file="island_sand_d.jpg" fnorm="desert_sand_n.jpg" scale="12.7769" surf="Default" dust="0.6" dustS="0.7" mud="0" smoke="0" tclr="0.44 0.44 0.26 0.7" angMin="0" angMax="12.8571" angSm="5.65536" hMin="-300" hMax="12.1005" hSm="4.14214" nOn="0" noise="1" n_1="0" n2="1">
 			<noise frq0="22.2" oct0="3" prs0="0.461644" pow0="0.644603" frq1="28.5" oct1="2" prs1="0.525049" pow1="5.64639" />
 		</texture>
@@ -29,11 +29,11 @@
 		<texture road="1" surf="roadGravel" dust="0.2" dustS="0.5" mud="0" smoke="0" tclr="0.5 0.44 0.3 0.5" />
 		<par dust="Dust" mud="Dust" smoke="Smoke" />
 	</terrain>
-	<paged densGrass="0.099723" densTrees="0.4" grPage="60" grDist="60" grDensSmooth="6" trPage="400" trDist="420" trDistImp="800" trRdDist="3">
+	<paged densGrass="0.099723" densTrees="0.4" grPage="100" grDist="100" grDensSmooth="6" trPage="400" trDist="420" trDistImp="800" trRdDist="3">
 		<grass on="1" mtr="grassSavanna" clr="grClrSavanna.png" dens="0.101062" chan="0" minSx="0.999327" maxSx="1.6988" minSy="0.580262" maxSy="1.3" swayDistr="3" swayLen="0.3" swaySpeed="0.4" />
-		<grass on="0" mtr="grass17" clr="grClrWinter.png" dens="0.0761433" chan="0" minSx="1.49082" maxSx="2.07193" minSy="1.23173" maxSy="1.84015" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
+		<grass on="1" mtr="grass17" clr="grClrWinter.png" dens="0.050225" chan="0" minSx="1.49082" maxSx="2.07193" minSy="1.23173" maxSy="1.84015" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
 		<grass on="1" mtr="grass4v" clr="grClrJungle.png" dens="0.00451779" chan="0" minSx="2.33634" maxSx="2.59813" minSy="2.19325" maxSy="2.59813" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
-		<grass on="0" mtr="grassJungle" clr="grClrJungle.png" dens="0.143275" chan="0" minSx="0.6" maxSx="0.85" minSy="0.6" maxSy="0.9" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
+		<grass on="1" mtr="grass3s" clr="grClrForest2.png" dens="0.112488" chan="0" minSx="1.04604" maxSx="1.74525" minSy="1.15546" maxSy="1.68347" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
 		<grass on="0" mtr="grassJungle" clr="grClrJungle.png" dens="0.0259307" chan="0" minSx="0.6" maxSx="0.85" minSy="0.6" maxSy="0.9" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
 		<grass on="0" mtr="grassJungle" clr="grClrJungle.png" dens="0.1" chan="0" minSx="0.6" maxSx="0.85" minSy="0.6" maxSy="0.9" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
 		<gchan amin="0" amax="10" asm="6" hmin="3" hmax="5" hsm="2" ns="0" frq="25" oct="3" prs="0.3" pow="1.2" rd="0" />

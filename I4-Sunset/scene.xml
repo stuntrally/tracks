@@ -7,7 +7,7 @@
 	<fluids>
 		<fluid name="water sunset" pos="-0.493078 -2 5.89115" rot="0 0 0" size="8000 40 8000" tile="0.00482925 0.00508187" />
 	</fluids>
-	<terrain size="513" triangle="1.18027" errNorm="1.70">
+	<terrain size="513" triangle="1.18027" errNorm="1.70" normSc="3">
 		<texture on="1" file="island_sand_d.jpg" fnorm="desert_sand_n.jpg" scale="10.3534" surf="Default" dust="1.4" dustS="0.7" mud="0" smoke="0" tclr="0.44 0.3 0.2 0.7" angMin="0" angMax="22.3679" angSm="6.02611" hMin="-300" hMax="3.88128" hSm="3.17133" nOn="0" noise="1" n_1="0" n2="0.509652">
 			<noise frq0="22.2" oct0="3" prs0="0.3" pow0="1.5" frq1="26.4215" oct1="3" prs1="0.469863" pow1="5.51958" />
 		</texture>
