@@ -3,7 +3,7 @@
 	<sky material="sky/light_blue" />
 	<fog color="0.94 0.98 1 1" color2="0.8 0.96 0.96 1" linStart="273.8" linEnd="793.8" />
 	<fogH color="0.73 0.86 1 1" height="-300" dens="100" linStart="0" linEnd="400" />
-	<light sceneryId="D1" pitch="11.0526" yaw="66.6" ambient="0.6 0.6 0.55" diffuse="2 2 2.5" specular="0.99 0.99 0.97" />
+	<light sceneryId="D13" pitch="11.0526" yaw="66.6" ambient="0.6 0.6 0.55" diffuse="2 2 2.5" specular="0.99 0.99 0.97" />
 	<fluids />
 	<terrain size="257" triangle="4.23608" errNorm="1.00">
 		<texture on="1" file="desert_sand_d.jpg" fnorm="desert_sand_n.jpg" scale="12.0559" surf="DesertFast" dust="0.8" dustS="1" mud="0.1" smoke="0" tclr="0.46 0.46 0.08 0.7" angMin="0" angMax="10.4605" angSm="11.0526" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="1">

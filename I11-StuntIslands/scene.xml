@@ -3,7 +3,7 @@
 	<sky material="sky/light_blue" />
 	<fog color="0.92 0.98 0.98 1" color2="0.77 0.98 0.98 1" linStart="729.656" linEnd="1513.8" />
 	<fogH color="0.73 0.86 1 1" height="-300" dens="100" linStart="0" linEnd="400" />
-	<light sceneryId="D8" pitch="58.95" yaw="79.2" ambient="0.47 0.5 0.41" diffuse="0.65 0.65 0.6" specular="0.7 0.7 0.7" />
+	<light sceneryId="I6" pitch="58.95" yaw="79.2" ambient="0.47 0.5 0.41" diffuse="0.65 0.65 0.6" specular="0.7 0.7 0.7" />
 	<fluids>
 		<fluid name="water blue" pos="0.387406 10 -0.691333" rot="0 0 0" size="2700 20 2700" tile="0.01 0.01" />
 	</fluids>
