@@ -8,7 +8,7 @@
 		<fluid name="water blue" pos="-34.2514 -3.8313 -223.601" rot="0 0 0" size="1001.02 20 428.195" tile="0.00686782 0.00686782" />
 	</fluids>
 	<terrain size="513" triangle="1.6" errNorm="15.00">
-		<texture on="1" file="island_sand2_d.jpg" fnorm="flat_n.png" scale="10.5" surf="GrassForest" dust="0" dustS="0.2" mud="0" smoke="0" tclr="0.48 0.3 0.2 0.6" angMin="0" angMax="90" angSm="19.3442" hMin="-177.274" hMax="0.22831" hSm="0.524278" nOn="0" noise="1" n_1="0" n2="0">
+		<texture on="1" file="island_sand2_d.jpg" fnorm="desert_sand2_n.jpg" scale="10.5" surf="GrassForest" dust="0" dustS="0.2" mud="0" smoke="0" tclr="0.48 0.3 0.2 0.6" angMin="0" angMax="90" angSm="19.3442" hMin="-177.274" hMax="0.22831" hSm="0.524278" nOn="0" noise="1" n_1="0" n2="0">
 			<noise frq0="7.78908" oct0="5" prs0="0.7" pow0="3.61261" frq1="37.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
 		<texture on="1" file="grass_green2y_d.jpg" fnorm="grass_green2y_n.jpg" scale="10.5803" surf="GrassForest" dust="0" dustS="0.2" mud="0.2" smoke="0" tclr="0.3 0.2 0.1 0.7" angMin="0" angMax="25.7143" angSm="11.3931" hMin="1.14155" hMax="300" hSm="1.28829" nOn="0" noise="1" n_1="0" n2="1">
