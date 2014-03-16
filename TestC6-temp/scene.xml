@@ -27,14 +27,14 @@
 		<texture road="1" surf="roadGravel" dust="0" dustS="0.2" mud="0" smoke="0" tclr="0.4 0.4 0.2 1" />
 		<par dust="Dust" mud="MudDark" smoke="Smoke" />
 	</terrain>
-	<paged densGrass="0.309571" densTrees="0" grPage="180" grDist="180" grDensSmooth="4" trPage="200" trDist="200" trDistImp="800" trRdDist="2">
+	<paged densGrass="0.248748" densTrees="0" grPage="120" grDist="120" grDensSmooth="2" trPage="200" trDist="200" trDistImp="800" trRdDist="2">
 		<grass on="1" mtr="grassJungle" clr="grClrSmall.png" dens="0.167943" chan="0" minSx="0.7" maxSx="1.25" minSy="0.7" maxSy="1.3" swayDistr="3" swayLen="0.3" swaySpeed="0.4" />
 		<grass on="1" mtr="grass3" clr="grClrJungle.png" dens="0.151667" chan="0" minSx="1.1" maxSx="1.45854" minSy="0.911192" maxSy="1.19486" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
 		<grass on="1" mtr="grass15g" clr="grClrJungle.png" dens="0.112111" chan="0" minSx="0.947375" maxSx="1.22276" minSy="1.00943" maxSy="1.32315" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
 		<grass on="1" mtr="grass5" clr="grClrJungle2.png" dens="0.0810294" chan="0" minSx="1.15368" maxSx="1.35262" minSy="0.852642" maxSy="1.12667" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
 		<grass on="0" mtr="grassJungle" clr="grClrJungle.png" dens="0.1" chan="0" minSx="0.6" maxSx="0.85" minSy="0.6" maxSy="0.9" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
 		<grass on="0" mtr="grassJungle" clr="grClrJungle.png" dens="0.1" chan="0" minSx="0.6" maxSx="0.85" minSy="0.6" maxSy="0.9" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
-		<gchan amin="0" amax="20" asm="10" hmin="-200" hmax="200" hsm="10" ns="0" frq="25" oct="3" prs="0.3" pow="1.2" rd="0" />
+		<gchan amin="0" amax="20" asm="10" hmin="-200" hmax="200" hsm="10" ns="0" frq="25" oct="3" prs="0.3" pow="1.2" rd="2.00539" />
 		<gchan amin="0" amax="30" asm="20" hmin="-100" hmax="100" hsm="20" ns="0" frq="52" oct="3" prs="0.3" pow="1.2" rd="0" />
 		<gchan amin="0" amax="30" asm="20" hmin="-100" hmax="100" hsm="20" ns="0" frq="79" oct="3" prs="0.3" pow="1.2" rd="0" />
 		<gchan amin="0" amax="30" asm="20" hmin="-100" hmax="100" hsm="20" ns="0" frq="106" oct="3" prs="0.3" pow="1.2" rd="0" />
