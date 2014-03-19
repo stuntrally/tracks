@@ -12,7 +12,7 @@
 		<texture on="1" file="ground_dry_d.jpg" fnorm="ground_dry_n.jpg" scale="9.98694" surf="DesertFast" dust="0.6" dustS="1" mud="0.5" smoke="0" tclr="0.48 0.3 0.2 0.8" angMin="13.9139" angMax="26.2427" angSm="2.12444" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="1">
 			<noise frq0="26.2" oct0="3" prs0="0.3" pow0="1.5" frq1="31.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
-		<texture on="1" file="mntn_canyon2o_d.jpg" fnorm="adesert_stone_n.jpg" scale="19.1932" surf="Default" dust="0.8" dustS="1" mud="0.4" smoke="0" tclr="0.48 0.26 0.08 0.7" angMin="30.998" angMax="50.9002" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" triplanar="1" noise="0" n_1="0" n2="0">
+		<texture on="1" file="mntn_canyon2o_d.jpg" fnorm="adesert_stone_n.jpg" scale="19.1932" surf="Rocks" dust="0.8" dustS="1" mud="0.4" smoke="0" tclr="0.48 0.26 0.08 0.7" angMin="30.998" angMax="50.9002" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" triplanar="1" noise="0" n_1="0" n2="0">
 			<noise frq0="21.8688" oct0="3" prs0="0.532094" pow0="5.02731" frq1="37.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
 		<texture on="1" file="mntn_canyon_d.jpg" fnorm="mntn_canyon_n.jpg" scale="29.8326" surf="DesertBumpy" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="52.1331" angMax="90" angSm="7.6268" hMin="-300" hMax="300" hSm="20" nOn="0" triplanar="1" noise="0.111856" n_1="1" n2="0">

@@ -12,7 +12,7 @@
 		<texture on="1" file="desert_cracks_d.jpg" fnorm="desert_cracks_n.jpg" scale="9.09234" surf="DesertFast" dust="0.8" dustS="1" mud="0.1" smoke="0" tclr="0.46 0.46 0.08 0.7" angMin="8.98239" angMax="22.1918" angSm="6.67018" hMin="-300" hMax="300" hSm="20" nOn="0" noise="0" n_1="0" n2="0">
 			<noise frq0="26.2" oct0="3" prs0="0.3" pow0="1.5" frq1="31.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
-		<texture on="0" file="desert_rocky_d.jpg" fnorm="desert_rocky_n.jpg" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="24.3053" angMax="37.5147" angSm="6.40863" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
+		<texture on="0" file="desert_rocky_d.jpg" fnorm="desert_rocky_n.jpg" scale="4.5" surf="DesertBumpy" dust="0.8" dustS="1" mud="0.1" smoke="0" tclr="0.46 0.46 0.08 0.7" angMin="24.3053" angMax="37.5147" angSm="6.40863" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
 			<noise frq0="38.2" oct0="3" prs0="0.3" pow0="1.5" frq1="40.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
 		<texture on="1" file="desert_mntn2_d.jpg" fnorm="desert_mntn2_n.jpg" scale="27.4355" surf="DesertRocks" dust="0" dustS="0.2" mud="0.1" smoke="0" tclr="0.2 0.2 0 1" angMin="36.1184" angMax="90" angSm="22.3026" hMin="-300" hMax="300" hSm="20" nOn="0" triplanar="1" noise="0.921053" n_1="0" n2="0">

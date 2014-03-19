@@ -8,13 +8,13 @@
 		<fluid name="water dark" pos="0.0012537 -2 -0.530625" rot="0 0 0" size="8000 40 8000" tile="0.00482925 0.00508187" />
 	</fluids>
 	<terrain size="513" triangle="1.18027" errNorm="1.70">
-		<texture on="1" file="desert_sand2_d.jpg" fnorm="desert_sand2_n.jpg" scale="7.06531" surf="Default" dust="0" dustS="0.7" mud="0" smoke="0" tclr="0.44 0.4 0.23 0.1" angMin="0" angMax="20.9589" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="1">
+		<texture on="1" file="desert_sand2_d.jpg" fnorm="desert_sand2_n.jpg" scale="7.06531" surf="DesertFast" dust="0.9" dustS="1" mud="0.1" smoke="0" tclr="0.48 0.46 0.08 0.7" angMin="0" angMax="20.9589" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="1">
 			<noise frq0="15.6213" oct0="4" prs0="0.54" pow0="1.84964" frq1="19.7607" oct1="4" prs1="0.7" pow1="3.14518" />
 		</texture>
-		<texture on="1" file="ground_cracks2y_d.jpg" fnorm="ground_cracks2_n.jpg" scale="6.92943" surf="Default" dust="0" dustS="0.6" mud="0.4" smoke="0" tclr="0.38 0.22 0.04 0.1" angMin="0" angMax="20.4305" angSm="7.34694" hMin="-300" hMax="300" hSm="20" nOn="1" noise="0" n_1="0" n2="0">
+		<texture on="1" file="ground_cracks2y_d.jpg" fnorm="ground_cracks2_n.jpg" scale="6.92943" surf="DesertBumpy" dust="0" dustS="0.6" mud="0.4" smoke="0" tclr="0.32 0.22 0.04 0.1" angMin="0" angMax="20.4305" angSm="7.34694" hMin="-300" hMax="300" hSm="20" nOn="1" noise="0" n_1="0" n2="0">
 			<noise frq0="30.2" oct0="3" prs0="0.3" pow0="1.5" frq1="34.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
-		<texture on="1" file="desert_mud_d.jpg" fnorm="desert_mud_n.jpg" scale="16.3216" surf="Default" dust="0" dustS="0.7" mud="0" smoke="0" tclr="0.44 0.44 0.26 0.1" angMin="20.9589" angMax="90" angSm="10.2168" hMin="-300" hMax="300" hSm="20" nOn="0" triplanar="1" noise="1" n_1="0" n2="0">
+		<texture on="1" file="desert_mud_d.jpg" fnorm="desert_mud_n.jpg" scale="16.3216" surf="GrassJungle" dust="0.2" dustS="0.4" mud="0.6" smoke="0" tclr="0.12 0.16 0.08 0.8" angMin="20.9589" angMax="90" angSm="10.2168" hMin="-300" hMax="300" hSm="20" nOn="0" triplanar="1" noise="1" n_1="0" n2="0">
 			<noise frq0="22.2" oct0="3" prs0="0.3" pow0="1.5" frq1="28.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
 		<texture on="0" file="" fnorm="" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 0.1" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">

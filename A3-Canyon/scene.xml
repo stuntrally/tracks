@@ -17,7 +17,7 @@
 		<texture on="1" file="adesert_cracks_d.jpg" fnorm="desert_cracks_n.jpg" scale="10.5" surf="DesertFast" dust="0.6" dustS="1" mud="0.5" smoke="0" tclr="0.48 0.3 0.2 0.8" angMin="13.5616" angMax="27.1233" angSm="4.29007" hMin="-300" hMax="300" hSm="20" nOn="1" noise="0" n_1="0" n2="0">
 			<noise frq0="21.255" oct0="5" prs0="0.626027" pow0="6.16854" frq1="31.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
-		<texture on="1" file="adesert_stone_d.jpg" fnorm="adesert_stone_n.jpg" scale="14.1" surf="Default" dust="0.8" dustS="1" mud="0.4" smoke="0" tclr="0.48 0.26 0.08 0.7" angMin="14.09" angMax="42.0939" angSm="2.19964" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="1" n2="0">
+		<texture on="1" file="adesert_stone_d.jpg" fnorm="adesert_stone_n.jpg" scale="14.1" surf="DesertFast" dust="0.5" dustS="1" mud="0.7" smoke="0" tclr="0.25 0.1 0.08 0.8" angMin="14.09" angMax="42.0939" angSm="2.19964" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="1" n2="0">
 			<noise frq0="34.2" oct0="3" prs0="0.3" pow0="1.5" frq1="37.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
 		<texture on="0" file="" fnorm="" scale="10.4" surf="Default" dust="0.5" dustS="1" mud="0.5" smoke="0" tclr="0.42 0.26 0.08 0.8" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">

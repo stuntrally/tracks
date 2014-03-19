@@ -15,7 +15,7 @@
 		<texture on="1" file="mntn_canyon_d.jpg" fnorm="mntn_canyon_n.jpg" scale="31.7839" surf="DesertBumpy" dust="0" dustS="0.8" mud="0.5" smoke="0" tclr="0.2 0.1 0.1 0.5" angMin="52.6614" angMax="65.1663" angSm="7.34694" hMin="-300" hMax="300" hSm="20" nOn="0" triplanar="1" noise="0" n_1="0" n2="0">
 			<noise frq0="30.2" oct0="3" prs0="0.3" pow0="1.5" frq1="34.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
-		<texture on="1" file="amntn_dark_d.jpg" fnorm="mntn_dark_n.jpg" scale="44.8056" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="67.6321" angMax="89.8026" angSm="21.1855" hMin="-300" hMax="69.2935" hSm="14.4737" nOn="0" triplanar="1" noise="0.031316" n_1="0.262548" n2="0">
+		<texture on="1" file="amntn_dark_d.jpg" fnorm="mntn_dark_n.jpg" scale="44.8056" surf="Rocks" dust="0" dustS="0.8" mud="0.5" smoke="0" tclr="0.2 0.1 0.1 0.5" angMin="67.6321" angMax="89.8026" angSm="21.1855" hMin="-300" hMax="69.2935" hSm="14.4737" nOn="0" triplanar="1" noise="0.031316" n_1="0.262548" n2="0">
 			<noise frq0="34.2" oct0="3" prs0="0.3" pow0="1.5" frq1="37.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
 		<texture on="0" file="" fnorm="" scale="10.7591" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="42.5381" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="-0.228188" n_1="0" n2="0">

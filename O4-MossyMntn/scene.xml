@@ -15,7 +15,7 @@
 		<texture on="1" file="jungle_stone_d.jpg" fnorm="jungle_stone_n.jpg" scale="27.2575" surf="Rocks" dust="0" dustS="0.2" mud="0.1" smoke="0" tclr="0.28 0.32 0.3 0.8" angMin="39.4521" angMax="61.1155" angSm="8.95089" hMin="-300" hMax="300" hSm="20" nOn="0" triplanar="1" noise="1" n_1="0" n2="0">
 			<noise frq0="26.0815" oct0="3" prs0="0.3" pow0="2.2819" frq1="34.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
-		<texture on="1" file="mntn_gray_d.jpg" fnorm="mntn_dark_n.jpg" scale="39.8552" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="65.8708" angMax="90" angSm="11.0505" hMin="-300" hMax="300" hSm="20" nOn="0" triplanar="1" noise="0.149123" n_1="1" n2="0">
+		<texture on="1" file="mntn_gray_d.jpg" fnorm="mntn_dark_n.jpg" scale="39.8552" surf="Rocks" dust="0" dustS="0.2" mud="0.8" smoke="0" tclr="0.18 0.18 0.14 0.7" angMin="65.8708" angMax="90" angSm="11.0505" hMin="-300" hMax="300" hSm="20" nOn="0" triplanar="1" noise="0.149123" n_1="1" n2="0">
 			<noise frq0="34.2" oct0="3" prs0="0.3" pow0="1.5" frq1="37.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
 		<texture on="0" file="" fnorm="" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">

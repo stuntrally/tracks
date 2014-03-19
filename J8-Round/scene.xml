@@ -6,10 +6,10 @@
 	<light sceneryId="J8" pitch="36.4925" yaw="45.9846" ambient="0.5 0.56 0.5" diffuse="0.75 0.75 0.73" specular="0.99 0.99 0.97" />
 	<fluids />
 	<terrain size="1025" triangle="0.675003" errNorm="5.00">
-		<texture on="1" file="grass_green2y_d.jpg" fnorm="grass_green2y_n.jpg" scale="11.796" surf="Default" dust="0" dustS="0.2" mud="0.8" smoke="0" tclr="0.18 0.36 0.04 0.7" angMin="0" angMax="25.1859" angSm="7.48621" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0.929919">
+		<texture on="1" file="grass_green2y_d.jpg" fnorm="grass_green2y_n.jpg" scale="11.796" surf="GrassForest" dust="0" dustS="0.2" mud="0.8" smoke="0" tclr="0.18 0.36 0.04 0.9" angMin="0" angMax="25.1859" angSm="7.48621" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0.929919">
 			<noise frq0="22.2" oct0="3" prs0="0.3" pow0="1.5" frq1="14.6045" oct1="4" prs1="0.582583" pow1="3.88016" />
 		</texture>
-		<texture on="1" file="grass_rocky_d.jpg" fnorm="grass_rocky_n.jpg" scale="9.51866" surf="Default" dust="0" dustS="0.2" mud="0.6" smoke="0" tclr="0.42 0.46 0.08 0.7" angMin="29.6053" angMax="37.5" angSm="7.34694" hMin="-300" hMax="300" hSm="20" nOn="0" noise="0.403509" n_1="0" n2="0">
+		<texture on="1" file="grass_rocky_d.jpg" fnorm="grass_rocky_n.jpg" scale="9.51866" surf="DesertBumpy" dust="0" dustS="0.2" mud="0.6" smoke="0" tclr="0.42 0.46 0.08 0.7" angMin="29.6053" angMax="37.5" angSm="7.34694" hMin="-300" hMax="300" hSm="20" nOn="0" noise="0.403509" n_1="0" n2="0">
 			<noise frq0="26.2" oct0="3" prs0="0.3" pow0="1.5" frq1="31.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
 		<texture on="1" file="jungle_mntn2_d.jpg" fnorm="jungle_mntn2_n.jpg" scale="26" surf="Rocks" dust="0" dustS="0.2" mud="0.4" smoke="0" tclr="0.48 0.42 0.2 0.7" angMin="34.9342" angMax="90" angSm="6.27982" hMin="-300" hMax="300" hSm="20" nOn="0" triplanar="1" noise="1" n_1="0" n2="0">

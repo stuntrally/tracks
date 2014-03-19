@@ -6,13 +6,13 @@
 	<light sceneryId="F6" pitch="33.1752" yaw="45" ambient="0.45 0.45 0.45" diffuse="0.6 0.6 0.6" specular="0.5 0.5 0.5" />
 	<fluids />
 	<terrain size="513" triangle="0.96" errNorm="1.70">
-		<texture on="1" file="mntn_green_d.jpg" fnorm="mntn_green_n.jpg" scale="20.4282" surf="Default" dust="0" dustS="0.2" mud="0.8" smoke="0" tclr="0.18 0.36 0.04 0.7" angMin="0" angMax="23.7769" angSm="8.95089" hMin="-300" hMax="300" hSm="20" nOn="0" noise="0.954178" n_1="0" n2="0">
+		<texture on="1" file="mntn_green_d.jpg" fnorm="mntn_green_n.jpg" scale="20.4282" surf="Rocks" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.32 0.32 0.32 1" angMin="0" angMax="23.7769" angSm="8.95089" hMin="-300" hMax="300" hSm="20" nOn="0" noise="0.954178" n_1="0" n2="0">
 			<noise frq0="22.2" oct0="3" prs0="0.3" pow0="1.5" frq1="28.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
-		<texture on="1" file="mntn_yellow_d.jpg" fnorm="jungle_stone_d.jpg" scale="25.8659" surf="Default" dust="0" dustS="0.2" mud="0.6" smoke="0" tclr="0.42 0.46 0.08 0.7" angMin="25.7143" angMax="41.0738" angSm="11.0505" hMin="-300" hMax="300" hSm="20" nOn="0" triplanar="1" noise="0" n_1="0.343666" n2="0">
+		<texture on="1" file="mntn_yellow_d.jpg" fnorm="jungle_stone_d.jpg" scale="25.8659" surf="Rocks" dust="0.3" dustS="0.2" mud="0.5" smoke="0" tclr="0.32 0.32 0.32 0.4" angMin="25.7143" angMax="41.0738" angSm="11.0505" hMin="-300" hMax="300" hSm="20" nOn="0" triplanar="1" noise="0" n_1="0.343666" n2="0">
 			<noise frq0="26.2" oct0="3" prs0="0.3" pow0="1.5" frq1="31.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
-		<texture on="0" file="mntn_dark_d.jpg" fnorm="mntn_dark_n.jpg" scale="22.3276" surf="Default" dust="0" dustS="0.2" mud="0.4" smoke="0" tclr="0.48 0.42 0.2 0.7" angMin="39.8658" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="0" n_1="0" n2="0">
+		<texture on="0" file="mntn_dark_d.jpg" fnorm="mntn_dark_n.jpg" scale="22.3276" surf="Rocks" dust="0.1" dustS="0.2" mud="0.3" smoke="0" tclr="0.25 0.25 0.25 0.7" angMin="39.8658" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="0" n_1="0" n2="0">
 			<noise frq0="30.2" oct0="3" prs0="0.3" pow0="1.5" frq1="34.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
 		<texture on="1" file="mntn_dark_d.jpg" fnorm="mntn_dark_n.jpg" scale="43.5279" surf="Rocks" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="55.3691" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">

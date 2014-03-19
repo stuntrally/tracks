@@ -11,13 +11,13 @@
 		<fluid name="water cyan" pos="-89.8628 -15.8996 -95.3387" rot="0 0 0" size="50 20 50" tile="0.01 0.01" />
 	</fluids>
 	<terrain size="129" triangle="2" errNorm="1.70">
-		<texture on="1" file="grass_green2y_d.jpg" fnorm="grass_green2y_n.jpg" scale="9.23093" surf="Default" dust="0" dustS="0.2" mud="0.8" smoke="0" tclr="0.18 0.36 0.04 0.7" angMin="0" angMax="17.9648" angSm="6.27982" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="1">
+		<texture on="1" file="grass_green2y_d.jpg" fnorm="grass_green2y_n.jpg" scale="9.23093" surf="GrassForest" dust="0" dustS="0.2" mud="0.8" smoke="0" tclr="0.18 0.36 0.04 0.9" angMin="0" angMax="17.9648" angSm="6.27982" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="1">
 			<noise frq0="33.7041" oct0="3" prs0="0.3" pow0="1.17861" frq1="28.1563" oct1="3" prs1="0.64364" pow1="3.01533" />
 		</texture>
-		<texture on="1" file="savanna_green_d.jpg" fnorm="savanna_green_n.jpg" scale="6.23461" surf="Default" dust="0" dustS="0.2" mud="0.6" smoke="0" tclr="0.42 0.46 0.08 0.7" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="1" noise="0" n_1="0" n2="0">
+		<texture on="1" file="savanna_green_d.jpg" fnorm="savanna_green_n.jpg" scale="6.23461" surf="GrassForest" dust="0" dustS="0.2" mud="0.6" smoke="0" tclr="0.42 0.46 0.08 0.7" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="1" noise="0" n_1="0" n2="0">
 			<noise frq0="12.2228" oct0="3" prs0="0.697652" pow0="2.02241" frq1="31.5" oct1="3" prs1="0.4" pow1="0.71262" />
 		</texture>
-		<texture on="1" file="savanna_yellow_d.jpg" fnorm="savanna_yellow_n.jpg" scale="10.5041" surf="Default" dust="0" dustS="0.2" mud="0.4" smoke="0" tclr="0.48 0.42 0.2 0.7" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="1" noise="1" n_1="0" n2="1.0027">
+		<texture on="1" file="savanna_yellow_d.jpg" fnorm="savanna_yellow_n.jpg" scale="10.5041" surf="GrassForest" dust="0" dustS="0.2" mud="0.4" smoke="0" tclr="0.48 0.42 0.2 0.7" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="1" noise="1" n_1="0" n2="1.0027">
 			<noise frq0="24.4154" oct0="3" prs0="0.3" pow0="1.5" frq1="29.2247" oct1="3" prs1="0.4" pow1="0.736367" />
 		</texture>
 		<texture on="1" file="mntn_yellow_d.jpg" fnorm="jungle_stone_n.jpg" scale="26.2084" surf="Rocks" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="20.9589" angMax="90" angSm="10.7131" hMin="-300" hMax="300" hSm="20" nOn="0" triplanar="1" noise="0.0877192" n_1="1" n2="0">
