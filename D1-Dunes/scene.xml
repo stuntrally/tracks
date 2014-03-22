@@ -31,7 +31,7 @@
 		<grass on="0" mtr="grass4v" clr="grClrDesert.png" dens="0.11654" chan="0" minSx="1.8194" maxSx="2.79743" minSy="1.22276" maxSy="2.26148" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
 		<grass on="0" mtr="grass5" clr="grClrJungle.png" dens="0.0761433" chan="0" minSx="1.12667" maxSx="1.44314" minSy="1.2796" maxSy="1.76769" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
 		<grass on="1" mtr="grassDesert" clr="grClrDesert.png" dens="0.0303584" chan="0" minSx="1.45854" maxSx="1.6173" minSy="1.12667" maxSy="1.30854" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
-		<grass on="1" mtr="grass12y-" clr="grClrJungle.png" dens="0.0145548" chan="0" minSx="1.48959" maxSx="1.73366" minSy="1.32315" maxSy="1.53682" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
+		<grass on="1" mtr="grass12y-" clr="grClrDark3.png" dens="0.0145548" chan="0" minSx="1.48959" maxSx="1.73366" minSy="1.32315" maxSy="1.53682" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
 		<grass on="0" mtr="grassJungle" clr="grClrJungle.png" dens="0.107768" chan="0" minSx="0.6" maxSx="0.85" minSy="0.6" maxSy="0.9" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
 		<grass on="0" mtr="grassJungle" clr="grClrJungle.png" dens="0.1" chan="0" minSx="0.6" maxSx="0.85" minSy="0.6" maxSy="0.9" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
 		<gchan amin="0" amax="11" asm="10" hmin="-200" hmax="-4" hsm="1" ns="0" frq="25" oct="3" prs="0.3" pow="1.2" rd="0" />
