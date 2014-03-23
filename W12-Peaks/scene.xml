@@ -3,7 +3,7 @@
 	<sky material="sky/white2" rainName="SnowFine" rainEmit="450" />
 	<fog color="0.9 0.93 0.96 1" color2="0.95 0.96 0.97 1" linStart="26.5827" linEnd="619.142" />
 	<fogH color="0.95 0.95 0.95 0.9" height="70" dens="61.0513" linStart="0" linEnd="80" />
-	<light sceneryId="I2" pitch="90" yaw="100.465" ambient="0.6 0.6 0.6" diffuse="0.6 0.6 0.6" specular="0.5 0.5 0.5" />
+	<light sceneryId="W13" pitch="90" yaw="100.465" ambient="0.6 0.6 0.6" diffuse="0.6 0.6 0.6" specular="0.5 0.5 0.5" />
 	<fluids />
 	<terrain size="513" triangle="2.0232" errNorm="5.00">
 		<texture on="1" file="snow_mntn2_d.jpg" fnorm="snow_mntn2_n.jpg" scale="43.0243" surf="Rocks" dust="0" dustS="0.2" mud="0.4" smoke="0" tclr="0.18 0.36 0.04 0.7" angMin="0" angMax="90" angSm="14.8026" hMin="-300" hMax="81.5068" hSm="20" nOn="0" triplanar="1" noise="1" n_1="0" n2="0">
