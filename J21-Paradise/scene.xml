@@ -3,7 +3,7 @@
 	<sky material="sky/light_blue" rainName="RainFine" rainEmit="210" />
 	<fog color="0.79 0.99 1 1" color2="0.7 0.96 1 1" linStart="288.8" linEnd="1602.05" />
 	<fogH color="0.73 0.86 1 1" height="-300" dens="100" linStart="0" linEnd="400" />
-	<light sceneryId="I13" pitch="41.6794" yaw="58.1674" ambient="0.5 0.5 0.5" diffuse="0.95 0.95 0.93" specular="0.99 0.99 0.97" />
+	<light sceneryId="J17" pitch="41.6794" yaw="58.1674" ambient="0.5 0.5 0.5" diffuse="0.95 0.95 0.93" specular="0.99 0.99 0.97" />
 	<fluids>
 		<fluid name="water cyan" pos="421.821 -31.4561 274.553" rot="0 0 0" size="14400 8 14400" tile="0.004 0.004" />
 	</fluids>
