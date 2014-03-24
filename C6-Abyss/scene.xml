@@ -24,7 +24,7 @@
 		<texture on="0" file="" fnorm="" scale="21" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="0" angMax="15.5578" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
 			<noise frq0="42.2" oct0="3" prs0="0.3" pow0="1.5" frq1="43.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
-		<texture road="1" surf="roadAdesert" dust="0.2" dustS="0.3" mud="0.2" smoke="0" tclr="0.54 0.3 0.22 0.7" />
+		<texture road="1" surf="roadDesert" dust="0.5" dustS="0.6" mud="0" smoke="0" tclr="0.44 0.3 0.22 0.7" />
 		<par dust="Adust" mud="Mud" smoke="Smoke" />
 	</terrain>
 	<paged densGrass="0.201261" densTrees="0.3" grPage="80" grDist="80" grDensSmooth="6" trPage="160" trDist="160" trDistImp="800" trRdDist="2">

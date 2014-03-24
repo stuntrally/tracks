@@ -24,7 +24,7 @@
 		<texture on="0" file="" fnorm="" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
 			<noise frq0="42.2" oct0="3" prs0="0.3" pow0="1.5" frq1="43.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
-		<texture road="1" surf="roadAdesert" dust="0.5" dustS="0.6" mud="0" smoke="0" tclr="0.54 0.3 0.22 0.7" />
+		<texture road="1" surf="roadAdesert" dust="0.5" dustS="0.6" mud="0" smoke="0" tclr="0.44 0.3 0.22 0.7" />
 		<par dust="Adust" mud="Mud" smoke="Smoke" />
 	</terrain>
 	<paged densGrass="0.1" densTrees="0.5" grPage="80" grDist="80" grDensSmooth="6" trPage="100" trDist="100" trDistImp="600" trRdDist="5">
@@ -34,7 +34,7 @@
 		<grass on="1" mtr="grass12o" clr="grClrAustralia.png" dens="0.160299" chan="0" minSx="2.07193" maxSx="2.03793" minSy="1.31067" maxSy="1.84015" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
 		<grass on="0" mtr="grass10" clr="grClrJungle.png" dens="0.0462495" chan="0" minSx="1.58485" maxSx="1.92518" minSy="1.30854" maxSy="1.55274" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
 		<grass on="1" mtr="grass20p" clr="grClrJungle.png" dens="0.1" chan="0" minSx="1.22276" maxSx="1.44314" minSy="2.14623" maxSy="2.50147" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
-		<gchan amin="0" amax="10" asm="8" hmin="-200" hmax="200" hsm="20" ns="0" frq="25" oct="3" prs="0.3" pow="1.2" rd="0" />
+		<gchan amin="0" amax="10" asm="8" hmin="-200" hmax="200" hsm="20" ns="0" frq="25" oct="3" prs="0.3" pow="1.2" rd="1.01348" />
 		<gchan amin="0" amax="30" asm="20" hmin="-100" hmax="100" hsm="20" ns="0" frq="28" oct="3" prs="0.3" pow="1.2" rd="0" />
 		<gchan amin="0" amax="30" asm="20" hmin="-100" hmax="100" hsm="20" ns="0" frq="31" oct="3" prs="0.3" pow="1.2" rd="0" />
 		<gchan amin="0" amax="30" asm="20" hmin="-100" hmax="100" hsm="20" ns="0" frq="34" oct="3" prs="0.3" pow="1.2" rd="0" />

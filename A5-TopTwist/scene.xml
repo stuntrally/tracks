@@ -26,7 +26,7 @@
 		<texture on="0" file="" fnorm="" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
 			<noise frq0="42.2" oct0="3" prs0="0.3" pow0="1.5" frq1="43.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
-		<texture road="1" surf="roadAdesert" dust="0.6" dustS="0.7" mud="0" smoke="0" tclr="0.54 0.3 0.22 0.7" />
+		<texture road="1" surf="roadAdesert" dust="0.5" dustS="0.6" mud="0" smoke="0" tclr="0.54 0.3 0.22 0.7" />
 		<par dust="Adust" mud="Mud" smoke="Smoke" />
 	</terrain>
 	<paged densGrass="0.06" densTrees="2.5" grPage="100" grDist="100" grDensSmooth="2" trPage="120" trDist="120" trDistImp="600" trRdDist="2">
@@ -51,6 +51,6 @@
 		<layer on="0" name="" dens="0.0999996" minScale="0.0999994" maxScale="0.249999" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 	</paged>
-	<cam pos="-190.481 113.254 -570.491" dir="0.307863 -0.218448 0.926013" />
+	<cam pos="-190.48 113.254 -570.491" dir="0.307863 -0.218448 0.926013" />
 	<objects />
 </scene>
