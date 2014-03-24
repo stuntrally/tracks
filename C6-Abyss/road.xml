@@ -1,9 +1,9 @@
 <SplineRoad>
 	<mtr road="roadAdesert" road2="roadDesert" road3="roadMud" road4="roadSandSet" col="road_col_Dark" />
-	<dim tcMul="0.1" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="8" heightOfs="0.06" />
+	<dim tcMul="0.0576519" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="8" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="160" lodPntLen="10" />
 	<geom colN="8" colR="3.66915" wsPm="4" lsPm="1" stBox="1 8.468 24.604" iDir="1" iChk1="44" />
-	<stats length="2642.36" width="8.82074" height="25.8912" onTer="20.3897" pipes="0" bnkAvg="6.73769" bnkMax="31.4968" />
+	<stats length="2642.36" width="8.82074" height="25.8904" onTer="20.3897" pipes="0" bnkAvg="6.73769" bnkMax="31.4968" />
 	<txt desc="Fast road with 2 long jumps over a deep abyss. Keep straight before jumping. The bigger needs 170 km/h, smaller 150 km/h." />
 	<P pos="202.443 0 208.127" w="10.2952" a="0" ar="0" aT="2" />
 	<P pos="247.534 0 198.65" w="9.688" aT="2" chkR="1.892" />

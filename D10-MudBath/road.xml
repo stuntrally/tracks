@@ -1,5 +1,5 @@
 <SplineRoad>
-	<mtr road="roadMud" road2="roadJungle" road3="roadDesert" />
+	<mtr road="roadMud" road2="roadJungle" road3="roadSandDark" />
 	<dim tcMul="0.1" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="8" heightOfs="0.1" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="320" lodPntLen="20" />
 	<geom colN="5" colR="1.8" wsPm="4" lsPm="1" stBox="1 5.08 15.64" iDir="-1" iChk1="54" />

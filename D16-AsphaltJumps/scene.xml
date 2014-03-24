@@ -34,7 +34,7 @@
 		<grass on="0" mtr="grass12y-" clr="grClrDark3.png" dens="0.0788306" chan="0" minSx="1.48959" maxSx="1.73366" minSy="1.32315" maxSy="1.53682" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
 		<grass on="0" mtr="grass17r" clr="grClrJungle.png" dens="0.0763985" chan="0" minSx="2.22858" maxSx="3.05965" minSy="1.56344" maxSy="1.9049" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
 		<grass on="0" mtr="grass20p" clr="grClrJungle.png" dens="0.0531927" chan="0" minSx="1.14301" maxSx="1.36477" minSy="1.46229" maxSy="2.02105" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
-		<gchan amin="0" amax="6.54987" asm="3.2098" hmin="-200" hmax="39.3443" hsm="6.8112" ns="0" frq="25" oct="3" prs="0.3" pow="1.2" rd="0" />
+		<gchan amin="0" amax="6.54987" asm="3.2098" hmin="-200" hmax="39.3443" hsm="6.8112" ns="0" frq="25" oct="3" prs="0.3" pow="1.2" rd="2.78167" />
 		<gchan amin="0" amax="30" asm="20" hmin="-100" hmax="100" hsm="20" ns="0" frq="37" oct="3" prs="0.3" pow="1.2" rd="0" />
 		<gchan amin="0" amax="30" asm="20" hmin="-100" hmax="100" hsm="20" ns="0" frq="49" oct="3" prs="0.3" pow="1.2" rd="0" />
 		<gchan amin="0" amax="30" asm="20" hmin="-100" hmax="100" hsm="20" ns="0" frq="61" oct="3" prs="0.3" pow="1.2" rd="0" />
