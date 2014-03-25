@@ -3,6 +3,6 @@
 	<dim tcMul="0.1" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="8" heightOfs="0.1" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="180" lodPntLen="10" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 3.288 10.328" iDir="-1" iChk1="0" />
-	<stats length="215.928" width="9.232" height="9.352" onTer="100" pipes="100" bnkAvg="0" bnkMax="0" />
+	<stats length="0.0" width="0.0" height="0.0" onTer="0" pipes="0" bnkAvg="0" bnkMax="0" />
 	<txt desc="Small map with many fluid types to test." />
 </SplineRoad>
