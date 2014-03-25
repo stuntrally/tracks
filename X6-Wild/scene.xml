@@ -1,5 +1,6 @@
 <scene>
 	<car tires="0" />
+	<start pos="237.215 -50.6029 32.1041" rot="0.063689 -0.010281 -0.748136 0.660414" />
 	<sky material="sky/magic" />
 	<fog color="0.4 0.15 0.35 1" color2="0.2 0.15 0.345 1" linStart="137.812" linEnd="649.8" />
 	<fogH color="0.75 0.7 0.6 1" height="33.584" dens="76.0246" linStart="0" linEnd="61.5574" />
