@@ -4,7 +4,7 @@
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="800" lodPntLen="120" />
 	<geom colN="6" colR="1.75282" wsPm="4" lsPm="1" stBox="1 5 16.992" iDir="1" iChk1="74" />
 	<stats length="5842.75" width="6.99064" height="63.1569" onTer="3.34881" pipes="0" bnkAvg="3.18948" bnkMax="10.6071" />
-	<txt desc="A long, foggy, bumpy track with wide curves and dangerous abysses. Not for beginners." />
+	<txt desc="A long, foggy, bumpy track with narrow road and dangerous abysses. Not for beginners." />
 	<P pos="-120.479 23.5082 -177.129" w="7.00201" onTer="0" a="0" ar="0" aT="2" mtr="1" />
 	<P pos="-143.183 0 -175.406" w="6.99761" a="0" ar="0" aT="2" mtr="1" />
 	<P pos="-197.474 0 -175.406" w="7.00159" aT="2" chkR="1.4" />

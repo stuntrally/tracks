@@ -2,7 +2,7 @@
 	<car tires="0" />
 	<start pos="163.114 152.975 10.5917" rot="-1e-006 -1.61648e-013 0.78913 0.61423" />
 	<sky material="sky/light_blue" />
-	<fog color="0.9 0.96 1 0.9" color2="0.7 0.96 1 0.8" linStart="380.349" linEnd="1426.74" />
+	<fog color="0.84 0.96 1 0.9" color2="0.7 0.96 1 0.8" linStart="380.349" linEnd="1426.74" />
 	<fogH color="0.73 0.86 1 1" height="-300" dens="100" linStart="0" linEnd="400" />
 	<light sceneryId="V2" pitch="27.7444" yaw="60" ambient="0.65 0.6 0.55" diffuse="1 1 0.6" specular="0.3 0.3 0.3" />
 	<fluids>

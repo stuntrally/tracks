@@ -50,7 +50,7 @@
 		<layer on="0" name="" dens="0.0999996" minScale="0.0999983" maxScale="0.249999" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="30" minTerH="-0.5" maxTerH="100" maxDepth="5" />
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="30" minTerH="-0.5" maxTerH="100" maxDepth="5" />
 	</paged>
-	<cam pos="-520.062 77.4445 -335.885" dir="0.61297 -0.4454 0.6526" />
+	<cam pos="-489.85 64.1012 -393.567" dir="0.554466 -0.2479 0.794478" />
 	<objects>
 		<o name="wood_block" pos="-137.957 -4.56403 5.55255" rot="0.728464 -0.684413 0.0146001 -0.0265757" />
 		<o name="wood_block" pos="-148.901 -4.53803 4.82083" rot="-0.706482 0.706732 -0.0355804 0.0121577" />
