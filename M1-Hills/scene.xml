@@ -39,9 +39,9 @@
 		<gchan amin="0" amax="30" asm="20" hmin="-100" hmax="100" hsm="20" ns="0" frq="34" oct="3" prs="0.3" pow="1.2" rd="0" />
 		<gchan amin="0" amax="30" asm="20" hmin="-100" hmax="100" hsm="20" ns="0" frq="43" oct="3" prs="0.3" pow="1.2" rd="0" />
 		<gchan amin="0" amax="30" asm="20" hmin="-100" hmax="100" hsm="20" ns="0" frq="52" oct="3" prs="0.3" pow="1.2" rd="0" />
-		<layer on="1" name="fir05.mesh" dens="0.15" minScale="0.0399916" maxScale="0.0899834" ofsY="0" addTrRdDist="1" maxRdist="100" windFx="2.79989" windFy="0.0999748" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
-		<layer on="1" name="fir06.mesh" dens="0.449998" minScale="0.0399986" maxScale="0.109998" ofsY="0" addTrRdDist="1" maxRdist="100" windFx="1.79999" windFy="0.0999954" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
-		<layer on="1" name="fir14.mesh" dens="0.15" minScale="0.0599938" maxScale="0.0899921" ofsY="0" addTrRdDist="1" maxRdist="100" windFx="1.79999" windFy="0.0999954" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
+		<layer on="1" name="pine2_tall_norm.mesh" dens="0.15" minScale="0.514044" maxScale="1.04894" ofsY="0" addTrRdDist="1" maxRdist="100" windFx="1.59841" windFy="0.1" maxTerAng="18.62" minTerH="-100" maxTerH="100" maxDepth="0" />
+		<layer on="1" name="fir06.mesh" dens="0.449998" minScale="0.0399986" maxScale="0.109998" ofsY="0" addTrRdDist="1" maxRdist="100" windFx="12" windFy="0.0999954" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
+		<layer on="1" name="fir14.mesh" dens="0.15" minScale="0.0599938" maxScale="0.0899921" ofsY="0" addTrRdDist="1" maxRdist="100" windFx="12" windFy="0.0999954" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="1" name="rock.05.mesh" dens="0.13" minScale="0.0299976" maxScale="0.109998" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="1" name="rock.07.mesh" dens="0.13" minScale="0.0299976" maxScale="0.109998" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="0" name="rock.05.mesh" dens="0.0149999" minScale="0.0299976" maxScale="0.209997" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />

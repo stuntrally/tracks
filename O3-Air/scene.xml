@@ -54,7 +54,7 @@
 		<layer on="0" name="tree55sitebig.mesh" dens="0.142305" minScale="0.988728" maxScale="1.74292" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0.599999" windFy="0.00999947" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 	</paged>
-	<cam pos="-59.7113 98.4661 6.56157" dir="0.655358 -0.631021 -0.415112" />
+	<cam pos="-51.9132 86.9029 22.4498" dir="0.697467 -0.418278 -0.581879" />
 	<objects>
 		<o name="fuel_can" pos="24.0666 109.107 1.78125" rot="0.441052 0.894689 0.0288826 -0.0645828" />
 		<o name="fuel_can" pos="29.3233 116.758 2.12095" rot="0.548948 0.833116 0.0199218 -0.0646328" />
