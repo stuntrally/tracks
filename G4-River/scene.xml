@@ -6,7 +6,7 @@
 	<fogH color="0.65 0.6 0.5 0.9" height="2.45999" dens="5.61125" linStart="0" linEnd="122.513" />
 	<light sceneryId="G4" pitch="28.6259" yaw="-6.87024" ambient="0.5 0.5 0.43" diffuse="0.6 0.55 0.4" specular="0.6 0.5 0.4" />
 	<fluids>
-		<fluid name="water cyan" pos="-0.216798 -2.13021 0.505794" rot="0 0 0" size="257.4 15.2461 257.4" tile="0.004 0.004" />
+		<fluid name="water cyan" pos="-0.216798 -2.13021 0.505794" rot="0 0 0" size="257.4 15.2461 257.4" tile="0.00740517 0.00740517" />
 	</fluids>
 	<terrain size="257" triangle="1.00791" errNorm="1.70">
 		<texture on="1" file="ground_white_d.jpg" fnorm="ground_white_n.jpg" scale="8.5414" surf="DesertBumpy" dust="0.3" dustS="0.2" mud="0.4" smoke="0" tclr="0.36 0.4 0.28 0.7" angMin="0" angMax="18.9261" angSm="7.91189" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="1">
