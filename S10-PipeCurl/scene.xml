@@ -50,6 +50,6 @@
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 	</paged>
-	<cam pos="236.444 162.212 -349.576" dir="-0.454969 -0.354393 0.816951" />
+	<cam pos="-282.741 159.69 242.787" dir="0.767969 -0.354393 -0.533528" />
 	<objects />
 </scene>

@@ -50,6 +50,6 @@
 		<layer on="0" name="tree69bigUpWb.mesh" dens="0.107768" minScale="1.74292" maxScale="2.855" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0.599999" windFy="0.00999947" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="0" name="tree70lowMidDn.mesh" dens="0.0886472" minScale="1.20445" maxScale="1.41907" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0.699996" windFy="0.00999974" maxTerAng="50" minTerH="-100" maxTerH="20" maxDepth="5" />
 	</paged>
-	<cam pos="123.923 16.2707 -0.461405" dir="-0.994437 -0.0829363 -0.0649381" />
+	<cam pos="118.656 33.1561 -58.4791" dir="-0.894348 -0.202242 0.399049" />
 	<objects />
 </scene>

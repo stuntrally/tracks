@@ -1,6 +1,6 @@
 <scene>
 	<car tires="0" />
-	<start pos="-28.167 -52.9228 0.63364" rot="-1e-006 -1.58096e-013 -0.803676 -0.595094" />
+	<start pos="-28.167 -52.9228 -4.0238" rot="-1e-006 -1.58096e-013 -0.803676 -0.595094" />
 	<sky material="sky/blue_clouds" />
 	<fog color="0.73 0.86 1 1" color2="0.73 0.86 1 1" linStart="117.613" linEnd="672.8" />
 	<fogH color="0.73 0.86 1 1" height="-300" dens="100" linStart="0" linEnd="400" />
@@ -50,6 +50,6 @@
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 	</paged>
-	<cam pos="-12.0502 63.7841 149.489" dir="-0.0770485 -0.471475 -0.878507" />
+	<cam pos="139.493 77.919 108.56" dir="-0.761374 -0.408308 -0.503594" />
 	<objects />
 </scene>
