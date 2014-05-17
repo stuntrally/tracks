@@ -52,7 +52,7 @@
 		<layer on="0" name="" dens="0.0999996" minScale="0.0999994" maxScale="0.249999" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="30" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="30" minTerH="-100" maxTerH="100" maxDepth="5" />
 	</paged>
-	<cam pos="721.928 571.102 70.3036" dir="-0.797157 -0.598273 -0.0813042" />
+	<cam pos="-615.097 217.027 -453.502" dir="0.865903 -0.236953 0.440563" />
 	<objects>
 		<o name="plastic_big" pos="140.67 78.7745 -150.909" rot="-0.482644 0.875692 -0.0122137 0.00827143" />
 		<o name="plastic_big" pos="126.053 95.1964 -151.137" rot="-0.476361 0.879238 -0.000364507 0.00457793" />
