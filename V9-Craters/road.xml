@@ -4,7 +4,7 @@
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="800" lodPntLen="120" />
 	<geom colN="6" colR="2" wsPm="4" lsPm="1" stBox="1 4.76 12.6324" iDir="1" iChk1="40" />
 	<stats length="1891.37" width="7" height="15.6783" onTer="0" pipes="0" bnkAvg="6.15295" bnkMax="18.554" />
-	<txt desc="A very bumpy track with many hot craters." />
+	<txt desc="A very bumpy track near hot craters. Keep out of high temperatures to not damage car !" />
 	<P pos="153.305 0 -157.083" w="7" aT="2" chkR="1.876" />
 	<P pos="171.191 0 -119.222" w="7" aT="2" />
 	<P pos="159.821 0 -91.2536" w="7" aT="2" />
