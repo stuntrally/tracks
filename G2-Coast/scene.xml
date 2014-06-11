@@ -53,5 +53,8 @@
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="30" minTerH="-0.5" maxTerH="100" maxDepth="5" />
 	</paged>
 	<cam pos="296.532 61.3782 -246.546" dir="0.369409 -0.119723 0.921522" />
-	<objects />
+	<objects>
+		<o name="water_plane_big" pos="449.548 -195.065 -1.02399" rot="-0.415578 0.909557 0 0" />
+		<o name="balloon2clr" pos="-441.643 125.041 73.8524" rot="0.99046 0.137677 -0.00583076 -0.000810492" />
+	</objects>
 </scene>
