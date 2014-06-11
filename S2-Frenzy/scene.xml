@@ -57,5 +57,9 @@
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 	</paged>
 	<cam pos="-112.435 -7.64576 103.939" dir="-0.443453 -0.156322 -0.882561" />
-	<objects />
+	<objects>
+		<o name="balloon2cl" pos="120.976 -27.3714 40.6673" rot="0 -1 0 0" sc="1.07973 1.07973 1.07973" />
+		<o name="balloon2cl" pos="-237.369 115.976 41.4167" rot="0.65086 -0.759197 0 0" sc="1.08786 1.08786 1.08786" />
+		<o name="balloon2" pos="-375.873 408.676 42.4153" rot="0 -1 0 0" />
+	</objects>
 </scene>
