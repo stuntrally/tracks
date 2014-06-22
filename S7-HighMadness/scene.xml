@@ -1,10 +1,10 @@
 <scene>
 	<car tires="0" />
 	<start pos="-4.60027 -90.5844 1.58894" rot="0.001625 2.60002e-005 -0.999875 0.0162642" />
-	<sky material="sky/light_blue" />
+	<sky material="sky/day_blue" skyYaw="-106.917" />
 	<fog color="0.73 0.86 1 1" color2="0.73 0.86 1 1" linStart="195.313" linEnd="966.05" />
 	<fogH color="0.73 0.86 1 1" height="-300" dens="100" linStart="0" linEnd="400" />
-	<light sceneryId="S7" pitch="44.9997" yaw="120.6" ambient="0.55 0.55 0.55" diffuse="0.85 0.85 0.82" specular="0.99 0.99 0.97" />
+	<light sceneryId="S7" pitch="52.3308" yaw="13" ambient="0.55 0.55 0.55" diffuse="0.85 0.85 0.82" specular="0.99 0.99 0.97" />
 	<fluids>
 		<fluid name="water blue" pos="90.4091 4.63669 -2.80228" rot="0 0 0" size="38.282 20 77.9471" tile="0.01 0.01" />
 		<fluid name="water blue" pos="210.747 10.23 -5.75151" rot="0 0 0" size="90.2643 20 199.831" tile="0.01 0.01" />
@@ -55,5 +55,7 @@
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 	</paged>
 	<cam pos="323.323 117.802 -180.585" dir="-0.792407 -0.257974 0.552757" />
-	<objects />
+	<objects>
+		<o name="windmill" pos="-63.774 130.853 86.019" rot="0 -1 0 0" sc="1.12715 1.12715 1.12715" />
+	</objects>
 </scene>
