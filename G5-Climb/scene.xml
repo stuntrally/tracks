@@ -1,10 +1,10 @@
 <scene>
 	<car tires="0" />
 	<start pos="452.525 -506.787 -73.9404" rot="-0.018956 -0.003186 -0.986 0.165682" />
-	<sky material="sky/light_blue" />
-	<fog color="0.7 0.96 1 1" color2="0.7 0.96 1 1" linStart="535.612" linEnd="1824.05" />
+	<sky material="sky/day_blue" />
+	<fog color="0.56 0.74 0.82 1" color2="0.55 0.7 0.8 1" linStart="420.713" linEnd="1824.05" />
 	<fogH color="0.73 0.86 1 1" height="-300" dens="100" linStart="0" linEnd="400" />
-	<light sceneryId="G1" pitch="41.6794" yaw="58.1674" ambient="0.6 0.6 0.6" diffuse="0.9 0.9 0.88" specular="0.99 0.99 0.97" />
+	<light pitch="41.6794" yaw="58.1674" ambient="0.6 0.6 0.6" diffuse="0.9 0.9 0.88" specular="0.99 0.99 0.97" />
 	<fluids>
 		<fluid name="water cyan" pos="468.364 -87.2101 304.728" rot="0 0 0" size="16000 40 16000" tile="0.004 0.004" />
 	</fluids>

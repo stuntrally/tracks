@@ -1,14 +1,14 @@
 <scene>
 	<car tires="0" />
 	<start pos="-59.3236 3.10192 4.33741" rot="-5.55112e-017 -5.55112e-017 0.703943 0.710259" />
-	<sky material="sky/sunset" />
-	<fog color="0.9 0.6 0.4 0.9" color2="0.42 0.37 0.4 0.9" linStart="82.0125" linEnd="448.753" />
-	<fogH color="0.7 0.86 1 1" height="15.375" dens="75.375" linStart="0" linEnd="57.8" />
-	<light sceneryId="I4" pitch="16.9466" yaw="16.0301" ambient="0.47 0.33 0.3" diffuse="0.7 0.6 0.5" specular="0.7 0.7 0.5" />
+	<sky material="sky/sunset_rays_gen" skyYaw="-13.0827" />
+	<fog color="0.34 0.22 0.2 0.6" color2="0.3 0.18 0.12 0.9" linStart="128.152" linEnd="729.656" />
+	<fogH color="0.6 0.4 0.3 0.5" height="15.5388" dens="75.375" linStart="0" linEnd="57.8" />
+	<light pitch="8" yaw="0" ambient="0.42 0.28 0.25" diffuse="0.8 0.7 0.65" specular="0.7 0.7 0.5" />
 	<fluids>
 		<fluid name="water sunset" pos="-0.493078 -2 5.89115" rot="0 0 0" size="8000 40 8000" tile="0.00482925 0.00508187" />
 	</fluids>
-	<terrain size="513" triangle="1.18027" errNorm="1.70" normSc="3">
+	<terrain size="513" triangle="1.18027" errNorm="1.70" normSc="5">
 		<texture on="1" file="island_sand_d.jpg" fnorm="desert_sand_n.jpg" scale="10.3534" surf="DesertFast" dust="0.6" dustS="0.7" mud="0" smoke="0" tclr="0.44 0.44 0.26 0.7" angMin="0" angMax="22.3679" angSm="6.02611" hMin="-300" hMax="3.88128" hSm="3.17133" nOn="0" noise="1" n_1="0" n2="0.509652">
 			<noise frq0="22.2" oct0="3" prs0="0.3" pow0="1.5" frq1="26.4215" oct1="3" prs1="0.469863" pow1="5.51958" />
 		</texture>
@@ -27,7 +27,7 @@
 		<texture on="0" file="" fnorm="" scale="5.55224" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
 			<noise frq0="42.2" oct0="3" prs0="0.3" pow0="1.5" frq1="43.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
-		<texture road="1" surf="roadGravel" dust="1.3" dustS="0.5" mud="0" smoke="0" tclr="0.48 0.32 0.22 0.7" />
+		<texture road="1" surf="roadDesert" dust="0.4" dustS="0.9" mud="0" smoke="0" tclr="0.7 0.66 0.36 0.7" />
 		<par dust="DustSmall" mud="Mud" smoke="Smoke" />
 	</terrain>
 	<paged densGrass="0.006" densTrees="0.4" grPage="60" grDist="60" grDensSmooth="6" trPage="400" trDist="420" trDistImp="800" trRdDist="3">
@@ -52,7 +52,7 @@
 		<layer on="0" name="" dens="0.0999996" minScale="0.0999994" maxScale="0.249999" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="30" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="30" minTerH="-100" maxTerH="100" maxDepth="5" />
 	</paged>
-	<cam pos="202.142 38.1877 -90.7244" dir="-0.950346 -0.17856 0.254869" />
+	<cam pos="-7.14004 16.012 3.8184" dir="-0.847464 -0.0186697 0.531002" />
 	<objects>
 		<o name="plastic_big" pos="-148.109 -88.4286 -1.3631" rot="0.9794 0.189532 -0.0696467 0.00159606" />
 		<o name="plastic_big" pos="-129.421 -121.664 0.50889" rot="0.975233 0.189293 -0.0375281 0.108074" />

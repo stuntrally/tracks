@@ -1,10 +1,10 @@
 <scene>
 	<car tires="0" damage="0.401338" />
 	<start pos="-223.835 23.6953 60.6295" rot="0.0766546 0.0668877 0.654066 0.749579" />
-	<sky material="sky/light_blue" />
-	<fog color="0.9 0.96 1 1" color2="0.78 0.98 0.99 1" linStart="613.576" linEnd="1814.06" />
+	<sky material="sky/day_blue2" skyYaw="-79.8496" />
+	<fog color="0.51 0.62 0.68 1" color2="0.47 0.62 0.75 1" linStart="613.576" linEnd="1814.06" />
 	<fogH color="0.4 0.4 0.4 1" height="-117.794" dens="14.3831" linStart="4.07033" linEnd="169.044" />
-	<light sceneryId="I2" pitch="58.1386" yaw="62.7068" ambient="0.44 0.44 0.44" diffuse="0.6 0.6 0.6" specular="1 1 1" />
+	<light pitch="54.1353" yaw="-40" ambient="0.44 0.44 0.44" diffuse="0.6 0.6 0.6" specular="1 1 1" />
 	<fluids>
 		<fluid name="water blue" pos="0 -2 0" rot="0 0 0" size="8000 40 8000" tile="0.01 0.01" />
 	</fluids>
@@ -52,7 +52,7 @@
 		<layer on="0" name="" dens="0.0999996" minScale="0.0999994" maxScale="0.249999" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="30" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="30" minTerH="-100" maxTerH="100" maxDepth="5" />
 	</paged>
-	<cam pos="-615.097 217.027 -453.502" dir="0.865903 -0.236953 0.440563" />
+	<cam pos="-615.097 217.027 -453.502" dir="0.86589 -0.236949 0.440556" />
 	<objects>
 		<o name="plastic_big" pos="140.67 78.7745 -150.909" rot="-0.482644 0.875692 -0.0122137 0.00827143" />
 		<o name="plastic_big" pos="126.053 95.1964 -151.137" rot="-0.476361 0.879238 -0.000364507 0.00457793" />
