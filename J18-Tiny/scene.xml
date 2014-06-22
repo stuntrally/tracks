@@ -4,7 +4,7 @@
 	<sky material="sky/white" rainName="RainFine" rainEmit="1297" rain2Name="RainFast" rain2Emit="1125" />
 	<fog color="0.76 0.86 0.9 1" color2="0.66 0.76 0.8 1" linStart="0" linEnd="88.2" />
 	<fogH color="0.7 0.8 0.8 0.8" height="6.73499" dens="11.52" linStart="0" linEnd="35.1125" />
-	<light sceneryId="J18" pitch="54" yaw="64.8" ambient="0.45 0.45 0.45" diffuse="0.5 0.5 0.5" specular="0.6 0.6 0.6" />
+	<light pitch="54" yaw="64.8" ambient="0.45 0.45 0.45" diffuse="0.5 0.5 0.5" specular="0.6 0.6 0.6" />
 	<fluids>
 		<fluid name="water green" pos="-20.5103 -0.350531 21.7501" rot="0 0 0" size="32.1013 13.8984 30.5479" tile="0.01 0.01" />
 		<fluid name="mud easy soft" pos="64.0307 -1.04085 -47.2619" rot="0 0 0" size="45.9546 20 42.8578" tile="0.01 0.01" />
@@ -83,5 +83,8 @@
 		<o name="crate" pos="-37.8075 -65.9754 0.402511" rot="-0.318478 0.947402 -0.0277017 -0.0152937" />
 		<o name="crate2s" pos="55.2319 -17.8174 4.83108" rot="-0.537254 0.832579 0.134757 0.00346849" />
 		<o name="crate2s" pos="56.2439 -20.9753 4.17489" rot="-0.564013 0.81594 0.126567 -0.010626" />
+		<o name="statue_buddha" pos="-44.7882 10.1434 -0.706531" rot="0.372246 -0.928133 0 0" sc="7.81924 7.81924 7.81924" />
+		<o name="statue_buddha" pos="-25.0103 28.0321 9.85966" rot="0.75173 -0.659469 0 0" sc="7.55101 7.55101 7.55101" />
+		<o name="statue_buddha" pos="81.4576 55.9846 2.99345" rot="0.071921 -0.99741 6.2216e-005 0.00086282" sc="3.63147 3.63147 3.63147" />
 	</objects>
 </scene>
