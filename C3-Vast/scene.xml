@@ -1,10 +1,10 @@
 <scene>
 	<car tires="0" />
 	<start pos="283.025 155.963 0.009624" rot="-0.008103 0.005887 -0.790927 0.611849" />
-	<sky material="sky/sunset" />
-	<fog color="0.9 0.65 0.55 0.9" color2="0.55 0.5 0.55 1" linStart="610.513" linEnd="1386.11" />
+	<sky material="sky/sunset_blue_gen" skyYaw="63.609" />
+	<fog color="0.6 0.45 0.3 0.8" color2="0.48 0.35 0.25 0.9" linStart="610.513" linEnd="1215.08" />
 	<fogH color="0.65 0.5 0.4 0.8" height="-42.585" dens="54.08" linStart="0" linEnd="400" />
-	<light sceneryId="C3" pitch="33.975" yaw="16.0301" ambient="0.5 0.4 0.35" diffuse="0.8 0.75 0.7" specular="0.9 0.7 0.5" />
+	<light pitch="16" yaw="57" ambient="0.47 0.45 0.42" diffuse="0.77 0.75 0.73" specular="0.9 0.7 0.5" />
 	<fluids />
 	<terrain size="1025" triangle="1.79006" errNorm="5.00">
 		<texture on="1" file="mntn_canyon2o_d.jpg" fnorm="adesert_mntn4_n.jpg" scale="9.36335" surf="DesertFast" dust="0" dustS="0.2" mud="0.8" smoke="0" tclr="0.14 0.14 0.05 0.7" angMin="0" angMax="12.1526" angSm="8.79854" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0.451737">

@@ -3,7 +3,7 @@
 	<dim tcMul="0.0599761" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="8" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 7.964 18.76" iDir="-1" iChk1="1" />
-	<stats length="1897" width="7.42374" height="19.9514" onTer="5.50849" pipes="0" bnkAvg="7.68769" bnkMax="32.2511" />
+	<stats length="1897" width="7.42374" height="19.952" onTer="5.50849" pipes="0" bnkAvg="7.68769" bnkMax="32.2511" />
 	<txt desc="Fast desert with a jump, mud pool, and banked circle." />
 	<P pos="29.4151 0 247.72" w="7.3152" aT="2" />
 	<P pos="69.4483 0 244.171" w="7.3152" aT="2" chkR="2.016" />

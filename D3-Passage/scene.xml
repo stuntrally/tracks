@@ -1,15 +1,15 @@
 <scene>
 	<car tires="0" />
 	<start pos="144.052 -173.364 -9.35891" rot="1.66978e-013 -1e-006 0.894565 -0.446977" />
-	<sky material="sky/blue_clouds" />
+	<sky material="sky/morning_gen" />
 	<fog color="0.85 0.92 1 1" color2="0.8 0.9 1 1" linStart="249.76" linEnd="963.926" />
 	<fogH color="0.73 0.86 1 1" height="-300" dens="100" linStart="0" linEnd="400" />
-	<light sceneryId="D3" pitch="14.4361" yaw="64.5113" ambient="0.6 0.6 0.6" diffuse="1.5 1.5 1.5" specular="0.99 0.99 0.97" />
+	<light pitch="25.0376" yaw="-8" ambient="0.45 0.42 0.38" diffuse="1.2 1.2 1.2" specular="0.99 0.99 0.97" />
 	<fluids>
 		<fluid name="mud easy soft" pos="-63.0302 -13.9633 -157.254" rot="0 0 0" size="92.2632 18.7828 36.8066" tile="0.01 0.01" />
 	</fluids>
 	<terrain size="1025" triangle="0.64" errNorm="5.00">
-		<texture on="0" file="desert_sand2_d.jpg" fnorm="desert_sand2_n.jpg" scale="16.2057" surf="DesertFast" dust="0.9" dustS="1" mud="0.1" smoke="0" tclr="0.48 0.46 0.08 0.7" angMin="4.93151" angMax="14.2661" angSm="2.12444" hMin="-147.704" hMax="280.263" hSm="20" nOn="0" noise="0" n_1="0" n2="0">
+		<texture on="0" file="desert_sand2_d.jpg" fnorm="desert_sand2_n.jpg" scale="16.2057" surf="DesertFast" dust="0.9" dustS="1" mud="0.1" smoke="0" tclr="0.48 0.46 0.08 0.7" angMin="4.93151" angMax="14.2661" angSm="2.12444" hMin="-150" hMax="280.263" hSm="20" nOn="0" noise="0" n_1="0" n2="0">
 			<noise frq0="43.2116" oct0="5" prs0="0.7" pow0="2" frq1="31.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
 		<texture on="1" file="desert_sand_d.jpg" fnorm="desert_sand_n.jpg" scale="12.0559" surf="DesertFast" dust="0.8" dustS="1" mud="0.1" smoke="0" tclr="0.46 0.46 0.08 0.7" angMin="0" angMax="6.69276" angSm="0.442019" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="1">
