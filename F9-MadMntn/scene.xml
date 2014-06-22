@@ -1,16 +1,16 @@
 <scene>
 	<car tires="0" />
 	<start pos="-43.4418 -61.272 18.7027" rot="3.86676e-009 -0.023734 1.16312e-006 0.99973" />
-	<sky material="sky/gray_clouds" rainName="RainFine" rainEmit="286" rain2Name="RainFastA" rain2Emit="286" />
-	<fog color="0.58 0.6 0.62 0.9" color2="0.52 0.56 0.58 0.9" linStart="130.703" linEnd="543.514" />
-	<fogH color="0.5 0.52 0.54 0.9" height="18.1357" dens="54.6012" linStart="0" linEnd="68.45" />
-	<light sceneryId="F6" pitch="33.1752" yaw="45" ambient="0.45 0.45 0.45" diffuse="0.6 0.6 0.6" specular="0.5 0.5 0.5" />
+	<sky material="sky/gray_clouded" rainName="RainFine" rainEmit="286" rain2Name="RainFastA" rain2Emit="286" />
+	<fog color="0.32 0.31 0.32 0.9" color2="0.5 0.5 0.5 0.9" linStart="130.703" linEnd="543.514" />
+	<fogH color="0.45 0.45 0.45 0.9" height="18.1357" dens="54.6012" linStart="0" linEnd="68.45" />
+	<light pitch="40" yaw="105" ambient="0.5 0.5 0.5" diffuse="0.5 0.5 0.5" specular="0.6 0.6 0.6" />
 	<fluids />
 	<terrain size="513" triangle="0.96" errNorm="1.70">
-		<texture on="1" file="mntn_green_d.jpg" fnorm="mntn_green_n.jpg" scale="20.4282" surf="Rocks" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.32 0.32 0.32 1" angMin="0" angMax="23.7769" angSm="8.95089" hMin="-300" hMax="300" hSm="20" nOn="0" noise="0.954178" n_1="0" n2="0">
+		<texture on="1" file="mntn_green_d.jpg" fnorm="mntn_green_n.jpg" scale="20.4282" surf="Rocks" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.32 0.32 0.32 1" angMin="0" angMax="23.7769" angSm="8.95089" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
 			<noise frq0="22.2" oct0="3" prs0="0.3" pow0="1.5" frq1="28.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
-		<texture on="1" file="mntn_yellow_d.jpg" fnorm="jungle_stone_d.jpg" scale="25.8659" surf="Rocks" dust="0.3" dustS="0.2" mud="0.5" smoke="0" tclr="0.32 0.32 0.32 0.4" angMin="25.7143" angMax="41.0738" angSm="11.0505" hMin="-300" hMax="300" hSm="20" nOn="0" triplanar="1" noise="0" n_1="0.343666" n2="0">
+		<texture on="1" file="mntn_yellow_d.jpg" fnorm="jungle_stone_d.jpg" scale="25.8659" surf="Rocks" dust="0.3" dustS="0.2" mud="0.5" smoke="0" tclr="0.32 0.32 0.32 0.4" angMin="25.7143" angMax="41.0738" angSm="11.0505" hMin="-300" hMax="300" hSm="20" nOn="0" triplanar="1" noise="1" n_1="0" n2="0">
 			<noise frq0="26.2" oct0="3" prs0="0.3" pow0="1.5" frq1="31.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
 		<texture on="0" file="mntn_dark_d.jpg" fnorm="mntn_dark_n.jpg" scale="22.3276" surf="Rocks" dust="0.1" dustS="0.2" mud="0.3" smoke="0" tclr="0.25 0.25 0.25 0.7" angMin="39.8658" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="0" n_1="0" n2="0">
@@ -50,7 +50,7 @@
 		<layer on="1" name="rock.mesh" dens="0.1" minScale="0.542916" maxScale="1.08585" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="40" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 	</paged>
-	<cam pos="300.52 84.9428 52.9674" dir="-0.975611 -0.213466 -0.051144" />
+	<cam pos="209.115 115.947 -148.033" dir="-0.637125 -0.361524 0.680715" />
 	<objects>
 		<o name="cave_Y06" pos="-30.7666 157.432 14.1776" rot="-0.530666 -0.831213 -0.150669 0.0690398" sc="0.871472 0.871472 0.871472" />
 		<o name="cave_Y06" pos="10.9413 152.558 19.6387" rot="0.773497 -0.632287 0.0436316 -0.00128272" sc="0.822027 0.822027 0.822027" />

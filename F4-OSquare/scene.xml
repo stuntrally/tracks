@@ -1,10 +1,10 @@
 <scene>
 	<car tires="0" />
 	<start pos="39.4121 51.9231 -19.0149" rot="-0.000338 -2.00004e-006 -0.999974 -0.00826884" />
-	<sky material="sky/gray_clouds" rainName="RainFastA" rainEmit="600" rain2Name="RainFine" rain2Emit="99" />
-	<fog color="0.68 0.7 0.72 1" color2="0.58 0.6 0.62 1" linStart="159.997" linEnd="768.8" />
-	<fogH color="0.4 0.4 0.4 0.9" height="-16.4261" dens="19.845" linStart="0" linEnd="45" />
-	<light sceneryId="F1" pitch="33.6901" yaw="53.1299" ambient="0.47 0.47 0.47" diffuse="0.6 0.6 0.6" specular="0.5 0.5 0.5" />
+	<sky material="sky/cloudy" rainName="RainFastA" rainEmit="600" rain2Name="RainFine" rain2Emit="99" skyYaw="-4.96241" />
+	<fog color="0.74 0.74 0.66 1" color2="0.52 0.56 0.6 1" linStart="159.997" linEnd="768.8" />
+	<fogH color="0.3 0.3 0.3 0.9" height="-16.4261" dens="19.845" linStart="0" linEnd="45" />
+	<light pitch="30.9023" yaw="59" ambient="0.56 0.56 0.56" diffuse="0.5 0.5 0.5" specular="0.5 0.5 0.5" />
 	<fluids />
 	<terrain size="513" triangle="1.2" errNorm="1.70">
 		<texture on="1" file="grass_ground_d.jpg" fnorm="grass_ground_n.jpg" scale="6.50559" surf="GrassForest" dust="0" dustS="0.2" mud="0.8" smoke="0" tclr="0.22 0.2 0.04 0.9" angMin="0" angMax="20.4305" angSm="5.41474" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="1">
