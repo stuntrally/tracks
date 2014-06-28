@@ -1,10 +1,10 @@
 <scene>
 	<car tires="0" />
 	<start pos="-127.312 -1.8109 1.08909" rot="0.011065 0.023141 0.708398 0.705369" />
-	<sky material="sky/light_blue" />
-	<fog color="0.7 0.96 1 1" color2="0.7 0.96 1 1" linStart="153.845" linEnd="1149.94" />
+	<sky material="sky/day_blue2" />
+	<fog color="0.7 0.86 0.9 1" color2="0.6 0.8 0.9 1" linStart="153.845" linEnd="1149.94" />
 	<fogH color="0.73 0.86 1 1" height="-300" dens="100" linStart="0" linEnd="400" />
-	<light sceneryId="J17" pitch="41.6794" yaw="58.1674" ambient="0.5 0.5 0.5" diffuse="0.95 0.95 0.93" specular="0.99 0.99 0.97" />
+	<light pitch="60" yaw="-40" ambient="0.5 0.5 0.5" diffuse="0.65 0.65 0.63" specular="0.99 0.99 0.97" />
 	<fluids>
 		<fluid name="water blue" pos="148.386 -8.59029 185.527" rot="0 0 0" size="268.121 20 294.945" tile="0.01 0.01" />
 		<fluid name="mud soft" pos="-55.2033 8.16785 145.162" rot="0 0 0" size="60.3364 20 46.5946" tile="0.01 0.01" />
@@ -53,7 +53,7 @@
 		<layer on="0" name="" dens="0.0999996" minScale="0.0999983" maxScale="0.249999" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="30" minTerH="-0.5" maxTerH="100" maxDepth="5" />
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="30" minTerH="-0.5" maxTerH="100" maxDepth="5" />
 	</paged>
-	<cam pos="249.882 33.7241 110.535" dir="-0.988244 -0.118014 0.0972025" />
+	<cam pos="249.882 33.7241 110.535" dir="-0.988243 -0.118014 0.0972024" />
 	<objects>
 		<o name="crate2m" pos="153.943 -160.619 -7.27286" rot="0.496171 0.86816 0.0100132 0.00353455" />
 		<o name="crate2m" pos="182.697 -127.424 -6.69819" rot="0.940917 0.337725 0.000642523 0.0248149" />
