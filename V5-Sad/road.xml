@@ -1,10 +1,10 @@
 <SplineRoad>
-	<mtr road="roadMud" pipe="pipeGlass" col="road_col_Dark" />
+	<mtr road="roadMud" pipe="pipeGlass" wall="road_wall_JDark" col="road_col_Dark" />
 	<dim tcMul="0.1" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="2" widthSteps="6" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="800" lodPntLen="120" />
 	<geom colN="6" colR="2" wsPm="4" lsPm="1" stBox="1 5.56 19.968" iDir="-1" iChk1="4" />
-	<stats length="4327.26" width="7.29247" height="34.0249" onTer="17.1717" pipes="10.7185" bnkAvg="4.08669" bnkMax="24.84" />
-	<txt desc="Long, muddy, slippery road. The wide curves allow for high speeds for the skilled drivers." />
+	<stats length="4327.26" width="7.29247" height="34.0249" onTer="17.1717" pipes="10.7185" bnkAvg="4.08692" bnkMax="24.84" />
+	<txt desc="Dark, long, muddy, bumpy and slippery road. Has few wide curves but partly slow and winding." />
 	<P pos="-320.001 0 -139.009" w="7" aT="2" />
 	<P pos="-277.164 0 -223.612" w="7" aT="2" />
 	<P pos="-206.763 0 -288.231" w="7" aT="2" chkR="1.76" />
@@ -20,11 +20,11 @@
 	<P pos="73.062 0 53.3845" w="7" aT="2" chkR="2.14" />
 	<P pos="8.45085 0 5.14946" w="7" aT="2" />
 	<P pos="-15.032 0 -32.6781" w="7" aT="2" />
-	<P pos="-26.074 0 -80.2179" w="8.104" a="0" ar="0" aT="2" />
+	<P pos="-26.074 0 -80.2179" w="8.104" a="0" ar="4.968" aT="2" />
 	<P pos="-35.4121 21.1728 -108.819" w="8.0404" onTer="0" a="0" ar="0" aT="2" chkR="1.604" />
 	<P pos="-55.459 0 -135.507" w="8.056" a="0" ar="0" aT="2" />
 	<P pos="-82.8608 0 -172.808" w="8.296" aT="2" />
-	<P pos="-107.053 0 -198.729" w="8.864" a="0" ar="0" aT="2" chkR="2.132" />
+	<P pos="-107.053 0 -198.729" w="8.864" a="0" ar="0.528" aT="2" chkR="2.132" />
 	<P pos="-167.852 26.1133 -215.091" w="9.248" onTer="0" a="-4.5" ar="-24.84" aT="2" col="0" />
 	<P pos="-184.18 0 -178.84" w="8.896" a="0" ar="0" aT="2" col="0" chkR="1.76" />
 	<P pos="-184.703 0 -91.0223" w="8.7392" aT="2" />
