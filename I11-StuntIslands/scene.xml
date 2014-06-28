@@ -1,12 +1,12 @@
 <scene>
 	<car tires="0" damage="0.8" />
 	<start pos="-609.446 -310.427 20.9396" rot="0.005154 -0.005185 0.697392 0.71667" />
-	<sky material="sky/light_blue" />
-	<fog color="0.92 0.98 0.98 1" color2="0.77 0.98 0.98 1" linStart="729.656" linEnd="1513.8" />
+	<sky material="sky/night_blue" />
+	<fog color="0.2 0.25 0.35 0.9" color2="0.17 0.22 0.3 0.9" linStart="630.348" linEnd="1538.94" />
 	<fogH color="0.73 0.86 1 1" height="-300" dens="100" linStart="0" linEnd="400" />
-	<light sceneryId="I6" pitch="58.95" yaw="79.2" ambient="0.47 0.5 0.41" diffuse="0.65 0.65 0.6" specular="0.7 0.7 0.7" />
+	<light pitch="29.7744" yaw="78" ambient="0.32 0.35 0.37" diffuse="0.45 0.55 0.65" specular="0.3 0.3 0.3" />
 	<fluids>
-		<fluid name="water blue" pos="0.387406 10 -0.691333" rot="0 0 0" size="2700 20 2700" tile="0.01 0.01" />
+		<fluid name="water blue dark" pos="0.387406 10 -0.691333" rot="0 0 0" size="3700 20 3700" tile="0.01 0.01" />
 	</fluids>
 	<terrain size="1025" triangle="1.38488" errNorm="1.70">
 		<texture on="1" file="island_sand_d.jpg" fnorm="desert_sand_n.jpg" scale="12.7769" surf="DesertFast" dust="0.6" dustS="0.7" mud="0" smoke="0" tclr="0.44 0.44 0.26 0.7" angMin="0" angMax="13.0333" angSm="11.0505" hMin="-300" hMax="300" hSm="4.14214" nOn="0" noise="1" n_1="0" n2="1">
@@ -27,7 +27,7 @@
 		<texture on="0" file="" fnorm="" scale="5" surf="Default" dust="0.6" dustS="0.7" mud="0" smoke="0" tclr="0.5 0.4 0.3 0.5" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
 			<noise frq0="42.2" oct0="3" prs0="0.3" pow0="1.5" frq1="43.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
-		<texture road="1" surf="roadDesert" dust="0.4" dustS="0.8" mud="0" smoke="0" tclr="0.5 0.46 0.26 0.7" />
+		<texture road="1" surf="roadDesert" dust="0" dustS="0.8" mud="0" smoke="0" tclr="0.5 0.46 0.26 0.7" />
 		<par dust="Dust" mud="Dust" smoke="Smoke" />
 	</terrain>
 	<paged densGrass="0.001" densTrees="0.8" grPage="100" grDist="100" grDensSmooth="6" trPage="200" trDist="200" trDistImp="1200" trRdDist="2">
