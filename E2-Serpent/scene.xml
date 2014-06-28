@@ -1,10 +1,10 @@
 <scene>
 	<car tires="0" />
 	<start pos="208.329 18.0779 0.664408" rot="-7.54952e-015 4.44089e-016 -0.740817 0.671721" />
-	<sky material="sky/blue_clouds" />
-	<fog color="0.77 0.82 0.86 0.96" color2="0.72 0.76 0.8 0.9" linStart="309.659" linEnd="726.013" />
+	<sky material="sky/day_blue2" />
+	<fog color="0.481 0.56 0.65 0.96" color2="0.42 0.55 0.65 0.9" linStart="160.414" linEnd="693.777" />
 	<fogH color="0.73 0.86 1 1" height="-300" dens="100" linStart="0" linEnd="400" />
-	<light sceneryId="E1" pitch="45.225" yaw="63" ambient="0.6 0.6 0.6" diffuse="0.7 0.7 0.7" specular="0.7 0.7 0.7" />
+	<light pitch="45.7895" yaw="-40" ambient="0.6 0.6 0.6" diffuse="0.7 0.7 0.7" specular="0.8 0.8 0.8" />
 	<fluids>
 		<fluid name="water blue dark" pos="432.339 -1.24551 39.4307" rot="0 0 0" size="2670.76 20 3250.02" tile="0.01 0.01" />
 	</fluids>
@@ -52,7 +52,7 @@
 		<layer on="0" name="treeAYG-16birTallUp.mesh" dens="0.194974" minScale="1.65948" maxScale="2.20577" ofsY="0" addTrRdDist="2" maxRdist="7" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="0" />
 		<layer on="1" name="fern2.mesh" dens="0.157634" minScale="0.443806" maxScale="0.616577" ofsY="0" addTrRdDist="1" maxRdist="5" windFx="0" windFy="0" maxTerAng="18.9378" minTerH="-100" maxTerH="100" maxDepth="0" />
 	</paged>
-	<cam pos="310.033 77.4944 -355.781" dir="-0.293287 -0.287559 0.911752" />
+	<cam pos="343.022 51.143 -317.58" dir="-0.650828 -0.170216 0.740032" />
 	<objects>
 		<o name="house_2" pos="237.123 -236.271 2.54373" rot="-0.89832 -0.439244 -0.00812808 0.00397432" sc="1.13935 1.11614 1.13935" />
 		<o name="house_1" pos="227.529 -249.006 3.08246" rot="-0.89832 -0.439244 -0.00812808 0.00397432" sc="1.0294 1.20799 1.0294" />

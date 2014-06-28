@@ -1,10 +1,10 @@
 <scene>
 	<car tires="0" />
 	<start pos="43.0379 -241.69 104.467" rot="-0.017341 0.027885 0.999484 0.00110784" />
-	<sky material="sky/dust" />
-	<fog color="0.9 0.7 0.5 0.9" color2="0.6 0.7 0.6 0.9" linStart="207.207" linEnd="646.953" />
-	<fogH color="0.7 0.7 0.7 1" height="63" dens="53.045" linStart="0" linEnd="85.0781" />
-	<light sceneryId="M3" pitch="43.0312" yaw="60.3" ambient="0.4 0.4 0.4" diffuse="0.6 0.6 0.6" specular="0.5 0.5 0.5" />
+	<sky material="sky/offworld_gen" skyYaw="131.278" />
+	<fog color="0.9 0.7 0.5 0.9" color2="0.35 0.44 0.44 0.9" linStart="207.207" linEnd="608.036" />
+	<fogH color="0.6 0.6 0.4 1" height="63" dens="53.045" linStart="0" linEnd="85.0781" />
+	<light pitch="43.0312" yaw="29.3233" ambient="0.4 0.4 0.4" diffuse="0.5 0.5 0.5" specular="0.5 0.5 0.5" />
 	<fluids>
 		<fluid name="mud soft JD" pos="3.03046 44.7342 20.2003" rot="0 0 0" size="450 20 450" tile="0.01 0.01" />
 	</fluids>
@@ -52,6 +52,6 @@
 		<layer on="0" name="" dens="0.0999996" minScale="0.0999971" maxScale="0.249999" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 	</paged>
-	<cam pos="-279.761 167.371 -52.8988" dir="0.869671 -0.349255 0.348846" />
+	<cam pos="-97.9867 130.658 231.892" dir="0.142875 -0.220368 -0.964896" />
 	<objects />
 </scene>
