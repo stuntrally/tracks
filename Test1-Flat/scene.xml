@@ -1,10 +1,10 @@
 <scene>
 	<car tires="0" />
-	<start pos="0.639709 0.483521 -10.5051" rot="-0 0 -1.62921e-007 -1" />
-	<sky material="sky/blue_clouds" />
-	<fog color="0.73 0.86 1 1" color2="0.73 0.86 1 1" linStart="500" linEnd="899.999" />
+	<start pos="-1.30182 7.95081 -10.5378" rot="-0 0 -1.62921e-007 -1" />
+	<sky material="sky/day_clouds" />
+	<fog color="0.53 0.7 0.8 1" color2="0.53 0.7 0.8 1" linStart="500" linEnd="899.999" />
 	<fogH color="0.73 0.86 1 1" height="-300" dens="100" linStart="0" linEnd="400" />
-	<light sceneryId="Test1" pitch="44.9998" yaw="0" ambient="0.55 0.55 0.55" diffuse="0.85 0.85 0.82" specular="0.99 0.99 0.97" />
+	<light pitch="32.9323" yaw="-40.1504" ambient="0.55 0.55 0.55" diffuse="0.85 0.85 0.82" specular="0.99 0.99 0.97" />
 	<fluids />
 	<terrain size="129" triangle="8" errNorm="1.70">
 		<texture on="1" file="grass_ground_d.jpg" fnorm="grass_ground_n.jpg" scale="8.19222" surf="roadJungle" dust="0" dustS="0.2" mud="0.6" smoke="0" tclr="0.42 0.46 0.08 0.6" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
@@ -28,7 +28,7 @@
 		<texture road="1" surf="roadJungle" dust="0" dustS="0.6" mud="0" smoke="0" tclr="0.4 0.4 0.2 0.4" />
 		<par dust="Dust" mud="Mud" smoke="Smoke" />
 	</terrain>
-	<paged densGrass="0.00814065" densTrees="0" grPage="180" grDist="180" grDensSmooth="6" trPage="200" trDist="210" trDistImp="800" trRdDist="0">
+	<paged densGrass="0.00814065" densTrees="0.0258157" grPage="180" grDist="180" grDensSmooth="6" trPage="200" trDist="200" trDistImp="800" trRdDist="0">
 		<grass on="1" mtr="grassForest" clr="grClrSmall.png" dens="0.10386" chan="0" minSx="1.04604" maxSx="1.60789" minSy="0.783512" maxSy="1.15546" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
 		<grass on="1" mtr="grass16g" clr="grClrJungle.png" dens="0.1" chan="0" minSx="1.11832" maxSx="1.6379" minSy="0.898551" maxSy="1.33757" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
 		<grass on="0" mtr="grassJungle" clr="grClrJungle.png" dens="0.1" chan="0" minSx="0.6" maxSx="0.85" minSy="0.6" maxSy="0.9" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
@@ -39,17 +39,29 @@
 		<gchan amin="0" amax="30" asm="20" hmin="-100" hmax="100" hsm="20" ns="0" frq="46" oct="3" prs="0.3" pow="1.2" rd="0" />
 		<gchan amin="0" amax="30" asm="20" hmin="-100" hmax="100" hsm="20" ns="0" frq="67" oct="3" prs="0.3" pow="1.2" rd="0" />
 		<gchan amin="0" amax="30" asm="20" hmin="-100" hmax="100" hsm="20" ns="0" frq="88" oct="3" prs="0.3" pow="1.2" rd="0" />
-		<layer on="1" name="fir05w.mesh" dens="0.249998" minScale="0.0399984" maxScale="0.0999962" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="2.79999" windFy="0.0999998" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
-		<layer on="1" name="fir06w.mesh" dens="0.45" minScale="0.04" maxScale="0.12" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="1.8" windFy="0.1" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
-		<layer on="1" name="fir14w.mesh" dens="0.25" minScale="0.06" maxScale="0.09" ofsY="0" addTrRdDist="4" maxRdist="100" windFx="1.8" windFy="0.1" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
-		<layer on="1" name="rock.05w.mesh" dens="0.13" minScale="0.03" maxScale="0.15" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
-		<layer on="1" name="rock.07w.mesh" dens="0.13" minScale="0.03" maxScale="0.15" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
-		<layer on="1" name="rock.05.mesh" dens="0.015" minScale="0.03" maxScale="0.21" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
-		<layer on="1" name="rock.07.mesh" dens="0.015" minScale="0.03" maxScale="0.21" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
+		<layer on="1" name="cactus.mesh" dens="0.0487435" minScale="0.4" maxScale="0.72" ofsY="0" addTrRdDist="1" maxRdist="100" windFx="0" windFy="0" maxTerAng="26.93" minTerH="-100" maxTerH="100" maxDepth="0" />
+		<layer on="1" name="palm2.mesh" dens="0.45" minScale="2.34" maxScale="3.31" ofsY="0" addTrRdDist="1" maxRdist="100" windFx="0.3" windFy="0.115" maxTerAng="30.03" minTerH="-100" maxTerH="100" maxDepth="0" />
+		<layer on="0" name="fir14w.mesh" dens="0.25" minScale="0.06" maxScale="0.09" ofsY="0" addTrRdDist="4" maxRdist="100" windFx="1.8" windFy="0.1" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
+		<layer on="0" name="rock.05w.mesh" dens="0.13" minScale="0.03" maxScale="0.15" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
+		<layer on="0" name="rock.07w.mesh" dens="0.13" minScale="0.03" maxScale="0.15" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
+		<layer on="0" name="rock.05.mesh" dens="0.015" minScale="0.03" maxScale="0.21" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
+		<layer on="0" name="rock.07.mesh" dens="0.015" minScale="0.03" maxScale="0.21" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 	</paged>
-	<cam pos="149.357 5.0689 -49.5727" dir="-0.808692 -0.07345 0.583629" />
-	<objects />
+	<cam pos="-101.656 8.38007 -32.6049" dir="0.985502 -0.0734503 0.153072" />
+	<objects>
+		<o name="water_plane_big" pos="18.4861 -6.23096 -11.043" rot="0 -1 0 0" />
+		<o name="plastic_barrel" pos="10.074 12.3699 -10.6848" rot="0.0344693 0.999403 -0.00196753 0.00107476" />
+		<o name="plastic_big" pos="11.2685 12.5912 -10.7286" rot="-0.00271981 0.999994 -0.00199598 0.00100176" />
+		<o name="plastic_big_hvy" pos="9.08598 11.3011 -10.5508" rot="0.00118171 0.999997 -0.00199261 0.00100884" />
+		<o name="balloon2clr" pos="101.768 -35.0966 7.7356" rot="0 -1 0 0" />
+		<o name="chapel" pos="31.1089 17.0434 -11.1479" rot="0 -1 0 0" />
+		<o name="water_plane_big" pos="55.6869 5.91046 -11.0093" rot="-0.0854466 -0.984473 -0.0760814 -0.133129" />
+		<o name="windmill" pos="15.9351 42.9214 -11.3097" rot="0.094409 -0.995533 0 0" />
+		<o name="container_big" pos="21.3865 41.5925 -11.2855" rot="0 -1 0 0" />
+		<o name="watchtower2" pos="21.2637 32.3757 -18.0236" rot="0 -1 0 0" sc="1.98173 1.27477 1.98173" />
+		<o name="watchtower2" pos="21.5038 35.0803 -17.7318" rot="0 -1 0 0" sc="2.21106 1.51425 2.21106" />
+	</objects>
 </scene>
