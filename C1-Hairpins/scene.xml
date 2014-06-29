@@ -1,10 +1,10 @@
 <scene>
 	<car tires="0" />
 	<start pos="-142.982 -15.2301 -16.539" rot="-1.55431e-015 -1.55431e-015 -0.719547 -0.694455" />
-	<sky material="sky/blue_clouds" />
-	<fog color="0.75 0.8 0.87 0.9" color2="0.7 0.77 0.84 0.8" linStart="141.692" linEnd="465.779" />
+	<sky material="sky/day_clouds" />
+	<fog color="0.66 0.7 0.73 0.9" color2="0.7 0.76 0.8 0.9" linStart="141.692" linEnd="580.712" />
 	<fogH color="0.73 0.86 1 1" height="-300" dens="100" linStart="0" linEnd="400" />
-	<light sceneryId="C1" pitch="48.5266" yaw="45" ambient="0.5 0.5 0.5" diffuse="0.55 0.53 0.53" specular="0.34 0.3 0.3" />
+	<light pitch="48.5266" yaw="45" ambient="0.5 0.5 0.5" diffuse="0.55 0.53 0.53" specular="0.34 0.3 0.3" />
 	<fluids />
 	<terrain size="513" triangle="0.944912" errNorm="1.70">
 		<texture on="1" file="desert_rocky_d.jpg" fnorm="desert_rocky_n.jpg" scale="10" surf="DesertFast" dust="0.5" dustS="0.5" mud="0" smoke="0" tclr="0.4 0.2 0.2 0.5" angMin="0" angMax="20.7828" angSm="9.25952" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
@@ -50,6 +50,6 @@
 		<layer on="0" name="" dens="0.0999996" minScale="0.0999983" maxScale="0.249999" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 	</paged>
-	<cam pos="129.685 97.5563 -148.124" dir="-0.653315 -0.378461 0.655703" />
+	<cam pos="216.868 48.6065 -125.458" dir="-0.887479 -0.146334 0.437156" />
 	<objects />
 </scene>
