@@ -1,10 +1,10 @@
 <scene>
 	<car tires="0" />
 	<start pos="-9.59131 -52.4833 52.372" rot="0.00625701 -0.071909 0.160603 0.984391" />
-	<sky material="sky/light_blue" />
-	<fog color="0.73 0.86 1 1" color2="0.73 0.86 1 1" linStart="436.464" linEnd="1013.26" />
-	<fogH color="0.73 0.86 1 1" height="-300" dens="100" linStart="0" linEnd="400" />
-	<light sceneryId="S3" pitch="44.9994" yaw="-90" ambient="0.5 0.5 0.5" diffuse="0.85 0.85 0.82" specular="0.8 0.8 0.8" />
+	<sky material="sky/day_blue" />
+	<fog color="0.73 0.86 1 1" color2="0.73 0.86 1 1" linStart="380.349" linEnd="1013.26" />
+	<fogH color="0.5 0.5 0.5 1" height="34.5865" dens="77.2658" linStart="0" linEnd="115.778" />
+	<light pitch="44.9994" yaw="-90" ambient="0.5 0.5 0.5" diffuse="0.85 0.85 0.82" specular="0.8 0.8 0.8" />
 	<fluids />
 	<terrain size="513" triangle="1.18551" errNorm="1.70">
 		<texture on="1" file="savanna_green_d.jpg" fnorm="savanna_green_n.jpg" scale="10.2789" surf="GrassForest" dust="0" dustS="0.2" mud="0.6" smoke="0" tclr="0.42 0.46 0.08 0.7" angMin="0" angMax="20.9589" angSm="13.3711" hMin="-300" hMax="47.7169" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
@@ -28,7 +28,7 @@
 		<texture road="1" surf="roadGravel" dust="0" dustS="0.2" mud="0" smoke="0" tclr="0.2 0.2 0.2 1" />
 		<par dust="Dust" mud="Mud" smoke="Smoke" />
 	</terrain>
-	<paged densGrass="0.2" densTrees="0.5" grPage="60" grDist="60" grDensSmooth="6" trPage="200" trDist="210" trDistImp="800" trRdDist="3">
+	<paged densGrass="0.2" densTrees="0.5" grPage="120" grDist="120" grDensSmooth="6" trPage="200" trDist="200" trDistImp="800" trRdDist="3">
 		<grass on="0" mtr="grassSavanna" clr="grClrSavanna.png" dens="0.758969" chan="0" minSx="0.7" maxSx="1.05" minSy="0.7" maxSy="1.2" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
 		<grass on="1" mtr="grass2g" clr="grClrSmall.png" dens="0.0925859" chan="1" minSx="1.251" maxSx="1.60103" minSy="1.04772" maxSy="1.90733" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
 		<grass on="1" mtr="grass3s" clr="grClrForest2.png" dens="0.137195" chan="0" minSx="1.00943" maxSx="1.44314" minSy="1.12667" maxSy="2.50147" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
@@ -50,6 +50,6 @@
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 	</paged>
-	<cam pos="-372.36 196.817 -184.769" dir="0.885527 -0.287005 0.365336" />
+	<cam pos="-372.375 196.875 -184.775" dir="0.885527 -0.287005 0.365336" />
 	<objects />
 </scene>
