@@ -1,10 +1,10 @@
 <scene>
 	<car tires="0" />
 	<start pos="102.307 8.20158 -3.25542" rot="0 1.77636e-015 -0.999981 -0.00681084" />
-	<sky material="sky/white" rainName="Snow" rainEmit="999" />
-	<fog color="0.86 0.91 0.92 1" color2="0.86 0.91 0.92 1" linStart="59.9993" linEnd="399.999" />
+	<sky material="sky/day_blue2" rainName="Snow" rainEmit="999" skyYaw="0.451126" />
+	<fog color="0.74 0.77 0.8 0.9" color2="0.74 0.77 0.8 0.9" linStart="59.9993" linEnd="399.999" />
 	<fogH color="0.73 0.86 1 1" height="-300" dens="100" linStart="0" linEnd="400" />
-	<light sceneryId="W1" pitch="48.5266" yaw="45" ambient="0.45 0.45 0.45" diffuse="0.6 0.62 0.62" specular="0.5 0.5 0.5" />
+	<light pitch="48.5266" yaw="22.1053" ambient="0.4 0.4 0.4" diffuse="0.58 0.6 0.6" specular="0.5 0.5 0.5" />
 	<fluids />
 	<terrain size="513" triangle="1.6" errNorm="1.70">
 		<texture on="1" file="snow1_d.jpg" fnorm="snow1_n.jpg" scale="10.6571" surf="SnowDeep" dust="1" dustS="0.8" mud="1" smoke="0" tclr="0.4 0.4 0.4 0.6" angMin="0" angMax="15.3229" angSm="8.95089" hMin="-300" hMax="-21.2329" hSm="27.9181" nOn="0" noise="1" n_1="0" n2="1">

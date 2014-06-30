@@ -1,6 +1,6 @@
 <SplineRoad>
 	<mtr road="roadIce" wall="road_wall_Winter" col="road_col_Winter" />
-	<dim tcMul="0.08" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="8" heightOfs="0.06" />
+	<dim tcMul="0.0688073" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="8" heightOfs="0.06" />
 	<mrg skirtLen="0" skirtH="0.02" merge="1" mergeLen="80" lodPntLen="10" />
 	<geom colN="4" colR="3" wsPm="4" lsPm="1" stBox="1 6.804 24.604" iDir="-1" iChk1="0" />
 	<stats length="3950.21" width="14.0265" height="23.6143" onTer="41.4463" pipes="0" bnkAvg="14.2917" bnkMax="37.62" />

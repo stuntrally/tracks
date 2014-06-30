@@ -1,6 +1,6 @@
 <SplineRoad>
 	<mtr road="roadSnow" />
-	<dim tcMul="0.07" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="8" heightOfs="0.06" />
+	<dim tcMul="0.0623369" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="8" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5.212 11.768" iDir="-1" iChk1="47" />
 	<stats length="2285.54" width="7.976" height="13.4444" onTer="0" pipes="0" bnkAvg="3.51725" bnkMax="10.2934" />

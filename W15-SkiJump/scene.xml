@@ -1,10 +1,10 @@
 <scene>
 	<car tires="0" />
 	<start pos="-79.7262 -259.792 193.7" rot="-0.012658 0.00759 -0.71246 -0.701595" />
-	<sky material="sky/white" />
-	<fog color="0.86 0.91 0.92 0.9" color2="0.76 0.84 0.92 0.9" linStart="308.021" linEnd="610.127" />
+	<sky material="sky/blue_clouds" />
+	<fog color="0.86 0.91 0.92 0.9" color2="0.74 0.77 0.8 0.9" linStart="308.021" linEnd="717.596" />
 	<fogH color="0.73 0.86 1 1" height="-300" dens="100" linStart="0" linEnd="400" />
-	<light sceneryId="W1" pitch="48.5266" yaw="45" ambient="0.45 0.45 0.45" diffuse="0.6 0.6 0.6" specular="0.5 0.5 0.5" />
+	<light pitch="57" yaw="62" ambient="0.45 0.45 0.45" diffuse="0.6 0.6 0.6" specular="0.5 0.5 0.5" />
 	<fluids />
 	<terrain size="513" triangle="1.64009" errNorm="10.00">
 		<texture on="1" file="snow_bumpy_d.jpg" fnorm="snow_bumpy_n.jpg" scale="6.5" surf="SnowMedium" dust="1" dustS="0.8" mud="1" smoke="0" tclr="0.4 0.4 0.4 0.6" angMin="0" angMax="20.9589" angSm="6.93696" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="1">
@@ -25,7 +25,7 @@
 		<texture on="0" file="" fnorm="" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
 			<noise frq0="42.2" oct0="3" prs0="0.3" pow0="1.5" frq1="43.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
-		<texture road="1" surf="roadSnow" dust="0.5" dustS="0.8" mud="1" smoke="0" tclr="0.6 0.6 0.6 0.6" />
+		<texture road="1" surf="roadSnow" dust="0.5" dustS="0.8" mud="1" smoke="0" tclr="0.6 0.6 0.6 0.7" />
 		<par dust="SnowDust" mud="SnowMud" smoke="Smoke" />
 	</terrain>
 	<paged densGrass="0.05" densTrees="0.6" grPage="80" grDist="80" grDensSmooth="1" trPage="100" trDist="200" trDistImp="800" trRdDist="1">
@@ -52,7 +52,10 @@
 	</paged>
 	<cam pos="71.1402 61.6439 -367.388" dir="-0.436165 -0.0799213 0.89631" />
 	<objects>
-		<o name="wood_block" pos="115.136 -166.324 121.086" rot="-0.425031 0.905121 0.00381705 -0.00947969" />
-		<o name="wood_block" pos="107.832 -157.511 120.989" rot="-0.135609 0.990632 0.00336747 0.0157152" />
+		<o name="wood_block" pos="115.139 -166.324 121.086" rot="-0.425269 0.905003 0.00361923 -0.0100863" />
+		<o name="wood_block" pos="107.832 -157.507 120.988" rot="-0.135038 0.990751 0.00265269 0.0130679" />
+		<o name="wood_block" pos="-74.5083 -303.168 195.003" rot="-0.511129 0.856795 0.0143115 -0.0666712" />
+		<o name="plastic_big" pos="-53.3365 -299.262 193.665" rot="-0.499615 0.86539 -0.00206294 -0.0384805" />
+		<o name="cone" pos="-36.0882 -298.687 192.03" rot="-0.493959 0.859632 0.126852 -0.0307645" />
 	</objects>
 </scene>

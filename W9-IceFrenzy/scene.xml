@@ -1,14 +1,14 @@
 <scene>
 	<car tires="0" />
 	<start pos="104.306 -130.988 0.773035" rot="-7.10543e-015 1.77636e-015 -0.98593 0.167196" />
-	<sky material="sky/white" rainName="Snow" rainEmit="300" />
-	<fog color="0.86 0.91 0.92 1" color2="0.86 0.91 0.92 1" linStart="355.891" linEnd="1160.64" />
+	<sky material="sky/cloudy" rainName="Snow" rainEmit="300" skyYaw="-132.18" />
+	<fog color="0.86 0.85 0.74 1" color2="0.48 0.53 0.56 1" linStart="355.891" linEnd="1160.64" />
 	<fogH color="0.73 0.86 1 1" height="-300" dens="100" linStart="0" linEnd="400" />
-	<light sceneryId="W1" pitch="48.5266" yaw="45" ambient="0.5 0.5 0.5" diffuse="0.6 0.6 0.6" specular="0.6 0.62 0.62" />
+	<light pitch="23" yaw="59" ambient="0.4 0.4 0.41" diffuse="0.6 0.6 0.55" specular="0.45 0.44 0.4" />
 	<fluids>
 		<fluid name="water white" pos="71.5054 -6.50812 -5.83456" rot="0 0 0" size="831.059 20 988.555" tile="0.01 0.01" />
 	</fluids>
-	<terrain size="1025" triangle="0.951637" errNorm="5.00">
+	<terrain size="1025" triangle="0.951637" errNorm="5.00" specPow="6.75151">
 		<texture on="0" file="" fnorm="" scale="6.31724" surf="SnowDeep" dust="1" dustS="0.8" mud="1" smoke="0" tclr="0.4 0.4 0.4 0.6" angMin="0" angMax="13.6912" angSm="11.6776" hMin="-300" hMax="300" hSm="20" nOn="0" noise="0.102908" n_1="0" n2="0">
 			<noise frq0="22.2" oct0="3" prs0="0.3" pow0="1.5" frq1="28.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
@@ -52,6 +52,6 @@
 		<layer on="0" name="" dens="0.0999996" minScale="0.0999994" maxScale="0.249999" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 	</paged>
-	<cam pos="433.428 84.7558 -164.612" dir="-0.807621 -0.236889 0.540029" />
+	<cam pos="-342.666 92.3643 -50.4261" dir="0.969704 -0.236879 -0.0596936" />
 	<objects />
 </scene>
