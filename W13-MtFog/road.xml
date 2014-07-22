@@ -4,7 +4,7 @@
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
 	<geom colN="6" colR="4" wsPm="4" lsPm="1" stBox="1 5.33599 13.1521" iDir="-1" iChk1="3" />
 	<stats length="1412.38" width="8.85423" height="11.5307" onTer="10.3417" pipes="0" bnkAvg="5.48675" bnkMax="13.2887" />
-	<txt desc="A broad but yet dangerous road in dense fog. Drive carefully and watch out for grass for orientation!" />
+	<txt desc="A broad but yet dangerous road in dense fog. Drive carefully and watch out for grass for orientation." />
 	<P pos="-12.832 0 217.044" w="8.0064" a="0" ar="0" aT="2" chkR="1.3" />
 	<P pos="-67.6183 0 216.996" w="8.0344" aT="2" />
 	<P pos="-87.8808 0 213.488" w="8.088" aT="2" />

@@ -4,7 +4,7 @@
 	<mrg skirtLen="0.2" skirtH="0.1" merge="1" mergeLen="1214.78" lodPntLen="36.7862" />
 	<geom colN="4" colR="1.82158" wsPm="4" lsPm="1" stBox="1 5.288 13.816" iDir="-1" iChk1="148" />
 	<stats length="5667.76" width="11.6554" height="100.745" onTer="75.4963" pipes="28.0514" onPipe="2.28004" bnkAvg="12.8495" bnkMax="90" />
-	<txt desc="Very difficult and tricky track with all kinds of stunts. Caution: crazy ! Partly very slow. Only for professional stunt drivers." />
+	<txt desc="Very difficult and tricky track with all kinds of stunts. Caution: Crazy! Partly very slow. Only for professional stunt drivers." />
 	<P pos="-66.809 55.6402 78.1039" w="9.1116" onTer="0" a="0" ar="0" aT="2" mtr="2" chkR="1" />
 	<P pos="-37.3587 0 75.2948" w="9.1044" a="0" ar="0" aT="2" />
 	<P pos="-16.2161 0 73.6919" w="7.5684" a="0" ar="0" aT="2" />

@@ -4,7 +4,7 @@
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="120" lodPntLen="15" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5.212 15.288" iDir="1" iChk1="32" />
 	<stats length="1377.34" width="10.639" height="71.5957" onTer="0" pipes="0" bnkAvg="8.19659" bnkMax="23.6993" />
-	<txt desc="Short track on the Crystal Moon with a jump. Caution: low gravity. Stay on road, terrain causes heavy damage !" />
+	<txt desc="Short track on the Crystal Moon with a jump. Caution: low gravity. Stay on road, terrain causes heavy damage!" />
 	<P pos="-45.6674 0 138.522" w="13.104" aT="2" />
 	<P pos="-70.0533 0 155.546" w="10.56" aT="2" chkR="1.412" />
 	<P pos="-99.2287 0 151.933" w="10.728" aT="2" />
