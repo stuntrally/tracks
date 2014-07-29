@@ -1,0 +1,172 @@
+<scene>
+	<ver num="2401" baseTrk="" />
+	<car tires="0" road1mtr="0" />
+	<start pos="44.1587 -93.5911 0.604154" rot="0.000853896 -0.000238386 0.919546 0.393023" />
+	<sky material="sky/day_blue2" skyYaw="-34.7228" />
+	<fog color="0.586 0.240 0.744 1.000 0.000" color2="0.583 0.275 0.846 1.000 0.000" linStart="417.264" linEnd="1070.79" />
+	<fogH color="0.545 0.085 0.078 0.799 0.000" height="-0.443459" dens="28.0834" linStart="0" linEnd="13.4611" />
+	<light pitch="36.7669" yaw="-40" ambient="0.000 0.000 0.570 1.000 0.000" diffuse="0.167 0.022 0.900 1.000 0.000" specular="0.167 0.020 0.990 1.000 0.000" />
+	<fluids />
+	<terrain size="513" triangle="1.11331" errNorm="1.70">
+		<texture on="1" file="adesert_sand2_d.jpg" fnorm="desert_sand2_n.jpg" scale="8.5" surf="DesertFast" dust="0.7" dustS="1" mud="0.4" smoke="0" tclr="0.079 0.826 0.460 0.700 0.000" angMin="0" angMax="22.349" angSm="12.8159" hMin="-300" hMax="300" hSm="20" nOn="0" noise="0.515254" n_1="0" n2="0.4">
+			<noise frq0="73.9411" oct0="3" prs0="0.613112" pow0="1.92058" frq1="33.9915" oct1="3" prs1="0.4" pow1="3.85922" />
+		</texture>
+		<texture on="0" file="adesert_mntn4_d.jpg" fnorm="adesert_mntn4_n.jpg" scale="20.2878" surf="DesertFast" dust="0.6" dustS="1" mud="0.5" smoke="0" tclr="0.060 0.583 0.480 0.800 0.000" angMin="21.7448" angMax="40.1566" angSm="9.4158" hMin="-300" hMax="300" hSm="20" nOn="0" noise="0" n_1="0" n2="0.490348">
+			<noise frq0="12.2228" oct0="3" prs0="0.3" pow0="4.00706" frq1="31.5" oct1="3" prs1="0.4" pow1="1.2" />
+		</texture>
+		<texture on="1" file="adesert_mntn_d.jpg" fnorm="desert_mntn_n.jpg" scale="40.8113" surf="DesertFast" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.167 1.000 0.200 1.000 0.000" angMin="22.5391" angMax="90" angSm="12.8159" hMin="-300" hMax="300" hSm="20" nOn="0" triplanar="1" noise="1" n_1="0" n2="0">
+			<noise frq0="4.59092" oct0="5" prs0="0.623679" pow0="2.17296" frq1="34.5" oct1="3" prs1="0.4" pow1="1.2" />
+		</texture>
+		<texture on="1" file="amntn_dark_d.jpg" fnorm="mntn_dark_n.jpg" scale="34.4642" surf="Rocks" dust="0" dustS="0.8" mud="0.5" smoke="0" tclr="0.000 0.500 0.200 0.500 0.000" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="1" noise="1" n_1="0" n2="0">
+			<noise frq0="34.2" oct0="3" prs0="0.3" pow0="1.5" frq1="37.5" oct1="3" prs1="0.4" pow1="1.2" />
+		</texture>
+		<texture on="0" file="" fnorm="" scale="10.4" surf="Default" dust="0.5" dustS="1" mud="0.5" smoke="0" tclr="0.088 0.810 0.420 0.800 0.000" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
+			<noise frq0="38.2" oct0="3" prs0="0.3" pow0="1.5" frq1="40.5" oct1="3" prs1="0.4" pow1="1.2" />
+		</texture>
+		<texture on="0" file="" fnorm="" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.167 1.000 0.200 1.000 0.000" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
+			<noise frq0="42.2" oct0="3" prs0="0.3" pow0="1.5" frq1="43.5" oct1="3" prs1="0.4" pow1="1.2" />
+		</texture>
+		<texture road="1" surf="Asphalt" dust="0" dustS="0.8" mud="0" smoke="1" tclr="0.071 0.700 0.200 0.700 0.000" />
+		<par dust="Adust" mud="Mud" smoke="Smoke" />
+		<texture road="2" surf="roadDesert" dust="0.6" dustS="0.8" mud="0.2" smoke="0" tclr="0.071 0.700 0.200 0.700 0.000" />
+		<par dust="Adust" mud="Mud" smoke="Smoke" />
+		<texture road="3" surf="Default" dust="0" dustS="0.2" mud="0" smoke="0" tclr="0.160 0.500 0.200 0.700 0.000" />
+		<par dust="Adust" mud="Mud" smoke="Smoke" />
+		<texture road="4" surf="Default" dust="0" dustS="0.2" mud="0" smoke="0" tclr="0.160 0.500 0.200 0.700 0.000" />
+		<par dust="Adust" mud="Mud" smoke="Smoke" />
+	</terrain>
+	<paged densGrass="0.101097" densTrees="0.297566" grPage="120" grDist="120" grDensSmooth="6" trPage="120" trDist="120" trDistImp="600" trRdDist="5">
+		<grass on="1" mtr="grass17r" clr="grClrAustralia.png" dens="0.222471" chan="0" minSx="1.34143" maxSx="1.6606" minSy="1.09737" maxSy="1.29512" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
+		<grass on="1" mtr="grass20p" clr="grClrAustralia.png" dens="0.0379134" chan="0" minSx="1.19053" maxSx="1.43037" minSy="1.22024" maxSy="1.40452" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
+		<grass on="1" mtr="grass6r" clr="grClrAustralia.png" dens="0.118814" chan="0" minSx="1.133" maxSx="1.40585" minSy="1.05586" maxSy="1.19783" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
+		<grass on="0" mtr="grass16r" clr="grClrJungle.png" dens="0.0308252" chan="0" minSx="1.26526" maxSx="1.35747" minSy="1.19065" maxSy="1.30278" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
+		<grass on="0" mtr="grass20p" clr="grClrJungle.png" dens="0.0462495" chan="0" minSx="1.251" maxSx="1.33784" minSy="1.47402" maxSy="1.53682" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
+		<grass on="0" mtr="grassJungle" clr="grClrJungle.png" dens="0.1" chan="0" minSx="0.6" maxSx="0.85" minSy="0.6" maxSy="0.9" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
+		<gchan amin="0" amax="8" asm="4" hmin="-1.49378" hmax="20.4149" hsm="3.14967" ns="0" frq="25" oct="3" prs="0.3" pow="1.2" rd="1.50835" />
+		<gchan amin="0" amax="30" asm="20" hmin="-100" hmax="100" hsm="20" ns="0" frq="37" oct="3" prs="0.3" pow="1.2" rd="0" />
+		<gchan amin="0" amax="30" asm="20" hmin="-100" hmax="100" hsm="20" ns="0" frq="49" oct="3" prs="0.3" pow="1.2" rd="0" />
+		<gchan amin="0" amax="30" asm="20" hmin="-100" hmax="100" hsm="20" ns="0" frq="61" oct="3" prs="0.3" pow="1.2" rd="0" />
+		<layer on="1" name="gum_tree.mesh" dens="0.229831" minScale="0.586062" maxScale="0.862577" ofsY="0" addTrRdDist="1" maxRdist="100" windFx="0.3" windFy="0.004" maxTerAng="20.48" minTerH="-1.2973" maxTerH="23.027" maxDepth="0" />
+		<layer on="1" name="treeAOR-13oakWBig.mesh" dens="0.150937" minScale="0.913305" maxScale="1.48" ofsY="0" addTrRdDist="1" maxRdist="100" windFx="0.6" windFy="0.01" maxTerAng="17.26" minTerH="-1.2973" maxTerH="24.3243" maxDepth="0" />
+		<layer on="1" name="treeGG-37acaTall.mesh" dens="0.190778" minScale="0.608316" maxScale="0.841425" ofsY="0" addTrRdDist="1" maxRdist="100" windFx="0.33" windFy="0.04" maxTerAng="40" minTerH="-1.2973" maxTerH="23.6757" maxDepth="0" />
+		<layer on="1" name="treeAW-14LLHuge7k.mesh" dens="0.0199999" minScale="1.28758" maxScale="1.67364" ofsY="0" addTrRdDist="1" maxRdist="100" windFx="0.274248" windFy="0.01" maxTerAng="19.27" minTerH="-0.324326" maxTerH="2.59459" maxDepth="0" />
+		<layer on="0" name="farn2.mesh" dens="0.0199999" minScale="0.149999" maxScale="0.249999" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="7.29999" windFy="0.0599962" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
+		<layer on="0" name="rock.05.mesh" dens="0.0199999" minScale="0.0599979" maxScale="0.409999" ofsY="0" addTrRdDist="3" maxRdist="100" windFx="0" windFy="0" maxTerAng="29.4845" minTerH="-100" maxTerH="30" maxDepth="0" />
+		<layer on="0" name="rock.07.mesh" dens="0.0199999" minScale="0.0599979" maxScale="0.409999" ofsY="0" addTrRdDist="3" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
+		<layer on="0" name="" dens="0.0999996" minScale="0.0999994" maxScale="0.249999" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
+		<layer on="0" name="" dens="0.0999996" minScale="0.0999994" maxScale="0.249999" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
+		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
+	</paged>
+	<cam pos="-37.1375 104.973 315.829" dir="0.0581077 -0.342104 -0.937864" />
+	<objects>
+		<o name="city_house1" pos="28.681 -62.7578 0.0213418" rot="0.375429 -0.926833 0.0016585 0.00504706" sc="1.19965 1.19965 1.19965" />
+		<o name="city_house1" pos="10.0745 -75.0514 -0.0056076" rot="-0.922128 -0.386856 0.00296102 -0.000798799" sc="1.20298 1.20298 1.20298" />
+		<o name="city_house1" pos="18.2021 -52.3167 0.0312867" rot="-0.395385 0.918512 0.000209327 0.000311675" sc="1.201 1.201 1.201" />
+		<o name="city_house1" pos="-0.511732 -64.8643 -0.0670946" rot="-0.91665 -0.399645 0.00516943 -0.00172433" sc="1.19834 1.19834 1.19834" />
+		<o name="city_house2" pos="9.25922 -43.3138 0.152027" rot="-0.376183 0.926532 -0.000832928 -0.00295158" sc="1.49661 1.49661 1.49661" />
+		<o name="city_house2" pos="1.36276 -35.0387 0.152027" rot="-0.376408 0.926441 -0.000832213 -0.00295179" sc="1.49782 1.49782 1.49782" />
+		<o name="city_house4" pos="-12.2621 -56.0599 0.0835729" rot="-0.914822 -0.403849 0 0" sc="1.61649 1.61649 1.61649" />
+		<o name="city_house4" pos="-15.98 -52.5697 0.0835729" rot="-0.91561 -0.402057 0 0" sc="1.61859 1.61859 1.61859" />
+		<o name="city_house3" pos="-13.8768 -54.1913 7.03265" rot="-0.91561 -0.402057 0 0" sc="1.19584 1.19584 1.19584" />
+		<o name="city_house4" pos="-21.4029 -10.7601 0.0459044" rot="0.405735 -0.91398 0 0" sc="1.61649 1.61649 1.61649" />
+		<o name="city_house4" pos="-17.6548 -14.2444 0.0459044" rot="0.403944 -0.914774 0 0" sc="1.61859 1.61859 1.61859" />
+		<o name="city_house3" pos="-19.7646 -12.6315 6.99498" rot="0.403944 -0.914774 0 0" sc="1.19584 1.19584 1.19584" />
+		<o name="city_shop" pos="-34.7407 -32.6564 0.00976307" rot="-0.907709 -0.419592 0 0" sc="1.49919 1.49919 1.49919" />
+		<o name="city_house4_tall" pos="-32.1249 -1.0393 -0.1233" rot="-0.386788 0.922169 -0.000791092 -0.0026145" sc="1.62247 1.62247 1.62247" />
+		<o name="city_house4_tall" pos="-35.7841 2.52724 -0.1233" rot="-0.386788 0.922169 -0.000791092 -0.0026145" sc="1.62247 1.62247 1.62247" />
+		<o name="city_house4_tall" pos="-39.4313 6.11176 -0.1233" rot="-0.386788 0.922169 -0.000791092 -0.0026145" sc="1.62247 1.62247 1.62247" />
+		<o name="city_house4_tall" pos="-42.979 9.60373 -0.0816547" rot="-0.386788 0.922169 -0.000791092 -0.0026145" sc="1.62247 1.62247 1.62247" />
+		<o name="city_house1" pos="-48.0014 -20.9989 -0.0954588" rot="-0.91665 -0.399645 0.00516943 -0.00172433" sc="1.19834 1.19834 1.19834" />
+		<o name="city_house2" pos="-59.1574 -10.8235 -0.0783894" rot="-0.918152 -0.39619 0.00291313 -0.00095876" sc="1.49782 1.49782 1.49782" />
+		<o name="city_house4_tall" pos="-86.0447 12.6889 -0.144625" rot="-0.924529 -0.381103 -0.00261931 0.00077498" sc="1.62247 1.62247 1.62247" />
+		<o name="city_house4_tall" pos="-82.4293 9.07797 -0.144625" rot="-0.924529 -0.381103 -0.00261931 0.00077498" sc="1.62247 1.62247 1.62247" />
+		<o name="city_house4_tall" pos="-78.8266 5.44885 -0.144625" rot="-0.924529 -0.381103 -0.00261931 0.00077498" sc="1.62247 1.62247 1.62247" />
+		<o name="city_house4_tall" pos="-75.3223 1.91344 -0.10298" rot="-0.924529 -0.381103 -0.00261931 0.00077498" sc="1.62247 1.62247 1.62247" />
+		<o name="city_house4" pos="-56.8045 22.8102 0.0137297" rot="0.38831 -0.921517 0 0" sc="1.61649 1.61649 1.61649" />
+		<o name="city_house4" pos="-60.4961 26.3494 0.0137297" rot="0.388794 -0.921313 0 0" sc="1.61859 1.61859 1.61859" />
+		<o name="city_house4" pos="-64.0981 29.8536 0.0137297" rot="0.388794 -0.921313 0 0" sc="1.61859 1.61859 1.61859" />
+		<o name="city_house3_big" pos="-60.7198 26.2607 6.99356" rot="-0.386275 0.922382 0 0" sc="1.19004 1.19004 1.19004" />
+		<o name="house_1" pos="-161.716 94.7308 2.14636" rot="0.996282 -0.0860197 0 0" />
+		<o name="tree_trunks" pos="-161.989 100.088 -0.0777825" rot="0 -1 0 0" />
+		<o name="city_house4_tall" pos="-89.3527 -27.0642 -0.148579" rot="-0.380976 0.924582 -0.000774616 -0.00261942" sc="1.62247 1.62247 1.62247" />
+		<o name="city_house4_tall" pos="-92.9669 -23.4518 -0.148579" rot="-0.380976 0.924582 -0.000774616 -0.00261942" sc="1.62247 1.62247 1.62247" />
+		<o name="city_house4_tall" pos="-96.5685 -19.8218 -0.148579" rot="-0.380976 0.924582 -0.000774616 -0.00261942" sc="1.62247 1.62247 1.62247" />
+		<o name="city_house4_tall" pos="-100.072 -16.2854 -0.106934" rot="-0.380976 0.924582 -0.000774616 -0.00261942" sc="1.62247 1.62247 1.62247" />
+		<o name="city_house1" pos="-102.968 -45.4389 -0.0056076" rot="-0.935965 -0.352058 0.00292904 -0.000909109" sc="1.20298 1.20298 1.20298" />
+		<o name="city_house1" pos="-89.1262 -64.6915 -0.0670946" rot="-0.954914 -0.29682 0.00494942 -0.00228026" sc="1.19834 1.19834 1.19834" />
+		<o name="city_house4" pos="-77.9899 -38.9218 -0.0198255" rot="0.335982 -0.941856 0 0" sc="1.61649 1.61649 1.61649" />
+		<o name="city_house4" pos="-74.8058 -42.928 -0.0198255" rot="0.334137 -0.942513 0 0" sc="1.61859 1.61859 1.61859" />
+		<o name="city_house3" pos="-76.6503 -41.0174 7.03265" rot="0.334137 -0.942513 0 0" sc="1.19584 1.19584 1.19584" />
+		<o name="city_house2" pos="-59.5946 -69.8999 1.336" rot="-0.225164 0.974298 -0.00028586 0.00546253" sc="1.49782 1.50459 1.49782" />
+		<o name="city_house4" pos="-86.6693 -93.8438 0.0835729" rot="-0.951421 0.307862 0 0" sc="1.61649 1.61649 1.61649" />
+		<o name="city_house4" pos="-83.6222 -89.7546 0.0835729" rot="-0.950815 0.309723 0 0" sc="1.61859 1.61859 1.61859" />
+		<o name="city_house3" pos="-84.9956 -92.0279 7.03265" rot="-0.950815 0.309723 0 0" sc="1.19584 1.19584 1.19584" />
+		<o name="city_house4" pos="-63.1411 -110.074 -0.0670895" rot="-0.268258 -0.963334 0 0" sc="1.61649 1.61649 1.61649" />
+		<o name="city_house4" pos="-60.5359 -105.672 -0.0670895" rot="-0.267752 -0.963475 0 0" sc="1.61859 1.61859 1.61859" />
+		<o name="city_house4" pos="-57.9432 -101.365 -0.0670895" rot="-0.267752 -0.963475 0 0" sc="1.61859 1.61859 1.61859" />
+		<o name="city_house3_big" pos="-60.6735 -105.474 6.91275" rot="0.27039 0.962746 0 0" sc="1.19004 1.19004 1.19004" />
+		<o name="city_shop" pos="-97.5279 -129.419 -0.0357482" rot="-0.995859 -0.090824 0 0" sc="1.29609 1.29609 1.29609" />
+		<o name="statue_woman" pos="-76.5698 -123.548 0.00595966" rot="-0.59853 -0.801098 0 0" sc="1.20853 1.20853 1.20853" />
+		<o name="city_house4" pos="-52.1486 -134.861 -0.0481" rot="0.595987 -0.802979 0 0" sc="1.47499 1.47499 1.47499" />
+		<o name="city_house4" pos="-56.6271 -133.549 -0.0481" rot="0.596408 -0.802664 0 0" sc="1.4769 1.4769 1.4769" />
+		<o name="city_house4" pos="-61.0198 -132.226 -0.0481" rot="0.596408 -0.802664 0 0" sc="1.4769 1.4769 1.4769" />
+		<o name="city_house4" pos="-70.4721 -154.978 -0.0916467" rot="0.8057 0.592297 0 0" sc="1.42678 1.42678 1.42678" />
+		<o name="city_house4" pos="-66.1518 -156.287 -0.0916467" rot="0.805389 0.592721 0 0" sc="1.42864 1.42864 1.42864" />
+		<o name="city_house4" pos="-61.9146 -157.605 -0.0916467" rot="0.805389 0.592721 0 0" sc="1.42864 1.42864 1.42864" />
+		<o name="city_house4" pos="-45.305 -161.303 -0.027653" rot="0.778922 0.627096 0 0" sc="1.5055 1.5055 1.5055" />
+		<o name="city_house4" pos="-40.6428 -162.28 -0.027653" rot="0.778592 0.627506 0 0" sc="1.50745 1.50745 1.50745" />
+		<o name="city_house4" pos="-36.0672 -163.274 -0.027653" rot="0.778592 0.627506 0 0" sc="1.50745 1.50745 1.50745" />
+		<o name="city_house4" pos="-17.2937 -168.237 -0.0932412" rot="0.784766 0.619766 0 0" sc="1.61649 1.61649 1.61649" />
+		<o name="city_house4" pos="-12.3082 -169.38 -0.0932412" rot="0.784441 0.62018 0 0" sc="1.61859 1.61859 1.61859" />
+		<o name="city_house4" pos="-7.41606 -170.538 -0.0932412" rot="0.784441 0.62018 0 0" sc="1.61859 1.61859 1.61859" />
+		<o name="city_house1" pos="-35.8931 -140.904 -0.0778551" rot="0.635667 -0.771939 7.15525e-005 0.00531209" sc="1.19965 1.19965 1.19965" />
+		<o name="city_house1" pos="-14.5915 -145.257 0.0312867" rot="-0.627303 0.77877 0.000118039 0.000356407" sc="1.201 1.201 1.201" />
+		<o name="city_house4" pos="12.1596 -150.527 -0.0781737" rot="0.594526 -0.80405 0 0" sc="1.61649 1.61649 1.61649" />
+		<o name="city_house4" pos="7.25778 -149.072 -0.0781737" rot="0.594948 -0.803737 0 0" sc="1.61859 1.61859 1.61859" />
+		<o name="city_house4" pos="2.44904 -147.605 -0.0781737" rot="0.594948 -0.803737 0 0" sc="1.61859 1.61859 1.61859" />
+		<o name="house_2" pos="230.689 -94.7759 1.25634" rot="-0.444569 -0.895742 0.00112303 -0.00226275" />
+		<o name="wooden_barrel" pos="225.042 -94.7343 0.596143" rot="0.0177263 0.999481 -0.00516808 -0.0264095" />
+		<o name="tree_trunks" pos="232.026 -102.585 0.163932" rot="-0.443314 -0.896365 0 0" />
+		<o name="house_2" pos="242.806 -143.858 1.18452" rot="0.891649 -0.452719 -0.0022524 -0.0011436" />
+		<o name="wooden_barrel" pos="249.096 -144.137 0.333433" rot="0.999862 -0.000700611 -0.00419313 -0.0160792" />
+		<o name="tree_trunks" pos="241.481 -136.958 -0.0557527" rot="0.960666 0.277689 -0.0030429 0.000879577" />
+		<o name="house_3" pos="175.825 -143.262 0.801877" rot="-0.869635 -0.493687 0 0" />
+		<o name="house_4" pos="156.551 -139.004 0.762909" rot="-0.888701 -0.458484 0.00130985 0.00127559" />
+		<o name="city_house4_tall" pos="17.7793 -194.74 -0.140721" rot="-0.594902 0.80379 -0.00138989 -0.00235148" sc="1.62247 1.62247 1.62247" />
+		<o name="city_house4_tall" pos="12.8861 -193.266 -0.140721" rot="-0.594902 0.80379 -0.00138989 -0.00235148" sc="1.62247 1.62247 1.62247" />
+		<o name="city_house4_tall" pos="7.99611 -191.771 -0.140721" rot="-0.594902 0.80379 -0.00138989 -0.00235148" sc="1.62247 1.62247 1.62247" />
+		<o name="city_house4_tall" pos="3.23657 -190.312 -0.099076" rot="-0.594902 0.80379 -0.00138989 -0.00235148" sc="1.62247 1.62247 1.62247" />
+		<o name="city_house4" pos="-19.6789 -186.987 0.0835729" rot="0.734015 -0.679112 0 0" sc="1.61649 1.61649 1.61649" />
+		<o name="city_house4" pos="-24.7741 -187.429 0.0835729" rot="0.734371 -0.678724 0 0" sc="1.61859 1.61859 1.61859" />
+		<o name="city_house4" pos="-29.7836 -187.827 0.0835729" rot="0.734371 -0.678724 0 0" sc="1.61859 1.61859 1.61859" />
+		<o name="city_house3_big" pos="-24.8549 -187.655 7.06341" rot="-0.732518 0.680737 0 0" sc="1.19004 1.19004 1.19004" />
+		<o name="city_shop" pos="-47.1338 -190.174 -0.00405146" rot="-0.72866 0.684862 0 0" sc="1.27154 1.27154 1.27154" />
+		<o name="city_house4" pos="-68.9801 -189.091 -0.071219" rot="0.59869 -0.800953 0 0" sc="1.61649 1.61649 1.61649" />
+		<o name="city_house4" pos="-73.8968 -187.687 -0.071219" rot="0.599112 -0.800637 0 0" sc="1.61859 1.61859 1.61859" />
+		<o name="city_house4" pos="-78.7205 -186.27 -0.071219" rot="0.599112 -0.800637 0 0" sc="1.61859 1.61859 1.61859" />
+		<o name="city_house1" pos="-104.57 -163.204 -0.0545283" rot="0.288613 -0.957428 0.00147522 0.00510364" sc="1.19965 1.19965 1.19965" />
+		<o name="city_house1" pos="-122.056 -172.616 -0.0184618" rot="-0.958995 -0.283382 0.00297513 -0.00074452" sc="1.20298 1.20298 1.20298" />
+		<o name="city_house1" pos="-114.666 -148.67 -0.00431423" rot="-0.302771 0.95306 0.000200106 0.000317674" sc="1.201 1.201 1.201" />
+		<o name="city_house1" pos="-133.169 -155.847 -0.0160021" rot="-0.955703 -0.294274 0.00519593 -0.00164269" sc="1.19834 1.19834 1.19834" />
+		<o name="city_house4" pos="-42.3973 -41.7602 0.0137296" rot="0.939305 -0.343053 0 0" sc="1.61649 1.61649 1.61649" />
+		<o name="city_house4" pos="-45.6584 -45.6995 0.0137296" rot="0.939485 -0.342559 0 0" sc="1.61859 1.61859 1.61859" />
+		<o name="city_house4" pos="-48.8911 -49.5471 0.0137296" rot="0.939485 -0.342559 0 0" sc="1.61859 1.61859 1.61859" />
+		<o name="city_house3_big" pos="-22.9048 -69.6714 -0.0316609" rot="0.0939685 0.995573 0 0" sc="1.19004 1.19004 1.19004" />
+		<o name="city_house2" pos="-54.7087 -85.6035 0.551299" rot="-0.102592 -0.994723 0 0" sc="1.42803 1.42803 1.42803" />
+		<o name="city_house3" pos="-24.9613 -95.8188 -0.344059" rot="0 1 0 0" />
+		<o name="city_house3" pos="-19.5005 -116.282 0" rot="0.406588 -0.913612 0 0" />
+		<o name="city_house3" pos="-11.456 -112.428 0" rot="0.932747 -0.360529 0 0" />
+		<o name="city_house3" pos="-18.4182 -50.2789 0.18574" rot="-0.36403 -0.931387 0 0" sc="0.983876 0.983876 0.983876" />
+		<o name="city_house4" pos="-25.7404 -101.681 -0.346588" rot="0.00116655 -1 0 0" sc="1.00122 1.00122 1.00122" />
+		<o name="city_house4" pos="-25.7673 -89.9865 -0.349532" rot="0 -1 0 0" />
+		<o name="city_house2" pos="-120.954 -141.558 0" rot="-0.348693 0.937237 0 0" />
+		<o name="city_house2" pos="-127.882 -164 -0.0661685" rot="-0.960658 -0.277732 0 0" sc="1.20615 1.20615 1.20615" />
+		<o name="city_house1" pos="-109.895 -156.085 0" rot="0.305871 -0.952073 0 0" />
+		<o name="skyscraper10" pos="54.6216 -82.0798 -0.155605" rot="0.930545 -0.366178 0 0" sc="0.685099 0.685099 0.685099" />
+		<o name="skyscraper12" pos="-5.02533 -88.2225 -0.0314142" rot="-0.0636446 -0.997973 0 0" sc="0.630193 0.630193 0.630193" />
+		<o name="wood_block" pos="155.444 -117.984 1.41904" rot="0.754551 -0.647194 -0.0966899 -0.0494353" />
+		<o name="wood_block" pos="163.626 -117.494 1.23855" rot="-0.704302 0.708775 0.0298937 0.026505" />
+		<o name="wood_block" pos="239.694 -168.183 0.735203" rot="-0.658186 0.750551 -0.049434 -0.0319542" />
+		<o name="wood_block" pos="257.258 -161.546 0.813677" rot="-0.0500375 -0.0105614 0.940064 0.33714" />
+	</objects>
+</scene>
