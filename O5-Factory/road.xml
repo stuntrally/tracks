@@ -3,7 +3,7 @@
 	<dim tcMul="0.06" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="2" widthSteps="6" heightOfs="0.06" />
 	<mrg skirtLen="0.2" skirtH="0.1" merge="1" mergeLen="1214.78" lodPntLen="36.7862" />
 	<geom colN="4" colR="1.82158" wsPm="4" lsPm="1" stBox="1 5.288 13.816" iDir="-1" iChk1="148" />
-	<stats length="5667.76" width="11.6554" height="100.745" onTer="75.4963" pipes="28.0514" onPipe="2.28004" bnkAvg="12.8495" bnkMax="90" />
+	<stats length="5667.75" width="11.6554" height="100.745" onTer="75.4963" pipes="28.0515" onPipe="2.28004" bnkAvg="12.8495" bnkMax="90" />
 	<txt desc="Very difficult and tricky track with all kinds of stunts. Caution: crazy! Partly very slow. Only for professional stunt drivers." />
 	<P pos="-66.809 55.6402 78.1039" w="9.1116" onTer="0" a="0" ar="0" aT="2" mtr="2" chkR="1" />
 	<P pos="-37.3587 0 75.2948" w="9.1044" a="0" ar="0" aT="2" />
@@ -219,8 +219,8 @@
 	<P pos="-223.971 66.3692 97.7663" w="7.5684" onTer="0" a="0" ar="0" aT="2" />
 	<P pos="-203.841 70.5492 94.9629" w="7.5684" onTer="0" a="0" ar="0" aT="2" mtr="-1" />
 	<P pos="-191.091 75.1892 92.8361" w="7.5684" onTer="0" a="0" ar="0" aT="2" mtr="-1" />
-	<P pos="-143.845 71.4492 86.4699" w="7.5684" onTer="0" a="0" ar="0" aT="2" mtr="-1" />
-	<P pos="-136.211 65.6239 85.4888" w="7.5684" onTer="0" a="0" ar="0" aT="2" col="0" />
+	<P pos="-143.803 71.4492 86.9773" w="7.5684" onTer="0" a="0" ar="0" aT="2" mtr="-1" />
+	<P pos="-136.169 65.6239 85.9962" w="7.5684" onTer="0" a="0" ar="0" aT="2" col="0" />
 	<P pos="-114.106 0 83.3282" w="7.5684" a="0" ar="0" aT="2" />
 	<P pos="-84.4469 0 79.7364" w="9.0484" a="0" ar="0" aT="2" />
 </SplineRoad>
