@@ -57,7 +57,7 @@
 		<layer on="0" name="" dens="0.0999996" minScale="0.0999983" maxScale="0.249999" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="30" minTerH="-0.5" maxTerH="100" maxDepth="5" />
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="30" minTerH="-0.5" maxTerH="100" maxDepth="5" />
 	</paged>
-	<cam pos="-189.196 279 61.2895" dir="0.508765 -0.837701 -0.198532" />
+	<cam pos="46.0745 74.5598 245.417" dir="-0.281069 -0.167918 -0.944883" />
 	<objects>
 		<o name="skyscraper12" pos="-72.1783 -107.508 3.56299e-06" rot="0 -1 0 0" />
 		<o name="skyscraper12" pos="15.7699 -105 -1.30222e-05" rot="-0.708492 -0.705719 0 0" />

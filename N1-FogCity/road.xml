@@ -2,8 +2,8 @@
 	<mtr road="roadAsphalt" pipe="pipeGlass" />
 	<dim tcMul="0.0688073" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="2" widthSteps="6" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="800" lodPntLen="120" />
-	<geom colN="4" colR="1" wsPm="4" lsPm="1" stBox="1 5 16.992" iDir="-1" iChk1="73" />
-	<stats length="2205.82" width="7.66488" height="76.6307" onTer="100" pipes="0" bnkAvg="18.6924" bnkMax="89.9879" />
+	<geom colN="4" colR="1.50377" wsPm="4" lsPm="1" stBox="1 5 16.992" iDir="-1" iChk1="73" />
+	<stats length="2205.82" width="7.66488" height="76.6307" onTer="100" pipes="0" bnkAvg="18.6923" bnkMax="89.9802" />
 	<txt desc="An all-asphalt all-bridge track around some sky scrapers in a foggy city." />
 	<P pos="6.40981 96.1162 -60.2025" w="7" onTer="0" a="0" ar="-20.01" aT="2" col="0" />
 	<P pos="15.4634 97.1431 -46.6003" w="7" onTer="0" a="0" ar="-15" aT="2" col="0" />
