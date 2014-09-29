@@ -7,7 +7,7 @@
 	<fogH color="0.000 0.000 0.950 1.000 0.000" height="-200" dens="0" linStart="0" linEnd="60.8437" />
 	<light pitch="33" yaw="-40" ambient="0.196 0.033 0.598 53024.227 0.000" diffuse="0.167 0.058 0.872 53024.227 0.000" specular="0.169 0.093 0.997 0.000 0.000" />
 	<fluids />
-	<terrain size="513" triangle="1.13376" errNorm="1.70">
+	<terrain size="513" triangle="1.13376" errNorm="10.51">
 		<texture on="1" file="stones_gray_d.jpg" fnorm="stones_gray_n.jpg" scale="10.3847" surf="DesertBumpy" dust="0" dustS="1" mud="0" smoke="0" tclr="0.167 0.000 0.361 0.700 0.000" angMin="0" angMax="10.0391" angSm="4.50454" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
 			<noise frq0="25.0276" oct0="3" prs0="0.232522" pow0="0.865852" frq1="34.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
