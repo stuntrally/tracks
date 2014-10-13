@@ -19,7 +19,7 @@
 		<texture on="1" file="ycrystals_big_d.jpg" fnorm="ycrystals_big_n.jpg" scale="13.3813" surf="SnowDeep" dust="0" dustS="0.8" mud="0" smoke="0" tclr="0.667 0.667 0.300 1.000 0.000" dmg="2.39059" angMin="38.0431" angMax="90" angSm="9.89247" hMin="-300" hMax="300" hSm="20" nOn="0" triplanar="1" noise="1" n_1="0" n2="0">
 			<noise frq0="27.7542" oct0="3" prs0="0.3" pow0="1.25033" frq1="37.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
-		<texture on="1" file="mntn_x1_d.jpg" fnorm="mntn_x1_n.jpg" scale="26.04" surf="Rocks" dust="0" dustS="0.2" mud="0.2" smoke="0" tclr="0.675 0.380 0.500 0.900 0.000" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="1" noise="0" n_1="0" n2="0">
+		<texture on="1" file="mntn_x1_d.jpg" fnorm="mntn_x1_n.jpg" scale="26.04" surf="Rocks" dust="0" dustS="0.2" mud="0" smoke="0" tclr="0.675 0.380 0.500 0.900 0.000" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="1" noise="0" n_1="0" n2="0">
 			<noise frq0="16.2835" oct0="3" prs0="0.3" pow0="1.5" frq1="34.5" oct1="3" prs1="0.4" pow1="0.668752" />
 		</texture>
 		<texture on="0" file="" fnorm="" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.167 1.000 0.200 1.000 0.000" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
