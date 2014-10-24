@@ -1,5 +1,5 @@
 <scene>
-	<ver num="2401" baseTrk="V9-Craters" />
+	<ver num="2440" baseTrk="V9-Craters" secEd="8" />
 	<car tires="0" />
 	<start pos="-27.0537 30.6471 0.576401" rot="1.78814e-007 2.41727e-007 -0.711761 0.702429" />
 	<sky material="sky/offworld_gen" skyYaw="103.37" />
@@ -9,7 +9,7 @@
 	<fluids>
 		<fluid name="acid green" pos="12.0945 -0.0738795 -27.356" rot="0 0 0" size="634.373 20 615.437" tile="0.01 0.01" />
 	</fluids>
-	<terrain size="513" triangle="1.22496" errNorm="1.70" emissive="1">
+	<terrain size="513" triangle="1.22496" errNorm="2.82" emissive="1">
 		<texture on="1" file="desert_cracks_d.jpg" fnorm="desert_cracks_n.jpg" scale="4" surf="DesertFast" dust="0" dustS="1" mud="0.1" smoke="0" tclr="0.167 0.826 0.460 0.700 0.000" angMin="0" angMax="3.75652" angSm="1.60765" hMin="-300" hMax="300" hSm="21.883" nOn="0" noise="1" n_1="0" n2="0.237288">
 			<noise frq0="21.62" oct0="3" prs0="0.3" pow0="8" frq1="57.5217" oct1="3" prs1="0.293043" pow1="4.30233" />
 		</texture>
@@ -29,11 +29,8 @@
 			<noise frq0="42.2" oct0="3" prs0="0.3" pow0="1.5" frq1="43.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
 		<texture road="1" surf="roadGravel" dust="0" dustS="0.520286" mud="0" smoke="0" tclr="0.196 0.480 0.462 0.700 0.000" />
-		<par dust="Dust" mud="Mud" smoke="Smoke" />
 		<texture road="2" surf="roadDesert" dust="0.4" dustS="0.9" mud="0" smoke="0" tclr="0.147 0.486 0.700 0.700 0.000" />
-		<par dust="Dust" mud="Mud" smoke="Smoke" />
 		<texture road="3" surf="roadDesert" dust="0.4" dustS="0.9" mud="0" smoke="0" tclr="0.147 0.486 0.700 0.700 0.000" />
-		<par dust="Dust" mud="Mud" smoke="Smoke" />
 		<texture road="4" surf="Default" dust="0" dustS="0.2" mud="0" smoke="0" tclr="0.160 0.500 0.200 0.700 0.000" />
 		<par dust="Dust" mud="Mud" smoke="Smoke" />
 	</terrain>
