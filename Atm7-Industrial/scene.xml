@@ -1,5 +1,5 @@
 <scene>
-	<ver num="2401" baseTrk="Industrypark" />
+	<ver num="2440" baseTrk="Industrypark" />
 	<car tires="0" damage="0.39645" />
 	<start pos="-75.9745 236.059 36.644" rot="0.0193772 -0.0114839 0.860079 0.509681" />
 	<sky material="sky/foggy_gen" rainName="RainFine" rainEmit="694" />
@@ -7,7 +7,7 @@
 	<fogH color="0.182 0.064 0.247 1.000 0.000" height="61.6408" dens="79.8669" linStart="0" linEnd="106.351" />
 	<light pitch="24" yaw="47" ambient="0.056 0.750 0.744 1.387 0.000" diffuse="0.167 0.250 0.872 1.387 0.000" specular="0.167 0.600 1.000 1.000 0.000" />
 	<fluids />
-	<terrain size="513" triangle="1.38976" errNorm="1.70" specPow="28.5971">
+	<terrain size="513" triangle="1.38976" errNorm="12.12" specPow="28.5971">
 		<texture on="1" file="ground_dry2_d.jpg" fnorm="ground_dry2_n.jpg" scale="9.49189" surf="DesertFast" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.167 0.667 0.150 0.800 0.000" angMin="0" angMax="16.5913" angSm="6.6623" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
 			<noise frq0="24.7337" oct0="3" prs0="0.3" pow0="1.16264" frq1="40.5028" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
@@ -27,11 +27,8 @@
 			<noise frq0="42.2" oct0="3" prs0="0.3" pow0="1.5" frq1="43.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
 		<texture road="1" surf="roadGravel" dust="0" dustS="0.2" mud="0" smoke="0" tclr="0.105 0.473 0.269 0.713 0.000" />
-		<par dust="Dust" mud="Mud" smoke="Smoke" />
 		<texture road="2" surf="Default" dust="0" dustS="0.2" mud="0" smoke="0" tclr="0.160 0.500 0.200 0.700 0.000" />
-		<par dust="Dust" mud="Mud" smoke="Smoke" />
 		<texture road="3" surf="roadGravel" dust="0" dustS="1" mud="0.6" smoke="0" tclr="0.000 0.000 0.130 0.800 0.000" />
-		<par dust="Dust" mud="Mud" smoke="Smoke" />
 		<texture road="4" surf="Default" dust="0" dustS="0.2" mud="0" smoke="0" tclr="0.160 0.500 0.200 0.700 0.000" />
 		<par dust="Dust" mud="Mud" smoke="Smoke" />
 	</terrain>
