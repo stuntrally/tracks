@@ -1,5 +1,5 @@
 <scene>
-	<ver num="2440" baseTrk="X3-Cloud" secEd="4139" />
+	<ver num="2440" baseTrk="X3-Cloud" secEd="4273" />
 	<car tires="0" noWrongChks="1" gravity="7.0423" />
 	<start pos="-137.769 -44.498 26.0514" rot="0.00800735 -0.0104808 0.416186 -0.909274" />
 	<sky material="sky/magic" rainName="RainFine" rainEmit="225" skyYaw="15.75" />
@@ -7,7 +7,7 @@
 	<fogH color="0.436 0.424 1.353 1.000 0.000" height="1.33038" dens="29.4286" linStart="0" linEnd="46.8139" />
 	<light pitch="38.25" yaw="65.25" ambient="0.618 0.680 0.379 0.000 0.000" diffuse="0.221 1.000 0.906 0.000 0.000" specular="0.370 0.674 1.255 0.000 0.000" />
 	<fluids />
-	<terrain size="1025" triangle="1.20704" errNorm="3.00">
+	<terrain size="1025" triangle="1.20704" errNorm="17.00">
 		<texture on="1" file="alien_sand_d.jpg" fnorm="desert_sand_n.jpg" scale="12.06" surf="DesertFast" dust="0.8" dustS="1" mud="0.1" smoke="0" tclr="0.167 0.826 0.460 0.700 0.000" angMin="0" angMax="9.8301" angSm="17.5094" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0.746341">
 			<noise frq0="18.9688" oct0="3" prs0="0.600971" pow0="1.20652" frq1="21.9281" oct1="3" prs1="0.443689" pow1="2.20721" />
 		</texture>
