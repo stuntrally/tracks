@@ -3,7 +3,7 @@
 	<dim tcMul="0.0701582" tcW="0.2" tcP="0.10009" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="6" heightOfs="0.1" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="427.16" lodPntLen="14.8323" />
 	<geom colN="6" colR="2.35514" wsPm="6.01414" lsPm="1" stBox="1 6.712 19.92" iDir="-1" iChk1="47" />
-	<stats length="5840.59" width="12.3774" height="69.376" onTer="33.6661" pipes="32.4687" onPipe="20.9467" bnkAvg="6.13646" bnkMax="40.101" />
+	<stats length="5840.88" width="12.3796" height="69.376" onTer="33.6655" pipes="32.4681" onPipe="19.9482" bnkAvg="6.15677" bnkMax="40.1011" />
 	<txt desc="Tricky track inside and around an Alien base. With on-pipe drive (mixer), obstacles, bumps and few fluids including acid." />
 	<P pos="-283.473 0 -117.821" w="13.856" a="0" ar="0" aT="2" chkR="1.188" />
 	<P pos="-306.346 0 -112.504" w="7" aT="2" />
@@ -116,7 +116,7 @@
 	<P pos="-331.197 0 142.156" w="12.016" aT="2" col="0" mtr="1" />
 	<P pos="-331.566 0 110.254" w="8.824" aT="2" col="0" />
 	<P pos="-326.54 0 82.8664" w="9.44" a="0" ar="-0" aT="2" col="0" />
-	<P pos="-318.371 31.8238 34.2404" w="20.488" onTer="0" a="-16.92" ar="0" aT="2" col="0" pipe="1" chkR="1.7" onP="1" />
+	<P pos="-318.371 31.8238 34.2404" w="20.488" onTer="0" a="-16.92" ar="0" aT="2" col="0" pipe="1" chkR="1.7" ckL="1" />
 	<P pos="-303.944 30.6618 -22.0878" w="11.304" onTer="0" a="-16.92" ar="0" aT="2" col="0" mtr="-1" onP="1" />
 	<P pos="-308.546 12.7422 -18.4328" w="20.488" onTer="0" a="-16.92" ar="0" aT="2" col="0" pipe="1" mtr="-1" onP="1" />
 	<P pos="-302.297 8.4758 -28.1011" w="20.488" onTer="0" a="-16.92" ar="0" aT="2" col="0" pipe="1" mtr="1" onP="1" />
