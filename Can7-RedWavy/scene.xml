@@ -5,7 +5,7 @@
 	<sky material="sky/sunset_rays_gen" skyYaw="-28.125" />
 	<fog color="0.075 0.599 0.830 0.847 0.000" color2="0.054 0.360 0.477 0.831 0.000" linStart="321.606" linEnd="1123.34" />
 	<fogH color="0.070 0.209 0.144 0.733 0.000" height="2.21729" dens="98.1863" linStart="0" linEnd="27.7511" />
-	<light pitch="37.6875" yaw="-3.375" ambient="0.000 0.221 0.379 0.000 0.000" diffuse="0.048 0.254 0.700 1109537714024533900000000000.000 0.000" specular="0.000 0.240 0.800 0.000 0.000" />
+	<light pitch="37.6875" yaw="-3.375" ambient="0.000 0.221 0.379 0.000 0.000" diffuse="0.048 0.254 0.700 1.000 0.000" specular="0.000 0.240 0.800 0.000 0.000" />
 	<fluids>
 		<fluid name="water sunset cyan" pos="536.689 25.5728 -71.9476" rot="0 0 0" size="387.28 133.614 720.892" tile="0.01 0.01" />
 	</fluids>
