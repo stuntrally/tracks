@@ -1,5 +1,5 @@
 <scene>
-	<ver num="2440" baseTrk="" secEd="20251" />
+	<ver num="2440" baseTrk="" secEd="21482" />
 	<car tires="0" damage="0.502959" gravity="8.77032" />
 	<start pos="-154.762 207.576 69.7713" rot="5.08153e-007 2.32173e-007 -1.00002 -0.000816907" />
 	<sky material="sky/sunset_rays_gen" skyYaw="-12.3725" />
@@ -7,7 +7,7 @@
 	<fogH color="0.072 0.793 0.467 0.869 0.081" height="12.8603" dens="28.4168" linStart="0" linEnd="3.54964" />
 	<light pitch="28.9357" yaw="18" ambient="0.056 0.600 0.533 1.000 0.000" diffuse="0.026 0.516 0.839 1.000 0.000" specular="0.116 0.229 0.750 1.000 0.000" />
 	<fluids />
-	<terrain size="1025" triangle="1.0568" errNorm="25.00" specPow="15.0859">
+	<terrain size="513" triangle="2.1136" errNorm="25.00" specPow="15.0859">
 		<texture on="1" file="adesert_stone_d.jpg" fnorm="adesert_stone_n.jpg" scale="11.5418" surf="DesertFast" dust="0.5" dustS="1" mud="0.7" smoke="0" tclr="0.020 0.680 0.250 0.800 0.000" angMin="0" angMax="18.1409" angSm="8.95089" hMin="-300" hMax="300" hSm="20" nOn="0" noise="0.998652" n_1="0" n2="0.509652">
 			<noise frq0="38.5134" oct0="3" prs0="0.358317" pow0="2.31357" frq1="60.004" oct1="3" prs1="0.4" pow1="2.66046" />
 		</texture>
