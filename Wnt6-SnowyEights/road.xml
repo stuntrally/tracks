@@ -4,7 +4,7 @@
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="400" lodPntLen="30" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5 15.176" iDir="1" iChk1="29" />
 	<stats length="4560.37" width="8.92536" height="11.0725" onTer="0" pipes="0" bnkAvg="5.11338" bnkMax="22.4157" />
-	<txt desc="Long fast winding road with few 8-s, at sunset." />
+	<txt desc="Long, fast, but slippery road with few 8-s, at sunset." />
 	<P pos="-179.682 0 374.466" w="8.4312" aT="2" />
 	<P pos="-119.925 0 335.466" w="8.4312" aT="2" />
 	<P pos="-68.223 0 280.849" w="8.4312" aT="2" />
