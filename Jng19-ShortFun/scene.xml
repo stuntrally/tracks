@@ -6,7 +6,7 @@
 	<fogH color="0.73 0.86 1 1" height="-300" dens="100" linStart="0" linEnd="400" />
 	<light pitch="60" yaw="-40" ambient="0.5 0.5 0.5" diffuse="0.65 0.65 0.63" specular="0.99 0.99 0.97" />
 	<fluids>
-		<fluid name="water blue" pos="148.386 -8.59029 185.527" rot="0 0 0" size="268.121 20 294.945" tile="0.01 0.01" />
+		<fluid name="water blue" pos="148.386 -8.59029 185.527" rot="0 0 0" size="268.121 40 294.945" tile="0.01 0.01" />
 		<fluid name="mud soft" pos="-55.2033 8.16785 145.162" rot="0 0 0" size="60.3364 20 46.5946" tile="0.01 0.01" />
 	</fluids>
 	<terrain size="513" triangle="1.28481" errNorm="1.70" normSc="0.8">

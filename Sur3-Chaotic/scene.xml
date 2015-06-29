@@ -7,7 +7,7 @@
 	<fogH color="0.149 0.357 0.502 0.496 0.000" height="100" dens="20" linStart="6.32812" linEnd="121.15" />
 	<light pitch="31.5" yaw="102.375" ambient="0.471 0.174 0.631 0.000 0.010" diffuse="0.000 0.000 0.660 0.000 0.000" specular="0.000 0.050 0.576 0.000 0.000" />
 	<fluids>
-		<fluid name="grease jelly" pos="-225.706 119.947 225.154" rot="0 0 0" size="120.968 11.9801 265" tile="0.01 0.01" />
+		<fluid name="grease jelly" pos="-225.706 119.947 225.154" rot="0 0 0" size="120.968 60 265" tile="0.01 0.01" />
 	</fluids>
 	<terrain size="513" triangle="1.4262" errNorm="12.56">
 		<texture on="1" file="space_diam_d.jpg" fnorm="space_diam_n.jpg" scale="12" surf="DesertFast" dust="0" dustS="1" mud="0" smoke="0" tclr="0.000 0.000 0.460 0.700 0.000" angMin="0" angMax="20.4305" angSm="11.3931" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">

@@ -7,7 +7,7 @@
 	<fogH color="0.101 0.151 0.472 0.125 1.000" height="70.51" dens="26.7698" linStart="0" linEnd="48.1807" />
 	<light pitch="14" yaw="27" ambient="0.198 0.742 0.592 26927985328128.000 0.000" diffuse="0.930 0.494 1.826 26927985328128.000 0.000" specular="0.698 0.589 2.000 0.163 0.000" />
 	<fluids>
-		<fluid name="water blue med" pos="294.348 24.5241 -113.232" rot="0 0 0" size="278.645 20 633.7" tile="0.01 0.01" />
+		<fluid name="water blue med" pos="294.348 24.5241 -113.232" rot="0 0 0" size="278.645 120 633.7" tile="0.01 0.01" />
 	</fluids>
 	<terrain size="513" triangle="1.80666" errNorm="8.99" specPow="2.90871">
 		<texture on="1" file="adesert_sand2_d.jpg" fnorm="desert_sand2_n.jpg" scale="10.4" surf="DesertBumpy" dust="0.5" dustS="1" mud="0.5" smoke="0" tclr="0.088 0.810 0.420 0.800 0.000" angMin="25.6579" angMax="46.9565" angSm="19.2602" hMin="-300" hMax="300" hSm="20" nOn="0" noise="0" n_1="0" n2="1">

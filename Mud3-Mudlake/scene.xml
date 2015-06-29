@@ -6,7 +6,7 @@
 	<fogH color="0.6 0.6 0.4 1" height="63" dens="53.045" linStart="0" linEnd="85.0781" />
 	<light pitch="43.0312" yaw="29.3233" ambient="0.4 0.4 0.4" diffuse="0.5 0.5 0.5" specular="0.5 0.5 0.5" />
 	<fluids>
-		<fluid name="mud soft JD" pos="3.03046 44.7342 20.2003" rot="0 0 0" size="450 20 450" tile="0.01 0.01" />
+		<fluid name="mud soft JD" pos="3.03046 44.7342 20.2003" rot="0 0 0" size="450 80 450" tile="0.01 0.01" />
 	</fluids>
 	<terrain size="513" triangle="1.2713" errNorm="1.70">
 		<texture on="1" file="ground_dry2_d.jpg" fnorm="ground_dry2_n.jpg" scale="9.1007" surf="DesertFast" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.15 0.15 0.05 0.8" angMin="0" angMax="17.7887" angSm="7.34694" hMin="-300" hMax="300" hSm="67.2131" nOn="0" noise="1" n_1="0" n2="0">

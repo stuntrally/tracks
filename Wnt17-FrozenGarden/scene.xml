@@ -7,7 +7,7 @@
 	<fogH color="0.822 0.000 0.609 0.413 0.000" height="-25.2772" dens="59.1328" linStart="1.58203" linEnd="141.113" />
 	<light pitch="40" yaw="60" ambient="0.605 0.025 0.420 1.000 0.000" diffuse="0.165 0.017 0.631 1.000 0.000" specular="0.157 0.006 0.406 1.000 0.000" />
 	<fluids>
-		<fluid name="ice solid" pos="37.5555 -4.06551 -7.55137" rot="0 0 0" size="250.488 24.0378 302.791" tile="0.01 0.01" />
+		<fluid name="ice solid" pos="37.5555 -4.06551 -7.55137" rot="0 0 0" size="250.488 54.0378 302.791" tile="0.01 0.01" />
 	</fluids>
 	<terrain size="513" triangle="1.41181" errNorm="4.90">
 		<texture on="0" file="" fnorm="" scale="6.31724" surf="SnowDeep" dust="1" dustS="0.8" mud="1" smoke="0" tclr="0.000 0.000 0.400 0.600 0.000" angMin="0" angMax="13.6912" angSm="11.6776" hMin="-300" hMax="300" hSm="20" nOn="0" noise="0.102908" n_1="0" n2="0">

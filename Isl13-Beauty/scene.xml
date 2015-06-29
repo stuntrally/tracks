@@ -6,7 +6,7 @@
 	<fogH color="0.76 0.82 0.76 1" height="27" dens="75.375" linStart="0" linEnd="32.5125" />
 	<light pitch="16" yaw="45" ambient="0.47 0.36 0.3" diffuse="0.75 0.65 0.55" specular="0.7 0.7 0.5" />
 	<fluids>
-		<fluid name="water sunset cyan" pos="0.104229 3.33022 -0.0285969" rot="0 0 0" size="8000 40 8000" tile="0.00892702 0.00868648" />
+		<fluid name="water sunset cyan" pos="0.104229 3.33022 -0.0285969" rot="0 0 0" size="8000 60 8000" tile="0.00892702 0.00868648" />
 	</fluids>
 	<terrain size="1025" triangle="1.38424" errNorm="15.00">
 		<texture on="1" file="desert_wet_d.jpg" fnorm="desert_wet_n.jpg" scale="8.78464" surf="DesertFast" dust="0.5" dustS="0.7" mud="0" smoke="0" tclr="0.5 0.5 0.2 0.7" angMin="0" angMax="13.5616" angSm="6.27982" hMin="-300" hMax="2.96804" hSm="16.4096" nOn="0" noise="1" n_1="0" n2="0">

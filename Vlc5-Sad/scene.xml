@@ -6,13 +6,13 @@
 	<fogH color="0.3 0.3 0.3 0.5" height="3.48837" dens="6.92266" linStart="54.9114" linEnd="380.273" />
 	<light pitch="20.1453" yaw="45" ambient="0.25 0.25 0.25" diffuse="0.55 0.5 0.45" specular="0.3 0.2 0.1" />
 	<fluids>
-		<fluid name="mud soft JD" pos="-170.95 16.5813 -143.665" rot="0 0 0" size="50 20 50" tile="0.01 0.01" />
-		<fluid name="mud soft JD" pos="11.9655 3.21292 30.9856" rot="0 0 0" size="50 20 50" tile="0.01 0.01" />
-		<fluid name="water dark" pos="142.894 -4.14363 -24.9447" rot="0 0 0" size="67.5283 20 85.436" tile="0.01 0.01" />
-		<fluid name="mud med JD" pos="-71.0098 4.07849 164.572" rot="0 0 0" size="50 20 50" tile="0.01 0.01" />
-		<fluid name="mud soft JD" pos="-313.468 4.5557 145.956" rot="0 0 0" size="50 20 50" tile="0.01 0.01" />
-		<fluid name="mud hard" pos="-35.622 8.38074 -50.8724" rot="0 0 0" size="50 20 50" tile="0.01 0.01" />
-		<fluid name="water dark" pos="-324.795 1.49484 -4.98706" rot="0 0 0" size="67.5575 20 109.135" tile="0.01 0.01" />
+		<fluid name="mud soft JD" pos="-170.95 16.5813 -143.665" rot="0 0 0" size="50 40 50" tile="0.01 0.01" />
+		<fluid name="mud soft JD" pos="11.9655 3.21292 30.9856" rot="0 0 0" size="50 40 50" tile="0.01 0.01" />
+		<fluid name="water dark" pos="142.894 -4.14363 -24.9447" rot="0 0 0" size="67.5283 40 85.436" tile="0.01 0.01" />
+		<fluid name="mud med JD" pos="-71.0098 4.07849 164.572" rot="0 0 0" size="50 40 50" tile="0.01 0.01" />
+		<fluid name="mud soft JD" pos="-313.468 4.5557 145.956" rot="0 0 0" size="50 40 50" tile="0.01 0.01" />
+		<fluid name="mud hard" pos="-35.622 8.38074 -50.8724" rot="0 0 0" size="50 40 50" tile="0.01 0.01" />
+		<fluid name="water dark" pos="-324.795 1.49484 -4.98706" rot="0 0 0" size="67.5575 40 109.135" tile="0.01 0.01" />
 	</fluids>
 	<terrain size="513" triangle="1.84383" errNorm="1.70">
 		<texture on="1" file="ground_crackedv_d.jpg" fnorm="ground_cracked_n.jpg" scale="10.4284" surf="DesertFast" dust="0" dustS="0.2" mud="0.4" smoke="0" tclr="0.2 0.2 0.18 0.7" angMin="0" angMax="12.8571" angSm="7.91189" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="1">

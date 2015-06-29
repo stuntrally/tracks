@@ -6,7 +6,7 @@
 	<fogH color="0.73 0.86 1 1" height="-300" dens="100" linStart="0" linEnd="400" />
 	<light pitch="29.7744" yaw="78" ambient="0.32 0.35 0.37" diffuse="0.45 0.55 0.65" specular="0.3 0.3 0.3" />
 	<fluids>
-		<fluid name="water blue dark" pos="0.387406 10 -0.691333" rot="0 0 0" size="3700 20 3700" tile="0.01 0.01" />
+		<fluid name="water blue dark" pos="0.387406 10 -0.691333" rot="0 0 0" size="3700 80 3700" tile="0.01 0.01" />
 	</fluids>
 	<terrain size="1025" triangle="1.38488" errNorm="1.70">
 		<texture on="1" file="island_sand_d.jpg" fnorm="desert_sand_n.jpg" scale="12.7769" surf="DesertFast" dust="0.6" dustS="0.7" mud="0" smoke="0" tclr="0.44 0.44 0.26 0.7" angMin="0" angMax="13.0333" angSm="11.0505" hMin="-300" hMax="300" hSm="4.14214" nOn="0" noise="1" n_1="0" n2="1">

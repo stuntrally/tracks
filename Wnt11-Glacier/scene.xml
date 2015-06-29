@@ -6,8 +6,8 @@
 	<fogH color="0.73 0.86 1 1" height="-300" dens="100" linStart="0" linEnd="400" />
 	<light pitch="43.985" yaw="-40" ambient="0.48 0.49 0.49" diffuse="0.51 0.52 0.52" specular="0.5 0.55 0.55" />
 	<fluids>
-		<fluid name="water white" pos="263.039 -2.16757 72.5737" rot="0 0 0" size="350.656 20 295.484" tile="0.01 0.01" />
-		<fluid name="water white" pos="-148.719 -7.19418 210.021" rot="0 0 0" size="178.323 20 207.359" tile="0.01 0.01" />
+		<fluid name="water white" pos="263.039 -2.16757 72.5737" rot="0 0 0" size="350.656 60 295.484" tile="0.01 0.01" />
+		<fluid name="water white" pos="-148.719 -7.19418 210.021" rot="0 0 0" size="178.323 60 207.359" tile="0.01 0.01" />
 	</fluids>
 	<terrain size="1025" triangle="1.15336" errNorm="10.00" specPow="23.3791">
 		<texture on="1" file="snow_grass2_d.jpg" fnorm="snow_grass2_n.jpg" scale="8.24913" surf="SnowWet" dust="0.4" dustS="0.6" mud="1" smoke="0" tclr="0.4 0.4 0.4 0.6" angMin="0" angMax="10.7436" angSm="5.90122" hMin="-300" hMax="30.3653" hSm="2.45097" nOn="0" noise="1.0027" n_1="0" n2="0">

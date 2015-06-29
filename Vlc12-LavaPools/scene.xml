@@ -7,11 +7,11 @@
 	<fogH color="0.033 0.950 0.620 0.874 0.000" height="4.87804" dens="8.14254" linStart="0" linEnd="90.619" dmg="2.28341" />
 	<light pitch="41.8605" yaw="47.093" ambient="0.000 0.000 0.200 1.000 0.000" diffuse="0.000 0.620 1.500 0.810 0.000" specular="0.067 1.000 0.906 0.000 0.000" />
 	<fluids>
-		<fluid name="lava" pos="97.7161 8.51126 85.1311" rot="0 0 0" size="88.9781 20 221.52" tile="0.01 0.01" />
-		<fluid name="lava solid" pos="-106.17 1.68526 -13.6513" rot="0 0 0" size="310.932 20 620.262" tile="0.01 0.01" />
-		<fluid name="lava" pos="68.011 10.7552 -144.215" rot="0 0 0" size="50 20 50" tile="0.01 0.01" />
-		<fluid name="lava" pos="260.248 17.3256 -128.829" rot="0 0 0" size="272.644 33.2414 345.04" tile="0.00976222 0.00976222" />
-		<fluid name="lava" pos="277.372 17.2988 189.212" rot="0 0 0" size="235.171 20 291.341" tile="0.01 0.01" />
+		<fluid name="lava" pos="97.7161 8.51126 85.1311" rot="0 0 0" size="88.9781 40 221.52" tile="0.01 0.01" />
+		<fluid name="lava solid" pos="-106.17 1.68526 -13.6513" rot="0 0 0" size="310.932 40 620.262" tile="0.01 0.01" />
+		<fluid name="lava" pos="68.011 10.7552 -144.215" rot="0 0 0" size="50 40 50" tile="0.01 0.01" />
+		<fluid name="lava" pos="260.248 17.3256 -128.829" rot="0 0 0" size="272.644 43.2414 345.04" tile="0.00976222 0.00976222" />
+		<fluid name="lava" pos="277.372 17.2988 189.212" rot="0 0 0" size="235.171 40 291.341" tile="0.01 0.01" />
 	</fluids>
 	<terrain size="513" triangle="1.30717" errNorm="10.22" emissive="1">
 		<texture on="1" file="lava_black_d.jpg" fnorm="lava_black_n.jpg" scale="5.87196" surf="DesertMud" dust="0" dustS="0" mud="0" smoke="0" tclr="0.076 0.246 0.250 0.600 0.000" dmg="0.139231" angMin="0" angMax="15.9652" angSm="3.67805" hMin="-300" hMax="300" hSm="21.883" nOn="0" noise="0.359322" n_1="0" n2="0.715254">

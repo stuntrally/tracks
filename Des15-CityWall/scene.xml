@@ -6,7 +6,7 @@
 	<fogH color="0.6 0.7 0.6 0.7" height="27.5689" dens="10.1758" linStart="0" linEnd="30.1631" />
 	<light sceneryId="D4" pitch="27.0677" yaw="38.6597" ambient="0.5 0.5 0.5" diffuse="1.4 1.4 1.4" specular="0.2 0.2 0.2" />
 	<fluids>
-		<fluid name="water green" pos="-21.5845 23.2118 20.0618" rot="0 0 0" size="580 20 580" tile="0.01 0.01" />
+		<fluid name="water green" pos="-21.5845 23.2118 20.0618" rot="0 0 0" size="580 40 580" tile="0.01 0.01" />
 	</fluids>
 	<terrain size="513" triangle="1.4" errNorm="1.70" normSc="0.7">
 		<texture on="1" file="desert_sand_d.jpg" fnorm="desert_sand_n.jpg" scale="12.0559" surf="DesertFast" dust="0.8" dustS="1" mud="0.1" smoke="0" tclr="0.46 0.46 0.08 0.7" angMin="0" angMax="21.3112" angSm="11.0526" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="1">

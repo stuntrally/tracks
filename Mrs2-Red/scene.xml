@@ -6,7 +6,7 @@
 	<fogH color="0.15 0.01 0 0.7" height="23" dens="12.5" linStart="0" linEnd="10.5125" />
 	<light sceneryId="R1" pitch="56.25" yaw="18" ambient="0.2 0.1 0.02" diffuse="0.52 0.15 0.1" specular="0.6 0.57 0.57" />
 	<fluids>
-		<fluid name="mud easy soft" pos="117.112 19.8487 164.292" rot="0 0 0" size="50 20.6383 50" tile="0.01 0.01" />
+		<fluid name="mud easy soft" pos="117.112 19.8487 164.292" rot="0 0 0" size="50 40 50" tile="0.01 0.01" />
 	</fluids>
 	<terrain size="513" triangle="0.829076" errNorm="12.00">
 		<texture on="1" file="adesert_stone_d.jpg" fnorm="adesert_stone_n.jpg" scale="11.5418" surf="DesertFast" dust="0.5" dustS="1" mud="0.7" smoke="0" tclr="0.25 0.1 0.08 0.8" angMin="0" angMax="18.1409" angSm="8.95089" hMin="-300" hMax="300" hSm="20" nOn="0" noise="0.998652" n_1="0" n2="0.509652">

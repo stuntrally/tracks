@@ -7,8 +7,8 @@
 	<fogH color="0.167 0.333 0.600 1.000 0.000" height="-52.7716" dens="25.8301" linStart="180" linEnd="529.24" />
 	<light pitch="24" yaw="47" ambient="0.000 0.000 0.400 1.000 0.000" diffuse="0.000 0.000 0.500 1.000 0.000" specular="0.000 0.000 0.654 0.504 0.000" />
 	<fluids>
-		<fluid name="mud easy soft" pos="28.1722 -0.368218 6.19064" rot="0 0 0" size="3008.95 20 2443.95" tile="0.01 0.01" />
-		<fluid name="mud med" pos="-126.403 5.33497 278.248" rot="0 0 0" size="106.697 20 65.3881" tile="0.01 0.01" />
+		<fluid name="mud easy soft" pos="28.1722 -0.368218 6.19064" rot="0 0 0" size="3008.95 40 2443.95" tile="0.01 0.01" />
+		<fluid name="mud med" pos="-126.403 5.33497 278.248" rot="0 0 0" size="106.697 40 65.3881" tile="0.01 0.01" />
 	</fluids>
 	<terrain size="513" triangle="1.52911" errNorm="1.70">
 		<texture on="1" file="ground_mud2_d.jpg" fnorm="ground_mud2_n.jpg" scale="27.3068" surf="GrassJungleWet" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.088 0.810 0.420 0.800 0.000" angMin="0" angMax="90" angSm="7.34694" hMin="-300" hMax="3.38347" hSm="2.18526" nOn="0" noise="0.583051" n_1="0" n2="0">
