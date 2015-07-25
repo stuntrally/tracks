@@ -15,7 +15,7 @@
 		<texture on="1" file="island_sand2_d.jpg" fnorm="desert_sand2_n.jpg" scale="10.2051" surf="DesertFast" dust="0.6" dustS="0.7" mud="0" smoke="0" tclr="0.44 0.4 0.23 0.7" angMin="12.8571" angMax="24.3053" angSm="3.58062" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
 			<noise frq0="26.2" oct0="3" prs0="0.3" pow0="1.5" frq1="31.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
-		<texture on="1" file="ground_white_d.jpg" fnorm="ground_white_n.jpg" scale="6.71199" surf="DesertBumpy" dust="0.3" dustS="0.2" mud="0.4" smoke="0" tclr="0.36 0.4 0.28 0.7" angMin="6.86888" angMax="20.7237" angSm="3.4845" hMin="-300" hMax="-1.14155" hSm="4.06287" nOn="0" noise="0" n_1="0.50193" n2="0">
+		<texture on="1" file="ground_white_d.jpg" fnorm="ground_white_n.jpg" scale="6.71199" surf="DesertBumpy" dust="0.4" dustS="0.2" mud="0" smoke="0" tclr="0.36 0.4 0.28 0.7" angMin="6.86888" angMax="20.7237" angSm="3.4845" hMin="-300" hMax="-1.14155" hSm="4.06287" nOn="0" noise="0" n_1="0.50193" n2="0">
 			<noise frq0="26.7639" oct0="3" prs0="0.3" pow0="3.35515" frq1="37.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
 		<texture on="1" file="desert_mntn2_d.jpg" fnorm="desert_mntn2_n.jpg" scale="20.8542" surf="Rocks" dust="0" dustS="0.2" mud="0.1" smoke="0" tclr="0.2 0.2 0 1" angMin="16.3796" angMax="85.8553" angSm="9.07895" hMin="-18.0365" hMax="300" hSm="0.612743" nOn="0" triplanar="1" noise="0.0263157" n_1="1" n2="0">
