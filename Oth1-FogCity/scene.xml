@@ -2,6 +2,7 @@
 	<ver num="2401" baseTrk="V8-Uncertain" />
 	<car tires="1" damage="0.497041" />
 	<start pos="-4.59008 30.3143 61.3729" rot="-2.3843e-007 -1.16899e-007 -0.0217972 -0.999765" />
+	<sound ambient="" reverbs="ForestDense" />
 	<sky material="sky/dark_clouds" />
 	<fog color="0.530 0.094 0.320 0.700 0.000" color2="0.556 0.097 0.310 0.600 0.000" linStart="0" linEnd="911.946" />
 	<fogH color="0.533 0.072 0.374 1.000 0.000" height="35.0515" dens="21.0915" linStart="0" linEnd="5.85875" />

@@ -2,6 +2,7 @@
 	<ver num="2440" baseTrk="V9-Craters" secEd="8" />
 	<car tires="0" />
 	<start pos="-27.0537 30.6471 0.576401" rot="1.78814e-007 2.41727e-007 -0.711761 0.702429" />
+	<sound ambient="" reverbs="Desert" />
 	<sky material="sky/offworld_gen" skyYaw="103.37" />
 	<fog color="0.138 0.432 0.637 1.616 0.000" color2="0.198 0.690 0.603 0.738 0.000" linStart="236.233" linEnd="732.828" />
 	<fogH color="0.331 0.382 0.388 0.810 0.000" height="-0" dens="1.57325" linStart="0" linEnd="0.983279" dmg="19.0337" />

@@ -2,6 +2,7 @@
 	<ver num="2440" baseTrk="Vlc9-Craters" secEd="9642" />
 	<car tires="0" />
 	<start pos="53.0448 -29.584 9.67354" rot="0.0137246 -0.00210251 0.717416 -0.696559" />
+	<sound ambient="" reverbs="Rocky" />
 	<sky material="sky/duskred" />
 	<fog color="0.023 0.800 0.316 0.847 0.000" color2="0.085 1.000 0.392 0.810 0.000" linStart="0" linEnd="634.372" />
 	<fogH color="0.033 0.950 0.620 0.874 0.000" height="4.87804" dens="8.14254" linStart="0" linEnd="90.619" dmg="2.28341" />

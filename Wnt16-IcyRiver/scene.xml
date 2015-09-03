@@ -2,6 +2,7 @@
 	<ver num="2440" baseTrk="W14-DangerRoad" />
 	<car tires="0" road1mtr="0" />
 	<start pos="-89.0869 -48.1956 20.7887" rot="-0.00490832 -0.00503343 -0.698189 0.715881" />
+	<sound ambient="" reverbs="Savanna" />
 	<sky material="sky/day_blue2" />
 	<fog color="0.583 0.213 0.600 0.947 0.000" color2="0.574 0.271 0.707 0.815 0.000" linStart="329.29" linEnd="969.474" />
 	<fogH color="0.567 0.182 1.000 1.000 0.000" height="15.5211" dens="51.5642" linStart="0" linEnd="24.3215" />

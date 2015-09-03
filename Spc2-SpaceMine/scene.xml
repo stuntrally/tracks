@@ -2,6 +2,7 @@
 	<ver num="2500" baseTrk="Spc1-Minerals2" secEd="3247" />
 	<car tires="1" damage="0.502959" gravity="7.6" />
 	<start pos="-137.836 -105.528 73.9666" rot="0.00952507 -0.0049371 0.887814 0.460094" />
+	<sound ambient="" reverbs="Space" />
 	<sky material="sky/magicdark" skyYaw="-152.86" />
 	<fog color="0.149 0.306 0.353 0.542 0.188" color2="0.539 0.510 0.383 0.713 0.126" linStart="46.8945" linEnd="475.907" />
 	<fogH color="0.000 0.494 0.738 0.402 0.060" height="140" dens="31.502" linStart="151.189" linEnd="37.7973" />

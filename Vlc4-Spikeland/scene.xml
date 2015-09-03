@@ -1,6 +1,7 @@
 <scene>
 	<car tires="0" />
 	<start pos="123.104 69.3322 0.634338" rot="-1.77636e-015 -1.77636e-015 0.811716 0.584054" />
+	<sound ambient="" reverbs="Canyon" />
 	<sky material="sky/dust" />
 	<fog color="0.756 0.76 0.454 0.5" color2="0.721 0.76 0.482 1" linStart="34.2246" linEnd="312.601" />
 	<fogH color="0.5 0.25 0 0.1" height="51.1628" dens="83.295" linStart="0" linEnd="162.317" />

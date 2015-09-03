@@ -2,6 +2,7 @@
 	<ver num="2500" baseTrk="Aus5-TopTwist" secEd="1263" />
 	<car tires="0" damage="0.698225" />
 	<start pos="91.2807 -232.74 90.3403" rot="0.0125344 -0.00579249 0.89534 0.445233" />
+	<sound ambient="" reverbs="Canyon" />
 	<sky material="sky/morning_gen" skyYaw="29.25" />
 	<fog color="0.075 0.458 0.830 0.900 0.000" color2="0.083 0.274 0.730 0.900 0.000" linStart="295.488" linEnd="735.078" />
 	<fogH color="0.122 0.184 0.502 0.496 0.000" height="100" dens="20" linStart="6.32812" linEnd="399.395" />

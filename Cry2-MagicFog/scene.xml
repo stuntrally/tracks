@@ -2,6 +2,7 @@
 	<ver num="2401" baseTrk="Industrypark-edit" />
 	<car tires="0" damage="1.19831" gravity="8.9084" />
 	<start pos="151.504 45.7788 57.9677" rot="-0.0442504 -0.0555951 -0.516426 0.853431" />
+	<sound ambient="" reverbs="Crystals" />
 	<sky material="sky/magicdark" skyYaw="-19.125" />
 	<fog color="0.857 0.465 2.090 2.000 2.000" color2="0.967 0.494 0.340 0.919 0.169" linStart="0" linEnd="315.053" />
 	<fogH color="0.684 0.558 0.654 0.885 0.161" height="66.0754" dens="87.9062" linStart="0" linEnd="26.5879" />

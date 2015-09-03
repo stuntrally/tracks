@@ -2,6 +2,7 @@
 	<ver num="2440" baseTrk="" secEd="21482" />
 	<car tires="0" damage="0.502959" gravity="8.77032" />
 	<start pos="-154.762 207.576 69.7713" rot="5.08153e-007 2.32173e-007 -1.00002 -0.000816907" />
+	<sound ambient="" reverbs="Canyon" />
 	<sky material="sky/sunset_rays_gen" skyYaw="-12.3725" />
 	<fog color="0.066 0.736 0.507 0.919 0.000" color2="0.043 0.727 0.379 1.000 0.000" linStart="148.76" linEnd="1077.29" />
 	<fogH color="0.072 0.793 0.467 0.869 0.081" height="12.8603" dens="28.4168" linStart="0" linEnd="3.54964" />

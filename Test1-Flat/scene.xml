@@ -2,6 +2,7 @@
 	<ver num="2401" baseTrk="" />
 	<car tires="0" />
 	<start pos="-1.30182 7.95081 -10.5378" rot="-0 0 -1.62921e-007 -1" />
+	<sound ambient="" reverbs="Australia" />
 	<sky material="sky/day_clouds" />
 	<fog color="0.583 0.120 0.788 0.805 0.000" color2="0.583 0.186 0.620 0.900 0.000" linStart="300" linEnd="800" />
 	<fogH color="0.583 0.037 0.540 1.000 0.000" height="-300" dens="100" linStart="0" linEnd="400" />

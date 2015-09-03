@@ -2,10 +2,11 @@
 	<ver num="2440" baseTrk="" />
 	<car tires="0" />
 	<start pos="75.876 -129.326 0.6" rot="-0.00978801 0.00920403 0.69469 0.719198" />
+	<sound ambient="" reverbs="Desert" />
 	<sky material="sky/magicdark" />
 	<fog color="0.667 0.680 0.312 0.919 0.256" color2="0.917 1.000 0.158 0.964 0.120" linStart="0" linEnd="920.703" />
 	<fogH color="0.000 0.000 0.000 1.000 0.000" height="-300" dens="60" linStart="0" linEnd="400" />
-	<light pitch="22.782" yaw="-28.4211" ambient="0.000 0.000 0.230 4616811619206493800000000.000 0.000" diffuse="0.667 0.167 0.383 4616811619206493800000000.000 0.000" specular="0.667 0.333 0.738 4616811619206493800000000.000 0.000" />
+	<light pitch="22.782" yaw="-28.4211" ambient="0.000 0.000 0.230 1.000 0.000" diffuse="0.667 0.167 0.383 1.000 0.000" specular="0.667 0.333 0.738 1.000 0.000" />
 	<fluids />
 	<terrain size="513" triangle="1.73318" errNorm="5.02" normSc="3" specPow="4.74315">
 		<texture on="1" file="zdesert_sand2_d.jpg" fnorm="desert_sand2_n.jpg" scale="16.21" surf="DesertFast" dust="1" dustS="0.95" mud="0.1" smoke="0" tclr="0.000 0.000 0.080 0.700 0.000" angMin="0" angMax="15.0261" angSm="7.25953" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="1">

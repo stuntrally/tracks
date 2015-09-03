@@ -2,6 +2,7 @@
 	<ver num="2401" baseTrk="V8-Uncertain" />
 	<car tires="0" />
 	<start pos="-266.681 -86.4864 36.409" rot="0.134034 0.0569446 0.368599 0.918124" />
+	<sound ambient="" reverbs="Forest" />
 	<sky material="sky/offworld_gen" rainName="Snow" rainEmit="31" rain2Name="SnowFine" rain2Emit="53" />
 	<fog color="0.523 0.463 0.840 0.362 0.000" color2="0.413 0.665 1.560 0.163 0.000" linStart="158.593" linEnd="879.062" />
 	<fogH color="0.101 0.151 0.472 0.125 1.000" height="70.51" dens="26.7698" linStart="0" linEnd="48.1807" />

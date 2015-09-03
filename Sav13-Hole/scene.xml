@@ -2,6 +2,7 @@
 	<ver num="2401" baseTrk="TestC4-ow" />
 	<car tires="0" noWrongChks="1" />
 	<start pos="28.7513 10.3006 -80.6161" rot="-0.104009 0.017815 -0.699813 -0.706515" />
+	<sound ambient="" reverbs="Canyon" />
 	<sky material="sky/blue_clouds" />
 	<fog color="0.598 0.189 0.900 0.900 0.000" color2="0.571 0.156 0.900 0.900 0.000" linStart="163.265" linEnd="402.523" />
 	<fogH color="0.586 0.270 1.000 1.000 0.000" height="-300" dens="100" linStart="0" linEnd="400" />

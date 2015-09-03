@@ -1,6 +1,7 @@
 <scene>
 	<car tires="0" />
 	<start pos="210.537 132.52 -1.18832" rot="3.55271e-015 0 0.934189 0.35678" />
+	<sound ambient="" reverbs="Islands" />
 	<sky material="sky/twighlight_gen" rainName="RainFastA" rainEmit="800" />
 	<fog color="0.26 0.23 0.2 0.9" color2="0.22 0.22 0.23 0.9" linStart="31.4068" linEnd="416.128" />
 	<fogH color="0.3 0.3 0.3 0.5" height="3.48837" dens="6.92266" linStart="54.9114" linEnd="380.273" />

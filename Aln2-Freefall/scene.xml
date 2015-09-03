@@ -2,6 +2,7 @@
 	<ver num="2440" baseTrk="test-new" />
 	<car tires="0" damage="0.550296" road1mtr="0" />
 	<start pos="108.511 -42.7752 98.7215" rot="0.0140557 0.123064 0.199304 0.972086" />
+	<sound ambient="" reverbs="Alien" />
 	<sky material="sky/magic_alien" skyYaw="94.5" />
 	<fog color="0.233 0.412 0.680 0.826 0.180" color2="0.368 0.198 0.549 0.924 0.233" linStart="183.77" linEnd="735.078" />
 	<fogH color="0.428 0.862 0.788 1.106 0.318" height="26.25" dens="24.0645" linStart="0" linEnd="34.4531" />

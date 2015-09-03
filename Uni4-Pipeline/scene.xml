@@ -2,6 +2,7 @@
 	<ver num="2440" baseTrk="" secEd="16" />
 	<car tires="0" />
 	<start pos="437.362 121.927 34.913" rot="1.63425e-013 -1e-006 -0.988546 -0.150939" />
+	<sound ambient="" reverbs="Unidentified" />
 	<sky material="sky/magic" />
 	<fog color="0.111 0.750 0.400 0.800 0.000" color2="0.417 0.333 0.600 0.800 0.000" linStart="4.5125" linEnd="696.2" />
 	<fogH color="0.500 0.222 0.900 1.500 0.000" height="-1" dens="19.845" linStart="0" linEnd="12.8" />

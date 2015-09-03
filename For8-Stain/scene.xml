@@ -2,6 +2,7 @@
 	<ver num="2500" baseTrk="X3-Cloud" secEd="111" />
 	<car tires="0" />
 	<start pos="-64.6381 -5.47507 -5.58963" rot="-0.0643443 -0.0812483 0.696827 0.709731" />
+	<sound ambient="" reverbs="Forest" />
 	<sky material="sky/cloudy" rainName="RainFastA" rainEmit="3624" rain2Name="RainFine" rain2Emit="1998" />
 	<fog color="0.167 0.056 0.720 1.000 0.000" color2="0.542 0.077 0.520 1.000 0.000" linStart="9.84918" linEnd="321.606" />
 	<fogH color="0.586 0.270 1.000 1.000 0.000" height="-300" dens="100" linStart="0" linEnd="400" />

@@ -2,6 +2,7 @@
 	<ver num="2401" baseTrk="W13-MtFog" />
 	<car tires="0" />
 	<start pos="8.62512 169.563 28.1208" rot="0.0087347 0.000169941 0.99983 -0.0194115" />
+	<sound ambient="" reverbs="Canyon" />
 	<sky material="sky/day_clouds" />
 	<fog color="0.545 0.138 0.379 1.000 0.000" color2="0.163 0.083 0.559 1.000 0.000" linStart="141.592" linEnd="838.383" />
 	<fogH color="0.000 0.000 0.950 1.000 0.000" height="-200" dens="0" linStart="0" linEnd="60.8437" />

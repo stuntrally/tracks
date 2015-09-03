@@ -2,6 +2,7 @@
 	<ver num="2500" baseTrk="Industrypark" secEd="7127" />
 	<car tires="0" damage="0.254438" road1mtr="0" noWrongChks="1" />
 	<start pos="-253.653 -47.419 35.1935" rot="-0.045175 0.0262468 0.966307 -0.25206" />
+	<sound ambient="" reverbs="Crystals" />
 	<sky material="sky/magicdark" rain2Name="RainFine" rain2Emit="66" skyYaw="4.5" />
 	<fog color="0.688 0.893 0.277 1.246 0.112" color2="0.773 1.000 0.233 1.226 0.076" linStart="130.039" linEnd="304.581" />
 	<fogH color="0.579 0.568 0.788 1.579 0.293" height="33.2594" dens="50.627" linStart="0" linEnd="59.8227" />

@@ -1,6 +1,7 @@
 <scene>
 	<car tires="0" />
 	<start pos="-59.3236 3.10192 4.33741" rot="-5.55112e-017 -5.55112e-017 0.703943 0.710259" />
+	<sound ambient="" reverbs="Islands" />
 	<sky material="sky/sunset_rays_gen" skyYaw="-13.0827" />
 	<fog color="0.34 0.22 0.2 0.6" color2="0.3 0.18 0.12 0.9" linStart="128.152" linEnd="729.656" />
 	<fogH color="0.6 0.4 0.3 0.5" height="15.5388" dens="75.375" linStart="0" linEnd="57.8" />
