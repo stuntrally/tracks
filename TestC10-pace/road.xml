@@ -1,0 +1,25 @@
+<SplineRoad>
+	<mtr road="roadStone" />
+	<dim tcMul="0.0679848" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="8" heightOfs="0.1" />
+	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="180" lodPntLen="10" />
+	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 6.304 23.624" iDir="-1" iChk1="12" />
+	<stats length="1193.85" width="14.2199" height="7.06633" onTer="0" pipes="0" bnkAvg="1.6968" bnkMax="7.14696" />
+	<txt desc="Short oval track in hilly terrain. Whole road made using bridged road and then align terrain to road tool." />
+	<P pos="-60.9191 0 68.3993" w="13.16" aT="2" chkR="1.676" />
+	<P pos="28.3312 0 148.315" w="11.64" aT="2" />
+	<P pos="98.9763 0 185.461" w="15.288" aT="2" chkR="1.724" />
+	<P pos="90.8214 0 114.242" w="12.136" aT="2" />
+	<P pos="70.0108 0 31.1791" w="12.088" aT="2" chkR="1.736" />
+	<P pos="48.6192 0 -15.0222" w="15.648" aT="2" />
+	<P pos="6.14519 0 -53.8625" w="16.328" aT="2" />
+	<P pos="11.3636 0 -134.147" w="36.536" aT="2" chkR="1.34" />
+	<P pos="44.7981 0 -111.054" w="14.52" aT="2" />
+	<P pos="40.5665 0 -36.1674" w="11.64" aT="2" />
+	<P pos="-7.34884 0 -40.0875" w="11.64" aT="2" />
+	<P pos="-64.8189 0 -70.795" w="15.288" aT="2" chkR="1.064" />
+	<P pos="-28.8144 0 -26.8968" w="15.288" aT="2" chkR="1.2" />
+	<P pos="-98.6187 0 -61.0862" w="11.64" aT="2" />
+	<P pos="-162.388 0 -76.2644" w="14.376" aT="2" chkR="1.716" />
+	<P pos="-179.581 0 -52.6607" w="11.64" aT="2" chkR="1.864" />
+	<P pos="-144.868 0 -14.0145" w="11.64" aT="2" />
+</SplineRoad>
