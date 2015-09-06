@@ -1,5 +1,5 @@
 <scene>
-	<ver num="2440" baseTrk="" secEd="11" />
+	<ver num="2500" baseTrk="" secEd="296" />
 	<car tires="0" damage="0.247492" />
 	<start pos="133.218 -30.7895 71.8364" rot="-0.0116588 -0.0146992 -0.712893 0.701044" />
 	<sound ambient="" reverbs="Savanna" />

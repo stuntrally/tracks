@@ -1,5 +1,5 @@
 <scene>
-	<ver num="2440" baseTrk="" secEd="32" />
+	<ver num="2500" baseTrk="" secEd="70" />
 	<car tires="0" />
 	<start pos="213.537 108.843 26.036" rot="0.01319 0.014275 0.995562 -0.0922952" />
 	<sound ambient="" reverbs="Canyon" />

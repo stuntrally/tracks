@@ -1,5 +1,5 @@
 <scene>
-	<ver num="2440" baseTrk="TestC4-ow" />
+	<ver num="2500" baseTrk="TestC4-ow" secEd="95" />
 	<car tires="0" noWrongChks="1" />
 	<start pos="-107.733 47.9366 0.726483" rot="5.96046e-008 -8.44179e-008 -0.694863 0.719148" />
 	<sound ambient="" reverbs="Alien" />
