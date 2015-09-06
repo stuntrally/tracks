@@ -3,7 +3,7 @@
 	<dim tcMul="0.06" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="2" widthSteps="6" heightOfs="0.06" />
 	<mrg skirtLen="0.2" skirtH="0.1" merge="1" mergeLen="1214.78" lodPntLen="36.7862" />
 	<geom colN="4" colR="1.82158" wsPm="4" lsPm="1" stBox="1 5.288 13.816" iDir="-1" iChk1="148" />
-	<stats length="5667.75" width="11.6554" height="100.745" onTer="75.4963" pipes="28.0515" onPipe="2.28004" bnkAvg="12.8495" bnkMax="90" />
+	<stats length="5041.21" width="13.104" height="100.745" onTer="84.8792" pipes="23.2598" onPipe="2.56342" bnkAvg="12.8495" bnkMax="90" />
 	<txt desc="Very difficult and tricky track with all kinds of stunts. Caution: crazy! Partly very slow. Only for professional stunt drivers." />
 	<P pos="-66.809 55.6402 78.1039" w="9.1116" onTer="0" a="0" ar="0" aT="2" mtr="2" chkR="1" />
 	<P pos="-37.3587 0 75.2948" w="9.1044" a="0" ar="0" aT="2" />
@@ -181,7 +181,7 @@
 	<P pos="76.1587 57.8 -2.10483" w="7" onTer="0" a="2.82" ar="-50.688" aT="2" col="0" mtr="2" />
 	<P pos="57.092 58.215 -3.43035" w="6.528" onTer="0" a="0" ar="-23.58" aT="2" col="0" mtr="2" chkR="1" />
 	<P pos="21.0631 54.6087 -6.37647" w="7" onTer="0" a="0" ar="0" aT="2" col="0" mtr="2" />
-	<P pos="-10.6032 0 -8.94366" w="7" a="0" ar="0" aT="2" chkR="1" ckL="1" />
+	<P pos="-10.6032 0 -8.94366" w="7" a="0" ar="0" aT="2" chkR="1" ckL="3" />
 	<P pos="-64.4952 0 -14.2866" w="13.9648" aT="2" mtr="-1" not="1" />
 	<P pos="-35.7899 0 -11.7868" w="56.2208" a="181.371" ar="-0.00299982" aT="0" />
 	<P pos="-44.9803 52.0928 -18.5976" w="56.2204" onTer="0" a="176.256" ar="0.0270004" aT="0" col="0" mtr="3" />
@@ -193,7 +193,7 @@
 	<P pos="-101.151 51.9796 -12.792" w="56.2288" onTer="0" a="176.181" ar="0.0269947" aT="0" col="0" mtr="3" />
 	<P pos="-108.232 0 -18.4453" w="56.1968" a="182.121" ar="0" aT="0" col="0" mtr="-1" not="1" />
 	<P pos="-86.9758 0 -20.0982" w="8.7968" aT="2" />
-	<P pos="-138.556 0 -21.4985" w="8.16" a="0" ar="0" aT="2" col="0" chkR="1" ckL="1" />
+	<P pos="-138.556 0 -21.4985" w="8.16" a="0" ar="0" aT="2" col="0" chkR="1" ckL="3" />
 	<P pos="-169.286 54.0188 -21.0821" w="8.16" onTer="0" a="0" ar="0" aT="2" col="0" mtr="2" />
 	<P pos="-202.371 68.3667 -18.0122" w="8.16" onTer="0" a="0" ar="0" aT="2" col="0" mtr="2" />
 	<P pos="-237.996 0 -16.584" w="7" a="0" ar="-4.287" aT="2" chkR="1" />
