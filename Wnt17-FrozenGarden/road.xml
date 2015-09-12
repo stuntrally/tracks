@@ -3,7 +3,7 @@
 	<dim tcMul="0.0650965" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="8" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="521.66" lodPntLen="20" />
 	<geom colN="6" colR="3" wsPm="4" lsPm="1" stBox="1 11.476 20.192" iDir="1" iChk1="31" />
-	<stats length="3689.83" width="7.70143" height="44.4119" onTer="53.3223" pipes="0" bnkAvg="17.4054" bnkMax="63.4801" />
+	<stats length="3634.36" width="7.81896" height="44.4119" onTer="54.136" pipes="0" bnkAvg="17.4054" bnkMax="63.4801" />
 	<txt desc="Very slippery, icy, twisted track, during snowstorm. With high damage potential. Be careful not to crash into the border of bridges." />
 	<P pos="-240.38 0 -80.0102" w="7" aT="2" chkR="1.816" />
 	<P pos="-213.653 0 -29.3553" w="7" aT="2" />
@@ -41,7 +41,7 @@
 	<P pos="5.80282 0 38.9126" w="7" aT="2" mtr="-1" />
 	<P pos="29.6144 0 -0.387068" w="7" aT="2" mtr="-1" chkR="3.184" />
 	<P pos="93.5927 0 -27.1503" w="7" aT="2" chkR="2.712" />
-	<P pos="80.9441 0 -67.3963" w="7" a="0" ar="0" aT="2" mtr="-1" />
+	<P pos="80.9441 0 -67.3963" w="7" a="0" ar="0" aT="2" mtr="-1" not="1" />
 	<P pos="65.6927 -6.70405 -120.43" w="7" onTer="0" a="0" ar="0" aT="2" />
 	<P pos="64.827 -1.18384 -156.878" w="8.648" onTer="0" a="0" ar="1.56" aT="2" chkR="1" />
 	<P pos="68.6882 8.44776 -192.241" w="7.784" onTer="0" a="0" ar="27.12" aT="2" mtr="3" />
