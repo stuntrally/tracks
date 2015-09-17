@@ -3,7 +3,7 @@
 	<dim tcMul="0.1" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="2" widthSteps="6" heightOfs="0.06" />
 	<mrg skirtLen="0.4" skirtH="0.12" merge="1" mergeLen="1200" lodPntLen="80" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 6.136 24.812" iDir="-1" iChk1="14" />
-	<stats length="1361.07" width="9.42898" height="51.1115" onTer="12.2149" pipes="12.2149" onPipe="8.51069" bnkAvg="17.1681" bnkMax="44.1885" />
+	<stats length="1310.66" width="9.79168" height="51.1115" onTer="12.6848" pipes="8.83807" onPipe="8.83807" bnkAvg="17.1681" bnkMax="44.1885" />
 	<txt desc="Easy mars track with banked road and a pipe-bridge." />
 	<P pos="61.2337 0 52.2461" w="16.08" a="-19.14" ar="-5.58" aT="2" col="0" />
 	<P pos="101.873 0 50.3292" w="12.224" aT="2" col="0" chkR="1.672" />
@@ -41,9 +41,9 @@
 	<P pos="-86.8622 0 90.9665" w="7.472" aT="2" col="0" />
 	<P pos="-82.8037 0 63.6372" w="12.552" aT="2" col="0" />
 	<P pos="-64.4478 0 47.348" w="12.552" aT="2" col="0" chkR="1.94" />
-	<P pos="-18.2467 0 46.6358" w="19.072" a="0" ar="0" aT="2" col="0" mtr="-1" />
+	<P pos="-18.2467 0 46.6358" w="19.072" a="0" ar="0" aT="2" col="0" mtr="-1" not="1" />
 	<P pos="-34.3867 -2.56191 45.113" w="19.408" onTer="0" a="0" ar="0" aT="2" col="0" pipe="1" onP="1" />
 	<P pos="8.70766 6.34139 47.7981" w="15.872" onTer="0" a="0" ar="0" aT="2" col="0" pipe="1" onP="1" />
 	<P pos="38.283 10.8493 50.8242" w="15.504" onTer="0" a="0" ar="0" aT="2" col="0" pipe="1" onP="1" />
-	<P pos="79.6375 8.49499 50.1166" w="19.504" onTer="0" a="0" ar="0" aT="2" col="0" pipe="1" mtr="-1" />
+	<P pos="79.6375 8.49499 50.1166" w="19.504" onTer="0" a="0" ar="0" aT="2" col="0" pipe="1" mtr="-1" not="1" />
 </SplineRoad>
