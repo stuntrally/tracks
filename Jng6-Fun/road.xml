@@ -3,7 +3,7 @@
 	<dim tcMul="0.05" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="8" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="400" lodPntLen="40" />
 	<geom colN="6" colR="3" wsPm="4" lsPm="1" stBox="1 5.664 22.336" iDir="-1" iChk1="112" />
-	<stats length="3497.65" width="13.5925" height="57.1987" onTer="61.8316" pipes="21.7735" bnkAvg="7.12757" bnkMax="67.8599" />
+	<stats length="3486.74" width="13.6351" height="57.1987" onTer="62.025" pipes="21.8416" bnkAvg="7.12757" bnkMax="67.8599" />
 	<txt desc="Winding track with many small jumps and pipes." />
 	<P pos="100.495 0 74.5691" w="13.072" aT="2" chkR="1.236" />
 	<P pos="129.453 0 119.076" w="9.704" a="20.16" ar="0" aT="0" chkR="1.292" />
@@ -52,7 +52,7 @@
 	<P pos="90.5885 -10.3343 -191.383" w="7.216" onTer="0" a="-120.06" ar="0" aT="0" mtr="1" chkR="2.228" />
 	<P pos="77.5587 -10.0369 -196.669" w="21.232" onTer="0" a="-110.7" ar="0" aT="0" />
 	<P pos="67.4509 -9.95429 -199.365" w="21.824" onTer="0" a="-111.48" ar="0" aT="0" />
-	<P pos="49.8324 -10.9003 -205.816" w="19.568" onTer="0" a="-104.94" ar="0" aT="0" mtr="-1" />
+	<P pos="49.8324 -10.9003 -205.816" w="19.568" onTer="0" a="-104.94" ar="0" aT="0" mtr="-1" not="1" />
 	<P pos="39.0407 -10.6535 -207.169" w="19.568" onTer="0" a="-99.54" ar="0" aT="0" mtr="1" />
 	<P pos="21.776 -9.71429 -209.274" w="21.68" onTer="0" a="-104.52" ar="0" aT="0" mtr="1" />
 	<P pos="-39.698 -9.10624 -220.594" w="21.584" onTer="0" a="-90" ar="0" aT="0" mtr="1" chkR="1.516" />

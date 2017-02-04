@@ -1,5 +1,5 @@
 <scene>
-	<ver num="2440" baseTrk="X3-Cloud" secEd="235" />
+	<ver num="2600" baseTrk="X3-Cloud" secEd="414" />
 	<car tires="0" />
 	<start pos="62.935 -72.9789 -10.572" rot="-0.003875 -0.000770001 -0.999911 0.0193402" />
 	<sound ambient="" reverbs="Forest" />
