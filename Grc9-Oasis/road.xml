@@ -4,7 +4,7 @@
 	<mrg skirtLen="0.4" skirtH="0.12" merge="1" mergeLen="809.994" lodPntLen="20" />
 	<geom colN="4" colR="2.39684" wsPm="4" lsPm="1" stBox="1 5.552 20.748" iDir="1" iChk1="105" />
 	<stats length="7947.39" width="11.9638" height="96.8963" onTer="65.977" pipes="53.7599" bnkAvg="10.4035" bnkMax="82.711" />
-	<txt desc="An oasis with greenhouse glass pipe installations above. Near water reserve, hidden in rocky desert landscape. Lone pipe stunt track with few jumps and loops.x" />
+	<txt desc="An oasis with greenhouse glass pipe installations above. Near water reserve, hidden in rocky desert landscape. Long pipe stunt track with few jumps and loops. Slow down in yellow pipe sections." />
 	<P pos="54.3335 0 88.7492" w="8.608" aT="2" col="0" mtr="2" />
 	<P pos="62.2133 0 64.1383" w="12.5764" a="-358.2" ar="-5.18405" aT="2" col="0" mtr="2" />
 	<P pos="61.9205 24.2859 29.6038" w="10.7094" onTer="0" a="624.059" ar="0" aT="1" col="0" pipe="1" mtr="1" chkR="1" />
