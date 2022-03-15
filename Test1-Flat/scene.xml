@@ -1,7 +1,7 @@
 <scene>
-	<ver num="2401" baseTrk="" />
+	<ver num="2600" baseTrk="" secEd="133" />
 	<car tires="0" />
-	<start pos="-1.30182 7.95081 -10.5378" rot="-0 0 -1.62921e-007 -1" />
+	<start pos="-1.30182 7.95081 -10.5378" rot="-0 0 -1.62921e-07 -1" />
 	<sound ambient="" reverbs="Australia" />
 	<sky material="sky/day_clouds" />
 	<fog color="0.583 0.120 0.788 0.805 0.000" color2="0.583 0.186 0.620 0.900 0.000" linStart="300" linEnd="800" />
@@ -30,11 +30,8 @@
 			<noise frq0="42.2" oct0="3" prs0="0.3" pow0="1.5" frq1="43.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
 		<texture road="1" surf="roadJungle" dust="0" dustS="0.6" mud="0" smoke="0" tclr="0.167 0.500 0.400 0.400 0.000" />
-		<par dust="Dust" mud="Mud" smoke="Smoke" />
 		<texture road="2" surf="Default" dust="0" dustS="0.2" mud="0" smoke="0" tclr="0.160 0.500 0.200 0.700 0.000" />
-		<par dust="Dust" mud="Mud" smoke="Smoke" />
 		<texture road="3" surf="Default" dust="0" dustS="0.2" mud="0" smoke="0" tclr="0.160 0.500 0.200 0.700 0.000" />
-		<par dust="Dust" mud="Mud" smoke="Smoke" />
 		<texture road="4" surf="Default" dust="0" dustS="0.2" mud="0" smoke="0" tclr="0.160 0.500 0.200 0.700 0.000" />
 		<par dust="Dust" mud="Mud" smoke="Smoke" />
 	</terrain>
@@ -67,7 +64,6 @@
 		<o name="plastic_big" pos="11.2685 12.5912 -10.7286" rot="-0.00271981 0.999994 -0.00199598 0.00100176" />
 		<o name="plastic_big_hvy" pos="9.08598 11.3011 -10.5508" rot="0.00118171 0.999997 -0.00199261 0.00100884" />
 		<o name="balloon2clr" pos="101.768 -35.0966 7.7356" rot="0 -1 0 0" />
-		<o name="chapel" pos="31.1089 17.0434 -11.1479" rot="0 -1 0 0" />
 		<o name="water_plane_big" pos="55.6869 5.91046 -11.0093" rot="-0.0854466 -0.984473 -0.0760814 -0.133129" />
 		<o name="windmill" pos="15.9351 42.9214 -11.3097" rot="0.094409 -0.995533 0 0" />
 		<o name="container_big" pos="21.3865 41.5925 -11.2855" rot="0 -1 0 0" />
