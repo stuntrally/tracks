@@ -1,0 +1,198 @@
+<scene>
+	<ver num="2600" baseTrk="Grc8-SlopeCity" secEd="33774" />
+	<car tires="0" damage="0.852321" road1mtr="0" />
+	<start pos="34.3482 232.552 50.8232" rot="0.0162731 0.0304504 0.809395 -0.586285" />
+	<sound ambient="" reverbs="Canyon" />
+	<sky material="sky/day_blue2" />
+	<fog color="0.586 0.270 1.000 1.000 0.000" color2="0.586 0.270 1.000 1.000 0.000" linStart="297.698" linEnd="1677.17" />
+	<fogH color="0.586 0.270 1.000 1.000 0.000" height="-300" dens="100" linStart="0" linEnd="400" />
+	<light pitch="60" yaw="-40" ambient="0.000 0.000 0.450 1.000 0.000" diffuse="0.000 0.000 0.800 1.000 0.000" specular="0.000 0.000 0.800 1.000 0.000" />
+	<fluids>
+		<fluid name="water blue" pos="54.4924 0.130912 16.319" rot="0 0 0" size="647.102 23.1061 950.924" tile="0.01 0.01" />
+	</fluids>
+	<terrain size="513" triangle="1.45291" errNorm="13.72">
+		<texture on="1" file="island_sand2w_d.jpg" fnorm="desert_sand2_n.jpg" scale="8.36448" surf="DesertFast" dust="0.6" dustS="0.8" mud="0" smoke="0" tclr="0.167 0.038 0.520 0.700 0.000" angMin="0" angMax="27.8289" angSm="6.93696" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
+			<noise frq0="22.2" oct0="3" prs0="0.3" pow0="1.5" frq1="28.5" oct1="3" prs1="0.4" pow1="1.2" />
+		</texture>
+		<texture on="1" file="island_sandw_d.jpg" fnorm="desert_sand_n.jpg" scale="9.1346" surf="DesertFast" dust="0.6" dustS="0.8" mud="0" smoke="0" tclr="0.167 0.038 0.520 0.700 0.000" angMin="22.8947" angMax="36.1184" angSm="10.8811" hMin="-300" hMax="300" hSm="20" nOn="0" noise="0.589831" n_1="0" n2="0">
+			<noise frq0="26.2" oct0="3" prs0="0.3" pow0="1.5" frq1="31.5" oct1="3" prs1="0.4" pow1="1.2" />
+		</texture>
+		<texture on="1" file="mntn_white2_d.jpg" fnorm="jungle_stone_n.jpg" scale="46.1309" surf="Rocks" dust="0" dustS="0.2" mud="0" smoke="0" tclr="0.000 0.000 0.400 0.600 0.000" angMin="42.4832" angMax="90" angSm="20" hMin="-300" hMax="150" hSm="20" nOn="0" triplanar="1" noise="1" n_1="0.20678" n2="0">
+			<noise frq0="34.2" oct0="3" prs0="0.3" pow0="1.5" frq1="37.5" oct1="3" prs1="0.4" pow1="1.2" />
+		</texture>
+		<texture on="0" file="mntn_black_d.jpg" fnorm="mntn_black_n.jpg" scale="30.02" surf="Rocks" dust="0.3" dustS="0.2" mud="0.5" smoke="0" tclr="0.000 0.000 0.320 0.400 0.000" angMin="8.95631" angMax="90" angSm="20" hMin="54.6993" hMax="300" hSm="20" nOn="0" triplanar="1" noise="0.049212" n_1="0" n2="0">
+			<noise frq0="30.2" oct0="3" prs0="0.3" pow0="1.5" frq1="34.5" oct1="3" prs1="0.4" pow1="1.2" />
+		</texture>
+		<texture on="0" file="" fnorm="" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.167 1.000 0.200 1.000 0.000" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
+			<noise frq0="38.2" oct0="3" prs0="0.3" pow0="1.5" frq1="40.5" oct1="3" prs1="0.4" pow1="1.2" />
+		</texture>
+		<texture on="0" file="" fnorm="" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.167 1.000 0.200 1.000 0.000" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
+			<noise frq0="42.2" oct0="3" prs0="0.3" pow0="1.5" frq1="43.5" oct1="3" prs1="0.4" pow1="1.2" />
+		</texture>
+		<texture road="1" surf="roadDesert" dust="0.52506" dustS="0.546539" mud="0" smoke="0" tclr="0.000 0.000 0.700 0.700 0.000" />
+		<texture road="2" surf="roadAdesert" dust="0.417661" dustS="0.570406" mud="0" smoke="0" tclr="0.160 0.500 0.266 0.700 0.000" />
+		<texture road="3" surf="Asphalt" dust="0" dustS="0.9" mud="0" smoke="0.188544" tclr="0.000 0.000 0.108 0.000 0.000" />
+		<texture road="4" surf="Default" dust="0" dustS="0.2" mud="0" smoke="0" tclr="0.160 0.500 0.200 0.700 0.000" />
+		<par dust="DustW" mud="MudDark" smoke="Smoke" />
+	</terrain>
+	<paged densGrass="0.2" densTrees="1.99802" grPage="80" grDist="80" grDensSmooth="2" trPage="100" trDist="100" trDistImp="800" trRdDist="3">
+		<grass on="1" mtr="grass3g" clr="grClrDesert.png" dens="0.0200881" chan="0" minSx="1.18105" maxSx="1.97367" minSy="1.47402" maxSy="2.05259" swayDistr="0.4" swayLen="0.2" swaySpeed="0.5" />
+		<grass on="1" mtr="grassDesert" clr="grClrJungle.png" dens="0.0533619" chan="0" minSx="1.46" maxSx="1.62" minSy="1.13" maxSy="1.31" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
+		<grass on="0" mtr="grass16g" clr="grClrDesert.png" dens="0.0773525" chan="0" minSx="1.62" maxSx="2" minSy="2.2" maxSy="3.16" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
+		<grass on="1" mtr="grass4v" clr="grClrJungle.png" dens="0.0073798" chan="1" minSx="1.82" maxSx="2.8" minSy="1.22" maxSy="2.26" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
+		<grass on="0" mtr="grass15g" clr="grClrJungle.png" dens="0.55694" chan="0" minSx="1.07368" maxSx="1.33784" minSy="0.996847" maxSy="1.53682" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
+		<grass on="0" mtr="grass6g-" clr="grClrJungle.png" dens="0.264331" chan="0" minSx="1.42784" maxSx="2.05259" minSy="1.47402" maxSy="1.97926" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
+		<gchan amin="0" amax="10.0955" asm="1.60201" hmin="0.99585" hmax="74.1909" hsm="0.395076" ns="0" frq="25" oct="3" prs="0.3" pow="1.2" rd="2.00539" />
+		<gchan amin="0" amax="22.7685" asm="12.4404" hmin="11.9502" hmax="77.4274" hsm="8.42408" ns="0" frq="52" oct="3" prs="0.3" pow="1.2" rd="0" />
+		<gchan amin="0" amax="30" asm="20" hmin="-100" hmax="100" hsm="20" ns="0" frq="79" oct="3" prs="0.3" pow="1.2" rd="0" />
+		<gchan amin="0" amax="30" asm="20" hmin="-100" hmax="100" hsm="20" ns="0" frq="106" oct="3" prs="0.3" pow="1.2" rd="0" />
+		<layer on="1" name="palm.mesh" dens="0.354504" minScale="1.01265" maxScale="3.04063" ofsY="0" addTrRdDist="4" maxRdist="100" windFx="0.246539" windFy="0.022992" maxTerAng="25.5579" minTerH="6" maxTerH="15" maxDepth="1" />
+		<layer on="1" name="tree.07.mesh" dens="0.100405" minScale="0.491193" maxScale="0.953559" ofsY="0" addTrRdDist="3" maxRdist="100" windFx="0.699974" windFy="0.00999725" maxTerAng="22.107" minTerH="6" maxTerH="100" maxDepth="1" />
+		<layer on="1" name="tree.09.mesh" dens="0.1" minScale="0.586023" maxScale="1.30169" ofsY="0" addTrRdDist="3" maxRdist="100" windFx="0" windFy="0" maxTerAng="18.0125" minTerH="6" maxTerH="100" maxDepth="1" />
+		<layer on="0" name="farn1.mesh" dens="0.299173" minScale="0.0623137" maxScale="0.289727" ofsY="0" addTrRdDist="1" maxRdist="100" windFx="7.29999" windFy="0.0599931" maxTerAng="31.0873" minTerH="6.42202" maxTerH="100" maxDepth="2" />
+		<layer on="0" name="farn2.mesh" dens="0.233764" minScale="0.107346" maxScale="0.333236" ofsY="0" addTrRdDist="1" maxRdist="100" windFx="7.29999" windFy="0.0599962" maxTerAng="29.4845" minTerH="7.15596" maxTerH="100" maxDepth="2" />
+		<layer on="0" name="rock.05.mesh" dens="0.0444028" minScale="0.0299994" maxScale="0.209998" ofsY="0" addTrRdDist="3" maxRdist="100" windFx="0" windFy="0" maxTerAng="29.4845" minTerH="7" maxTerH="100" maxDepth="2" />
+		<layer on="0" name="rock.07.mesh" dens="0.028425" minScale="0.0819476" maxScale="0.226637" ofsY="0" addTrRdDist="3" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-0.5" maxTerH="100" maxDepth="5" />
+		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
+		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
+		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
+	</paged>
+	<cam pos="-277.357 85.5328 -143.635" dir="0.640862 -0.169398 0.748732" />
+	<objects>
+		<o name="skyscraper8" pos="-135.942 -104.58 2.53422" rot="0 -1 0 0" />
+		<o name="skyscraper8" pos="-185.374 -124.108 1.41353" rot="0 -1 0 0" />
+		<o name="skyscraper8" pos="-145.772 -143.907 2.35538" rot="0 -1 0 0" />
+		<o name="skyscraper8" pos="-45.378 -102.013 3.15823" rot="0 -1 0 0" />
+		<o name="rome_house_a" pos="-55.3636 61.8941 39.9783" rot="0 -1 0 0" />
+		<o name="rome_house_a" pos="-51.0151 46.5433 39.9783" rot="0 -1 0 0" />
+		<o name="rome_house_a" pos="-30.3532 70.5867 39.9783" rot="0.723378 -0.690451 0 0" />
+		<o name="rome_house_a" pos="2.21094 53.324 39.9783" rot="0 -1 0 0" />
+		<o name="rome_house_a" pos="-17.1451 47.9072 39.9783" rot="-0.694922 -0.719085 0 0" />
+		<o name="rome_house_b" pos="11.9923 122.748 39.9783" rot="0.71349 -0.700664 0 0" />
+		<o name="rome_house_b" pos="2.84954 69.9036 39.9783" rot="0 -1 0 0" />
+		<o name="rome_house_b" pos="-56.3925 83.4506 39.9783" rot="0 -1 0 0" />
+		<o name="rome_house_b" pos="-77.515 81.156 39.9783" rot="0 -1 0 0" />
+		<o name="rome_house_b" pos="-106.123 78.9326 39.9783" rot="0.717308 -0.696756 0 0" />
+		<o name="rome_house_b" pos="-133.112 56.4783 39.9783" rot="0 -1 0 0" />
+		<o name="rome_house_b" pos="-88.7721 66.3044 39.9783" rot="0 -1 0 0" />
+		<o name="rome_house_b" pos="3.34655 121.988 39.9783" rot="0.704331 -0.709872 0 0" />
+		<o name="rome_house_b" pos="-5.471 121.516 39.9783" rot="0 -1 0 0" />
+		<o name="rome_house_b" pos="-16.3445 121.618 39.9783" rot="0.00580092 0.999983 0 0" />
+		<o name="rome_house_b" pos="21.3724 82.2719 39.9783" rot="0 -1 0 0" />
+		<o name="rome_house_b" pos="33.4681 88.3164 39.9783" rot="-0.720178 -0.693787 0.00116139 0.00111883" />
+		<o name="rome_house_b" pos="48.9732 105.284 39.9794" rot="0 -1 0 0" />
+		<o name="rome_house_b" pos="-55.1616 132.454 39.9783" rot="0 -1 0 0" />
+		<o name="rome_house_c" pos="-35.2387 132.864 39.9783" rot="0.00230021 -0.999998 0 0" />
+		<o name="rome_house_c" pos="-71.9399 134.431 39.9783" rot="0.717723 -0.69633 0 0" />
+		<o name="rome_house_c" pos="-14.0842 26.7307 39.9783" rot="0.999974 0.00719297 0 0" />
+		<o name="rome_house_c" pos="-27.5485 23.8347 39.9783" rot="-0.704537 -0.709667 0 0" />
+		<o name="rome_house_c" pos="-42.9738 21.5878 39.9783" rot="0 -1 0 0" />
+		<o name="rome_house_c" pos="-74.9 30.0015 39.9783" rot="0 -1 0 0" />
+		<o name="rome_house_c" pos="-109.934 57.6274 39.9783" rot="0 -1 0 0" />
+		<o name="rome_house_d" pos="28.3205 34.1643 39.9687" rot="0 -1 0 0" />
+		<o name="rome_house_d" pos="20.4457 62.1685 39.9783" rot="0 -1 0 0" />
+		<o name="rome_house_d" pos="25.5038 122.274 39.9859" rot="0.726642 -0.687017 0 0" />
+		<o name="rome_house_d" pos="32.2539 101.216 39.9783" rot="-0.999687 0.0249964 0 0" />
+		<o name="rome_house_d" pos="-87.532 129.502 39.9783" rot="0.99968 0.0253016 0 0" />
+		<o name="rome_house_d" pos="-70.0144 115.876 39.9783" rot="0.0027545 -0.999996 0 0" />
+		<o name="rome_house_d" pos="-49.6737 116.468 39.9783" rot="0 -1 0 0" />
+		<o name="rome_house_d" pos="-36.9935 102.924 39.9783" rot="0.700686 -0.71347 0 0" />
+		<o name="rome_house_d" pos="-15.6404 70.8197 39.9783" rot="0 -1 0 0" />
+		<o name="rome_house_d" pos="-1.32214 95.8959 39.9783" rot="0 -1 0 0" />
+		<o name="rome_mill" pos="-17.9494 90.4668 39.9783" rot="0 -1 0 0" />
+		<o name="rome_mill" pos="-84.0448 107.629 39.9783" rot="0 -1 0 0" />
+		<o name="rome_mill" pos="-125.001 82.841 40.5289" rot="-0.681282 -0.732022 0 0" />
+		<o name="rome_mill" pos="-104.5 113.679 39.8821" rot="-0.337832 -0.941206 0.000186108 0.0005185" />
+		<o name="rome_mill" pos="49.1623 94.2939 39.9783" rot="0 -1 0 0" />
+		<o name="rome_vesta" pos="38.5345 67.0852 39.9783" rot="0.727231 -0.686392 0 0" />
+		<o name="rome_vesta" pos="-23.7383 103.42 39.9783" rot="0 -1 0 0" />
+		<o name="rome_vesta" pos="0.944733 30.0472 39.9783" rot="0 -1 0 0" />
+		<o name="rome_vesta" pos="-56.48 26.5788 39.9783" rot="0.705655 -0.708556 0 0" />
+		<o name="rome_vesta" pos="-73.388 59.2237 39.9783" rot="0 -1 0 0" />
+		<o name="skyscraper9" pos="-118.207 -89.2023 3.60449" rot="0 -1 0 0" />
+		<o name="skyscraper9" pos="-198.813 -82.8452 4.74271" rot="0.704436 0.709767 0 0" />
+		<o name="skyscraper2" pos="-96.0917 -137.071 0.909058" rot="0 -1 0 0" />
+		<o name="skyscraper2" pos="-152.248 -64.5308 -0.215987" rot="0 -1 0 0" />
+		<o name="skyscraper11" pos="-138.778 -36.3938 2.62266" rot="0 -1 0 0" />
+		<o name="skyscraper11" pos="-219.485 -60.8766 7.33081" rot="0 -1 0 0" />
+		<o name="skyscraper11" pos="-23.5545 -94.6149 2.62267" rot="0 -1 0 0" />
+		<o name="skyscraper11" pos="-5.89938 -94.5233 1.87177" rot="0 -1 0 0" />
+		<o name="skyscraper11" pos="-81.9844 -75.1071 2.82137" rot="0 -1 0 0" />
+		<o name="skyscraper11" pos="-35.4233 -88.5149 2.62257" rot="0 -1 0 0" />
+		<o name="skyscraper11" pos="-107.408 -157.14 1.17913" rot="0 -1 0 0" />
+		<o name="skyscraper11" pos="-121.332 -175.757 1.03964" rot="0 -1 0 0" />
+		<o name="skyscraper9" pos="-81.0203 -112.699 1.11081" rot="0 -1 0 0" />
+		<o name="skyscraper10" pos="-134.166 -117.84 2.44827" rot="0 -1 0 0" />
+		<o name="skyscraper10" pos="-125.55 -147.29 2.00259" rot="0 -1 0 0" />
+		<o name="skyscraper10" pos="-154.495 -81.7335 1.92238" rot="0 -1 0 0" />
+		<o name="skyscraper10" pos="-121.802 -43.1568 2.66791" rot="0 -1 0 0" />
+		<o name="skyscraper10" pos="-60.2267 -75.8768 2.62335" rot="0 -1 0 0" />
+		<o name="skyscraper10" pos="-141.467 -160.402 1.70172" rot="0 -1 0 0" />
+		<o name="skyscraper10" pos="-170.15 -136.855 1.37566" rot="0 -1 0 0" />
+		<o name="skyscraper4" pos="-122.068 -108.157 2.50291" rot="0 -1 0 0" />
+		<o name="skyscraper4" pos="-153.922 -111.163 2.3936" rot="0 -1 0 0" />
+		<o name="skyscraper4" pos="-199.71 -103.363 4.26413" rot="0 -1 0 0" />
+		<o name="skyscraper4" pos="-102.904 -56.3472 3.2155" rot="0 -1 0 0" />
+		<o name="skyscraper4" pos="-60.1652 -90.5748 3.32358" rot="0 -1 0 0" />
+		<o name="skyscraper4" pos="-65.8433 -59.8367 2.65805" rot="0 -1 0 0" />
+		<o name="skyscraper4" pos="-148.787 -178.547 1.35748" rot="0 -1 0 0" />
+		<o name="skyscraper4" pos="-128.637 -193.75 1.41368" rot="0 -1 0 0" />
+		<o name="skyscraper4" pos="-187.302 -38.5831 3.69347" rot="0 -1 0 0" />
+		<o name="skyscraper4" pos="-171.393 -48.8679 3.69347" rot="0 -1 0 0" />
+		<o name="skyscraper4" pos="-160.686 -22.4551 3.69347" rot="0 -1 0 0" />
+		<o name="fuel_can" pos="-108.634 -288.411 1.22882" rot="-0.0584534 0.998214 -0.0115577 0.00425213" />
+		<o name="fuel_can" pos="-105.016 -286.285 1.2067" rot="-0.00897145 0.999746 -0.0204647 0.00279457" />
+		<o name="fuel_can" pos="-99.4233 -282.463 1.1098" rot="-0.14161 0.989793 -0.0132248 0.00898136" />
+		<o name="big_tire" pos="45.0289 79.9587 40.417" rot="0.03913 0.9989 0.00775219 -0.0246354" />
+		<o name="big_tire" pos="41.8211 74.5534 40.3892" rot="0.0106968 0.999883 0.00852565 -0.00688991" />
+		<o name="big_tire" pos="-64.5618 15.0935 40.4279" rot="-0.0541361 0.998018 0.0284373 0.0148453" />
+		<o name="big_tire" pos="-36.4713 51.0837 40.3685" rot="0.00805829 0.999968 -1.64479e-06 5.87733e-07" />
+		<o name="big_tire" pos="-33.7578 55.6362 40.4356" rot="0.006673 0.999336 0.0141673 -0.032907" />
+		<o name="big_tire" pos="-32.5637 60.7048 40.4164" rot="0.0286304 0.999265 -0.00381648 -0.0252188" />
+		<o name="big_tire" pos="-43.4108 79.7066 40.3685" rot="0.0134678 0.999909 1.26116e-07 1.97387e-07" />
+		<o name="big_tire" pos="-115.061 72.901 40.3685" rot="0.00825906 0.999966 1.84168e-05 2.01671e-05" />
+		<o name="big_tire" pos="-118.089 70.1505 40.3685" rot="1.94774e-07 1 -5.88028e-07 -5.89667e-07" />
+		<o name="big_tire" pos="-120.47 65.7381 40.3685" rot="-0.014247 0.999898 -7.95114e-06 -2.26679e-05" />
+		<o name="big_tire" pos="-125.262 44.723 40.3723" rot="-0.00192996 0.999852 0.016853 -0.00291215" />
+		<o name="big_tire" pos="-129.476 43.9082 40.3457" rot="-0.00489006 0.998687 0.0509314 0.00246268" />
+		<o name="big_tire" pos="-170.335 54.9927 40.3272" rot="0.0357521 0.999084 0.0144537 0.0185304" />
+		<o name="big_tire" pos="-168.074 51.3651 40.2687" rot="0.0040022 0.998372 0.0416203 0.0388012" />
+		<o name="big_tire" pos="-169.667 86.5585 40.5613" rot="-0.0114238 0.998543 0.0277429 0.0448491" />
+		<o name="big_tire" pos="-174.686 89.9104 40.0218" rot="-0.00542375 0.995234 0.0322849 0.0918569" />
+		<o name="big_tire" pos="-165.904 82.2293 40.5905" rot="0.0929767 0.995457 0.0196993 0.00569694" />
+		<o name="big_tire" pos="-171.772 59.3551 40.3574" rot="0.0155404 0.999854 0.00263664 0.00660762" />
+		<o name="big_tire" pos="14.1868 76.6474 40.3685" rot="-0.00485517 0.999988 3.21821e-05 1.41173e-05" />
+		<o name="big_tire" pos="9.79059 72.7037 40.4031" rot="0.0427292 0.998917 -0.00870603 0.016203" />
+		<o name="big_tire" pos="8.96641 19.7645 40.0031" rot="0.0717202 0.990973 0.0978353 -0.0570653" />
+		<o name="big_tire" pos="19.1128 29.5033 40.3629" rot="0.0635088 0.997874 0.00748183 -0.0125598" />
+		<o name="big_tire" pos="-14.5868 107.559 40.4076" rot="0.00264099 0.99978 0.0207563 -0.0010803" />
+		<o name="big_tire" pos="-6.82371 107.561 40.407" rot="-0.0724215 0.997163 0.0188306 -0.0081997" />
+		<o name="big_tire" pos="-73.4753 128.083 40.3973" rot="0.146961 0.989024 -0.015186 0.00190049" />
+		<o name="big_tire" pos="-78.9459 126.243 40.4041" rot="0.106567 0.994125 -0.0165306 0.00922541" />
+		<o name="big_tire" pos="-102.115 95.9469 40.3687" rot="0.113122 0.993581 4.69494e-05 -3.8264e-05" />
+		<o name="big_tire" pos="-108.503 91.5384 40.4018" rot="-0.00354517 0.999838 0.0144084 -0.010235" />
+		<o name="big_tire" pos="13.7205 23.2957 40.1992" rot="-0.0049442 0.995606 0.0833649 -0.0423672" />
+		<o name="big_tire" pos="11.6008 22.2524 40.2097" rot="0.0141763 0.995063 0.0884258 -0.0427757" />
+		<o name="big_tire" pos="15.6459 25.2281 40.3056" rot="-0.00293818 0.997573 0.0555473 -0.0418806" />
+		<o name="big_tire" pos="-53.4366 11.2199 40.4644" rot="-0.00536609 0.99994 0.00951018 0.00116084" />
+		<o name="big_tire" pos="-58.9039 12.6875 40.4778" rot="5.66725e-06 1 0.000452304 6.62506e-05" />
+		<o name="atomic_barrel" pos="-86.6639 -265.776 0.505689" rot="-0.390512 -0.541818 0.184141 0.721128" />
+		<o name="atomic_barrel" pos="-88.7933 -274.387 0.440975" rot="-0.662628 0.116909 0.73967 0.0120271" />
+		<o name="atomic_barrel" pos="31.7098 -77.6305 2.04959" rot="0.170605 0.984899 0.021095 -0.0205583" />
+		<o name="atomic_barrel" pos="35.2375 -75.2739 2.05137" rot="-0.0406231 0.998535 0.0314177 -0.0170315" />
+		<o name="atomic_barrel" pos="38.0965 -73.8504 2.03905" rot="0.000548021 0.999305 0.0333726 -0.0165992" />
+		<o name="atomic_barrel" pos="56.1933 -65.5966 2.38975" rot="-0.274737 0.628394 0.6423 0.342185" />
+		<o name="atomic_barrel" pos="60.241 -63.9546 2.91328" rot="-0.0507509 0.997008 0.0569251 0.0126008" />
+		<o name="atomic_barrel" pos="64.2376 -63.9856 2.99438" rot="-0.125981 0.991391 0.0340425 0.0106758" />
+		<o name="atomic_barrel" pos="74.358 -65.26 2.35954" rot="-0.660262 -0.124622 -0.106755 0.732889" />
+		<o name="atomic_barrel" pos="67.5895 -63.8764 3.0213" rot="0.0710309 0.994744 0.0736454 -0.00396598" />
+		<o name="big_tire" pos="34.8478 -73.8423 1.85009" rot="0.0439349 0.99839 0.030293 -0.0192306" />
+		<o name="big_tire" pos="31.3964 -76 1.84551" rot="0.0014252 0.999424 0.0294071 -0.0168865" />
+		<o name="big_tire" pos="73.9869 -63.5281 2.65384" rot="-0.00558722 0.994259 0.103724 -0.0256759" />
+		<o name="rome_barracks" pos="-87.4609 94.0609 39.9783" rot="0 -1 0 0" />
+		<o name="rome_barracks" pos="-150.357 64.5533 39.9783" rot="0.716027 -0.698072 0 0" />
+		<o name="rome_farmstead" pos="-40.4195 86.3323 39.9783" rot="0.716027 -0.698072 0 0" />
+		<o name="rome_farmstead" pos="-54.2093 100.945 39.9783" rot="-0.01432 -0.999897 0 0" />
+		<o name="rome_farmstead" pos="13.7871 105.5 39.9783" rot="0.00596704 -0.999982 0 0" />
+	</objects>
+</scene>
