@@ -1,0 +1,114 @@
+<scene>
+	<ver num="2600" baseTrk="AdapterIslands2" secEd="124534" />
+	<car tires="0" damage="0.346734" road1mtr="0" />
+	<start pos="457.134 58.0296 8.1627" rot="0.0193305 -0.00335088 0.997679 0.0657176" />
+	<sound ambient="" reverbs="Canyon" />
+	<sky material="sky/day_blue2" />
+	<fog color="0.574 0.271 0.677 0.815 0.000" color2="0.572 0.362 0.756 0.805 0.000" linStart="641.364" linEnd="2000" />
+	<fogH color="0.586 0.270 1.000 1.000 0.000" height="-300" dens="108.558" linStart="0" linEnd="400" />
+	<light pitch="60" yaw="-40" ambient="0.000 0.000 0.450 1.000 0.000" diffuse="0.000 0.000 0.800 1.000 0.000" specular="0.000 0.000 0.800 1.000 0.000" />
+	<fluids>
+		<fluid name="water blue" pos="21.8421 2.53215 -38.2546" rot="0 0 0" size="4168.51 33.1061 4143.12" tile="0.01 0.01" />
+	</fluids>
+	<terrain size="1025" triangle="2" errNorm="15.00">
+		<texture on="1" file="island_sand2w_d.jpg" fnorm="desert_sand2_n.jpg" scale="8.36448" surf="DesertFast" dust="0.6" dustS="0.8" mud="0" smoke="0" tclr="0.167 0.038 0.520 0.700 0.000" angMin="0" angMax="27.8289" angSm="6.93696" hMin="-46.2406" hMax="10" hSm="20" nOn="0" noise="0" n_1="0" n2="1">
+			<noise frq0="14.1635" oct0="3" prs0="0.3" pow0="1.5" frq1="6.36312" oct1="4" prs1="0.7" pow1="4.71022" />
+		</texture>
+		<texture on="0" file="island_sandw_d.jpg" fnorm="desert_sand_n.jpg" scale="9.1346" surf="DesertFast" dust="0.6" dustS="0.8" mud="0" smoke="0" tclr="0.167 0.038 0.520 0.700 0.000" angMin="22.8947" angMax="36.1184" angSm="10.8811" hMin="-300" hMax="15" hSm="20" nOn="0" noise="0.589831" n_1="0" n2="0">
+			<noise frq0="26.2" oct0="3" prs0="0.3" pow0="1.5" frq1="31.5" oct1="3" prs1="0.4" pow1="1.2" />
+		</texture>
+		<texture on="1" file="mntn_gray_d.jpg" fnorm="mntn_dark_n.jpg" scale="57.0779" surf="Rocks" dust="0" dustS="0.2" mud="0.8" smoke="0" tclr="0.167 0.222 0.180 0.700 0.000" angMin="42.1602" angMax="90" angSm="20" hMin="-300" hMax="400" hSm="20" nOn="0" triplanar="1" noise="0.563218" n_1="0.255747" n2="0">
+			<noise frq0="32.7556" oct0="4" prs0="0.533929" pow0="1.903" frq1="31.8916" oct1="3" prs1="0.4" pow1="1.2" />
+		</texture>
+		<texture on="1" file="grass_green_d.jpg" fnorm="grass_green_n.jpg" scale="9.43" surf="GrassJungle" dust="0" dustS="0.2" mud="0.4" smoke="0" tclr="0.259 0.871 0.310 0.700 0.000" angMin="8.95631" angMax="42.8155" angSm="13.2599" hMin="15" hMax="400" hSm="4.05846" nOn="0" noise="0.049212" n_1="0" n2="0">
+			<noise frq0="30.2" oct0="3" prs0="0.3" pow0="1.5" frq1="34.5" oct1="3" prs1="0.4" pow1="1.2" />
+		</texture>
+		<texture on="0" file="" fnorm="" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.167 1.000 0.200 1.000 0.000" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
+			<noise frq0="38.2" oct0="3" prs0="0.3" pow0="1.5" frq1="40.5" oct1="3" prs1="0.4" pow1="1.2" />
+		</texture>
+		<texture on="0" file="" fnorm="" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.167 1.000 0.200 1.000 0.000" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
+			<noise frq0="42.2" oct0="3" prs0="0.3" pow0="1.5" frq1="43.5" oct1="3" prs1="0.4" pow1="1.2" />
+		</texture>
+		<texture road="1" surf="roadDesert" dust="0.52506" dustS="0.546539" mud="0" smoke="0" tclr="0.000 0.000 0.700 0.700 0.000" />
+		<texture road="2" surf="roadAdesert" dust="0.417661" dustS="0.570406" mud="0" smoke="0" tclr="0.160 0.500 0.266 0.700 0.000" />
+		<texture road="3" surf="roadForest" dust="0" dustS="0.2" mud="0" smoke="0.188544" tclr="0.083 0.667 0.300 0.700 0.000" />
+		<texture road="4" surf="roadForest" dust="0" dustS="0.2" mud="0.2" smoke="0" tclr="0.119 0.467 0.300 0.800 0.000" />
+		<par dust="DustW" mud="MudDark" smoke="Smoke" />
+	</terrain>
+	<paged densGrass="0.338632" densTrees="1.99802" grPage="100" grDist="100" grDensSmooth="2" trPage="150" trDist="150" trDistImp="600" trRdDist="1">
+		<grass on="1" mtr="grass3g" clr="grClrDesert.png" dens="0.208476" chan="0" minSx="1.18105" maxSx="1.97367" minSy="1.47402" maxSy="2.05259" swayDistr="0.4" swayLen="0.2" swaySpeed="0.5" />
+		<grass on="1" mtr="grassDesert" clr="grClrJungle.png" dens="0.0499699" chan="1" minSx="1.46" maxSx="1.62" minSy="1.13" maxSy="1.31" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
+		<grass on="1" mtr="grass16g" clr="grClrDesert.png" dens="0.0773525" chan="0" minSx="1.62" maxSx="2" minSy="2.2" maxSy="3.16" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
+		<grass on="1" mtr="grass4v" clr="grClrJungle.png" dens="0.00426806" chan="1" minSx="1.82" maxSx="2.8" minSy="1.22" maxSy="2.26" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
+		<grass on="0" mtr="grass15g" clr="grClrJungle.png" dens="0.55694" chan="0" minSx="1.07368" maxSx="1.33784" minSy="0.996847" maxSy="1.53682" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
+		<grass on="0" mtr="grass6g-" clr="grClrJungle.png" dens="0.264331" chan="0" minSx="1.42784" maxSx="2.05259" minSy="1.47402" maxSy="1.97926" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
+		<gchan amin="0" amax="15.9146" asm="4.90256" hmin="18.4232" hmax="300" hsm="8.42408" ns="0" frq="25" oct="3" prs="0.3" pow="1.2" rd="0.565657" />
+		<gchan amin="0" amax="18.1098" asm="5.44389" hmin="8.93617" hmax="53.278" hsm="2.07928" ns="0" frq="52" oct="3" prs="0.3" pow="1.2" rd="0" />
+		<gchan amin="0" amax="30" asm="20" hmin="-100" hmax="100" hsm="20" ns="0" frq="79" oct="3" prs="0.3" pow="1.2" rd="0" />
+		<gchan amin="0" amax="30" asm="20" hmin="-100" hmax="100" hsm="20" ns="0" frq="106" oct="3" prs="0.3" pow="1.2" rd="0" />
+		<layer on="0" name="palm.mesh" dens="0.525446" minScale="0.037508" maxScale="0.303594" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0.246539" windFy="0.022992" maxTerAng="27.0914" minTerH="6" maxTerH="20.7692" maxDepth="1" />
+		<layer on="1" name="tree.07.mesh" dens="0.719572" minScale="0.491193" maxScale="0.953559" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0.699974" windFy="0.00999725" maxTerAng="14.1244" minTerH="20" maxTerH="400" maxDepth="1.5983" />
+		<layer on="0" name="tree.09.mesh" dens="0.654797" minScale="0.586023" maxScale="1.30169" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="14.4" minTerH="31.4595" maxTerH="400" maxDepth="1.57663" />
+		<layer on="0" name="fern.mesh" dens="0.299173" minScale="0.15" maxScale="0.348137" ofsY="0" addTrRdDist="1" maxRdist="8" windFx="7.3" windFy="0.06" maxTerAng="30.92" minTerH="4.21622" maxTerH="100" maxDepth="0" />
+		<layer on="1" name="plant_tropical.mesh" dens="0.172355" minScale="1.51" maxScale="1.89" ofsY="0" addTrRdDist="2" maxRdist="8" windFx="0.06" windFy="0.015" maxTerAng="27.49" minTerH="6.35944" maxTerH="54.7465" maxDepth="0.5" />
+		<layer on="0" name="palm2.mesh" dens="0.297357" minScale="2.42875" maxScale="3.8247" ofsY="0" addTrRdDist="1" maxRdist="100" windFx="0.3" windFy="0.115" maxTerAng="30.03" minTerH="6.16216" maxTerH="15.5676" maxDepth="0" />
+		<layer on="1" name="palm.mesh" dens="0.782656" minScale="1.33457" maxScale="2.33087" ofsY="0" addTrRdDist="1" maxRdist="20" windFx="0.6" windFy="0.01" maxTerAng="26.5602" minTerH="5.83784" maxTerH="53.5135" maxDepth="0" />
+		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
+		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
+		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
+	</paged>
+	<cam pos="-1194.8 253.051 481.804" dir="0.946191 -0.219114 -0.238143" />
+	<objects>
+		<o name="kart_house_c" pos="450.502 32.6473 6.81322" rot="0.989706 -0.143116 0 0" />
+		<o name="kart_house_c" pos="460.32 28.3126 6.93301" rot="0.597969 -0.801517 0 0" />
+		<o name="kart_house_c" pos="438.542 35.1367 7.06269" rot="-0.767317 -0.641269 0 0" />
+		<o name="kart_house_c" pos="471.441 26.8286 7.08284" rot="-0.158119 -0.98742 0 0" />
+		<o name="kart_house_b" pos="811.693 813.016 7.14795" rot="0.240025 -0.970767 0 0" />
+		<o name="kart_house_b" pos="823.85 792.875 7.31374" rot="-0.482314 -0.875997 0 0" />
+		<o name="kart_house_b" pos="846.742 758.247 5.96516" rot="-0.401745 -0.915751 0 0" sc="0.98876 0.98876 0.98876" />
+		<o name="cave_Y04" pos="-184.226 -494.332 15.9402" rot="0 -1 0 0" sc="2.41965 0.631197 2.41965" />
+		<o name="cave_Y04" pos="-188.005 -450.574 17.4856" rot="-0.865139 -0.501532 0 0" sc="2.23679 0.700534 2.23679" />
+		<o name="cave_Y04" pos="-172.926 -494.428 30.0444" rot="-0.212177 -0.97723 0 0" sc="2.50047 3.82915 2.50047" />
+		<o name="cave_Y04" pos="-146.254 -418.641 121.985" rot="-0.235051 -0.969073 -0.0177169 -0.0730434" />
+		<o name="cave_Y04" pos="-337.924 -314.898 43.1901" rot="0 -0.989488 0 -0.144618" sc="1.72884 1.30645 1.72884" />
+		<o name="cave_Y04" pos="-0.729512 163.12 111.879" rot="0.0335403 -0.964154 -0.26319 -0.0025686" sc="2.38935 1.58069 2.38935" />
+		<o name="cave_Y04" pos="-5.38804 204.395 128.064" rot="0.255036 -0.966931 0 0" sc="1.08817 1.08817 1.08817" />
+		<o name="cave_Y04" pos="-337.381 -235.597 84.1582" rot="-0.553848 -0.831149 0.0274125 -0.0411374" />
+		<o name="cave_Y04" pos="-317.166 -218.645 86.1327" rot="-0.952538 -0.258487 0.111438 -0.115913" sc="1.48698 1.48698 1.48698" />
+		<o name="cave_Y04" pos="674.794 869.933 95.092" rot="0.368425 -0.929657 0 0" />
+		<o name="kart_embassy" pos="476.098 67.3524 8.0323" rot="-0.0396148 -0.999215 0 0" />
+		<o name="kart_embassy" pos="444.419 70.7961 8.82481" rot="-0.061715 -0.998094 0 0" />
+		<o name="kart_market" pos="460.297 68.4852 8.10332" rot="0.662035 -0.749473 0 0" />
+		<o name="kart_tower" pos="433.862 54.4673 8.84303" rot="-0.0541582 -0.998532 0 0" sc="1.90745 1.90745 1.90745" />
+		<o name="kart_wall_gate" pos="422.093 63.5647 14.7074" rot="-0.0423827 -0.999102 0 0" sc="1.35755 1.35755 1.35755" />
+		<o name="kart_wall_gate" pos="490.94 54.7418 13.4601" rot="0.00791461 -0.999935 6.53778e-05 -0.00825985" sc="1.54017 1.61717 1.54017" />
+		<o name="kart_wall_gate" pos="391.685 31.4754 13.0095" rot="-0.996878 -0.0620248 -0.0484749 0.0059558" sc="1.20501 1.27379 1.20501" />
+		<o name="kart_wall_gate" pos="520.841 -16.0743 10.8666" rot="-0.423859 -0.905672 0.00375247 -0.00938379" sc="1.55044 1.55044 1.55044" />
+		<o name="kart_house_b" pos="445.61 50.608 7.85168" rot="-0.129259 -0.991611 0 0" />
+		<o name="kart_house_b" pos="431.023 69.5284 8.87204" rot="0 -1 0 0" />
+		<o name="kart_house_b" pos="461.04 49.3209 6.83716" rot="-0.772682 -0.634794 0 0" />
+		<o name="kart_house_b" pos="476.521 46.9846 6.70756" rot="0.99858 -0.0532699 0 0" />
+		<o name="kart_house_b" pos="453.415 83.0716 8.79961" rot="-0.0370156 -0.999315 0 0" />
+		<o name="kart_house_b" pos="471.15 80.8778 8.04932" rot="-0.0340356 -0.999421 0 0" />
+		<o name="kart_farmstead2" pos="406.392 24.7707 8.32882" rot="-0.00763342 -0.999897 -9.24369e-05 0.0121082" />
+		<o name="kart_farmstead2" pos="488.094 19.8866 8.11023" rot="-0.226032 -0.97412 0 0" />
+		<o name="kart_fortress2" pos="508.019 11.0971 7.87582" rot="0.430111 -0.902776 0 0" sc="1.27937 1.27937 1.27937" />
+		<o name="kart_fortress2" pos="415.793 48.87 10.0469" rot="0 -1 0 0" />
+		<o name="kart_house_c" pos="422.721 37.6907 7.84169" rot="0 -1 0 0" />
+		<o name="kart_house_c" pos="410.204 39.5867 8.4298" rot="0 -1 0 0" />
+		<o name="kart_house_c" pos="496.462 -5.95181 6.1916" rot="0.381944 -0.924185 0 0" />
+		<o name="kart_house_c" pos="486.647 4.46387 6.38548" rot="-0.896091 -0.443872 0 0" />
+		<o name="kart_house_c" pos="430.425 21.6947 6.72462" rot="-0.0957623 -0.995404 0 0" />
+		<o name="kart_house_c" pos="852.553 749.586 5.76811" rot="0.341762 -0.939786 0 0" />
+		<o name="kart_house_c" pos="859.694 741.579 5.46212" rot="-0.391504 -0.920176 -0.000234233 -0.000550533" />
+		<o name="kart_house_c" pos="868.484 760.832 4.49655" rot="0.350931 -0.936401 0 0" />
+		<o name="kart_dock2" pos="896.14 760.088 2.47831" rot="-0.979273 -0.202542 0 0" />
+		<o name="kart_tower" pos="840.057 766.493 7.12354" rot="-0.465135 -0.885239 0 0" sc="2.12396 2.12396 2.12396" />
+		<o name="kart_farmstead2" pos="816.819 801.27 8.57825" rot="-0.963593 -0.267372 0 0" />
+		<o name="kart_wall_gate" pos="812.92 828.609 10.7323" rot="0.773997 -0.633189 0 0" sc="1.32019 1.32019 1.32019" />
+		<o name="kart_house_c" pos="834.216 776 6.59908" rot="-0.443057 -0.896493 0 0" />
+		<o name="kart_house_c" pos="829.232 783.867 6.89744" rot="0.317645 -0.948209 0 0" />
+		<o name="cave_Y04" pos="-729.108 -615.735 49.6133" rot="0.231463 -0.972844 0 0" sc="1.37295 0.499356 1.37295" />
+		<o name="cave_Y04" pos="-818.899 -448.873 51.4465" rot="0.284522 -0.95867 0 0" sc="1.53787 0.447887 1.53787" />
+	</objects>
+</scene>
