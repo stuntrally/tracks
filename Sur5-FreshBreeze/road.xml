@@ -1,7 +1,7 @@
 <SplineRoad>
 	<mtr road="roadMoss" pipe="pipeGlassGreen" road2="roadJDark" pipe2="pipeGlassCrystal" road3="roadSnowGrn" pipe3="pipeGlassWhiteV" road4="roadCrystal" pipe4="pipeGlassAlien" wall="road_wall_Alien" pipeW="pipe_wall_Alien" col="road_col_Desert" />
 	<dim tcMul="0.0877977" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="2" widthSteps="6" heightOfs="0.06" />
-	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="903.682" lodPntLen="90.4161" />
+	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="903.682" lodPntLen="90.4161" visDist="1000" visBehind="800" />
 	<geom colN="6" colR="3.515" wsPm="4" lsPm="1" stBox="1 5 13.26" iDir="1" iChk1="11" />
 	<stats length="8380.3" width="13.1218" height="198.251" onTer="54.3196" pipes="39.5661" onPipe="1.5804" bnkAvg="7.64055" bnkMax="61.8023" />
 	<txt desc="Completely surreal space madness. Long winding road on bumpy terrain and in fast halfpipes. Has few obstacles. Includes a hillclimb. Partly on flat ice. Caution: intense colors." />
@@ -20,9 +20,9 @@
 	<P pos="61.4807 0 -338.182" w="12.224" aT="2" col="0" mtr="1" />
 	<P pos="-10.1254 0 -334.909" w="15.976" aT="2" col="0" mtr="-1" chkR="1.972" />
 	<P pos="-101.821 0 -296.261" w="16.864" aT="2" col="0" mtr="3" />
-	<P pos="-165.14 0 -261.798" w="16" a="0" ar="0" aT="2" col="0" mtr="-1" />
-	<P pos="-239.661 -5.94649 -198.302" w="16" onTer="0" a="0" ar="0" aT="2" col="0" pipe="0.3208" mtr="-1" />
-	<P pos="-278.408 0 -150.286" w="16" a="0" ar="0" aT="2" col="0" pipe="0.4048" mtr="-1" />
+	<P pos="-165.14 0 -261.798" w="16" a="0" ar="0" aT="2" col="0" mtr="-1" not="1" />
+	<P pos="-239.661 -5.94649 -198.302" w="16" onTer="0" a="0" ar="0" aT="2" col="0" pipe="0.3208" mtr="-1" not="1" />
+	<P pos="-278.408 0 -150.286" w="16" a="0" ar="0" aT="2" col="0" pipe="0.4048" mtr="-1" not="1" />
 	<P pos="-431.523 11.4038 -18.821" w="20.216" onTer="0" a="0" ar="41.1" aT="2" col="0" pipe="0.348" mtr="3" not="1" />
 	<P pos="-457.418 20.2771 22.2251" w="29.688" onTer="0" a="0" ar="0" aT="2" col="0" pipe="0.496" mtr="3" not="1" chkR="1.448" onP="2" />
 	<P pos="-441.409 14.6542 61.5669" w="18.912" onTer="0" a="0" ar="87.9" aT="2" col="0" pipe="0.452" mtr="-1" not="1" onP="2" />

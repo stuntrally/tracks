@@ -1,12 +1,12 @@
 <scene>
-	<ver num="2440" baseTrk="V9-Craters" secEd="8" />
+	<ver num="2700" baseTrk="V9-Craters" secEd="1460" />
 	<car tires="0" />
-	<start pos="-27.0537 30.6471 0.576401" rot="1.78814e-007 2.41727e-007 -0.711761 0.702429" />
+	<start pos="-27.0537 30.6471 0.576401" rot="1.78814e-07 2.41727e-07 -0.711761 0.702429" />
 	<sound ambient="" reverbs="Desert" />
-	<sky material="sky/offworld_gen" skyYaw="103.37" />
+	<sky material="sky/offworld_gen" rainName="AcidVapor" rainEmit="66" skyYaw="103.37" />
 	<fog color="0.138 0.432 0.637 1.616 0.000" color2="0.198 0.690 0.603 0.738 0.000" linStart="236.233" linEnd="732.828" />
 	<fogH color="0.331 0.382 0.388 0.810 0.000" height="-0" dens="1.57325" linStart="0" linEnd="0.983279" dmg="19.0337" />
-	<light pitch="33.9246" yaw="27" ambient="0.165 0.221 0.200 53024.227 0.000" diffuse="0.229 0.068 1.303 53024.227 0.000" specular="0.163 0.167 1.107 53024.227 0.000" />
+	<light pitch="33.9246" yaw="27" ambient="0.165 0.221 0.200 3.000 0.000" diffuse="0.229 0.068 1.303 3.000 0.000" specular="0.163 0.167 1.107 3.000 0.000" />
 	<fluids>
 		<fluid name="acid green" pos="12.0945 -0.0738795 -27.356" rot="0 0 0" size="634.373 60 615.437" tile="0.01 0.01" />
 	</fluids>
@@ -59,4 +59,13 @@
 	</paged>
 	<cam pos="317.693 126.164 -163.511" dir="-0.849809 -0.360021 0.38498" />
 	<objects />
+	<emitters>
+		<e name="AcidVapor1" pos="60.547 0.904909 -43.3933" sc="31.5135 1 36.5271" up="0 1 0" rot="0" rate="30.2864" st="0" />
+		<e name="AcidVapor2" pos="104.729 -0.697826 -64.9589" sc="33.1057 3.5807 29.9731" up="0 1 0" rot="0" rate="18.7669" st="0" />
+		<e name="AcidVapor1" pos="177.036 -0.224319 -83.079" sc="94.0844 8.89324 113.318" up="0 1 0" rot="0" rate="160.483" st="0" />
+		<e name="AcidVapor1" pos="-109.439 1.35468 -7.99079" sc="302.584 1 322.076" up="0 1 0" rot="0" rate="595.534" st="0" />
+		<e name="AcidVapor2" pos="65.8018 0.54776 136.684" sc="43.4018 1 199.916" up="0 1 0" rot="0" rate="45.0594" st="0" />
+		<e name="AlienGlow" pos="124.627 0.0474091 73.3549" sc="94.7872 1 191.462" up="0 1 0" rot="0" rate="90.8659" st="0" />
+		<e name="AcidVapor2" pos="-2.87381 0.895667 -219.662" sc="490.206 1 164.965" up="0 1 0" rot="0" rate="209.507" st="0" />
+	</emitters>
 </scene>

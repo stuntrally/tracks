@@ -1,9 +1,9 @@
 <SplineRoad>
 	<mtr road="roadAlienD" pipe="pipeGlassAlienGreen" road2="roadAlien" pipe2="pipeGlassAlienLime" road3="roadAlienStone" wall="road_wall_Alien" pipeW="pipe_wall_Alien" col="road_col_Alien" />
 	<dim tcMul="0.0701582" tcW="0.2" tcP="0.10009" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="6" heightOfs="0.1" />
-	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="427.16" lodPntLen="14.8323" />
+	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="427.16" lodPntLen="14.8323" visDist="1000" visBehind="800" />
 	<geom colN="6" colR="2.35514" wsPm="6.01414" lsPm="1" stBox="1 6.712 19.92" iDir="-1" iChk1="47" />
-	<stats length="5840.88" width="12.3796" height="69.376" onTer="33.6655" pipes="32.4681" onPipe="19.9482" bnkAvg="6.15677" bnkMax="40.101" />
+	<stats length="5596.41" width="12.9204" height="69.376" onTer="35.1361" pipes="31.6197" onPipe="18.9764" bnkAvg="6.15676" bnkMax="40.101" />
 	<txt desc="Tricky track inside and around an Alien base. With on-pipe drive (mixer), obstacles, bumps and few fluids including acid." />
 	<P pos="-283.473 0 -117.821" w="13.856" a="0" ar="0" aT="2" chkR="1.188" />
 	<P pos="-306.346 0 -112.504" w="7" aT="2" />

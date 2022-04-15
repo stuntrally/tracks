@@ -1,10 +1,10 @@
 <SplineRoad>
 	<mtr road="roadAdesert" pipe="pipeGlassOrange" road2="roadSandDark" road3="roadSandShore" wall="road_wall_Red" col="road_col_Red" />
 	<dim tcMul="0.1" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="2" widthSteps="6" heightOfs="0.06" />
-	<mrg skirtLen="0.4" skirtH="0.12" merge="1" mergeLen="1200" lodPntLen="80" />
+	<mrg skirtLen="0.4" skirtH="0.12" merge="1" mergeLen="1200" lodPntLen="80" visDist="1000" visBehind="800" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 6.136 24.812" iDir="-1" iChk1="14" />
-	<stats length="1310.66" width="9.79168" height="51.1115" onTer="12.6848" pipes="8.83807" onPipe="8.83807" bnkAvg="17.1681" bnkMax="44.1885" />
-	<txt desc="Easy mars track with banked road and a pipe-bridge." />
+	<stats length="1310.66" width="9.79168" height="51.1115" onTer="12.6848" pipes="8.83807" onPipe="8.83807" bnkAvg="17.168" bnkMax="44.1884" />
+	<txt desc="Easy mars track with banked road and a pipe-bridge. Warning: intense color." />
 	<P pos="61.2337 0 52.2461" w="16.08" a="-19.14" ar="-5.58" aT="2" col="0" />
 	<P pos="101.873 0 50.3292" w="12.224" aT="2" col="0" chkR="1.672" />
 	<P pos="126.502 0 64.2461" w="10.432" aT="2" col="0" />
