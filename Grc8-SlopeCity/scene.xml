@@ -1,35 +1,39 @@
 <scene>
+	<ver num="2700" baseTrk="TestC4-ow" secEd="1143" />
 	<car tires="0" />
 	<start pos="-88.4286 -163.073 0.819972" rot="0.000386685 0.0153651 0.105387 -0.99433" />
 	<sound ambient="" reverbs="Canyon" />
 	<sky material="sky/day_blue2" />
-	<fog color="0.73 0.86 1 1" color2="0.73 0.86 1 1" linStart="297.698" linEnd="1677.17" />
-	<fogH color="0.73 0.86 1 1" height="-300" dens="100" linStart="0" linEnd="400" />
-	<light pitch="60" yaw="-40" ambient="0.45 0.45 0.45" diffuse="0.8 0.8 0.8" specular="0.8 0.8 0.8" />
+	<fog color="0.586 0.270 1.000 1.000 0.000" color2="0.586 0.270 1.000 1.000 0.000" linStart="297.698" linEnd="1677.17" />
+	<fogH color="0.586 0.270 1.000 1.000 0.000" height="-300" dens="100" linStart="0" linEnd="400" />
+	<light pitch="60" yaw="-40" ambient="0.000 0.000 0.450 1.000 0.000" diffuse="0.000 0.000 0.800 1.000 0.000" specular="0.000 0.000 0.800 1.000 0.000" />
 	<fluids>
 		<fluid name="water blue" pos="88.5284 0.320753 62.4935" rot="0 0 0" size="317.493 23.3245 618.743" tile="0.01 0.01" />
 		<fluid name="water moss" pos="-2.05749 100.11 -40.8913" rot="0 0 0" size="60.7756 20 57.8277" tile="0.01 0.01" />
 	</fluids>
 	<terrain size="513" triangle="1.45291" errNorm="5.95">
-		<texture on="1" file="island_sand2w_d.jpg" fnorm="desert_sand2_n.jpg" scale="8.36448" surf="DesertFast" dust="0.6" dustS="0.8" mud="0" smoke="0" tclr="0.52 0.52 0.5 0.7" angMin="0" angMax="27.8289" angSm="6.93696" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
+		<texture on="1" file="island_sand2w_d.jpg" fnorm="desert_sand2_n.jpg" scale="8.36448" surf="DesertFast" dust="0.6" dustS="0.8" mud="0" smoke="0" tclr="0.167 0.038 0.520 0.700 0.000" angMin="0" angMax="27.8289" angSm="6.93696" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
 			<noise frq0="22.2" oct0="3" prs0="0.3" pow0="1.5" frq1="28.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
-		<texture on="1" file="island_sandw_d.jpg" fnorm="desert_sand_n.jpg" scale="9.1346" surf="DesertFast" dust="0.6" dustS="0.8" mud="0" smoke="0" tclr="0.52 0.52 0.5 0.7" angMin="22.8947" angMax="36.1184" angSm="10.8811" hMin="-300" hMax="300" hSm="20" nOn="0" noise="0.589831" n_1="0" n2="0">
+		<texture on="1" file="island_sandw_d.jpg" fnorm="desert_sand_n.jpg" scale="9.1346" surf="DesertFast" dust="0.6" dustS="0.8" mud="0" smoke="0" tclr="0.167 0.038 0.520 0.700 0.000" angMin="22.8947" angMax="36.1184" angSm="10.8811" hMin="-300" hMax="300" hSm="20" nOn="0" noise="0.589831" n_1="0" n2="0">
 			<noise frq0="26.2" oct0="3" prs0="0.3" pow0="1.5" frq1="31.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
-		<texture on="1" file="mntn_white2_d.jpg" fnorm="jungle_stone_n.jpg" scale="46.1309" surf="Rocks" dust="0" dustS="0.2" mud="0" smoke="0" tclr="0.4 0.4 0.4 0.6" angMin="42.4832" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" triplanar="1" noise="1" n_1="0.20678" n2="0">
+		<texture on="1" file="mntn_white2_d.jpg" fnorm="jungle_stone_n.jpg" scale="46.1309" surf="Rocks" dust="0" dustS="0.2" mud="0" smoke="0" tclr="0.000 0.000 0.400 0.600 0.000" angMin="42.4832" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" triplanar="1" noise="1" n_1="0.20678" n2="0">
 			<noise frq0="34.2" oct0="3" prs0="0.3" pow0="1.5" frq1="37.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
-		<texture on="0" file="grass_rocky_d.jpg" fnorm="grass_rocky_n.jpg" scale="4.5" surf="GrassJungle" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.21 0.28 0.12 0.7" angMin="32.8188" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="0.049212" n_1="0" n2="0">
+		<texture on="0" file="grass_rocky_d.jpg" fnorm="grass_rocky_n.jpg" scale="4.5" surf="GrassJungle" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.240 0.571 0.280 0.700 0.000" angMin="32.8188" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="0.049212" n_1="0" n2="0">
 			<noise frq0="30.2" oct0="3" prs0="0.3" pow0="1.5" frq1="34.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
-		<texture on="0" file="" fnorm="" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
+		<texture on="0" file="" fnorm="" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.167 1.000 0.200 1.000 0.000" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
 			<noise frq0="38.2" oct0="3" prs0="0.3" pow0="1.5" frq1="40.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
-		<texture on="0" file="" fnorm="" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
+		<texture on="0" file="" fnorm="" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.167 1.000 0.200 1.000 0.000" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
 			<noise frq0="42.2" oct0="3" prs0="0.3" pow0="1.5" frq1="43.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
-		<texture road="1" surf="roadGravel" dust="0.6" dustS="0.6" mud="0" smoke="0" tclr="0.7 0.7 0.7 0.7" />
+		<texture road="1" surf="roadGravel" dust="0.6" dustS="0.6" mud="0" smoke="0" tclr="0.000 0.000 0.700 0.700 0.000" />
+		<texture road="2" surf="roadJungle" dust="0" dustS="0.2" mud="0" smoke="0" tclr="0.160 0.500 0.200 0.700 0.000" />
+		<texture road="3" surf="roadForest" dust="0" dustS="0.2" mud="0" smoke="0" tclr="0.160 0.500 0.200 0.700 0.000" />
+		<texture road="4" surf="Default" dust="0" dustS="0.2" mud="0" smoke="0" tclr="0.160 0.500 0.200 0.700 0.000" />
 		<par dust="DustW" mud="MudDark" smoke="Smoke" />
 	</terrain>
 	<paged densGrass="0.0686147" densTrees="0.957926" grPage="400" grDist="400" grDensSmooth="2" trPage="400" trDist="400" trDistImp="800" trRdDist="1">
@@ -89,13 +93,13 @@
 		<o name="kart_civic2" pos="-22.9128 -30.5519 102.994" rot="-0.838427 -0.545014 0 0" sc="1.23459 1.23534 1.23459" />
 		<o name="kart_embassy" pos="-7.78418 -0.902268 102.97" rot="-0.14247 -0.989799 0 0" sc="1.25849 1.25849 1.25849" />
 		<o name="kart_farmstead2" pos="-41.1335 -71.1751 70.5476" rot="0.624461 -0.781056 -0.00031971 -0.000399885" sc="1.08939 1.08939 1.08939" />
-		<o name="kart_tophet" pos="47.2421 61.7707 117.603" rot="-0.906085 0.423097 0 0" sc="0.908647 0.896746 0.908647" />
-		<o name="kart_mausoleum" pos="68.2215 76.9495 117.314" rot="-0.344358 -0.938838 -2.43046e-007 6.62626e-007" sc="1.1759 1.17328 1.1759" />
+		<o name="kart_tophet" pos="46.8501 61.43 117.603" rot="-0.999465 -0.0327407 0 0" sc="0.908647 0.896746 0.908647" />
+		<o name="kart_mausoleum" pos="68.2215 76.9495 117.314" rot="-0.344358 -0.938838 -2.43046e-07 6.62626e-07" sc="1.1759 1.17328 1.1759" />
 		<o name="kart_temple2" pos="53.1306 7.45022 102.998" rot="0.293114 -0.956078 -0.000141825 -0.00046643" sc="1.15822 1.37623 1.15822" />
 		<o name="kart_temple" pos="-29.9335 8.97544 101.826" rot="-0.58514 -0.810933 0 0" sc="1.07291 1.01909 1.07291" />
 		<o name="kart_farmstead" pos="-87.4717 43.8924 71.0836" rot="0.531291 -0.847189 0 0" sc="1.01387 1.01387 1.01387" />
 		<o name="kart_storehouse" pos="-54.0482 -16.6903 71.1561" rot="0.0915522 -0.995802 0 0" />
-		<o name="kart_tower" pos="-14.2497 90.1344 117.581" rot="0.908273 -0.418378 -7.35926e-005 -3.38989e-005" sc="1.22247 1.42286 1.22247" />
+		<o name="kart_tower" pos="-14.2497 90.1344 117.581" rot="0.908273 -0.418378 -7.35926e-05 -3.38989e-05" sc="1.22247 1.42286 1.22247" />
 		<o name="kart_fortress" pos="-35.2522 43.904 100.394" rot="0.203442 -0.979086 0 0" sc="1.15852 1.15852 1.15852" />
 		<o name="kart_fortress2" pos="25.7398 14.5302 106.045" rot="0.350411 -0.936596 0 0" sc="1.11293 1.11293 1.11293" />
 		<o name="kart_wall_long" pos="41.7186 77.5907 108.809" rot="0.981106 -0.193467 0 0" sc="1.88656 1.82704 2.53646" />
@@ -105,7 +109,7 @@
 		<o name="kart_farmstead" pos="-58.5643 -78.8509 69.1174" rot="-0.999769 -0.0214785 0 0" sc="1.0913 1.0913 1.0913" />
 		<o name="kart_storehouse" pos="-6.73081 -42.8045 71.261" rot="0.874034 -0.485863 0 0" />
 		<o name="kart_blacksm2" pos="-35.9664 -61.3099 71.592" rot="-0.999301 0.0373797 0 0" />
-		<o name="kart_mausoleum" pos="-51.1349 -92.3782 71.1102" rot="-0.344358 -0.938838 -2.43046e-007 6.62626e-007" sc="1.18505 1.18241 1.18505" />
+		<o name="kart_mausoleum" pos="-51.1349 -92.3782 71.1102" rot="-0.344358 -0.938838 -2.43046e-07 6.62626e-07" sc="1.18505 1.18241 1.18505" />
 		<o name="kart_tower" pos="-52.8365 -49.4696 73.5382" rot="0 -1 0 0" sc="1.18085 1.18085 1.18085" />
 		<o name="kart_tower2" pos="-37.9419 -52.1642 74.6017" rot="0.0196192 -0.999807 0 0" sc="1.01069 1.01069 1.01069" />
 		<o name="kart_wall_gate" pos="30.2418 82.3347 108.771" rot="0.532393 -0.846496 0 0" sc="1.85946 1.86126 1.85946" />
@@ -168,10 +172,19 @@
 		<o name="kart_farmstead2" pos="-66.3477 -113.162 27.1923" rot="0.937099 -0.349066 0 0" sc="1.16723 1.16723 1.16723" />
 		<o name="kart_tower" pos="-131.127 86.4149 73.5058" rot="0.491021 -0.871148 0 0" />
 		<o name="kart_house_b" pos="-46.0682 49.8874 100.237" rot="0.191392 -0.981513 0 0" />
-		<o name="wooden_barrel" pos="-13.8929 -12.2637 103.553" rot="0.000446732 1 -3.93637e-006 -1.66588e-006" />
-		<o name="wooden_barrel" pos="-12.393 -11.0271 103.553" rot="-4.08606e-005 1 9.63223e-006 -1.35522e-005" />
+		<o name="wooden_barrel" pos="-13.8929 -12.2637 103.553" rot="0.000446732 1 -3.93637e-06 -1.66588e-06" />
+		<o name="wooden_barrel" pos="-12.393 -11.0271 103.553" rot="-4.08606e-05 1 9.63223e-06 -1.35522e-05" />
 		<o name="kart_temple2" pos="133.335 97.6076 44.5413" rot="-0.714597 -0.699537 0 0" sc="1.05904 1.05904 1.05904" />
 		<o name="kart_tower2" pos="-25.6068 166.289 57.6519" rot="0.993605 0.112906 0 0" />
 		<o name="kart_storehouse" pos="-37.6305 161.986 57.1194" rot="-0.708453 -0.705759 0 0" />
 	</objects>
+	<emitters>
+		<e name="Cloud1" pos="-108.019 87.8594 -179.928" sc="152.159 12.9804 154.102" up="0 1 0" rot="0" rate="10" st="1" />
+		<e name="FireOrangeTiny" pos="-44.5062 71.2426 90.4443" sc="0.754806 0.289637 0.698591" up="0 1 0" rot="0" rate="15.0278" st="0" />
+		<e name="FireOrangeTiny" pos="98.4097 72.2365 -10.301" sc="0.49677 0.199109 0.467303" up="0 1 0" rot="0" rate="9.77494" st="0" />
+		<e name="FireOrangeTiny" pos="95.2983 72.1402 -0.896451" sc="0.588085 0.325127 0.520865" up="0 1 0" rot="0" rate="15.0278" st="0" />
+		<e name="FireOrangeTiny" pos="-37.1743 71.2459 87.4735" sc="0.873199 0.328318 0.791385" up="0 1 0" rot="0" rate="15.0278" st="0" />
+		<e name="FireOrangeTiny" pos="50.5216 118.093 -58.0586" sc="0.997134 0.325127 0.847246" up="0 1 0" rot="0" rate="15.0278" st="0" />
+		<e name="FireOrangeTiny" pos="50.0486 118.196 -65.2454" sc="0.873199 0.328318 0.791385" up="0 1 0" rot="0" rate="15.0278" st="0" />
+	</emitters>
 </scene>

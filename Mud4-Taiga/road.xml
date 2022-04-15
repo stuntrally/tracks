@@ -1,7 +1,7 @@
 <SplineRoad>
 	<mtr road="roadMud" pipe="pipeGlass" road2="roadAsphalt" pipe2="pipeGlassBlue" road3="roadNdirt" wall="road_wall_Jungle" col="road_col_Dark" />
 	<dim tcMul="0.0639309" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="6" heightOfs="0.07" />
-	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="400" lodPntLen="20" />
+	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="800" lodPntLen="40" visDist="600" visBehind="600" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 8.2639 23.896" iDir="-1" iChk1="113" />
 	<stats length="14124.5" width="10.8329" height="233.037" onTer="35.3548" pipes="10.761" bnkAvg="5.51709" bnkMax="44.7599" />
 	<txt desc="Vast terrain with very long road, having fast straights and few tricky slow parts. Also mud and pipe sections." />

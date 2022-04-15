@@ -4,7 +4,7 @@
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="1002.75" lodPntLen="50" />
 	<geom colN="4" colR="2.51006" wsPm="4.0108" lsPm="1" stBox="1 6.16799 17.3281" iDir="1" iChk1="125" />
 	<stats length="16201.5" width="9.09265" height="78.4779" onTer="81.3366" pipes="9.60952" bnkAvg="10.6025" bnkMax="85.9199" />
-	<txt desc="The ultimately challenging, extremely long track. Mostly on bridges with twists and few pipes. Lots of banked and broad turns. Gray road is slow, yellow is fast." />
+	<txt desc="The ultimately challenging, extremely long track. Spaghetti type road. Mostly on bridges with twists and few pipes. Lots of banked and broad turns. Gray road is slow, yellow is fast." />
 	<P pos="157.838 27.5342 41.6728" w="10.0868" onTer="0" a="0" ar="13.74" aT="2" col="0" />
 	<P pos="178.547 27.5342 52.8614" w="12.2708" onTer="0" a="0" ar="17.28" aT="2" col="0" chkR="1" />
 	<P pos="180.519 27.5342 85.7237" w="8.47883" onTer="0" a="0" ar="9.18" aT="2" col="0" />

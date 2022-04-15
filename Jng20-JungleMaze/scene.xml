@@ -1,34 +1,38 @@
 <scene>
+	<ver num="2700" baseTrk="" secEd="370" />
 	<car tires="0" />
 	<start pos="245.975 189.984 65.7043" rot="0.011972 0.014214 -0.654206 0.756096" />
 	<sound ambient="" reverbs="Mountains" />
 	<sky material="sky/gray_clouds" rainName="RainFastA" rainEmit="195" />
-	<fog color="0.6 0.65 0.7 1" color2="0.47 0.6 0.47 0.9" linStart="151.25" linEnd="800.112" />
-	<fogH color="0.5 0.56 0.6 1" height="35.2538" dens="64.4112" linStart="0" linEnd="74.1125" />
-	<light sceneryId="J14" pitch="43.7404" yaw="30.6868" ambient="0.5 0.5 0.5" diffuse="0.6 0.6 0.6" specular="0.5 0.5 0.5" />
+	<fog color="0.583 0.143 0.700 1.000 0.000" color2="0.333 0.217 0.600 0.900 0.000" linStart="151.25" linEnd="800.112" />
+	<fogH color="0.567 0.167 0.600 1.000 0.000" height="35.2538" dens="64.4112" linStart="0" linEnd="74.1125" />
+	<light pitch="43.7404" yaw="30.6868" ambient="0.000 0.000 0.500 1.000 0.000" diffuse="0.000 0.000 0.600 1.000 0.000" specular="0.000 0.000 0.500 1.000 0.000" />
 	<fluids>
 		<fluid name="water green" pos="-25.4398 63.3156 -27.3054" rot="0 0 0" size="80.7123 20 158.69" tile="0.01 0.01" />
 	</fluids>
 	<terrain size="513" triangle="1.35533" errNorm="15.00">
-		<texture on="1" file="grass_green_d.jpg" fnorm="grass_green_n.jpg" scale="12.3214" surf="GrassJungle" dust="0" dustS="0.2" mud="0.4" smoke="0" tclr="0.16 0.31 0.04 0.7" angMin="0" angMax="13.5616" angSm="9.89247" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1.00674" n_1="0" n2="0">
+		<texture on="1" file="grass_green_d.jpg" fnorm="grass_green_n.jpg" scale="12.3214" surf="GrassJungle" dust="0" dustS="0.2" mud="0.4" smoke="0" tclr="0.259 0.871 0.310 0.700 0.000" angMin="0" angMax="13.5616" angSm="9.89247" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1.00674" n_1="0" n2="0">
 			<noise frq0="22.2" oct0="3" prs0="0.3" pow0="1.5" frq1="28.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
-		<texture on="1" file="grass_rocky_d.jpg" fnorm="grass_rocky_n.jpg" scale="9.34714" surf="DesertBumpy" dust="0" dustS="0.2" mud="0.6" smoke="0" tclr="0.42 0.46 0.08 0.7" angMin="14.9706" angMax="31.3503" angSm="10.054" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1.0027" n_1="0" n2="0">
+		<texture on="1" file="grass_rocky_d.jpg" fnorm="grass_rocky_n.jpg" scale="9.34714" surf="DesertBumpy" dust="0" dustS="0.2" mud="0.6" smoke="0" tclr="0.184 0.826 0.460 0.700 0.000" angMin="14.9706" angMax="31.3503" angSm="10.054" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1.0027" n_1="0" n2="0">
 			<noise frq0="26.2" oct0="3" prs0="0.3" pow0="1.5" frq1="31.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
-		<texture on="1" file="jungle_mntn_d.jpg" fnorm="jungle_mntn_n.jpg" scale="22.0005" surf="Rocks" dust="0" dustS="0.2" mud="0" smoke="0" tclr="0.2 0.2 0.2 0.6" angMin="32.8188" angMax="50.1316" angSm="15.9127" hMin="-300" hMax="300" hSm="20" nOn="0" noise="0.371968" n_1="0" n2="0">
+		<texture on="1" file="jungle_mntn_d.jpg" fnorm="jungle_mntn_n.jpg" scale="22.0005" surf="Rocks" dust="0" dustS="0.2" mud="0" smoke="0" tclr="0.000 0.000 0.200 0.600 0.000" angMin="32.8188" angMax="50.1316" angSm="15.9127" hMin="-300" hMax="300" hSm="20" nOn="0" noise="0.371968" n_1="0" n2="0">
 			<noise frq0="30.2" oct0="3" prs0="0.3" pow0="1.5" frq1="34.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
-		<texture on="1" file="jungle_mntn2_d.jpg" fnorm="jungle_mntn2_n.jpg" scale="34" surf="Rocks" dust="0" dustS="0.2" mud="0" smoke="0" tclr="0.2 0.2 0.2 0.6" angMin="59.4079" angMax="90" angSm="16.5306" hMin="-300" hMax="300" hSm="20" nOn="0" triplanar="1" noise="1" n_1="0" n2="0">
+		<texture on="1" file="jungle_mntn2_d.jpg" fnorm="jungle_mntn2_n.jpg" scale="34" surf="Rocks" dust="0" dustS="0.2" mud="0" smoke="0" tclr="0.000 0.000 0.200 0.600 0.000" angMin="59.4079" angMax="90" angSm="16.5306" hMin="-300" hMax="300" hSm="20" nOn="0" triplanar="1" noise="1" n_1="0" n2="0">
 			<noise frq0="34.2" oct0="3" prs0="0.3" pow0="1.5" frq1="37.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
-		<texture on="0" file="" fnorm="" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
+		<texture on="0" file="" fnorm="" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.167 1.000 0.200 1.000 0.000" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
 			<noise frq0="38.2" oct0="3" prs0="0.3" pow0="1.5" frq1="40.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
-		<texture on="0" file="" fnorm="" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
+		<texture on="0" file="" fnorm="" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.167 1.000 0.200 1.000 0.000" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
 			<noise frq0="42.2" oct0="3" prs0="0.3" pow0="1.5" frq1="43.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
-		<texture road="1" surf="roadJungle" dust="0" dustS="0.2" mud="0.2" smoke="0" tclr="0.4 0.36 0.16 0.8" />
+		<texture road="1" surf="roadJungle" dust="0" dustS="0.2" mud="0.2" smoke="0" tclr="0.139 0.600 0.400 0.800 0.000" />
+		<texture road="2" surf="Default" dust="0" dustS="0.2" mud="0" smoke="0" tclr="0.160 0.500 0.200 0.700 0.000" />
+		<texture road="3" surf="Default" dust="0" dustS="0.2" mud="0" smoke="0" tclr="0.160 0.500 0.200 0.700 0.000" />
+		<texture road="4" surf="Default" dust="0" dustS="0.2" mud="0" smoke="0" tclr="0.160 0.500 0.200 0.700 0.000" />
 		<par dust="Dust" mud="Mud" smoke="Smoke" />
 	</terrain>
 	<paged densGrass="0.2" densTrees="0.4" grPage="100" grDist="80" grDensSmooth="1" trPage="160" trDist="140" trDistImp="800" trRdDist="1">
@@ -55,36 +59,39 @@
 	</paged>
 	<cam pos="18.301 112.003 -332.469" dir="0.310098 -0.279241 0.90877" />
 	<objects>
-		<o name="mayan_temple" pos="44.1973 14.6071 65.0315" rot="0.371041 0.928622 -5.96046e-008 1.03897e-006" sc="0.706134 2.04418 0.706134" />
-		<o name="mayan_temple" pos="48.6434 18.4454 65.6939" rot="-0.674343 0.73842 5.96046e-008 -1.79991e-007" />
-		<o name="mayan_temple" pos="37.5299 57.6474 65.6939" rot="-0.707107 0.707107 5.96046e-008 -5.96046e-008" />
-		<o name="mayan_temple" pos="61.6426 40.9722 70.7011" rot="-0.707107 0.707107 5.96046e-008 -5.96046e-008" sc="1.82715 1.82715 1.82715" />
-		<o name="mayan_temple" pos="49.1725 40.9324 65.6939" rot="-0.707107 0.707107 5.96046e-008 -5.96046e-008" sc="0.888015 0.888015 0.888015" />
-		<o name="mayan_temple" pos="60.2654 56.7392 65.6939" rot="-0.707107 0.707107 5.96046e-008 -5.96046e-008" />
-		<o name="mayan_temple" pos="48.5123 76.1835 65.6939" rot="-0.707107 0.707107 5.96046e-008 -5.96046e-008" sc="1.0399 3.81809 1.0399" />
-		<o name="mayan_temple" pos="50.5194 57.4345 65.6939" rot="-0.374781 0.927117 -6.55651e-007 -9.6821e-007" sc="2.13851 2.13851 2.13851" />
-		<o name="mayan_temple" pos="54.2291 19.2334 65.1897" rot="-0.347471 0.937697 -5.96046e-008 1.74571e-006" sc="1.33207 1.7665 1.33207" />
-		<o name="mayan_temple" pos="13.9304 51.2567 65.6939" rot="-0.38242 0.92399 5.96046e-008 2.97441e-008" />
-		<o name="mayan_temple" pos="13.5652 31.9279 65.6939" rot="-0.383247 0.923648 -5.36442e-007 -4.87544e-008" sc="2.69463 2.69463 2.69463" />
-		<o name="mayan_temple" pos="16.3498 -2.66908 65.6939" rot="0.172777 0.984969 -1.13249e-006 7.86583e-007" sc="1.48403 1.48403 1.48403" />
-		<o name="rock_n4" pos="65.0923 19.8981 70.546" rot="-0.707107 0.707107 5.96046e-008 -5.96046e-008" sc="3.52764 7.58945 3.52764" />
-		<o name="rock_n4" pos="63.0641 29.119 65.6939" rot="-0.707107 0.707107 5.96046e-008 -5.96046e-008" sc="2.60981 2.60981 2.60981" />
-		<o name="rock_n4" pos="73.75 34.6489 65.5253" rot="0.237754 -0.971334 -8.9407e-007 -4.69898e-007" sc="4.06355 2.81314 4.06355" />
+		<o name="mayan_temple" pos="44.1973 14.6071 65.0315" rot="0.371041 0.928622 -5.96046e-08 1.03897e-06" sc="0.706134 2.04418 0.706134" />
+		<o name="mayan_temple" pos="48.6434 18.4454 65.6939" rot="-0.674343 0.73842 5.96046e-08 -1.79991e-07" />
+		<o name="mayan_temple" pos="37.5299 57.6474 65.6939" rot="-0.707107 0.707107 5.96046e-08 -5.96046e-08" />
+		<o name="mayan_temple" pos="61.6426 40.9722 70.7011" rot="-0.707107 0.707107 5.96046e-08 -5.96046e-08" sc="1.82715 1.82715 1.82715" />
+		<o name="mayan_temple" pos="49.1725 40.9324 65.6939" rot="-0.707107 0.707107 5.96046e-08 -5.96046e-08" sc="0.888015 0.888015 0.888015" />
+		<o name="mayan_temple" pos="60.2654 56.7392 65.6939" rot="-0.707107 0.707107 5.96046e-08 -5.96046e-08" />
+		<o name="mayan_temple" pos="48.5123 76.1835 65.6939" rot="-0.707107 0.707107 5.96046e-08 -5.96046e-08" sc="1.0399 3.81809 1.0399" />
+		<o name="mayan_temple" pos="50.5194 57.4345 65.6939" rot="-0.374781 0.927117 -6.55651e-07 -9.6821e-07" sc="2.13851 2.13851 2.13851" />
+		<o name="mayan_temple" pos="54.2291 19.2334 65.1897" rot="-0.347471 0.937697 -5.96046e-08 1.74571e-06" sc="1.33207 1.7665 1.33207" />
+		<o name="mayan_temple" pos="13.9304 51.2567 65.6939" rot="-0.38242 0.92399 5.96046e-08 2.97441e-08" />
+		<o name="mayan_temple" pos="13.5652 31.9279 65.6939" rot="-0.383247 0.923648 -5.36442e-07 -4.87544e-08" sc="2.69463 2.69463 2.69463" />
+		<o name="mayan_temple" pos="16.3498 -2.66908 65.6939" rot="0.172777 0.984969 -1.13249e-06 7.86583e-07" sc="1.48403 1.48403 1.48403" />
+		<o name="rock_n4" pos="65.0923 19.8981 70.546" rot="-0.707107 0.707107 5.96046e-08 -5.96046e-08" sc="3.52764 7.58945 3.52764" />
+		<o name="rock_n4" pos="63.0641 29.119 65.6939" rot="-0.707107 0.707107 5.96046e-08 -5.96046e-08" sc="2.60981 2.60981 2.60981" />
+		<o name="rock_n4" pos="73.75 34.6489 65.5253" rot="0.237754 -0.971334 -8.9407e-07 -4.69898e-07" sc="4.06355 2.81314 4.06355" />
 		<o name="rock_n4" pos="64.3381 45.9904 73.2608" rot="0.0115926 -0.0115926 -0.707015 -0.707015" sc="6.18448 1.30356 6.18448" />
 		<o name="rock_n4" pos="57.1665 43.0761 66.8807" rot="0.211254 0.708912 0.19847 -0.642995" sc="1.27252 1.36819 1.27252" />
-		<o name="rock_n4" pos="72.8183 52.9738 65.6939" rot="-0.691972 0.721926 4.17233e-007 -5.5031e-007" sc="1.75831 4.06533 1.75831" />
+		<o name="rock_n4" pos="72.8183 52.9738 65.6939" rot="-0.691972 0.721926 4.17233e-07 -5.5031e-07" sc="1.75831 4.06533 1.75831" />
 		<o name="rock_n5" pos="55.628 33.8411 70.9033" rot="-0.494671 0.869086 0.00263512 0.00149989" sc="3.15555 1.71799 3.15555" />
-		<o name="mayan_temple" pos="50.5572 6.77789 65.2378" rot="-0.580286 0.814417 -4.17233e-007 1.0399e-007" sc="1.79098 1.79098 1.79098" />
-		<o name="mayan_temple" pos="69.188 56.6206 65.2378" rot="-0.707107 0.707107 5.96046e-008 -5.96046e-008" sc="1 4.0359 1" />
-		<o name="mayan_temple" pos="2.64077 25.5958 65.2378" rot="-0.707107 0.707107 5.96046e-008 -5.96046e-008" sc="1.91235 5.09744 1.91235" />
-		<o name="mayan_temple" pos="2.10492 -8.40539 65.2378" rot="-0.707107 0.707107 5.96046e-008 -5.96046e-008" sc="1.90664 5.09662 1.90664" />
-		<o name="mayan_temple" pos="15.3985 -15.1455 65.2378" rot="-0.581526 0.813542 -1.19209e-006 6.51128e-007" />
-		<o name="mayan_temple" pos="41.4033 -13.8925 65.2378" rot="-0.394248 0.919006 -1.78814e-007 -4.0536e-007" sc="1.3802 1.3802 1.3802" />
-		<o name="mayan_temple" pos="41.8391 1.08165 65.6707" rot="-0.575613 0.81773 -1.19209e-006 -1.17339e-007" sc="1.03301 1.03301 1.03301" />
-		<o name="mayan_temple" pos="45.4364 -10.58 65.2378" rot="-0.504612 0.86335 -5.96046e-008 -1.25146e-007" sc="0.983812 3.40989 0.983812" />
-		<o name="mayan_temple" pos="36.4983 -18.3897 65.2378" rot="-0.815564 0.578678 -7.15256e-007 -1.52395e-008" sc="1 3.22684 1" />
-		<o name="rock_n2" pos="74.9991 42.5638 70.9535" rot="-0.999948 0.0104315 -1.15484e-007 -1.16785e-007" sc="2.42192 1.58158 2.42192" />
-		<o name="rock_n2" pos="81.5707 42.7102 65.2378" rot="-0.15827 0.987397 -1.78814e-007 -2.58442e-007" sc="1.78494 2.79498 1.78494" />
-		<o name="rock_n2" pos="65.2854 36.995 70.4438" rot="-0.707107 0.707107 5.96046e-008 -5.96046e-008" sc="2.92481 1.69156 2.92481" />
+		<o name="mayan_temple" pos="50.5572 6.77789 65.2378" rot="-0.580286 0.814417 -4.17233e-07 1.0399e-07" sc="1.79098 1.79098 1.79098" />
+		<o name="mayan_temple" pos="69.188 56.6206 65.2378" rot="-0.707107 0.707107 5.96046e-08 -5.96046e-08" sc="1 4.0359 1" />
+		<o name="mayan_temple" pos="2.64077 25.5958 65.2378" rot="-0.707107 0.707107 5.96046e-08 -5.96046e-08" sc="1.91235 5.09744 1.91235" />
+		<o name="mayan_temple" pos="2.10492 -8.40539 65.2378" rot="-0.707107 0.707107 5.96046e-08 -5.96046e-08" sc="1.90664 5.09662 1.90664" />
+		<o name="mayan_temple" pos="15.3985 -15.1455 65.2378" rot="-0.581526 0.813542 -1.19209e-06 6.51128e-07" />
+		<o name="mayan_temple" pos="41.4033 -13.8925 65.2378" rot="-0.394248 0.919006 -1.78814e-07 -4.0536e-07" sc="1.3802 1.3802 1.3802" />
+		<o name="mayan_temple" pos="41.8391 1.08165 65.6707" rot="-0.575613 0.81773 -1.19209e-06 -1.17339e-07" sc="1.03301 1.03301 1.03301" />
+		<o name="mayan_temple" pos="45.4364 -10.58 65.2378" rot="-0.504612 0.86335 -5.96046e-08 -1.25146e-07" sc="0.983812 3.40989 0.983812" />
+		<o name="mayan_temple" pos="36.4983 -18.3897 65.2378" rot="-0.815564 0.578678 -7.15256e-07 -1.52395e-08" sc="1 3.22684 1" />
+		<o name="rock_n2" pos="74.9991 42.5638 70.9535" rot="-0.999948 0.0104315 -1.15484e-07 -1.16785e-07" sc="2.42192 1.58158 2.42192" />
+		<o name="rock_n2" pos="81.5707 42.7102 65.2378" rot="-0.15827 0.987397 -1.78814e-07 -2.58442e-07" sc="1.78494 2.79498 1.78494" />
+		<o name="rock_n2" pos="65.2854 36.995 70.4438" rot="-0.707107 0.707107 5.96046e-08 -5.96046e-08" sc="2.92481 1.69156 2.92481" />
 	</objects>
+	<emitters>
+		<e name="Cloud2" pos="-329.277 151.655 -228.045" sc="331.824 23.3706 414.226" up="0 1 0" rot="0" rate="21.473" st="1" />
+	</emitters>
 </scene>

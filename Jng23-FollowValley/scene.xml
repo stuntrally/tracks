@@ -1,5 +1,5 @@
 <scene>
-	<ver num="2600" baseTrk="Jng3-Rocky" secEd="33974" />
+	<ver num="2700" baseTrk="Jng3-Rocky" secEd="34246" />
 	<car tires="0" />
 	<start pos="-103.469 -215.164 30.187" rot="2.98023e-07 1.42661e-07 -0.0901329 0.995934" />
 	<sound ambient="" reverbs="Rocky" />
@@ -71,4 +71,7 @@
 		<o name="wood_block" pos="43.8101 152.932 89.7567" rot="0.239582 0.967481 0.0764169 0.0272214" />
 		<o name="wood_block" pos="289.461 238.97 93.9226" rot="0.0560662 0.976987 0.201735 0.0407063" />
 	</objects>
+	<emitters>
+		<e name="Cloud2" pos="319.16 207.534 -459.588" sc="241.11 36.1455 328.835" up="0 1 0" rot="0" rate="45.4681" st="1" />
+	</emitters>
 </scene>

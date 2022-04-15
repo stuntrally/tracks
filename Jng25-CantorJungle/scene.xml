@@ -1,5 +1,5 @@
 <scene>
-	<ver num="2700" baseTrk="CantorJungle" secEd="57214" />
+	<ver num="2700" baseTrk="CantorJungle" secEd="57403" />
 	<car tires="0" damage="0.599156" road1mtr="0" />
 	<start pos="-683.553 -657.399 -51.224" rot="1.19209e-07 1.76575e-07 -0.918463 -0.395529" />
 	<sound ambient="" reverbs="Rocky" />
@@ -103,5 +103,7 @@
 		<o name="kart_wall_gate" pos="-674.515 -667.869 -47.1755" rot="-0.372109 -0.928189 0 0" sc="1.18498 1.18498 1.18498" />
 		<o name="kart_wall_gate" pos="-690.933 -647.442 -47.553" rot="0.86985 -0.493315 0 0" sc="1.18199 1.18199 1.18199" />
 	</objects>
-	<emitters />
+	<emitters>
+		<e name="Cloud4" pos="596.102 267.723 127.724" sc="265.302 35.9591 324.874" up="0 1 0" rot="0" rate="16.3027" st="1" />
+	</emitters>
 </scene>
