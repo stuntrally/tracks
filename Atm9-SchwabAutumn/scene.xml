@@ -1,0 +1,157 @@
+<scene>
+	<ver num="2700" baseTrk="Jng3-Rocky" secEd="63967" />
+	<car tires="0" damage="0.447257" />
+	<start pos="-96.1665 -64.9089 38.5531" rot="-2.98023e-07 -2.04782e-08 0.810729 0.585429" />
+	<sound ambient="" reverbs="Rocky" />
+	<sky material="sky/day_blue2" skyYaw="-73.5338" />
+	<fog color="0.595 0.196 0.648 0.900 0.000" color2="0.583 0.310 0.800 0.900 0.000" linStart="344.073" linEnd="1420.63" />
+	<fogH color="0.586 0.270 1.000 1.000 0.000" height="-300" dens="120.008" linStart="0" linEnd="400" />
+	<light pitch="60.75" yaw="-40" ambient="0.167 0.207 0.707 3.000 0.000" diffuse="0.167 0.403 0.666 3.000 0.000" specular="0.000 0.240 0.637 3.000 0.000" />
+	<fluids>
+		<fluid name="water white" pos="-267.146 -11.0239 24.726" rot="0 0 0" size="329.292 20 633.659" tile="0.01 0.01" />
+		<fluid name="water white" pos="76.1694 34.9169 -20.6906" rot="0 0 0" size="333.206 17.1672 428.954" tile="0.01 0.01" />
+		<fluid name="water white" pos="302.479 105.575 -338.189" rot="0 0 0" size="325.598 20 265.096" tile="0.01 0.01" />
+		<fluid name="water white" pos="379.079 72.0853 117.95" rot="0 0 0" size="307.818 20 202.343" tile="0.01 0.01" />
+	</fluids>
+	<terrain size="1025" triangle="1" errNorm="15.00">
+		<texture on="1" file="grass_mix_ylw_d.jpg" fnorm="grass_mix_n.jpg" scale="7.81" surf="GrassForest" dust="0" dustS="0.2" mud="0.6" smoke="0" tclr="0.184 0.826 0.460 0.700 0.000" angMin="0" angMax="25.8904" angSm="11.0505" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
+			<noise frq0="61.0482" oct0="4" prs0="0.7" pow0="2.72952" frq1="31.5" oct1="3" prs1="0.4" pow1="1.2" />
+		</texture>
+		<texture on="1" file="mntn_gray_d.jpg" fnorm="mntn_dark_n.jpg" scale="31.19" surf="Rocks" dust="0" dustS="0.2" mud="0.8" smoke="0" tclr="0.167 0.222 0.180 0.700 0.000" angMin="28.7084" angMax="43.5029" angSm="5.06361" hMin="-300" hMax="300" hSm="20" nOn="0" triplanar="1" noise="0" n_1="0" n2="0">
+			<noise frq0="30.2" oct0="3" prs0="0.3" pow0="1.5" frq1="34.5" oct1="3" prs1="0.4" pow1="1.2" />
+		</texture>
+		<texture on="1" file="mntn_dark_d.jpg" fnorm="mntn_dark_n.jpg" scale="27.61" surf="Rocks" dust="0.1" dustS="0.2" mud="0.3" smoke="0" tclr="0.000 0.000 0.250 0.700 0.000" angMin="46.8493" angMax="90" angSm="11.2211" hMin="-300" hMax="300" hSm="20" nOn="0" triplanar="1" noise="1" n_1="0.868293" n2="0">
+			<noise frq0="34.2" oct0="3" prs0="0.3" pow0="1.5" frq1="37.5" oct1="3" prs1="0.4" pow1="1.2" />
+		</texture>
+		<texture on="0" file="" fnorm="" scale="4.5" surf="GrassJungle" dust="0" dustS="0.2" mud="0.4" smoke="0" tclr="0.260 0.889 0.360 0.700 0.000" angMin="0" angMax="22.953" angSm="10.4605" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1.0027" n_1="0" n2="0">
+			<noise frq0="62.6" oct0="3" prs0="0.12" pow0="0.704823" frq1="28.5" oct1="3" prs1="0.4" pow1="1.2" />
+		</texture>
+		<texture on="0" file="" fnorm="" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.167 1.000 0.200 1.000 0.000" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
+			<noise frq0="38.2" oct0="3" prs0="0.3" pow0="1.5" frq1="40.5" oct1="3" prs1="0.4" pow1="1.2" />
+		</texture>
+		<texture on="0" file="" fnorm="" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.167 1.000 0.200 1.000 0.000" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
+			<noise frq0="42.2" oct0="3" prs0="0.3" pow0="1.5" frq1="43.5" oct1="3" prs1="0.4" pow1="1.2" />
+		</texture>
+		<texture road="1" surf="roadJungle" dust="0" dustS="0.2" mud="0.2" smoke="0" tclr="0.139 0.600 0.400 0.800 0.000" />
+		<texture road="2" surf="Asphalt" dust="0" dustS="0.9" mud="0" smoke="0" tclr="0.160 0.500 0.200 0.700 0.000" />
+		<texture road="3" surf="Asphalt" dust="0" dustS="0.9" mud="0" smoke="0" tclr="0.160 0.500 0.200 0.700 0.000" />
+		<texture road="4" surf="Default" dust="0" dustS="0.2" mud="0" smoke="0" tclr="0.160 0.500 0.200 0.700 0.000" />
+		<par dust="Dust" mud="Mud" smoke="Smoke" />
+	</terrain>
+	<paged densGrass="0.333" densTrees="1.23902" grPage="90" grDist="90" grDensSmooth="3" trPage="150" trDist="150" trDistImp="600" trRdDist="1">
+		<grass on="1" mtr="grass12y-" clr="grClrDesert.png" dens="0.25" chan="0" minSx="0.7" maxSx="1.8" minSy="0.7" maxSy="1.3" swayDistr="3" swayLen="0.3" swaySpeed="0.4" />
+		<grass on="1" mtr="grass9r" clr="grClrSmall.png" dens="0.0194865" chan="0" minSx="1.6" maxSx="1.85" minSy="1.6" maxSy="1.9" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
+		<grass on="1" mtr="grass16r" clr="grClrSmall.png" dens="0.0188949" chan="0" minSx="2.6" maxSx="2.85" minSy="2.6" maxSy="2.9" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
+		<grass on="1" mtr="grass2" clr="grClrSmall.png" dens="0.0280516" chan="0" minSx="1.6" maxSx="1.85" minSy="1.6" maxSy="1.9" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
+		<grass on="1" mtr="grass3y" clr="grClrSmall.png" dens="0.107768" chan="0" minSx="1" maxSx="1.6173" minSy="1" maxSy="1.68326" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
+		<grass on="0" mtr="grass18" clr="grClrSmall.png" dens="0.1" chan="0" minSx="1.6" maxSx="2" minSy="1.6" maxSy="2" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
+		<gchan amin="0" amax="15" asm="12" hmin="0" hmax="300" hsm="20" ns="0" frq="25" oct="3" prs="0.3" pow="1.2" rd="0" />
+		<gchan amin="0" amax="30" asm="20" hmin="0" hmax="300" hsm="20" ns="0" frq="31" oct="3" prs="0.3" pow="1.2" rd="0" />
+		<gchan amin="0" amax="30" asm="20" hmin="0" hmax="300" hsm="20" ns="0" frq="37" oct="3" prs="0.3" pow="1.2" rd="0" />
+		<gchan amin="0" amax="30" asm="20" hmin="-100" hmax="100" hsm="20" ns="0" frq="43" oct="3" prs="0.3" pow="1.2" rd="0" />
+		<layer on="1" name="treeAY-20mplWide.mesh" dens="0.219929" minScale="1.59236" maxScale="2.38251" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0.402806" windFy="0.00999974" maxTerAng="15.8179" minTerH="-100" maxTerH="300" maxDepth="5" />
+		<layer on="1" name="treeAYG-16birTallUp.mesh" dens="0.244286" minScale="1.39238" maxScale="2.13755" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0.599999" windFy="0.00999945" maxTerAng="22.1552" minTerH="1" maxTerH="300" maxDepth="5" />
+		<layer on="1" name="treeAYO-18mplTall.mesh" dens="0.296837" minScale="1.37877" maxScale="2.13755" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0.599999" windFy="0.00999945" maxTerAng="18.8534" minTerH="0" maxTerH="300" maxDepth="5" />
+		<layer on="1" name="treeAY-11aspTallMed.mesh" dens="0.158166" minScale="1.62241" maxScale="2.79482" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0.224204" windFy="0.00999974" maxTerAng="21.813" minTerH="10" maxTerH="300" maxDepth="5" />
+		<layer on="1" name="treeAW-14LLHuge7k.mesh" dens="0.346339" minScale="1.83" maxScale="3" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0.247373" windFy="0.01" maxTerAng="19.27" minTerH="10" maxTerH="300" maxDepth="0" />
+		<layer on="0" name="treeAOR-13oakWBig.mesh" dens="0.0635" minScale="1.31207" maxScale="1.97819" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0.699996" windFy="0.00999974" maxTerAng="20.1422" minTerH="10" maxTerH="300" maxDepth="3.45089" />
+		<layer on="1" name="treeG-17birTall.mesh" dens="0.743163" minScale="1.51" maxScale="2.49" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0.18" windFy="0.036" maxTerAng="24.2641" minTerH="10" maxTerH="300" maxDepth="5" />
+		<layer on="0" name="tree68bigUpW.mesh" dens="0.111069" minScale="0.740175" maxScale="1.17759" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0.599999" windFy="0.00999945" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
+		<layer on="0" name="tree69bigUpWb.mesh" dens="0.107768" minScale="1.74292" maxScale="2.855" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0.599999" windFy="0.00999947" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
+		<layer on="0" name="tree70lowMidDn.mesh" dens="0.0886472" minScale="1.20445" maxScale="1.41907" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0.699996" windFy="0.00999974" maxTerAng="50" minTerH="-100" maxTerH="20" maxDepth="5" />
+	</paged>
+	<cam pos="-78.3251 81.7194 -163.732" dir="-0.442663 -0.197814 0.874596" />
+	<objects>
+		<o name="house_2" pos="-97.4069 -21.472 38.9663" rot="0 -1 0 0" />
+		<o name="house_2" pos="-69.0464 -31.6278 39.147" rot="0 -1 0 0" />
+		<o name="house_2" pos="-68.3845 -42.9181 38.9747" rot="-0.999977 0.00682744 0.000766134 -5.65121e-06" />
+		<o name="house_2" pos="-109.154 -23.788 38.5679" rot="-0.999151 0.0411851 0 0" />
+		<o name="house_2" pos="-105.773 -12.5915 39.1744" rot="0.678741 -0.734378 0 0" />
+		<o name="house_2" pos="339.361 -252.589 247.498" rot="0 -1 0 0" />
+		<o name="house_2" pos="346.726 -246.03 247.436" rot="0 -1 0 0" />
+		<o name="house_2" pos="354.824 -240.021 247.52" rot="0 -1 0 0" sc="1 1.014 1" />
+		<o name="house_2" pos="333.121 -260.558 247.33" rot="0 -1 0 0" />
+		<o name="cave_B04" pos="388.972 220.644 169.178" rot="-0.118769 -0.992922 0 0" sc="3.3588 1.44998 3.3588" />
+		<o name="cave_B04" pos="357.295 341.462 161.601" rot="0 -1 0 0" sc="3.69171 1.45878 3.69171" />
+		<o name="cave_W04" pos="416.951 309.441 173.289" rot="0.266796 -0.963754 0 0" sc="3.22379 1.87877 3.22379" />
+		<o name="cave_W04" pos="361.516 277.824 167.292" rot="0 -1 0 0" sc="2.2812 1.08077 2.2812" />
+		<o name="cave_W04" pos="442.59 238.368 176.83" rot="-0.268677 -0.96323 0 0" sc="3.14195 2.06958 3.14195" />
+		<o name="cave_Y04" pos="305.648 391.376 159.058" rot="0 -1 0 0" sc="4.23074 1.33587 4.23074" />
+		<o name="cave_Y04" pos="271.076 303.859 165.099" rot="0 -1 0 0" sc="2.69719 1.45111 2.69719" />
+		<o name="cave_B04" pos="219.54 414.195 158.342" rot="-0.992633 -0.100711 0.067292 0.00287682" sc="3.15823 1.01665 3.15823" />
+		<o name="cave_B04" pos="212.748 338.667 163.478" rot="-0.951987 -0.306138 0.000749623 -0.000241062" sc="2.13653 1.27669 2.13653" />
+		<o name="cave_W04" pos="160.557 407.937 156.996" rot="-0.434802 -0.900526 0 0" sc="4.02673 3.24826 4.02673" />
+		<o name="cave_Y04" pos="109.04 373.295 145.001" rot="0 -1 0 0" sc="2.64349 1.58562 2.64349" />
+		<o name="cave_Y04" pos="-267.504 -322.298 13.4549" rot="0.412844 -0.869756 0.0870805 0.255929" sc="1.46194 0.988427 1.46194" />
+		<o name="cave_Y04" pos="-289.631 -370.32 32.0392" rot="-0.186663 -0.969557 0.0265366 0.15624" sc="2.19631 1.10403 2.19631" />
+		<o name="cave_Y04" pos="285.516 -217.933 195.399" rot="-0.493888 -0.869525 0 0" sc="1.42002 0.999031 1.42002" />
+		<o name="cave_Y04" pos="251.767 -237.696 194.216" rot="-0.604145 -0.796874 0 0" sc="1.50278 0.797834 1.50278" />
+		<o name="cave_Y04" pos="240.031 -225.194 186.6" rot="0.503689 -0.861317 -0.0372888 -0.0551135" sc="1.6292 1.06578 1.6292" />
+		<o name="cave_Y04" pos="201.289 437.876 131.001" rot="0.686722 -0.714538 -0.0925714 -0.0963211" sc="1.94222 1.6701 1.94222" />
+		<o name="rock_n4" pos="-351.135 -240.699 53.8251" rot="0.402396 -0.910151 -0.0187434 -0.0967015" sc="6.13493 6.13493 6.13493" />
+		<o name="windmill" pos="-93.2584 -45.4427 37.9545" rot="-0.693656 -0.720306 0 0" sc="0.928785 0.928785 0.928785" />
+		<o name="windmill" pos="-106.65 -33.727 37.3674" rot="-0.538655 -0.842525 0 0" sc="0.928785 0.928785 0.928785" />
+		<o name="windmill" pos="-88.2346 -62.0059 37.9554" rot="-0.647013 -0.762479 0 0" sc="0.928785 0.928785 0.928785" />
+		<o name="windmill" pos="-104.269 -90.3342 36.2424" rot="-0.77829 -0.627904 -0.000817958 0.000659907" sc="0.928785 0.928785 0.928785" />
+		<o name="windmill" pos="-108.09 62.1516 37.9816" rot="-0.636551 -0.771234 0 0" sc="0.928785 0.928785 0.928785" />
+		<o name="windmill" pos="-136.63 98.9416 38.2159" rot="-0.634229 -0.773145 0 0" sc="0.928785 0.928785 0.928785" />
+		<o name="windmill" pos="-56.6245 97.4468 37.9276" rot="-0.66979 -0.74255 0 0" sc="0.928785 0.928785 0.928785" />
+		<o name="windmill" pos="406.97 -187.7 236.135" rot="-0.907313 -0.420457 0 0" sc="0.928785 0.928785 0.928785" />
+		<o name="windmill" pos="374.052 -242.395 246.572" rot="-0.937521 -0.34793 0 0" sc="0.928785 0.928785 0.928785" />
+		<o name="windmill" pos="390.441 -235.613 246.571" rot="-0.983891 -0.17877 0 0" sc="0.928785 0.928785 0.928785" />
+		<o name="windmill" pos="312.797 -284.677 246.43" rot="-0.905918 -0.423452 0 0" sc="0.928785 0.928785 0.928785" />
+		<o name="windmill" pos="296.398 -308.81 246.064" rot="-0.937312 -0.348492 0 0" sc="0.928785 0.928785 0.928785" />
+		<o name="windmill" pos="358.861 -388.439 246.569" rot="-0.937719 -0.347393 0 0" sc="0.928785 0.928785 0.928785" />
+		<o name="windmill" pos="303.385 -297.274 246.572" rot="-0.925629 -0.378434 0 0" sc="0.928785 0.928785 0.928785" />
+		<o name="windmill" pos="285.714 -338.741 246.096" rot="-0.953837 -0.300327 0 0" sc="0.928785 0.928785 0.928785" />
+		<o name="chapel" pos="344.514 -272.144 246.104" rot="-0.423424 -0.905932 0 0" sc="0.928785 0.928785 0.928785" />
+		<o name="house_2" pos="382.472 -373.585 247.447" rot="-0.426903 -0.904298 0 0" sc="0.928785 0.928785 0.928785" />
+		<o name="house_2" pos="393.307 -366.205 247.614" rot="-0.965442 -0.260618 0 0" sc="0.928785 0.928785 0.928785" />
+		<o name="house_2" pos="405.731 -359.525 247.556" rot="-0.434871 -0.900493 0 0" sc="0.928785 0.928785 0.928785" />
+		<o name="house_2" pos="455.635 -308.23 247.556" rot="-0.0783163 -0.996929 0 0" sc="0.928785 0.928785 0.928785" />
+		<o name="house_2" pos="457.075 -297.007 248.059" rot="-0.737481 -0.675365 0.00146467 -0.0013413" sc="0.928785 0.928785 0.928785" />
+		<o name="house_2" pos="382.431 -322.713 247.778" rot="-0.937734 -0.347355 0 0" sc="0.928785 0.928785 0.928785" />
+		<o name="house_2" pos="389.693 -315.962 247.789" rot="-0.385829 -0.92257 0 0" sc="0.928785 0.928785 0.928785" />
+		<o name="house_2" pos="370.117 -311.191 247.381" rot="-0.366789 -0.930305 0 0" sc="0.928785 0.928785 0.928785" />
+		<o name="house_2" pos="377.909 -305.153 247.145" rot="0.368374 -0.929677 0 0" sc="0.928785 0.928785 0.928785" />
+		<o name="house_2" pos="353.766 -263.898 247.05" rot="0.359246 -0.933243 0 0" sc="0.928785 0.928785 0.928785" />
+		<o name="house_2" pos="361.141 -256.327 247.191" rot="-0.333616 -0.942709 0 0" sc="0.928785 0.928785 0.928785" />
+		<o name="house_2" pos="367.44 -248.282 247.379" rot="0.501956 -0.864893 0 0" sc="0.928785 0.928785 0.928785" />
+		<o name="well" pos="337.687 -275.199 247.29" rot="-0.0323067 -0.999478 0 0" sc="1.21335 1.21335 1.21335" />
+		<o name="house_1" pos="370.905 -379.905 248" rot="0.855123 -0.518426 0 0" sc="0.928785 0.928785 0.928785" />
+		<o name="house_1" pos="344.603 -387.822 248.144" rot="0.155164 -0.987889 0 0" sc="0.928785 0.928785 0.928785" />
+		<o name="house_1" pos="278.722 -374.205 248.844" rot="-0.0323067 -0.999478 0 0" sc="0.928785 0.928785 0.928785" />
+		<o name="house_1" pos="319.813 -374.917 248.263" rot="0.0247206 -0.999694 0 0" sc="0.928785 0.928785 0.928785" />
+		<o name="house_1" pos="450.951 -320.141 248.468" rot="-0.30039 -0.953735 -0.00298067 -0.0121537" sc="0.928785 0.928785 0.928785" />
+		<o name="house_1" pos="420.299 -270.331 248.16" rot="0.167212 -0.985921 0 0" sc="0.928785 0.928785 0.928785" />
+		<o name="house_1" pos="439.98 -269.432 248.42" rot="-0.832201 -0.554475 0 0" sc="0.928785 0.928785 0.928785" />
+		<o name="house_1" pos="336.268 -341.667 248.001" rot="-0.0575273 -0.998344 0 0" sc="0.928785 0.928785 0.928785" />
+		<o name="house_1" pos="412.503 -238.273 248.073" rot="-0.0323067 -0.999478 0 0" sc="0.928785 0.928785 0.928785" />
+		<o name="house_2" pos="-87.408 -74.8128 38.4992" rot="0 -1 0 0" />
+		<o name="house_2" pos="-92.8261 -53.3139 38.5207" rot="0 -1 0 0" />
+		<o name="house_2" pos="-86.6225 -87.3429 38.3939" rot="-0.757094 -0.653306 0 0" />
+		<o name="house_2" pos="-88.4112 -100.087 38.0016" rot="0 -1 0 0" />
+		<o name="house_2" pos="-127.942 98.2924 38.5534" rot="0.707849 -0.706364 0 0" />
+		<o name="house_2" pos="-104.515 81.407 38.502" rot="0 -1 0 0" />
+		<o name="house_2" pos="-110.061 90.2832 38.5425" rot="-0.575995 -0.817453 0 0" />
+		<o name="house_2" pos="-67.6245 97.5885 38.5012" rot="-0.999996 0.00282511 0 0" />
+		<o name="house_2" pos="-105.69 99.5385 38.5026" rot="0 -1 0 0" />
+		<o name="house_3" pos="-94.0396 99.6259 38.5271" rot="0.697267 -0.716811 0 0" />
+		<o name="house_3" pos="-80.4729 98.5194 37.4802" rot="0 -1 0 0" />
+		<o name="house_3" pos="-84.3081 -37.7512 38.3936" rot="0 -1 0 0" />
+		<o name="house_3" pos="-57.4828 -50.5747 38.3617" rot="0 -1 0 0" />
+		<o name="house_3" pos="338.264 -324.97 246.671" rot="-0.066914 -0.997759 0 0" />
+		<o name="house_3" pos="408.433 -297.672 247.103" rot="0.34133 -0.939943 0 0" />
+		<o name="house_3" pos="306.654 -334.421 247.338" rot="-0.154595 -0.98796 -0.000940496 0.00601036" />
+		<o name="house_3" pos="396.202 -285.672 247.172" rot="-0.442977 -0.896533 0 0" />
+		<o name="water_plane_big" pos="233.491 -198.335 207.52" rot="0.845455 -0.46753 0.225877 0.124908" />
+		<o name="concrete_bar" pos="366.886 -233.438 246.384" rot="-0.447396 -0.894335 0 0" />
+		<o name="concrete_bar" pos="369.794 -231.482 246.209" rot="-0.509815 -0.860283 -0.00025151 0.000536442" />
+		<o name="concrete_bar" pos="372.89 -229.873 246.117" rot="-0.527836 -0.849346 0 0" />
+		<o name="concrete_bar" pos="364.271 -235.706 246.485" rot="-0.38284 -0.923815 0 0" />
+		<o name="concrete_bar" pos="376.561 -228.125 246.109" rot="-0.558417 -0.829561 0 0" />
+		<o name="concrete_bar" pos="379.922 -226.876 246.386" rot="-0.572967 -0.819579 0 0" />
+		<o name="house_2" pos="-98.3732 -3.13475 39.0055" rot="0 -1 0 0" />
+	</objects>
+	<emitters />
+</scene>
