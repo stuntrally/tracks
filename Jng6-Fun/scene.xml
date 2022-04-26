@@ -1,5 +1,5 @@
 <scene>
-	<ver num="2600" baseTrk="X3-Cloud" secEd="414" />
+	<ver num="2700" baseTrk="X3-Cloud" secEd="797" />
 	<car tires="0" />
 	<start pos="62.935 -72.9789 -10.572" rot="-0.003875 -0.000770001 -0.999911 0.0193402" />
 	<sound ambient="" reverbs="Forest" />
@@ -58,6 +58,7 @@
 		<layer on="0" name="" dens="0.0999996" minScale="0.0999993" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 	</paged>
-	<cam pos="332.408 94.2283 17.0973" dir="-0.937509 -0.346732 -0.0292396" />
+	<cam pos="332.408 94.2283 17.0973" dir="-0.937508 -0.346732 -0.0292397" />
 	<objects />
+	<emitters />
 </scene>
