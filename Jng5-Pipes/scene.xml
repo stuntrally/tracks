@@ -1,32 +1,36 @@
 <scene>
+	<ver num="2700" baseTrk="X3-Cloud" secEd="136" />
 	<car tires="0" />
-	<start pos="2.41699 -66.5605 -2.13828" rot="-7.10543e-015 2.66454e-015 0.996889 0.0788928" />
+	<start pos="2.41699 -66.5605 -2.13828" rot="-7.10543e-15 2.66454e-15 0.996889 0.0788928" />
 	<sound ambient="" reverbs="Forest" />
 	<sky material="sky/blue_clouds" />
-	<fog color="0.73 0.86 1 1" color2="0.73 0.86 1 1" linStart="241.512" linEnd="702.112" />
-	<fogH color="0.73 0.86 1 1" height="-300" dens="100" linStart="0" linEnd="400" />
-	<light sceneryId="J3" pitch="54.2038" yaw="-123.69" ambient="0.56 0.56 0.56" diffuse="0.75 0.75 0.73" specular="0.6 0.6 0.6" />
+	<fog color="0.586 0.270 1.000 1.000 0.000" color2="0.586 0.270 1.000 1.000 0.000" linStart="241.512" linEnd="702.112" />
+	<fogH color="0.586 0.270 1.000 1.000 0.000" height="-300" dens="100" linStart="0" linEnd="400" />
+	<light pitch="54.2038" yaw="-123.69" ambient="0.000 0.000 0.560 1.000 0.000" diffuse="0.167 0.027 0.750 1.000 0.000" specular="0.000 0.000 0.600 1.000 0.000" />
 	<fluids />
 	<terrain size="129" triangle="4" errNorm="1.70">
-		<texture on="1" file="grass_green2y_d.jpg" fnorm="grass_green2y_n.jpg" scale="8.90945" surf="GrassForest" dust="0" dustS="0.2" mud="0.8" smoke="0" tclr="0.18 0.36 0.04 0.9" angMin="0" angMax="16.7319" angSm="6.80292" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0.978437">
+		<texture on="1" file="grass_green2y_d.jpg" fnorm="grass_green2y_n.jpg" scale="8.90945" surf="GrassForest" dust="0" dustS="0.2" mud="0.8" smoke="0" tclr="0.260 0.889 0.360 0.900 0.000" angMin="0" angMax="16.7319" angSm="6.80292" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0.978437">
 			<noise frq0="34.3" oct0="4" prs0="0.54" pow0="1" frq1="62.6" oct1="3" prs1="0.12" pow1="5.90448" />
 		</texture>
-		<texture on="1" file="ground_leaves_d.jpg" fnorm="ground_leaves_n.jpg" scale="5.62183" surf="GrassJungle" dust="0" dustS="0.2" mud="0.6" smoke="0" tclr="0.32 0.4 0.08 0.7" angMin="16.1842" angMax="30.998" angSm="5.5344" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
+		<texture on="1" file="ground_leaves_d.jpg" fnorm="ground_leaves_n.jpg" scale="5.62183" surf="GrassJungle" dust="0" dustS="0.2" mud="0.6" smoke="0" tclr="0.208 0.800 0.400 0.700 0.000" angMin="16.1842" angMax="30.998" angSm="5.5344" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
 			<noise frq0="26.2" oct0="3" prs0="0.3" pow0="1.5" frq1="31.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
-		<texture on="1" file="mntn_green_d.jpg" fnorm="mntn_green_n.jpg" scale="32" surf="Rocks" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="31.5264" angMax="90" angSm="14.909" hMin="-300" hMax="300" hSm="20" nOn="0" triplanar="1" noise="1" n_1="0" n2="0">
+		<texture on="1" file="mntn_green_d.jpg" fnorm="mntn_green_n.jpg" scale="32" surf="Rocks" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.167 1.000 0.200 1.000 0.000" angMin="31.5264" angMax="90" angSm="14.909" hMin="-300" hMax="300" hSm="20" nOn="0" triplanar="1" noise="1" n_1="0" n2="0">
 			<noise frq0="30.2" oct0="3" prs0="0.3" pow0="1.5" frq1="34.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
-		<texture on="0" file="" fnorm="" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
+		<texture on="0" file="" fnorm="" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.167 1.000 0.200 1.000 0.000" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
 			<noise frq0="34.2" oct0="3" prs0="0.3" pow0="1.5" frq1="37.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
-		<texture on="0" file="" fnorm="" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
+		<texture on="0" file="" fnorm="" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.167 1.000 0.200 1.000 0.000" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
 			<noise frq0="38.2" oct0="3" prs0="0.3" pow0="1.5" frq1="40.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
-		<texture on="0" file="" fnorm="" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
+		<texture on="0" file="" fnorm="" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.167 1.000 0.200 1.000 0.000" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
 			<noise frq0="42.2" oct0="3" prs0="0.3" pow0="1.5" frq1="43.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
-		<texture road="1" surf="roadJungle" dust="0" dustS="1" mud="0" smoke="0" tclr="0.36 0.36 0.36 0.7" />
+		<texture road="1" surf="roadJungle" dust="0" dustS="1" mud="0" smoke="0" tclr="0.000 0.000 0.360 0.700 0.000" />
+		<texture road="2" surf="roadJungle" dust="0" dustS="0.2" mud="0" smoke="0" tclr="0.160 0.500 0.200 0.700 0.000" />
+		<texture road="3" surf="roadJungle" dust="0" dustS="0.2" mud="0" smoke="0" tclr="0.160 0.500 0.200 0.700 0.000" />
+		<texture road="4" surf="roadDesert" dust="0" dustS="0.9" mud="0" smoke="0.357995" tclr="0.160 0.500 0.200 0.700 0.000" />
 		<par dust="Dust" mud="Mud" smoke="Smoke" />
 	</terrain>
 	<paged densGrass="0.1" densTrees="0.2" grPage="90" grDist="90" grDensSmooth="6" trPage="150" trDist="150" trDistImp="800" trRdDist="4">
@@ -53,4 +57,5 @@
 	</paged>
 	<cam pos="60.1206 65.6703 -46.9966" dir="-0.865056 -0.397224 0.306417" />
 	<objects />
+	<emitters />
 </scene>

@@ -1,7 +1,7 @@
 <scene>
-	<ver num="2500" baseTrk="" secEd="303" />
+	<ver num="2700" baseTrk="" secEd="786" />
 	<car tires="0" />
-	<start pos="437.362 121.927 34.913" rot="1.63425e-013 -1e-006 -0.988546 -0.150939" />
+	<start pos="437.362 121.927 34.913" rot="1.63425e-13 -1e-06 -0.988546 -0.150939" />
 	<sound ambient="" reverbs="Unidentified" />
 	<sky material="sky/magic" />
 	<fog color="0.111 0.750 0.400 0.800 0.000" color2="0.417 0.333 0.600 0.800 0.000" linStart="4.5125" linEnd="696.2" />
@@ -57,4 +57,5 @@
 	</paged>
 	<cam pos="455.429 107.765 184.077" dir="-0.893409 -0.211264 -0.396468" />
 	<objects />
+	<emitters />
 </scene>
