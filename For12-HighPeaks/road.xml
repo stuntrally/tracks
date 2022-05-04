@@ -1,9 +1,9 @@
 <SplineRoad>
-	<mtr road="roadJungle" road2="roadSnow" />
+	<mtr river="0" road="roadJungle" road2="roadSnow" />
 	<dim tcMul="0.12" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="6" heightOfs="0.06" />
-	<mrg skirtLen="0" skirtH="0.05" merge="1" mergeLen="1200" lodPntLen="40" visDist="600" visBehind="400" />
+	<mrg loop="1" skirtLen="0" skirtH="0.05" merge="1" mergeLen="1200" lodPntLen="40" visDist="600" visBehind="400" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 7.79601 14.408" iDir="1" iChk1="162" />
-	<stats length="6740.13" width="7.94624" height="283.984" onTer="66.2516" pipes="0" bnkAvg="4.04357" bnkMax="18.9378" />
+	<stats length="6740.18" width="7.94624" height="283.984" onTer="66.2511" pipes="0" bnkAvg="4.07137" bnkMax="18.9378" />
 	<txt desc="Long, winding track in high mountains. Mostly bridged, going from bottom until snowy mountain peaks." />
 	<P pos="172.076 25.0168 -298.649" w="8.144" onTer="0" a="0" ar="0" aT="2" />
 	<P pos="137.814 18.4986 -257.13" w="8.936" onTer="0" a="0" ar="-6.12" aT="2" col="0" />
@@ -178,10 +178,10 @@
 	<P pos="-23.7161 22.6156 311.043" w="9.312" onTer="0" a="0" ar="-16.26" aT="2" col="0" />
 	<P pos="-18.7778 26.9416 334.538" w="8.872" onTer="0" a="0" ar="-15.12" aT="2" col="0" />
 	<P pos="2.18253 31.5606 358.028" w="10.432" onTer="0" a="0" ar="-6.48" aT="2" chkR="1.8" />
-	<P pos="50.3014 38.6922 351.411" w="8.48" onTer="0" a="0" ar="0" aT="2" />
+	<P pos="50.3014 38.6922 351.411" w="8.48" onTer="0" a="0" ar="0" aT="2" col="0" />
 	<P pos="97.9339 44.2679 335.766" w="8.144" onTer="0" a="0" ar="-9.48" aT="2" col="0" />
 	<P pos="127.69 45.7362 307.151" w="9.624" onTer="0" a="0" ar="6.9" aT="2" col="0" chkR="1.884" />
-	<P pos="154.548 41.3233 300.677" w="8.144" onTer="0" a="0" ar="0" aT="2" />
+	<P pos="154.548 41.3233 300.677" w="8.144" onTer="0" a="0" ar="0" aT="2" col="0" />
 	<P pos="186.872 36.1422 298.59" w="8.144" onTer="0" a="0" ar="0" aT="2" col="0" />
 	<P pos="228.276 34.0203 295.029" w="8.144" onTer="0" a="0" ar="0" aT="2" col="0" />
 	<P pos="250.758 29.853 293.749" w="8.144" onTer="0" a="0" ar="0" aT="2" col="0" />

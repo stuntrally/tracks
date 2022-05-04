@@ -1,5 +1,5 @@
 <scene>
-	<ver num="2700" baseTrk="" secEd="805" />
+	<ver num="2700" baseTrk="" secEd="2287" />
 	<car tires="0" />
 	<start pos="44.4858 -105.865 -7.60815" rot="-0.002779 -0.011944 0.226561 -0.973925" />
 	<sound ambient="" reverbs="MountainsClose" />
@@ -64,5 +64,6 @@
 	<emitters>
 		<e name="Cloud1" pos="-214.179 141.636 129.353" sc="258.802 1 176.792" up="0 1 0" rot="0" rate="19.19" st="1" />
 		<e name="Cloud1" pos="-393.585 129.839 -325.258" sc="399.934 1 317.785" up="0 1 0" rot="0" rate="28.0468" st="1" />
+		<e name="Cloud2" pos="399.989 115.788 158.886" sc="273.546 108.461 361.131" up="0 1 0" rot="0" rate="84.7718" st="1" />
 	</emitters>
 </scene>

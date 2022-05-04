@@ -1,5 +1,5 @@
 <scene>
-	<ver num="2700" baseTrk="TestC4-ow" secEd="592" />
+	<ver num="2700" baseTrk="TestC4-ow" secEd="1002" />
 	<car tires="0" noWrongChks="1" />
 	<start pos="-107.733 47.9366 0.726483" rot="5.96046e-08 -8.44179e-08 -0.694863 0.719148" />
 	<sound ambient="" reverbs="Alien" />
@@ -118,6 +118,7 @@
 		<o name="alien_corridor2" pos="156.855 18.9012 -14.7291" rot="0 -0.999921 0 -0.0125803" sc="1.26877 1.34801 1.26877" />
 		<o name="obstacle3" pos="-0.366429 61.6799 33.4955" rot="-0.655555 -0.651054 0.271524 0.269538" sc="2.61559 2.61559 2.61559" />
 		<o name="obstacle1" pos="-325.993 190.662 33.5331" rot="-0.517431 -0.735117 -0.189847 -0.394751" />
+		<o name="satellite3" pos="-287.056 131.398 33.0275" rot="0 -1 0 0" sc="1.28989 1.28989 1.28989" />
 	</objects>
 	<emitters>
 		<e name="AlienGlow" pos="140.71 15.4189 -91.2031" sc="31.1022 3.31801 23.5693" up="0 1 0" rot="0" rate="58.6965" st="0" />
