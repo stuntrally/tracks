@@ -1,5 +1,5 @@
 <scene>
-	<ver num="2700" baseTrk="Grc2-Coast" secEd="44230" />
+	<ver num="2700" baseTrk="Grc2-Coast" secEd="44847" />
 	<car tires="0" road1mtr="0" />
 	<start pos="150.413 329.965 41.4267" rot="-0.0351682 0.0140579 -0.979875 -0.196082" />
 	<sound ambient="" reverbs="Savanna" />
@@ -62,7 +62,7 @@
 		<layer on="0" name="" dens="0.0999996" minScale="0.0999983" maxScale="0.249999" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="30" minTerH="-0.5" maxTerH="100" maxDepth="5" />
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="30" minTerH="-0.5" maxTerH="100" maxDepth="5" />
 	</paged>
-	<cam pos="506.059 209.151 -535.21" dir="-0.550012 -0.407507 0.729212" />
+	<cam pos="506.059 209.151 -535.21" dir="-0.549923 -0.407441 0.729094" />
 	<objects>
 		<o name="balloon2cl" pos="-357.992 3.77399 -11.4488" rot="0.78393 -0.60479 -0.0135446 0.139641" sc="3.09355 1.73563 3.09355" />
 		<o name="balloon2cl" pos="-210.48 -13.6113 -8.80943" rot="-0.694297 -0.576111 0.0548917 -0.427827" sc="3.21518 3.21518 3.21518" />

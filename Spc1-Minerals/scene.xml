@@ -1,7 +1,7 @@
 <scene>
-	<ver num="2401" baseTrk="W13-MtFog" />
+	<ver num="2700" baseTrk="W13-MtFog" secEd="838" />
 	<car tires="1" damage="0.60355" gravity="7.6" />
-	<start pos="245.509 -84.1783 4.65402" rot="-5.44649e-007 7.86032e-007 1.00005 0.000675445" />
+	<start pos="245.509 -84.1783 4.65402" rot="-5.44649e-07 7.86032e-07 1.00005 0.000675445" />
 	<sound ambient="" reverbs="Space" />
 	<sky material="sky/magic" skyYaw="-152.86" />
 	<fog color="0.500 0.171 0.353 1.000 0.000" color2="0.558 0.510 0.383 1.000 0.000" linStart="287.521" linEnd="1557.55" />
@@ -55,7 +55,7 @@
 		<layer on="1" name="crystal1.mesh" dens="0.670402" minScale="1.83329" maxScale="1.96562" ofsY="0" addTrRdDist="4" maxRdist="100" windFx="0" windFy="0" maxTerAng="38.5008" minTerH="-31.5" maxTerH="-31" maxDepth="5" />
 		<layer on="0" name="crystal_cube4.mesh" dens="0.00791426" minScale="1.10226" maxScale="2.30339" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="10.7711" minTerH="0" maxTerH="27.5676" maxDepth="5" />
 	</paged>
-	<cam pos="577.833 245.375 -20.4326" dir="-0.89966 -0.436645 0.000621319" />
+	<cam pos="577.833 245.375 -20.4326" dir="-0.899639 -0.436635 0.000621438" />
 	<objects>
 		<o name="alien_base1" pos="17.795 131.667 -8.29991" rot="-0.000115966 -1 0 0" sc="0.933104 0.933104 0.933104" />
 		<o name="alien_base10" pos="135.611 84.2993 -7.98372" rot="0 -1 0 0" />
@@ -124,12 +124,16 @@
 		<o name="alien_ufo_stand" pos="21.1803 -215.228 -0.140076" rot="0 -1 0 0" />
 		<o name="skyscraper2" pos="267.69 -220.145 3.84561" rot="-0.362804 -0.931866 0 0" sc="1.33163 1.33163 1.33163" />
 		<o name="alien_corridor_end" pos="217.621 -199.917 4.05359" rot="-1 0.00158528 0 0" />
-		<o name="alien_corridor_end" pos="218.307 -102.323 3.12271" rot="0.000196682 0.999898 2.84327e-006 -0.0144547" sc="0.950955 0.950955 0.950955" />
+		<o name="alien_corridor_end" pos="218.307 -102.323 3.12271" rot="0.000196682 0.999898 2.84327e-06 -0.0144547" sc="0.950955 0.950955 0.950955" />
 		<o name="alien_base3" pos="224.792 102.637 -0.148022" rot="0 -1 0 0" />
 		<o name="alien_corridor_end" pos="170.516 226.93 5.89462" rot="-0.709453 -0.704753 0 0" sc="0.891054 0.891054 0.891054" />
 		<o name="cave_Y05" pos="25.0488 -172.562 -11.8771" rot="0.393924 0.46401 -0.484432 0.628359" sc="0.589409 0.361179 0.589409" />
 		<o name="cave_Y05" pos="267.869 274.569 -27.4768" rot="0.680405 0.504739 -0.289409 0.445565" />
 		<o name="cave_Y05" pos="283.677 189.543 -29.6446" rot="0.535423 -0.34757 0.564415 0.523403" sc="0.742377 0.742377 0.742377" />
 		<o name="alien_base1" pos="147.342 119.286 -8.11934" rot="-0.705282 0.708926 0 0" sc="0.540752 0.540752 0.540752" />
+		<o name="satellite1" pos="145.065 180.283 53.5249" rot="-0.513185 -0.858278 0 0" sc="1.56641 1.56641 1.56641" />
+		<o name="satellite2" pos="-130.541 -217.346 12.134" rot="0.450749 -0.89265 0 0" />
+		<o name="satellite3" pos="-265.729 59.4513 38.3109" rot="-0.400545 -0.916275 0 0" sc="1.94377 1.94377 1.94377" />
 	</objects>
+	<emitters />
 </scene>
