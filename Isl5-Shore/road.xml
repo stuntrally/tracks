@@ -1,9 +1,9 @@
 <SplineRoad>
-	<mtr road="roadSandShore" pipe="pipeAsphalt" road2="roadSand" road3="roadStone" road4="roadJDarkD" />
+	<mtr river="0" road="roadSandShore" pipe="pipeAsphalt" road2="roadSand" road3="roadStone" road4="roadJDarkD" />
 	<dim tcMul="0.1" tcW="0.1" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="2" widthSteps="6" heightOfs="0.06" />
-	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
+	<mrg loop="1" skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" visDist="1000" visBehind="800" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 4.76 12.7284" iDir="-1" iChk1="25" />
-	<stats length="2059.97" width="7.04152" height="68.7805" onTer="0" pipes="0" bnkAvg="6.63186" bnkMax="36.4174" />
+	<stats length="2059.97" width="7.04152" height="68.7805" onTer="0" pipes="0" bnkAvg="6.63187" bnkMax="36.4175" />
 	<txt desc="A track on island&apos;s shore, in strange coloured overcast sky. Beware of the sharp hairpin turns and high slopes." />
 	<P pos="111.784 0 -108.607" w="8.008" aT="2" chkR="1.8" />
 	<P pos="156.061 0 -98.4775" w="8.008" aT="2" />

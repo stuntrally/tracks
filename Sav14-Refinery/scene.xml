@@ -1,5 +1,5 @@
 <scene>
-	<ver num="2500" baseTrk="" secEd="109" />
+	<ver num="2700" baseTrk="" secEd="2307" />
 	<car tires="0" damage="0.3" />
 	<start pos="120.964 3.01874 0.564935" rot="0.00699 0.00688 0.712691 -0.70144" />
 	<sound ambient="" reverbs="Forest" />
@@ -7,7 +7,12 @@
 	<fog color="0.083 0.143 0.700 1.000 0.000" color2="0.083 0.143 0.700 1.000 0.000" linStart="208.012" linEnd="924.8" />
 	<fogH color="0.111 0.333 0.450 1.000 0.000" height="1" dens="5.78" linStart="0" linEnd="0.8" />
 	<light pitch="45" yaw="-8.10001" ambient="0.000 0.167 0.600 1.000 0.000" diffuse="0.167 0.143 0.700 1.000 0.000" specular="0.000 0.000 0.700 1.000 0.000" />
-	<fluids />
+	<fluids>
+		<fluid name="mud easy soft" pos="-17.2888 -4.43601 86.2427" rot="0 0 0" size="21.5143 1.49071 40.2628" tile="0.01 0.01" />
+		<fluid name="water shore" pos="-42.0518 25.2369 186.317" rot="0 0 0" size="16.6461 4.06352 15.062" tile="0.01 0.01" />
+		<fluid name="water white" pos="180.472 -0.287753 170.983" rot="0 0 0" size="22.8458 5.72711 37.4059" tile="0.01 0.01" />
+		<fluid name="water shore" pos="-44.1721 19.8524 135.412" rot="0 0 0" size="20.9244 5.72107 22.2621" tile="0.01 0.01" />
+	</fluids>
 	<terrain size="513" triangle="1.53374" errNorm="5.00">
 		<texture on="1" file="mntn_yellow_d.jpg" fnorm="jungle_stone_n.jpg" scale="20.0093" surf="Rocks" dust="0.3" dustS="0.2" mud="0.5" smoke="0" tclr="0.000 0.000 0.320 0.400 0.000" angMin="0" angMax="21.1184" angSm="40.2159" hMin="-5.25114" hMax="300" hSm="20" nOn="0" triplanar="1" noise="0.998652" n_1="0" n2="1">
 			<noise frq0="26.2" oct0="3" prs0="0.3" pow0="0.917656" frq1="11.5529" oct1="5" prs1="0.7" pow1="6.19527" />
@@ -57,4 +62,5 @@
 	</paged>
 	<cam pos="290.05 114.596 -149.264" dir="-0.641431 -0.283594 0.71284" />
 	<objects />
+	<emitters />
 </scene>

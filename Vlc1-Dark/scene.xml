@@ -1,5 +1,5 @@
 <scene>
-	<ver num="2700" baseTrk="Uni6-Wild" secEd="18" />
+	<ver num="2700" baseTrk="Uni6-Wild" secEd="343" />
 	<car tires="0" />
 	<start pos="179.332 -40.8464 0.650158" rot="0.019095 0.003621 0.745096 -0.666697" />
 	<sound ambient="" reverbs="Islands" />
@@ -58,6 +58,10 @@
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="30" minTerH="-100" maxTerH="100" maxDepth="5" />
 	</paged>
 	<cam pos="201.052 8.23461 14.0615" dir="-0.764754 -0.0776748 0.639624" />
-	<objects />
-	<emitters />
+	<objects>
+		<o name="ptol_lighthouse" pos="273.828 -68.3767 19.7925" rot="0.140299 -0.990098 -0.00169566 -0.00428578" sc="1.29808 1.29808 1.29808" />
+	</objects>
+	<emitters>
+		<e name="FireOrangeTiny" pos="273.574 41.73 68.4792" sc="0.0091589 0.00888229 0.00907824" up="0 1 0" rot="0" rate="14.9281" st="0" />
+	</emitters>
 </scene>
