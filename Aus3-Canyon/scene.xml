@@ -1,34 +1,38 @@
 <scene>
+	<ver num="2700" baseTrk="" secEd="3614" />
 	<car tires="0" />
-	<start pos="300.429 131.681 29.6661" rot="3.55271e-015 3.55271e-015 -0.914417 0.404777" />
+	<start pos="300.429 131.681 29.6661" rot="3.55271e-15 3.55271e-15 -0.914417 0.404777" />
 	<sound ambient="" reverbs="Canyon" />
 	<sky material="sky/morning2_gen" skyYaw="-22.1053" />
-	<fog color="0.73 0.86 1 1" color2="0.73 0.86 1 1" linStart="799.999" linEnd="1600" />
-	<fogH color="0.5 0.7 0.6 1" height="-67.4962" dens="15.9612" linStart="0" linEnd="208.012" />
-	<light pitch="36.9925" yaw="8" ambient="0.5 0.5 0.5" diffuse="0.95 0.95 0.94" specular="0.99 0.99 0.97" />
+	<fog color="0.586 0.270 1.000 1.000 0.000" color2="0.586 0.270 1.000 1.000 0.000" linStart="799.999" linEnd="1600" />
+	<fogH color="0.417 0.286 0.700 1.000 0.000" height="-67.4962" dens="15.9612" linStart="0" linEnd="208.012" />
+	<light pitch="36.9925" yaw="8" ambient="0.000 0.000 0.500 1.000 0.000" diffuse="0.167 0.011 0.950 1.000 0.000" specular="0.167 0.020 0.990 1.000 0.000" />
 	<fluids>
 		<fluid name="water cyan" pos="-250 -74.5 -50" rot="0 0 0" size="200 40 300" tile="0.01 0.01" />
 	</fluids>
 	<terrain size="1025" triangle="0.943622" errNorm="15.00">
-		<texture on="1" file="adesert_sand2_d.jpg" fnorm="desert_sand2_n.jpg" scale="8.84677" surf="DesertFast" dust="0.7" dustS="1" mud="0.4" smoke="0" tclr="0.46 0.26 0.08 0.7" angMin="0" angMax="13.5616" angSm="5.41474" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
+		<texture on="1" file="adesert_sand2_d.jpg" fnorm="desert_sand2_n.jpg" scale="8.84677" surf="DesertFast" dust="0.7" dustS="1" mud="0.4" smoke="0" tclr="0.079 0.826 0.460 0.700 0.000" angMin="0" angMax="13.5616" angSm="5.41474" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
 			<noise frq0="9.46889" oct0="4" prs0="0.7" pow0="5.02731" frq1="28.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
-		<texture on="1" file="adesert_mntn_d.jpg" fnorm="desert_mntn_n.jpg" scale="40.0927" surf="DesertFast" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="42.7984" angMax="90" angSm="15.3066" hMin="-300" hMax="300" hSm="20" nOn="0" triplanar="1" noise="0" n_1="1" n2="0">
+		<texture on="1" file="adesert_mntn_d.jpg" fnorm="desert_mntn_n.jpg" scale="40.0927" surf="DesertFast" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.167 1.000 0.200 1.000 0.000" angMin="42.7984" angMax="90" angSm="15.3066" hMin="-300" hMax="300" hSm="20" nOn="0" triplanar="1" noise="0" n_1="1" n2="0">
 			<noise frq0="51.9794" oct0="3" prs0="0.3" pow0="1.5" frq1="34.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
-		<texture on="1" file="adesert_cracks_d.jpg" fnorm="desert_cracks_n.jpg" scale="10.5" surf="DesertFast" dust="0.6" dustS="1" mud="0.5" smoke="0" tclr="0.48 0.3 0.2 0.8" angMin="13.5616" angMax="27.1233" angSm="4.29007" hMin="-300" hMax="300" hSm="20" nOn="1" noise="0" n_1="0" n2="0">
+		<texture on="1" file="adesert_cracks_d.jpg" fnorm="desert_cracks_n.jpg" scale="10.5" surf="DesertFast" dust="0.6" dustS="1" mud="0.5" smoke="0" tclr="0.060 0.583 0.480 0.800 0.000" angMin="13.5616" angMax="27.1233" angSm="4.29007" hMin="-300" hMax="300" hSm="20" nOn="1" noise="0" n_1="0" n2="0">
 			<noise frq0="21.255" oct0="5" prs0="0.626027" pow0="6.16854" frq1="31.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
-		<texture on="1" file="adesert_stone_d.jpg" fnorm="adesert_stone_n.jpg" scale="14.1" surf="DesertFast" dust="0.5" dustS="1" mud="0.7" smoke="0" tclr="0.25 0.1 0.08 0.8" angMin="14.09" angMax="42.0939" angSm="2.19964" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="1" n2="0">
+		<texture on="1" file="adesert_stone_d.jpg" fnorm="adesert_stone_n.jpg" scale="14.1" surf="DesertFast" dust="0.5" dustS="1" mud="0.7" smoke="0" tclr="0.020 0.680 0.250 0.800 0.000" angMin="14.09" angMax="42.0939" angSm="2.19964" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="1" n2="0">
 			<noise frq0="34.2" oct0="3" prs0="0.3" pow0="1.5" frq1="37.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
-		<texture on="0" file="" fnorm="" scale="10.4" surf="Default" dust="0.5" dustS="1" mud="0.5" smoke="0" tclr="0.42 0.26 0.08 0.8" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
+		<texture on="0" file="" fnorm="" scale="10.4" surf="Default" dust="0.5" dustS="1" mud="0.5" smoke="0" tclr="0.088 0.810 0.420 0.800 0.000" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
 			<noise frq0="38.2" oct0="3" prs0="0.3" pow0="1.5" frq1="40.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
-		<texture on="0" file="" fnorm="" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
+		<texture on="0" file="" fnorm="" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.167 1.000 0.200 1.000 0.000" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
 			<noise frq0="42.2" oct0="3" prs0="0.3" pow0="1.5" frq1="43.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
-		<texture road="1" surf="roadAdesert" dust="0.6" dustS="0.8" mud="0" smoke="0" tclr="0.54 0.3 0.22 0.7" />
+		<texture road="1" surf="roadAdesert" dust="0.6" dustS="0.8" mud="0" smoke="0" tclr="0.042 0.593 0.540 0.700 0.000" />
+		<texture road="2" surf="Default" dust="0" dustS="0.2" mud="0" smoke="0" tclr="0.160 0.500 0.200 0.700 0.000" />
+		<texture road="3" surf="Default" dust="0" dustS="0.2" mud="0" smoke="0" tclr="0.160 0.500 0.200 0.700 0.000" />
+		<texture road="4" surf="Default" dust="0" dustS="0.2" mud="0" smoke="0" tclr="0.160 0.500 0.200 0.700 0.000" />
 		<par dust="Adust" mud="Mud" smoke="Smoke" />
 	</terrain>
 	<paged densGrass="0.05" densTrees="0.5" grPage="80" grDist="80" grDensSmooth="3" trPage="200" trDist="200" trDistImp="600" trRdDist="3">
@@ -59,8 +63,14 @@
 		<o name="crate_1" pos="-404.872 -50.5292 -39.501" rot="0.0749347 0.996616 -0.0275987 0.0194786" />
 		<o name="crate_1" pos="-348.215 -133.829 -33.1653" rot="-0.0299015 0.998725 -0.0406731 0.000603128" />
 		<o name="fuel_can" pos="-353.301 -131.798 -33.1396" rot="-0.00186142 0.99938 -0.0348435 -0.00480558" />
-		<o name="fuel_can" pos="-372.61 19.2265 -42.8495" rot="-0.000223555 1 -5.43154e-005 -2.74851e-005" />
+		<o name="fuel_can" pos="-372.61 19.2265 -42.8495" rot="-0.000223555 1 -5.43154e-05 -2.74851e-05" />
 		<o name="fuel_can" pos="-211.948 179.982 -62.6576" rot="-0.0178101 0.999744 -0.0135923 0.00306091" />
 		<o name="wood_block" pos="-71.2928 271.044 -20.4095" rot="-0.113462 0.993542 -0.000297097 -0.000698101" />
+		<o name="ptol_storehouse" pos="374.131 374.915 71.4973" rot="-0.357912 -0.933756 0 0" />
+		<o name="ptol_house_f" pos="358.639 374.893 71.4798" rot="-0.892924 -0.450207 0 0" />
+		<o name="pers_corral" pos="87.5524 -148.677 27.6799" rot="-0.116783 -0.993156 -0.000109552 5.02338e-05" />
+		<o name="pers_house5" pos="419.688 85.0388 28.1698" rot="-0.0992754 -0.995058 -0.00011042 4.82967e-05" />
+		<o name="pers_house1" pos="333.5 -73.0389 28.4667" rot="0.568587 -0.822622 -0.000115422 -3.46835e-05" />
 	</objects>
+	<emitters />
 </scene>
