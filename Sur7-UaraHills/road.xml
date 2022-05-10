@@ -3,7 +3,7 @@
 	<dim tcMul="0.0658105" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="8" heightOfs="0.06" />
 	<mrg loop="1" skirtLen="0" skirtH="0.06" merge="1" mergeLen="767.46" lodPntLen="32.6223" visDist="1000" visBehind="800" />
 	<geom colN="6" colR="3.09914" wsPm="4" lsPm="1" stBox="1 5.552 17.656" iDir="1" iChk1="19" />
-	<stats length="3295.24" width="9.06252" height="45.629" onTer="4.91017" pipes="0" bnkAvg="6.83123" bnkMax="31.1503" />
+	<stats length="3294.06" width="9.06216" height="45.629" onTer="4.91194" pipes="0" bnkAvg="7.30991" bnkMax="31.1503" />
 	<txt desc="Uala Hills. Rolling hills grassland receiving some fresh rain." />
 	<P pos="-226.735 0 -162.071" w="9.368" aT="2" />
 	<P pos="-169.143 0 -159.423" w="8.696" aT="2" mtr="1" chkR="1.94" />
@@ -79,7 +79,7 @@
 	<P pos="-190.435 0 74.7757" w="8.4" aT="2" chkR="1.572" />
 	<P pos="-264.802 0 32.3973" w="7.52" aT="2" />
 	<P pos="-321.609 0 -41.7832" w="8.288" aT="2" mtr="2" chkR="1.8" />
-	<P pos="-314.86 0 -100.374" w="9.504" a="0" ar="-3.24" aT="2" />
+	<P pos="-314.86 0 -100.374" w="9.504" a="0" ar="0.722999" aT="2" />
 	<P pos="-291.468 21.6517 -133.339" w="10.128" onTer="0" a="0" ar="15.06" aT="2" mtr="-1" />
 	<P pos="-283.627 28.5192 -140.658" w="10.824" onTer="0" a="0" ar="0" aT="2" mtr="-1" />
 	<P pos="-276.055 20.446 -146.846" w="10.688" onTer="0" a="0" ar="15.9" aT="2" />
