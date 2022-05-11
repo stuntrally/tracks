@@ -1,5 +1,5 @@
 <scene>
-	<ver num="2700" baseTrk="" secEd="1313" />
+	<ver num="2700" baseTrk="" secEd="2219" />
 	<car tires="0" damage="0.247492" />
 	<start pos="133.218 -30.7895 71.8364" rot="-0.0116588 -0.0146992 -0.712893 0.701044" />
 	<sound ambient="" reverbs="Savanna" />
@@ -118,5 +118,7 @@
 		<e name="SmokeGray" pos="-273.446 100.085 -41.8044" sc="2 1 2" up="0 1 0" rot="0" rate="4.48132" st="0" />
 		<e name="Cloud3" pos="-111.973 68.3352 403.287" sc="454.462 128.08 276.427" up="0 1 0" rot="0" rate="59.1589" st="1" />
 		<e name="Cloud3" pos="14.3291 35.1566 -441.699" sc="338.117 42.207 164.66" up="0 1 0" rot="0" rate="32.7265" st="1" />
+		<e name="CraterLava1" pos="114.192 71.5338 -18.5087" sc="4.12549 0.0393038 3.97293" up="0 1 0" rot="0" rate="13.9366" st="0" />
+		<e name="FireYellowRed" pos="-247.913 18.5379 40.0959" sc="103.572 4.31281 39.3982" up="0 1 0" rot="0" rate="77.4555" st="0" />
 	</emitters>
 </scene>
