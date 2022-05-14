@@ -1,5 +1,5 @@
 <scene>
-	<ver num="2700" baseTrk="Isl10-Treasure" secEd="30927" />
+	<ver num="2700" baseTrk="Isl10-Treasure" secEd="33070" />
 	<car tires="0" road1mtr="0" />
 	<start pos="46.6542 158.677 4.89214" rot="0.0048693 -0.0348666 0.999134 0.0223408" />
 	<sound ambient="" reverbs="Forest" />
@@ -30,10 +30,10 @@
 			<noise frq0="42.2" oct0="3" prs0="0.3" pow0="1.5" frq1="43.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
 		<texture road="1" surf="roadGravel" dust="0" dustS="0.2" mud="0" smoke="0" tclr="0.241 0.205 0.440 0.500 0.000" />
-		<texture road="2" surf="Asphalt" dust="0" dustS="0.9" mud="0" smoke="0" tclr="0.000 0.000 0.000 0.000 0.000" />
+		<texture road="2" surf="Asphalt" dust="0" dustS="0.9" mud="0" smoke="0.105691" tclr="0.000 0.000 0.106 0.858 0.000" />
 		<texture road="3" surf="roadAdesert" dust="0.5" dustS="0.6" mud="0" smoke="0" tclr="0.042 0.593 0.540 0.700 0.000" />
 		<texture road="4" surf="roadSnow" dust="0" dustS="0.183771" mud="0" smoke="0" tclr="0.160 0.500 0.200 0.700 0.000" />
-		<par dust="Dust" mud="Mud" smoke="Smoke" />
+		<par dust="Adust" mud="Mud" smoke="Smoke" />
 	</terrain>
 	<paged densGrass="0.2" densTrees="4" grPage="80" grDist="80" grDensSmooth="6" trPage="100" trDist="150" trDistImp="800" trRdDist="0">
 		<grass on="1" mtr="grass3g" clr="grClrSavanna.png" dens="0.287319" chan="0" minSx="1.18105" maxSx="1.53682" minSy="1.47402" maxSy="2.05259" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
