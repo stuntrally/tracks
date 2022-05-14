@@ -1,9 +1,9 @@
 <SplineRoad>
-	<mtr road="roadSand" pipe="pipeAsphalt" road2="roadDesertD" />
+	<mtr river="0" road="roadSand" pipe="pipeAsphalt" road2="roadDesertD" />
 	<dim tcMul="0.0755243" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="2" widthSteps="6" heightOfs="0.06" />
-	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
+	<mrg loop="1" skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" visDist="1000" visBehind="800" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 4.76 15.1924" iDir="-1" iChk1="31" />
-	<stats length="1304.67" width="8.0696" height="7.07425" onTer="0" pipes="0" bnkAvg="8.22598" bnkMax="30.6311" />
+	<stats length="1304.67" width="8.0696" height="7.07427" onTer="0" pipes="0" bnkAvg="8.22598" bnkMax="30.6311" />
 	<txt desc="Small curly island track." />
 	<P pos="-103.748 0 125.872" w="7.72" aT="2" chkR="1.816" />
 	<P pos="-75.5275 0 143.268" w="7.72" aT="2" />
