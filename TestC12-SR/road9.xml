@@ -1,0 +1,14 @@
+<SplineRoad>
+	<mtr river="0" road="roadJungle" road2="roadSavannah" road3="roadMud" road4="roadSnow" />
+	<dim tcMul="0.1" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="8" heightOfs="0.1" />
+	<mrg loop="0" skirtLen="1" skirtH="0.12" merge="1" mergeLen="180" lodPntLen="10" visDist="1000" visBehind="800" />
+	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1.5 5 12" iDir="-1" iChk1="0" />
+	<stats length="62.2669" width="7.03131" height="1.75712" onTer="0" pipes="0" bnkAvg="4.50557" bnkMax="10.9426" />
+	<txt desc="" />
+	<P pos="55.9595 0 129.661" w="7.344" aT="2" />
+	<P pos="53.5215 0 135.681" w="8.2" aT="2" mtr="2" />
+	<P pos="46.2116 0 140.549" w="7.408" aT="2" mtr="2" />
+	<P pos="32.3161 0 141.121" w="6.872" aT="2" />
+	<P pos="19.2725 0 139.97" w="6.144" aT="2" mtr="1" />
+	<P pos="2.79216 0 138.262" w="6.736" aT="2" />
+</SplineRoad>

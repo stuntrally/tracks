@@ -1,0 +1,15 @@
+<SplineRoad>
+	<mtr river="0" road="roadSavannah" road2="roadJungle" road3="roadNgravel" wall="road_wall_Jungle" />
+	<dim tcMul="0.1" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="8" heightOfs="0.1" />
+	<mrg loop="0" skirtLen="1" skirtH="0.12" merge="1" mergeLen="180" lodPntLen="10" visDist="1000" visBehind="800" />
+	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1.5 5 12" iDir="-1" iChk1="0" />
+	<stats length="32.903" width="5.928" height="2.8019" onTer="97.421" pipes="0" bnkAvg="0" bnkMax="0" />
+	<txt desc="" />
+	<P pos="17.1639 0 125.91" w="5.928" a="0.24" ar="0" aT="2" />
+	<P pos="16.8928 1.1991 130.231" w="5.928" onTer="0" a="0.24" ar="0" aT="2" />
+	<P pos="16.3841 2.63796 134.234" w="5.928" onTer="0" a="0.24" ar="0" aT="2" mtr="-1" wall="-1" />
+	<P pos="15.9814 6.94257 139.303" w="5.928" onTer="0" a="0.24" ar="0" aT="2" mtr="-1" />
+	<P pos="15.4177 2.8169 144.689" w="5.928" onTer="0" a="0.24" ar="0" aT="2" />
+	<P pos="15.1225 1.12531 149.576" w="5.928" onTer="0" a="0.24" ar="0" aT="2" />
+	<P pos="14.9163 0 153.871" w="5.928" a="0.24" ar="0" aT="2" />
+</SplineRoad>

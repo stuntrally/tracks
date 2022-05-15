@@ -1,0 +1,21 @@
+<SplineRoad>
+	<mtr river="0" road="roadSavannah" pipe="pipeAsphalt" road2="roadSnowGrn" pipe2="pipeGlass" road3="roadSnow" road4="roadIce" wall="road_wall_Winter" />
+	<dim tcMul="0.1" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="8" heightOfs="0.06" />
+	<mrg loop="0" skirtLen="1" skirtH="0.1" merge="1" mergeLen="300" lodPntLen="20" visDist="1000" visBehind="800" />
+	<geom colN="4" colR="2.4" wsPm="4" lsPm="1" stBox="1 5 11.86" iDir="-1" iChk1="0" />
+	<stats length="66.3772" width="5.5866" height="7.20359" onTer="79.2724" pipes="0" bnkAvg="28.1347" bnkMax="63.36" />
+	<txt desc="Basic stunt elements: loop, side loop, side bridge turn and pipe turn (all 180 degrees)." />
+	<P pos="26.391 0 91.8552" w="6" aT="2" />
+	<P pos="33.5822 0 93.2359" w="5.08" a="75.18" ar="0" aT="0" col="0" mtr="1" />
+	<P pos="41.3645 1.19003 94.7637" w="5.144" onTer="0" a="79.56" ar="15.96" aT="0" col="0" mtr="1" />
+	<P pos="46.3491 2.00103 96.2253" w="5.816" onTer="0" a="58.56" ar="30.9" aT="0" col="0" mtr="1" />
+	<P pos="50.5615 2.99449 99.0768" w="6" onTer="0" a="30.6" ar="52.32" aT="0" col="0" mtr="2" />
+	<P pos="53.7192 3.79667 103.108" w="6" onTer="0" a="8.52" ar="62.58" aT="0" col="0" mtr="2" />
+	<P pos="54.6896 4.43111 107.721" w="6" onTer="0" a="-14.46" ar="63.36" aT="0" col="0" mtr="1" />
+	<P pos="53.1131 4.0565 112.275" w="6" onTer="0" a="-28.02" ar="57.54" aT="0" col="0" mtr="1" />
+	<P pos="50.1125 3.08348 115.467" w="5.2488" onTer="0" a="-42.96" ar="42.12" aT="0" col="0" mtr="1" />
+	<P pos="45.8848 1.7515 117.624" w="5.256" onTer="0" a="-66.06" ar="30.147" aT="0" col="0" mtr="2" />
+	<P pos="41.2345 0.608193 118.502" w="4.992" onTer="0" a="-81.66" ar="10.824" aT="0" col="0" mtr="1" />
+	<P pos="36.3969 0 119.015" w="5.704" a="-93.36" ar="0" aT="0" />
+	<P pos="31.124 0 120.16" w="5.304" aT="2" />
+</SplineRoad>

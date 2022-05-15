@@ -1,0 +1,16 @@
+<SplineRoad>
+	<mtr river="0" pipe="pipeMetalOrn" pipe2="pipeGlassWhiteV" pipe3="pipeGlassViolet" pipe4="pipeGlassYellow" />
+	<dim tcMul="0.1" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="8" heightOfs="0.1" />
+	<mrg loop="0" skirtLen="1" skirtH="0.12" merge="1" mergeLen="180" lodPntLen="10" visDist="1000" visBehind="800" />
+	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1.5 5 12" iDir="-1" iChk1="0" />
+	<stats length="61.7251" width="7.53591" height="8.2" onTer="100" pipes="100" onPipe="100" bnkAvg="0.875237" bnkMax="4.29677" />
+	<txt desc="" />
+	<P pos="58.6756 9.68 51.0676" w="6.664" onTer="0" a="0" ar="0" aT="2" col="0" pipe="0.2104" wall="-1" onP="2" />
+	<P pos="50.0544 9.68 52.3787" w="6.688" onTer="0" a="0" ar="0" aT="2" col="0" pipe="0.74" mtr="3" wall="-1" onP="2" />
+	<P pos="39.2564 9.68 54.5507" w="7.392" onTer="0" a="0" ar="0" aT="2" col="0" pipe="1" mtr="2" wall="-1" onP="2" />
+	<P pos="33.9511 9.68 60.0519" w="8.0156" onTer="0" a="0" ar="0" aT="2" col="0" pipe="1" mtr="2" wall="-1" onP="2" />
+	<P pos="33.1926 9.68 67.6132" w="8.08" onTer="0" a="0" ar="0" aT="2" col="0" pipe="0.8896" mtr="1" wall="-1" onP="2" />
+	<P pos="36.869 9.68 73.9264" w="8.08" onTer="0" a="0" ar="0" aT="2" col="0" pipe="0.8826" mtr="1" wall="-1" onP="2" />
+	<P pos="43.9623 9.68 77.4945" w="8.08" onTer="0" a="0" ar="0" aT="2" col="0" pipe="1" wall="-1" onP="2" />
+	<P pos="53.092 9.68 79.0116" w="8.08" onTer="0" a="0" ar="0" aT="2" col="0" pipe="0.9672" wall="-1" onP="2" />
+</SplineRoad>
