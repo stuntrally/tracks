@@ -1,0 +1,14 @@
+<SplineRoad>
+	<mtr river="0" road="roadSavannah" />
+	<dim tcMul="0.1" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="8" heightOfs="0.1" />
+	<mrg loop="0" skirtLen="1" skirtH="0.12" merge="1" mergeLen="180" lodPntLen="10" visDist="1000" visBehind="800" />
+	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1.5 5 12" iDir="-1" iChk1="0" />
+	<stats length="126.979" width="7" height="6.22971" onTer="0" pipes="0" bnkAvg="1.74978" bnkMax="3.73468" />
+	<txt desc="" />
+	<P pos="9.13043 0 -20.0914" w="7" aT="2" />
+	<P pos="25.427 0 -6.42538" w="7" aT="2" />
+	<P pos="30.6666 0 24.9256" w="7" aT="2" />
+	<P pos="30.2962 0 52.1021" w="7" aT="2" />
+	<P pos="19.1266 0 74.5939" w="7" aT="2" />
+	<P pos="7.49176 0 87.6109" w="7" aT="2" />
+</SplineRoad>

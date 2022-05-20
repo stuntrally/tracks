@@ -1,0 +1,21 @@
+<SplineRoad>
+	<mtr river="0" road="roadSavannah" pipe="pipeGlassCyan" pipe2="pipeGlass" />
+	<dim tcMul="0.1" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="8" heightOfs="0.06" />
+	<mrg loop="0" skirtLen="0.1" skirtH="0.04" merge="1" mergeLen="120" lodPntLen="10" visDist="1000" visBehind="800" />
+	<geom colN="4" colR="2.5" wsPm="4" lsPm="1" stBox="1 5 11.316" iDir="-1" iChk1="10" />
+	<stats length="368.097" width="8.192" height="19.4206" onTer="0" pipes="0" bnkAvg="3.17946" bnkMax="8.60291" />
+	<txt desc="Example of not looped track with road forks. Keep in mind only first road has checkpoints, pacenotes, trail etc." />
+	<P pos="9.00166 0 -198.77" w="8.192" aT="2" />
+	<P pos="9.5234 0 -156.668" w="8.192" aT="2" chkR="1.808" />
+	<P pos="9.47217 0 -102.522" w="8.192" aT="2" />
+	<P pos="8.64755 0 -70.0847" w="8.192" aT="2" />
+	<P pos="7.82047 0 -45.5797" w="8.192" aT="2" />
+	<P pos="7.84344 0 -23.9249" w="8.192" aT="2" chkR="1.54" />
+	<P pos="-4.9796 0 -10.6939" w="8.192" aT="2" />
+	<P pos="-18.7111 0 15.0062" w="8.192" aT="2" />
+	<P pos="-23.4812 0 37.3869" w="8.192" aT="2" />
+	<P pos="-12.3472 0 67.2516" w="8.192" aT="2" />
+	<P pos="6.62808 0 86.3099" w="8.192" aT="2" chkR="1.548" />
+	<P pos="7.93442 0 106.75" w="8.192" aT="2" />
+	<P pos="7.53607 0 141.528" w="8.192" aT="2" />
+</SplineRoad>
