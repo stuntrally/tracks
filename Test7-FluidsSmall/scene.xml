@@ -42,7 +42,7 @@
 	</terrain>
 	<paged densGrass="0.15" densTrees="0.0205212" grPage="100" grDist="100" grDensSmooth="6" trPage="100" trDist="140" trDistImp="800" trRdDist="1">
 		<grass on="1" mtr="grass12y-" clr="grClrForest2.png" dens="0.152178" chan="0" minSx="0.987834" maxSx="1.33757" minSy="1.01089" maxSy="1.42005" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
-		<grass on="0" mtr="gplant1" clr="grClrJungle.png" dens="0.0206984" chan="0" minSx="0.984347" maxSx="1.30854" minSy="0.984347" maxSy="1.14013" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
+		<grass on="0" mtr="grass5" clr="grClrJungle.png" dens="0.0206984" chan="0" minSx="0.984347" maxSx="1.30854" minSy="0.984347" maxSy="1.14013" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
 		<grass on="1" mtr="grass2g" clr="grClrJungle.png" dens="0.032553" chan="0" minSx="1.19326" maxSx="1.46229" minSy="1.13063" maxSy="1.42005" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
 		<grass on="1" mtr="grass3g" clr="grClrForest2.png" dens="0.143275" chan="0" minSx="1.0868" maxSx="1.29403" minSy="0.953799" maxSy="1.25775" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
 		<grass on="0" mtr="grass9r" clr="grClrForest.png" dens="0.0259307" chan="0" minSx="1.60103" maxSx="1.80207" minSy="1.45854" maxSy="1.66664" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
@@ -57,7 +57,7 @@
 		<layer on="0" name="pine2_tall_norm.mesh" dens="0.309788" minScale="0.531241" maxScale="0.806037" ofsY="0" addTrRdDist="5" maxRdist="20" windFx="0.753994" windFy="0.00980816" maxTerAng="26.6205" minTerH="-100" maxTerH="5" maxDepth="0.00168336" />
 		<layer on="1" name="fern.mesh" dens="0.24" minScale="0.12" maxScale="0.2" ofsY="0" addTrRdDist="1" maxRdist="5" windFx="9.3" windFy="0.12" maxTerAng="30.625" minTerH="-100" maxTerH="7" maxDepth="1.21207" />
 		<layer on="1" name="rock_B02.mesh" dens="0.0503957" minScale="0.418596" maxScale="0.893176" ofsY="0" addTrRdDist="4" maxRdist="100" windFx="0" windFy="0" maxTerAng="19.7029" minTerH="-100" maxTerH="8" maxDepth="0.4676" />
-		<layer on="1" name="rock_n3r.mesh" dens="0.0503957" minScale="0.438685" maxScale="0.837035" ofsY="0" addTrRdDist="4" maxRdist="100" windFx="0" windFy="0" maxTerAng="22.0891" minTerH="-100" maxTerH="100" maxDepth="0" />
+		<layer on="0" name="rock_n3r.mesh" dens="0.0503957" minScale="0.438685" maxScale="0.837035" ofsY="0" addTrRdDist="4" maxRdist="100" windFx="0" windFy="0" maxTerAng="22.0891" minTerH="-100" maxTerH="100" maxDepth="0" />
 		<layer on="0" name="treeGG-37acaTall.mesh" dens="0.148919" minScale="0.710594" maxScale="1.11409" ofsY="0" addTrRdDist="3" maxRdist="8" windFx="0.196233" windFy="0.0015175" maxTerAng="22.3626" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />

@@ -33,7 +33,7 @@
 		<grass on="0" mtr="grassAustralia" clr="grClrAustralia.png" dens="0.160593" chan="0" minSx="1.14013" maxSx="1.32315" minSy="0.9" maxSy="1.06066" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
 		<grass on="1" mtr="grass6r" clr="grClrAustralia.png" dens="0.00141438" chan="0" minSx="1.14705" maxSx="1.39749" minSy="1.18105" maxSy="1.50525" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
 		<grass on="0" mtr="grass4v" clr="grClrAustralia.png" dens="0.0258885" chan="0" minSx="2.8008" maxSx="4.1" minSy="2.67491" maxSy="4.1" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
-		<grass on="0" mtr="gplant1" clr="grClrAustralia.png" dens="0.0670477" chan="0" minSx="0.61974" maxSx="1.22788" minSy="0.504062" maxSy="1.17902" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
+		<grass on="0" mtr="grass9r" clr="grClrAustralia.png" dens="0.0670477" chan="0" minSx="0.61974" maxSx="1.22788" minSy="0.504062" maxSy="1.17902" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
 		<grass on="0" mtr="grass19" clr="grClrJungle.png" dens="0.0606702" chan="0" minSx="0.737522" maxSx="1.38244" minSy="1.48959" maxSy="0.853801" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
 		<grass on="0" mtr="grassJungle" clr="grClrJungle.png" dens="0.1" chan="0" minSx="0.6" maxSx="0.85" minSy="0.6" maxSy="0.9" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
 		<gchan amin="0" amax="16" asm="10" hmin="-200" hmax="14" hsm="4" ns="0" frq="25" oct="3" prs="0.3" pow="1.2" rd="0" />
