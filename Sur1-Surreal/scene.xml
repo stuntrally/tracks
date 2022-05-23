@@ -36,7 +36,7 @@
 		<par dust="Adust" mud="Mud" smoke="Smoke" />
 	</terrain>
 	<paged densGrass="0.104264" densTrees="0.571789" grPage="120" grDist="120" grDensSmooth="10" trPage="160" trDist="160" trDistImp="800" trRdDist="2">
-		<grass on="0" mtr="grass19" clr="grClrForest.png" dens="0.0183406" chan="1" minSx="1.4855" maxSx="1.66944" minSy="3.10896" maxSy="3.2758" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
+		<grass on="1" mtr="grassZ14r" clr="grClrWinter.png" dens="0.0093406" chan="1" minSx="2.4855" maxSx="2.66944" minSy="3.10896" maxSy="3.2758" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
 		<grass on="1" mtr="grass15o" clr="grClrWinter.png" dens="0.0315755" chan="2" minSx="3.26421" maxSx="3.84534" minSy="1.49" maxSy="1.88647" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
 		<grass on="1" mtr="grassX10b" clr="grClrSavanna.png" dens="0.0797572" chan="0" minSx="1.59417" maxSx="3.67083" minSy="2.4327" maxSy="3.29903" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
 		<grass on="1" mtr="grass9r" clr="grClrWinter.png" dens="0.1341" chan="0" minSx="1.46096" maxSx="4.1" minSy="2.11757" maxSy="3.53483" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
