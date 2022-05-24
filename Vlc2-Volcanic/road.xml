@@ -5,7 +5,7 @@
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5.56 19.968" iDir="-1" iChk1="114" />
 	<stats length="5833.18" width="7.416" height="55.3883" onTer="14.8415" pipes="0" bnkAvg="3.94143" bnkMax="26.0768" />
 	<txt desc="Dark terrain from volcanic rock with few islands in water." />
-	<adv ice="Quite bumpy, except bridges. Has few drives through water in middle." />
+	<adv ice="Quite bumpy, except bridges. Middle has many drives through water." />
 	<P pos="173.456 0 -91.2777" w="7.416" aT="2" mtr="1" chkR="1.912" />
 	<P pos="174.384 0 -36.34" w="7.416" aT="2" mtr="1" />
 	<P pos="156.933 0 14.8699" w="7.416" aT="2" mtr="1" />

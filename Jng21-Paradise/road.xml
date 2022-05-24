@@ -5,7 +5,7 @@
 	<geom colN="6" colR="2.5" wsPm="4" lsPm="1" stBox="1 5.516 18.22" iDir="-1" iChk1="61" />
 	<stats length="7330" width="9.06554" height="113.038" onTer="61.4971" pipes="0" bnkAvg="3.02103" bnkMax="14.5693" />
 	<txt desc="Fast, long, easy road winding on sand and over bridges." />
-	<adv ice="" />
+	<adv ice="Careful not too fast on bridge entry to fit. Occasional sharp turns and bumps." />
 	<P pos="-161.383 0 278.979" w="8.272" aT="2" chkR="1.836" />
 	<P pos="-199.485 0 237.694" w="8.96" aT="2" />
 	<P pos="-253.809 0 229.291" w="9.984" aT="2" />

@@ -4,8 +4,8 @@
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5.32 14.484" iDir="-1" iChk1="129" />
 	<stats length="2553.18" width="7.312" height="13.2556" onTer="0" pipes="0" bnkAvg="2.43597" bnkMax="13.9268" />
-	<txt desc="Tricky, slow, very curly and long road, not for beginners." />
-	<adv ice="" />
+	<txt desc="Slow road, not for beginners." />
+	<adv ice="Very curly and tricky." />
 	<P pos="62.7449 0 84.8256" w="7.312" aT="2" />
 	<P pos="88.938 0 82.5873" w="7.312" aT="2" chkR="1.48" />
 	<P pos="109.447 0 79.1862" w="7.312" aT="2" />

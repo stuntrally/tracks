@@ -4,8 +4,8 @@
 	<mrg skirtLen="1" skirtH="0.1" merge="1" mergeLen="300" lodPntLen="20" />
 	<geom colN="4" colR="2.4" wsPm="4" lsPm="1" stBox="1 6.072 18.34" iDir="-1" iChk1="92" />
 	<stats length="4501.92" width="8.61735" height="62.9068" onTer="37.789" pipes="9.03288" bnkAvg="18.4112" bnkMax="74.5798" />
-	<txt desc="Difficult, very loop intensive track with many jumps (140 kmh / 87 mph), banked and hairpin turns." />
-	<adv ice="" />
+	<txt desc="Difficult stunt track on savannah." />
+	<adv ice="Intensive loops and jumps (need 140 km/h / 87 mph). Also with banked hairpin turns." />
 	<P pos="-155.287 0 141.406" w="7" aT="2" />
 	<P pos="-141.884 0 105.44" w="7.488" a="160.02" ar="-1.167" aT="0" col="0" />
 	<P pos="-127.586 2.37264 67.6455" w="8.528" onTer="0" a="173.16" ar="3.06" aT="0" chkR="1" ckL="5" />

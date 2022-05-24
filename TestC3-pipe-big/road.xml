@@ -4,8 +4,8 @@
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 23.3041 15.024" iDir="-1" iChk1="0" />
 	<stats length="1130.38" width="12.0005" height="12.1308" onTer="100" pipes="100" bnkAvg="0" bnkMax="0" />
-	<txt desc="Big full-pipe circle track, for testing acceleration on suspension, at high velocity." />
-	<adv ice="" />
+	<txt desc="Big full-pipe circle track." />
+	<adv ice="For testing acceleration on suspension, at high velocity." />
 	<P pos="0 0 180" w="12" onTer="0" a="89.958" ar="0" aT="0" pipe="1" />
 	<P pos="68.8991 0 165.555" w="12" onTer="0" a="112.638" ar="0" aT="0" pipe="1" />
 	<P pos="118.408 0 131.566" w="12" onTer="0" a="135.021" ar="0" aT="0" pipe="1" />

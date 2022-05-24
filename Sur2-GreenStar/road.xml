@@ -4,8 +4,8 @@
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="620.375" lodPntLen="15.3035" />
 	<geom colN="5" colR="3.515" wsPm="5.03224" lsPm="1" stBox="1 14.2 36.3283" iDir="1" iChk1="55" />
 	<stats length="3993.67" width="18.1114" height="121.897" onTer="49.161" pipes="29.8278" onPipe="16.6918" bnkAvg="19.8922" bnkMax="68.7923" />
-	<txt desc="Beautiful surreal track in a star shape. Contains few jumps, and one difficult on-pipe jump." />
-	<adv ice="" />
+	<txt desc="Beautiful surreal space track in a star shape." />
+	<adv ice="Contains few long jumps, and one difficult on-pipe jump." />
 	<P pos="67.1204 0 -17.7728" w="18.44" aT="2" mtr="2" />
 	<P pos="117.187 0 -30.3845" w="14.176" aT="2" mtr="1" />
 	<P pos="184.943 0 -7.91447" w="14.176" aT="2" mtr="3" chkR="1.6" />

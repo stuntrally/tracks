@@ -4,8 +4,8 @@
 	<mrg skirtLen="0.4" skirtH="0.12" merge="1" mergeLen="1200" lodPntLen="80" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 6.136 24.812" iDir="1" iChk1="0" />
 	<stats length="4978.02" width="10.9136" height="68.5989" onTer="14.1732" pipes="0" bnkAvg="12.2905" bnkMax="56.7663" />
-	<txt desc="Since recent terraforming, it is now possible to race in this red planet scenery. A fast stunt track with few jumps, lots of banked turns and a fast barrel loop." />
-	<adv ice="" />
+	<txt desc="Since recent terraforming, it is now possible to race in this red planet scenery." />
+	<adv ice="A fast stunt track with few jumps, lots of banked turns and a fast barrel loop." />
 	<P pos="130.042 0 98.3384" w="9.79678" aT="2" mtr="2" chkR="1.972" />
 	<P pos="158.594 0 70.5005" w="8.02879" aT="2" mtr="2" />
 	<P pos="163.789 0 16.8625" w="8.59679" aT="2" />

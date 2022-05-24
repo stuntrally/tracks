@@ -4,8 +4,8 @@
 	<mrg skirtLen="0.4" skirtH="0.12" merge="1" mergeLen="1200" lodPntLen="80" />
 	<geom colN="6" colR="2.5" wsPm="4" lsPm="1" stBox="1 9.70402 24.812" iDir="1" iChk1="95" />
 	<stats length="2423.36" width="9.69933" height="67.738" onTer="59.2803" pipes="29.5316" bnkAvg="7.84551" bnkMax="50.6527" />
-	<txt desc="Very winding and banked track on mars. Has few bridges, twisted pipes and uneven terrain turns." />
-	<adv ice="" />
+	<txt desc="Very winding and banked track on Mars, when getting dark." />
+	<adv ice="Has few bridges, twisted pipes and uneven terrain turns." />
 	<P pos="-62.2039 0 -19.0939" w="9.0325" aT="2" col="0" chkR="1.836" />
 	<P pos="-67.9785 0 -4.43939" w="9.0325" aT="2" col="0" />
 	<P pos="-66.095 0 12.8565" w="9.91016" aT="2" col="0" />

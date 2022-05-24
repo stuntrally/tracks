@@ -4,7 +4,7 @@
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="800" lodPntLen="120" />
 	<geom colN="6" colR="2" wsPm="4" lsPm="1" stBox="1 6.776 19.4004" iDir="-1" iChk1="93" />
 	<stats length="2047.01" width="9.26832" height="32.1867" onTer="0" pipes="0" bnkAvg="10.4426" bnkMax="27.8467" />
-	<txt desc="A curly road along hot lava." />
+	<txt desc="A curly road along hot lava. Remote driving only, track is melting too fast." />
 	<adv ice="With 2 terrain jumps of different length. Stay on road to avoid damage." />
 	<P pos="53.0689 0 57.8145" w="9.248" aT="2" mtr="1" />
 	<P pos="53.1991 0 16.8028" w="9.248" aT="2" />

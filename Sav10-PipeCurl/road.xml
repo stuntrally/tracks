@@ -3,9 +3,9 @@
 	<dim tcMul="0.1" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="8" heightOfs="0.06" />
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="160" lodPntLen="20" />
 	<geom colN="6" colR="3" wsPm="4" lsPm="1" stBox="1 25.56 16.912" iDir="-1" iChk1="80" />
-	<stats length="3033.85" width="12.4304" height="66.8277" onTer="100" pipes="100" bnkAvg="0.000310282" bnkMax="0.0269945" />
-	<txt desc="Fast winding all pipe track, medium difficulty." />
-	<adv ice="" />
+	<stats length="3033.85" width="12.4304" height="66.8277" onTer="100" pipes="100" bnkAvg="0.000" bnkMax="0.0269945" />
+	<txt desc="Fast and easy, all pipe road." />
+	<adv ice="Has a barrel loop, and a wide section." />
 	<P pos="-67.2667 30.0818 172.538" w="11.664" onTer="0" a="87.6" ar="0" aT="0" col="0" pipe="1" mtr="3" />
 	<P pos="-29.6825 24.8141 171.048" w="11.664" onTer="0" a="120.96" ar="0" aT="0" col="0" pipe="1" mtr="3" />
 	<P pos="-4.07943 19.41 153.199" w="11.664" onTer="0" a="149.76" ar="0" aT="0" col="0" pipe="1" mtr="3" chkR="1.908" />
@@ -21,7 +21,7 @@
 	<P pos="38.425 12.6312 174.772" w="11.664" onTer="0" a="124.56" ar="0" aT="0" col="0" pipe="1" chkR="2.188" />
 	<P pos="73.7465 14.6443 156.231" w="19.208" onTer="0" a="126.36" ar="0" aT="0" pipe="1" />
 	<P pos="108.407 15.0876 130.394" w="38.528" onTer="0" a="137.52" ar="0" aT="0" pipe="1" />
-	<P pos="137.113 14.5125 103.243" w="29.48" onTer="0" a="139.68" ar="-0.0270001" aT="0" col="0" pipe="1" />
+	<P pos="137.113 14.5125 103.243" w="29.48" onTer="0" a="139.68" ar="-0.027" aT="0" col="0" pipe="1" />
 	<P pos="157.081 13.2021 76.2075" w="20.264" onTer="0" a="156.48" ar="0" aT="0" pipe="1" />
 	<P pos="174.551 11.9777 41.3342" w="11.664" onTer="0" a="156.48" ar="0" aT="0" col="0" pipe="1" mtr="1" />
 	<P pos="183.623 9.0395 1.06945" w="11.664" onTer="0" a="177.84" ar="0" aT="0" pipe="1" mtr="1" chkR="2.16" />

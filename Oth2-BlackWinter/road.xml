@@ -4,8 +4,8 @@
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5.33599 14.2081" iDir="-1" iChk1="0" />
 	<stats length="3774.97" width="9.17114" height="111.465" onTer="65.1153" pipes="34.624" bnkAvg="22.013" bnkMax="86.7" />
-	<txt desc="Winding stunt track through black desert in winter. Requires accurate driving in banked bridges. Keep control especially in high hangovers, go slowly and in the right line to stay on track and damage free." />
-	<adv ice="" />
+	<txt desc="Winding, tricky stunt track on black desert in winter." />
+	<adv ice="Requires accurate driving in very banked bridges. Keep control, especially in high hang overs. Go slowly in the right line to stay on road, damage free." />
 	<P pos="86.2718 0 38.9917" w="9.544" a="0" ar="0" aT="2" mtr="1" chkR="1" />
 	<P pos="123.947 0 4.21285" w="9.544" aT="2" mtr="1" />
 	<P pos="138.743 0 -26.8493" w="9.544" aT="2" mtr="1" chkR="1.448" />

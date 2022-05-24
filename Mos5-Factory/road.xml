@@ -4,8 +4,8 @@
 	<mrg loop="1" skirtLen="0.2" skirtH="0.1" merge="1" mergeLen="1214.78" lodPntLen="36.7862" visDist="1000" visBehind="800" />
 	<geom colN="4" colR="1.82158" wsPm="4" lsPm="1" stBox="1 5.288 13.816" iDir="-1" iChk1="148" />
 	<stats length="5041.21" width="13.104" height="100.745" onTer="84.8793" pipes="23.2598" onPipe="2.56342" bnkAvg="12.8495" bnkMax="90" />
-	<txt desc="Very difficult and tricky track with all kinds of stunts. Caution: crazy! Partly very slow. Only for professional stunt drivers." />
-	<adv ice="" />
+	<txt desc="Very difficult and tricky track with all kinds of stunts. Caution: crazy! Only for professional stunt drivers." />
+	<adv ice="Partly very slow. Has everyting: twisted narrow pipes, long jumps, short continuous jumps, vertical turn, loops, fluid ponds, obstacles, half pipe and short on pipe sections." />
 	<P pos="-66.809 55.6402 78.1039" w="9.1116" onTer="0" a="0" ar="0" aT="2" col="0" mtr="2" chkR="1" />
 	<P pos="-37.3587 0 75.2948" w="9.1044" a="0" ar="0" aT="2" />
 	<P pos="-16.2161 0 73.6919" w="7.5684" a="0" ar="0" aT="2" col="0" />

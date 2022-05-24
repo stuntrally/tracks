@@ -4,8 +4,8 @@
 	<mrg skirtLen="0.02" skirtH="0.02" merge="1" mergeLen="1200" lodPntLen="60" />
 	<geom colN="4" colR="2.5" wsPm="4" lsPm="1" stBox="1 6.70405 16.576" iDir="-1" iChk1="179" />
 	<stats length="7160.11" width="9.27012" height="151.766" onTer="46.178" pipes="0" bnkAvg="5.58398" bnkMax="65.7012" />
-	<txt desc="Long winding track on high jungle mountains connected with suspended bridges. With drive through ancient temples in the middle." />
-	<adv ice="" />
+	<txt desc="Long winding track on high, black jungle mountains. With drive through ancient temples in the middle." />
+	<adv ice="Tops connected with suspended bridges. Turns sometimes unguarded, don't fall off. Some well banked." />
 	<P pos="240.255 78.7595 -242.889" w="8.976" onTer="0" a="0" ar="2.82" aT="2" mtr="2" />
 	<P pos="244.614 86.8116 -274.096" w="17.984" onTer="0" a="0" ar="7.56" aT="2" col="0" mtr="2" />
 	<P pos="277.819 0 -277.166" w="14.32" a="0" ar="17.7" aT="2" mtr="3" />

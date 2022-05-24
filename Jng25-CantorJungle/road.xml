@@ -4,8 +4,8 @@
 	<mrg loop="1" skirtLen="0" skirtH="0.02" merge="1" mergeLen="1503.4" lodPntLen="40.2441" visDist="300" visBehind="300" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5 16.896" iDir="-1" iChk1="232" />
 	<stats length="8412.82" width="8.31729" height="363.23" onTer="89.932" pipes="24.9774" bnkAvg="16.9052" bnkMax="90" />
-	<txt desc="Jungle with many steep pointy peeks and muddy rivers in the bottom, which flooded a bit. The track has 6 relatively easy jumps, extremely banked turns. Goes through a small village, a small city and 2 mini caves." />
-	<adv ice="" />
+	<txt desc="Dark jungle with many steep pointy peeks and muddy rivers in the bottom, which flooded a bit. Goes through a small village, a small, dense city and 2 mini caves." />
+	<adv ice="Has 6 relatively easy jumps, few pipes and very banked turns. High slope roads present." />
 	<P pos="-666.317 0 673.452" w="8.288" a="0" ar="-2.685" aT="2" col="0" chkR="1.424" />
 	<P pos="-643.446 -53.6851 672.465" w="9.96" onTer="0" a="0" ar="-3.447" aT="2" col="0" />
 	<P pos="-607.004 -55.5581 649.376" w="7" onTer="0" a="0" ar="0" aT="2" col="0" mtr="1" />

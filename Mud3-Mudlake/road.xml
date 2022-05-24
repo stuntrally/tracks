@@ -4,8 +4,8 @@
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 9.1 20.192" iDir="-1" iChk1="26" />
 	<stats length="2310.33" width="9.92135" height="77.1835" onTer="61.1761" pipes="51.9421" bnkAvg="13.0172" bnkMax="38.4543" />
-	<txt desc="A small track over a mud lake with pipes." />
-	<adv ice="" />
+	<txt desc="Small track over a mud lake." />
+	<adv ice="With twisted pipes, banked bridges and sharp terrain turns. Slow down on pipe exits." />
 	<P pos="5.75581 47.8689 -93.8991" w="9.776" onTer="0" a="0" ar="17.52" aT="2" pipe="1" chkR="1.692" />
 	<P pos="41.864 42.3086 -103.631" w="9.776" onTer="0" a="0" ar="16.2" aT="2" pipe="1" />
 	<P pos="89.0802 49.1944 -80.6606" w="9.776" onTer="0" a="0" ar="15.66" aT="2" pipe="1" />

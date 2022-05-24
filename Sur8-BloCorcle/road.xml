@@ -4,8 +4,8 @@
 	<mrg loop="1" skirtLen="0.1" skirtH="0.01" merge="1" mergeLen="513.878" lodPntLen="29.7659" visDist="295.37" visBehind="290.195" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5.276 17.156" iDir="1" iChk1="3" />
 	<stats length="7181.21" width="8.10711" height="97.6913" onTer="76.9701" pipes="34.4542" bnkAvg="19.2559" bnkMax="87.36" />
-	<txt desc="Newly discovered exoplanet Corcle, Blo stretch. Gravity is only 80% of Earth." />
-	<adv ice="Slippery roads due to low gravity. Quite challenging, has several jumps among which a side, centrifugal jump (higher speed more downforce), two obsacles near it, and a twisted 4-loop." />
+	<txt desc="Newly discovered exoplanet Corcle, Blo stretch. Gravity is only 80% of Earth, making roads more slippery." />
+	<adv ice="Quite challenging, has several jumps among which a side, centrifugal jump (higher speed more downforce), two obsacles near it, and a twisted 4-loop." />
 	<P pos="218.266 0 -97.9333" w="7" aT="2" mtr="2" />
 	<P pos="221.395 0 -72.8918" w="7" aT="2" mtr="2" />
 	<P pos="223.092 0 -49.7927" w="7" aT="2" mtr="2" />

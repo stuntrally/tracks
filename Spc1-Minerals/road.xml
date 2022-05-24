@@ -4,8 +4,8 @@
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
 	<geom colN="6" colR="3.43052" wsPm="4" lsPm="1" stBox="1 5.33599 13.1521" iDir="-1" iChk1="23" />
 	<stats length="3711.08" width="8.18156" height="48.7869" onTer="31.6374" pipes="0" bnkAvg="1.67287" bnkMax="16.38" />
-	<txt desc="A curly asphalt road trough a space station platform processing minerals. Lower gravity and many square turns." />
-	<adv ice="" />
+	<txt desc="An alien space station platform, processing crystals and large mineral rocks." />
+	<adv ice="A curly asphalt road, slippy because low gravity. Many square turns and few jumps." />
 	<P pos="95.9622 0 217.369" w="7.792" aT="2" chkR="1.968" />
 	<P pos="14.4256 0 217.467" w="7.792" aT="2" />
 	<P pos="-24.3147 0 217.667" w="7.792" a="0" ar="0" aT="2" col="0" />

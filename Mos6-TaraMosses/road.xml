@@ -4,8 +4,8 @@
 	<mrg loop="1" skirtLen="0.3" skirtH="0.06" merge="1" mergeLen="1014.28" lodPntLen="50.4035" visDist="348.978" visBehind="305.929" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5.288 18.344" iDir="-1" iChk1="0" />
 	<stats length="10065.4" width="7.50063" height="593.943" onTer="39.2565" pipes="19.5345" onPipe="10.0132" bnkAvg="6.69109" bnkMax="87.7701" />
-	<txt desc="The rally team waterplane arrived on one of the deserted islands&apos; lakes and released the car to explore it. The island once flourished is now deserted and uninhabited. Sometimes roads are in bad condition and have been swallowed by the mosses. Slow long and challenging track." />
-	<adv ice="" />
+	<txt desc="The rally team waterplane arrived on one of the deserted island&apos;s lakes and released the car to explore it. The island once flourished is now deserted and uninhabited." />
+	<adv ice="Slow, long, challenging and unexpected roads. Sometimes in bad condition, missing, swallowed by the mosses. Steep in high mountain, partly on pipes and in cave. Plenty of obstacles." />
 	<P pos="269.334 0 167.138" w="7" aT="2" col="0" mtr="1" chkR="1.672" />
 	<P pos="263.454 0 131.106" w="7" aT="2" col="0" mtr="1" />
 	<P pos="267.445 0 104.547" w="7" aT="2" col="0" mtr="1" />

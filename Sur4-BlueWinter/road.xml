@@ -4,8 +4,8 @@
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="600" lodPntLen="20" />
 	<geom colN="5" colR="2.11402" wsPm="4" lsPm="1" stBox="1 5 14.416" iDir="-1" iChk1="29" />
 	<stats length="6146.26" width="8.74348" height="204.928" onTer="60.3462" pipes="45.3106" bnkAvg="16.154" bnkMax="90" />
-	<txt desc="Blue winter forest with crystal road. Fast straights and easy pipes. Has 3 highly banked passages." />
-	<adv ice="" />
+	<txt desc="Strange blue winter forest with crystal road." />
+	<adv ice="Fast straights and easy pipes. Has 3 highly banked passages." />
 	<P pos="-112.676 -0.0924801 39.7633" w="10.304" onTer="0" a="0" ar="7.74" aT="2" />
 	<P pos="-81.6528 2.29197 43.37" w="8.856" onTer="0" a="0" ar="16.86" aT="2" col="0" chkR="1" />
 	<P pos="-53.1987 3.06787 57.7024" w="7.872" onTer="0" a="0" ar="8.52" aT="2" pipe="1" />

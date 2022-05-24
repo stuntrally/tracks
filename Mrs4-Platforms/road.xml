@@ -4,8 +4,8 @@
 	<mrg skirtLen="0.4" skirtH="0.12" merge="1" mergeLen="755.012" lodPntLen="21.2207" />
 	<geom colN="5" colR="3.08638" wsPm="4.98257" lsPm="1" stBox="1 5.8258 25.152" iDir="1" iChk1="141" />
 	<stats length="8462.76" width="11.6001" height="152.102" onTer="89.4826" pipes="52.8532" onPipe="8.23549" bnkAvg="4.5427" bnkMax="57.42" />
-	<txt desc="A fast stunt track on Mars at sunset. With jumps (ideal at 120 km/h / 74 mph), bridges, pipes, halfpipes and on-pipes." />
-	<adv ice="" />
+	<txt desc="A long, mostly fast, stunt track on Mars at sunset. Partly slow and tricky." />
+	<adv ice="Has 2 difficult series of 3 continuous jumps (ideal at 120 km/h / 74 mph), bridges, pipes, halfpipes and on-pipe drives in middle." />
 	<P pos="-124.202 77.9042 145.205" w="10.2" onTer="0" a="0" ar="0" aT="2" col="0" pipe="1" mtr="2" />
 	<P pos="-157.182 77.4008 171.858" w="10.2" onTer="0" a="0" ar="0" aT="2" col="0" pipe="1" mtr="2" chkR="1" />
 	<P pos="-188.691 73.3021 169.949" w="10.2" onTer="0" a="0" ar="0" aT="2" col="0" pipe="1" mtr="2" />
