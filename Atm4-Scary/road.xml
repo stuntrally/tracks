@@ -4,7 +4,8 @@
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5.876 15.064" iDir="-1" iChk1="10" />
 	<stats length="2986.57" width="7.61134" height="61.2187" onTer="9.32873" pipes="0" bnkAvg="8.07283" bnkMax="26.4779" />
-	<txt desc="Winding track in dark, cloudy forest in rain and fog. Slippery mud." />
+	<txt desc="Winding track in dark, cloudy forest in rain and fog." />
+	<adv ice="Slippery mud." />
 	<P pos="-184.618 0 267.272" w="7.584" aT="2" />
 	<P pos="-259.018 0 268.19" w="7.584" aT="2" chkR="2.056" />
 	<P pos="-288.473 0 216.525" w="8.88" a="0" ar="0" aT="2" />

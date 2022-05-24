@@ -4,7 +4,8 @@
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" visDist="1000" visBehind="800" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5.288 16.8084" iDir="-1" iChk1="55" />
 	<stats length="3477.54" width="7.16299" height="15.6838" onTer="18.2452" pipes="7.32573" bnkAvg="2.24859" bnkMax="23.5209" />
-	<txt desc="A track connecting few small islands. Includes drives through water." />
+	<txt desc="A track connecting few small islands." />
+	<adv ice="Includes drives through water, some deeper. Many bridges and one pipe." />
 	<P pos="-179.66 0 178.205" w="7.592" aT="2" pipe="1" mtr="1" />
 	<P pos="-205.437 0 191.242" w="7.592" aT="2" pipe="1" mtr="1" />
 	<P pos="-204.645 0 218.168" w="7.592" aT="2" pipe="1" mtr="1" chkR="2.156" />

@@ -4,7 +4,8 @@
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="702.067" lodPntLen="15.7966" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5.552 17.656" iDir="-1" iChk1="10" />
 	<stats length="3717.01" width="7.56171" height="22.4482" onTer="10.7664" pipes="3.60851" bnkAvg="1.87999" bnkMax="16.2639" />
-	<txt desc="Fast road through ancient villages on desert islands, including a lost village underwater and shallow water crossings." />
+	<txt desc="Fast road through ancient villages on desert islands." />
+	<adv ice="Includes slow underwater drive through lost village and shallow water crossings. Partly on asphalt." />
 	<P pos="-312.656 0 -34.1274" w="7" aT="2" />
 	<P pos="-301.471 0 -6.73378" w="7" aT="2" />
 	<P pos="-276.453 0 20.0741" w="7" aT="2" chkR="1.568" />

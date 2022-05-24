@@ -4,7 +4,8 @@
 	<mrg skirtLen="0.7" skirtH="0.12" merge="1" mergeLen="397.952" lodPntLen="11.7581" />
 	<geom colN="8" colR="2.45308" wsPm="4.54482" lsPm="1" stBox="1 5 14.0484" iDir="1" iChk1="1" />
 	<stats length="4031.84" width="7.99362" height="38.2008" onTer="100" pipes="78.5769" onPipe="21.8748" bnkAvg="4.4019" bnkMax="14.82" />
-	<txt desc="A fast track somewhere in ocean, mostly in narrow winding pipe. Also with jumps, obstacles and on-pipe section. Slow down in green pipes (or make a barrel loop)." />
+	<txt desc="A fast track somewhere in ocean, mostly in narrow winding pipes." />
+	<adv ice="Also with jumps, obstacles and on-pipe section. Slow down in green pipes (or make a barrel loop)." />
 	<P pos="238.662 6 206.782" w="7" onTer="0" a="-85.08" ar="0" aT="0" mtr="1" />
 	<P pos="214.444 6.14 202.981" w="7" onTer="0" a="0" ar="0" aT="2" col="0" mtr="1" chkR="1" />
 	<P pos="188.204 6 198.938" w="7" onTer="0" a="0" ar="0" aT="2" mtr="1" />

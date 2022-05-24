@@ -5,6 +5,7 @@
 	<geom colN="6" colR="3.515" wsPm="4" lsPm="1" stBox="1 5 13.26" iDir="1" iChk1="11" />
 	<stats length="8017.82" width="13.7151" height="198.251" onTer="56.7753" pipes="36.834" onPipe="1.65185" bnkAvg="7.64055" bnkMax="61.8023" />
 	<txt desc="Completely surreal space madness. Long winding road on bumpy terrain and in fast halfpipes. Has few obstacles. Includes a hillclimb. Partly on flat ice. Caution: intense colors." />
+	<adv ice="" />
 	<P pos="439.604 0 25.2484" w="7.04" aT="2" mtr="3" />
 	<P pos="435.472 0 -24.3846" w="7.04" aT="2" mtr="3" />
 	<P pos="421.73 0 -78.5873" w="7.04" aT="2" mtr="3" chkR="2.188" />

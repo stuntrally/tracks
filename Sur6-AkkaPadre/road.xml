@@ -4,7 +4,8 @@
 	<mrg skirtLen="0.2" skirtH="0.01" merge="1" mergeLen="1129.85" lodPntLen="41.2326" visDist="540.886" visBehind="391.849" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 6.2 17.916" iDir="1" iChk1="6" />
 	<stats length="12692.2" width="7.9136" height="316.12" onTer="48.8268" pipes="25.8092" bnkAvg="13.233" bnkMax="89.7245" />
-	<txt desc="Padre stretch of newly discovered brownish, inhabited exoplanet AKKA, 6 lightyears away circling around a red dwarf. Long and challenging track. Gravity is about 90% of earth. Be cautious to not fall off. There is a big drop on top and few loops." />
+	<txt desc="Padre stretch of newly discovered brownish, inhabited exoplanet AKKA, 6 lightyears away circling around a red dwarf. Great terrain with amazing caves." />
+	<adv ice="Long and challenging track. Gravity is about 90% of Earth. Be cautious to not fall off. There is a big drop on top and few loops." />
 	<P pos="158.063 0 489.306" w="8.232" aT="2" col="0" chkR="1.888" />
 	<P pos="189.86 0 510.792" w="7.48" aT="2" col="0" />
 	<P pos="221.528 0 532.945" w="7.48" aT="2" col="0" mtr="3" />

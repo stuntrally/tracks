@@ -4,7 +4,8 @@
 	<mrg skirtLen="2" skirtH="0.12" merge="1" mergeLen="200" lodPntLen="10" visDist="1000" visBehind="800" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5.288 18.344" iDir="-1" iChk1="30" />
 	<stats length="5022.71" width="8.41989" height="97.8983" onTer="46.413" pipes="0" bnkAvg="4.75311" bnkMax="24.6189" />
-	<txt desc="A bumpy track with a lot of bridges and mountains around the road." />
+	<txt desc="Winding track in strange, unknown, glowing mountains." />
+	<adv ice="Bumpy terrain road with many turning bridges." />
 	<P pos="-1.70006 0 8.86521" w="7.816" a="0" ar="0" aT="2" />
 	<P pos="7.73968 0 0.0193834" w="7.816" aT="2" chkR="1.7" />
 	<P pos="17.0805 0 -8.71604" w="7.744" a="0" ar="0" aT="2" />

@@ -4,7 +4,8 @@
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="608.284" lodPntLen="15.4655" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 4.888 13.424" iDir="-1" iChk1="3" />
 	<stats length="3605.46" width="8.70498" height="70.9687" onTer="8.63118" pipes="0" bnkAvg="4.57795" bnkMax="19.2427" />
-	<txt desc="Fast road through a city placed on both sides of the big river. Has few bridges, sharp turns and terrain jumps." />
+	<txt desc="Fast road through a city placed on both sides of the big river." />
+	<adv ice="Has few bridges, sharp turns and terrain jumps on dunes." />
 	<P pos="251.208 0 -210.989" w="9.776" aT="2" />
 	<P pos="304.233 0 -168.922" w="9.064" aT="2" chkR="1.856" />
 	<P pos="324.62 0 -111.382" w="8.504" aT="2" />

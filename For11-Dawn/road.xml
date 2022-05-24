@@ -4,7 +4,8 @@
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 6.4079 11.692" iDir="1" iChk1="11" />
 	<stats length="860.211" width="6" height="22.2048" onTer="0" pipes="0" bnkAvg="8.02556" bnkMax="25.6218" />
-	<txt desc="Short, narrow track in forest at dawn. Has few terrain bumps and banked turns." />
+	<txt desc="Short, narrow track in forest at dawn." />
+	<adv ice="Has few terrain bumps and banked turns." />
 	<P pos="10.5097 0 135.389" w="6" aT="2" />
 	<P pos="34.6189 0 132.537" w="6" aT="2" chkR="1.748" />
 	<P pos="55.3721 0 120.83" w="6" aT="2" />

@@ -4,7 +4,8 @@
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="800" lodPntLen="120" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5.56 16.608" iDir="-1" iChk1="22" />
 	<stats length="740.717" width="6" height="8.19935" onTer="7.98053" pipes="0" bnkAvg="9.5359" bnkMax="31.257" />
-	<txt desc="A small winding track near a river at dawn." />
+	<txt desc="Small track near river, at dawn." />
+	<adv ice="Curly, winding road, slightly banked." />
 	<P pos="48.4503 0 40.6575" w="6" a="0" ar="0" aT="2" col="0" />
 	<P pos="40.0437 -0.117383 49.2789" w="6" onTer="0" a="0" ar="0" aT="2" col="0" chkR="1.428" />
 	<P pos="29.7304 0 60.0141" w="6" a="0" ar="0" aT="2" />

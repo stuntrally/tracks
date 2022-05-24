@@ -4,7 +4,8 @@
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="600" lodPntLen="40" />
 	<geom colN="8" colR="4" wsPm="4" lsPm="1" stBox="1 19.436 14.36" iDir="-1" iChk1="92" />
 	<stats length="4931.44" width="13.2674" height="115.437" onTer="100" pipes="94.6771" bnkAvg="12.2173" bnkMax="45.7199" />
-	<txt desc="Long, fast whole-pipe track with many jumps between. Also with two circle turns, sharp turns , in pipe jump and barrel loop." />
+	<txt desc="Long, fast, whole-pipe track with many jumps between." />
+	<adv ice="Has two circle turns, sharp turns, in pipe jumps and loop. For pipe jumps: have close to optimal speed (displayed, best green) and be in center before jumping." />
 	<P pos="312.203 67.2165 28.1509" w="10.224" onTer="0" a="0" ar="16.2" aT="2" pipe="1" mtr="1" />
 	<P pos="309.49 78.7462 -11.6466" w="10.224" onTer="0" a="0" ar="0" aT="2" col="0" pipe="1" mtr="1" chkR="1.848" />
 	<P pos="267.764 71.3711 -51.2102" w="10.224" onTer="0" a="0" ar="0" aT="2" pipe="1" mtr="1" />

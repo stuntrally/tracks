@@ -4,7 +4,8 @@
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" visDist="1000" visBehind="800" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5.33599 13.1521" iDir="-1" iChk1="44" />
 	<stats length="2059.75" width="6.94078" height="29.5665" onTer="4.6728" pipes="0" bnkAvg="5.31115" bnkMax="22.8881" />
-	<txt desc="Track in yellow autumn forest. With a long straight and few banked turns." />
+	<txt desc="Track in yellow autumn forest." />
+	<adv ice="Long straight and few banked turns." />
 	<P pos="209.721 0 157.308" w="6.94078" aT="2" />
 	<P pos="193.998 0 195.874" w="6.94078" aT="2" chkR="1.98" />
 	<P pos="153.34 0 207.822" w="6.94078" aT="2" />

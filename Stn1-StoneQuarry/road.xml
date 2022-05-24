@@ -5,6 +5,7 @@
 	<geom colN="6" colR="4" wsPm="4" lsPm="1" stBox="1 5.58799 22.2081" iDir="-1" iChk1="113" />
 	<stats length="2908.05" width="10.3226" height="63.0717" onTer="9.69071" pipes="0" bnkAvg="4.71989" bnkMax="20.2887" />
 	<txt desc="A winding and bumpy road through stone quarry." />
+	<adv ice="" />
 	<P pos="105.027 0 -183.674" w="9.5907" aT="2" />
 	<P pos="134.791 0 -187.872" w="10.9027" aT="2" chkR="1.78" />
 	<P pos="158.966 0 -179.929" w="10.9027" aT="2" />

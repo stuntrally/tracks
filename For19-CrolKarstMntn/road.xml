@@ -4,7 +4,8 @@
 	<mrg skirtLen="0.2" skirtH="0.01" merge="1" mergeLen="800" lodPntLen="40" visDist="1000" visBehind="800" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5.16 12.364" iDir="1" iChk1="4" />
 	<stats length="6400.42" width="7.5003" height="254.439" onTer="20.9067" pipes="0" bnkAvg="4.4314" bnkMax="26.6638" />
-	<txt desc="Regular rally through Karst mountain landscape at dawn, with two jumps." />
+	<txt desc="Regular rally through Karst mountain landscape at dawn." />
+	<adv ice="Rather easy. Has two short jumps." />
 	<P pos="-108.126 0 -394.89" w="7" aT="2" col="0" />
 	<P pos="-146.793 0 -388.022" w="7" aT="2" col="0" />
 	<P pos="-195.422 0 -374.501" w="7" aT="2" col="0" />

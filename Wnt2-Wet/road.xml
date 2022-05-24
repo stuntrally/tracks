@@ -4,7 +4,8 @@
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="800" lodPntLen="40" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5 19.168" iDir="-1" iChk1="53" />
 	<stats length="2610.98" width="9.32" height="22.6131" onTer="0" pipes="0" bnkAvg="7.2109" bnkMax="14.0646" />
-	<txt desc="Curly and fast road with 2 circles in wet winter scenery." />
+	<txt desc="Curly and fast road in wet winter scenery." />
+	<adv ice="With 2 circles on wet, slippery snow road. Two bumps in middle and drives through water." />
 	<P pos="30.8749 0 161.202" w="9.32" aT="2" />
 	<P pos="28.8478 0 227.306" w="9.32" aT="2" />
 	<P pos="12.5595 0 281.697" w="9.32" aT="2" chkR="1.868" />

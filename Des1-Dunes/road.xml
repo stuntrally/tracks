@@ -5,6 +5,7 @@
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 4.96 21.436" iDir="-1" iChk1="32" />
 	<stats length="2751.16" width="8.42651" height="15.167" onTer="0" pipes="0" bnkAvg="6.03617" bnkMax="24.5188" />
 	<txt desc="Simple and fast track on desert dunes with terrain jumps." />
+	<adv ice="If not straight, turn more before dune jumps to land on road after." />
 	<P pos="103.93 0 132.494" w="8.12" aT="2" />
 	<P pos="139.364 0 114.472" w="8.12" aT="2" chkR="1.776" />
 	<P pos="156.761 0 94.1631" w="8.12" aT="2" />

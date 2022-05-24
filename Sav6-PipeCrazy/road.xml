@@ -5,6 +5,7 @@
 	<geom colN="4" colR="2.5" wsPm="4" lsPm="1" stBox="1 5 11.316" iDir="1" iChk1="12" />
 	<stats length="868.934" width="7.35758" height="65.0441" onTer="69.859" pipes="69.859" bnkAvg="1.47022" bnkMax="29.76" />
 	<txt desc="Short, crazy twisted pipe road. Go fast through loop, slow down at exit - changes turn." />
+	<adv ice="" />
 	<P pos="22.5348 0 59.9907" w="6" aT="2" chkR="1.692" />
 	<P pos="35.6255 0 53.3807" w="6" aT="2" col="0" />
 	<P pos="48.3988 0 47.0175" w="6" aT="2" />

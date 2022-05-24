@@ -4,7 +4,8 @@
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="600" lodPntLen="100" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5 15.24" iDir="1" iChk1="99" />
 	<stats length="8367.19" width="8.92621" height="165.868" onTer="0" pipes="0" bnkAvg="4.1249" bnkMax="32.346" />
-	<txt desc="Long, fast and partly winding track in Greece like scenery." />
+	<txt desc="Long track in lush Greece like scenery." />
+	<adv ice="Fast and partly winding. Has few terrain hills, water and mud ponds." />
 	<P pos="616.324 0 260.632" w="8.8592" aT="2" chkR="2.052" />
 	<P pos="595.819 0 188.142" w="8.8592" aT="2" />
 	<P pos="561.776 0 112.374" w="8.8592" aT="2" />

@@ -4,7 +4,8 @@
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="800" lodPntLen="30" />
 	<geom colN="4" colR="3" wsPm="4" lsPm="1" stBox="1 7.79601 21.6479" iDir="1" iChk1="14" />
 	<stats length="13114.1" width="9.04799" height="165.66" onTer="4.19859" pipes="0" bnkAvg="6.10492" bnkMax="30.5083" />
-	<txt desc="Vast terrain with very fast, long smooth road. Few banked circle turns and few terrain jumps. Beware of the big jump at center." />
+	<txt desc="Vast terrain with very fast, long smooth road." />
+	<adv ice="Broad banked circle turns and few terrain jumps. Beware of the big jump at center, go slow there." />
 	<P pos="361.903 0 -588.236" w="9.04799" aT="2" />
 	<P pos="450.878 0 -620.578" w="9.04799" aT="2" chkR="3.332" />
 	<P pos="509.951 0 -641.905" w="9.04799" aT="2" />

@@ -4,7 +4,8 @@
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="400" lodPntLen="20" visDist="1000" visBehind="800" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 6.068 14.256" iDir="-1" iChk1="21" />
 	<stats length="5138.76" width="10.228" height="157.824" onTer="24.0673" pipes="0" bnkAvg="5.10911" bnkMax="23.164" />
-	<txt desc="Easy route through stunning icy landscape. Has 2 caves, a part near river, bumpy straight and high passes, with snow on road." />
+	<txt desc="Easy route through stunning icy landscape. Has 2 caves. Partly near river." />
+	<adv ice="With bumpy straight in middle. Higher passes are icy, with snow on road." />
 	<P pos="-2.69316 0 -316.057" w="7.984" aT="2" mtr="3" chkR="1.956" />
 	<P pos="31.7142 0 -384.579" w="9.632" aT="2" col="0" mtr="1" />
 	<P pos="30.4079 0 -440.272" w="10.224" aT="2" col="0" mtr="1" />

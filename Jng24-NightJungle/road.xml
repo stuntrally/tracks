@@ -5,6 +5,7 @@
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5.064 16.352" iDir="-1" iChk1="50" />
 	<stats length="2688.55" width="8.20844" height="98.7741" onTer="78.4766" pipes="72.5255" bnkAvg="26.0319" bnkMax="88.5686" />
 	<txt desc="Jungle forest drive at almost night. Mostly in pipes, partly in cave and on terrain." />
+	<adv ice="" />
 	<P pos="-186.429 0 179.793" w="10.712" aT="2" chkR="1.296" />
 	<P pos="-156.688 0 203.98" w="10.432" aT="2" chkR="1.248" />
 	<P pos="-112.471 0 200.422" w="10.528" aT="2" chkR="2.164" />

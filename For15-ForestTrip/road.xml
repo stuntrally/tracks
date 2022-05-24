@@ -4,7 +4,8 @@
 	<mrg loop="1" skirtLen="1" skirtH="0.12" merge="1" mergeLen="800" lodPntLen="120" visDist="1000" visBehind="800" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5.212 15.74" iDir="-1" iChk1="4" />
 	<stats length="3517.61" width="8.18311" height="70.5192" onTer="9.39525" pipes="0" bnkAvg="3.14515" bnkMax="11.7838" />
-	<txt desc="A nice winding road through forest, with few bumps. Partly near water." />
+	<txt desc="A nice winding road through forest. Partly near water." />
+	<adv ice="Has few bumps and U turns. Also with bridges, one can be used to jump." />
 	<P pos="-237.057 0 -124.109" w="7.5" aT="2" chkR="1.988" />
 	<P pos="-221.935 0 -175.076" w="8.00714" a="0" ar="0" aT="2" col="0" />
 	<P pos="-211.814 2.42 -194.686" w="7.99799" onTer="0" a="0" ar="0" aT="2" col="0" />

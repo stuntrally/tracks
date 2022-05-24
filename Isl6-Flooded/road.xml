@@ -4,7 +4,8 @@
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 4.76 12.5884" iDir="-1" iChk1="40" />
 	<stats length="1301.06" width="7.17999" height="11.3313" onTer="26.4574" pipes="0" bnkAvg="11.708" bnkMax="31.8911" />
-	<txt desc="Strange road on nearly flooded land, with 2 circles." />
+	<txt desc="Strange road on nearly flooded land." />
+	<adv ice="With 2 banked bridge circles." />
 	<P pos="146.279 0 -7.99785" w="7.176" aT="2" />
 	<P pos="147.105 0 22.5108" w="7.176" aT="2" mtr="1" />
 	<P pos="136.239 0 35.5155" w="7.176" aT="2" mtr="1" chkR="2.08" />

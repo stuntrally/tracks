@@ -5,6 +5,7 @@
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 4.96 21.436" iDir="-1" iChk1="50" />
 	<stats length="2835.33" width="8.21134" height="32.3658" onTer="36.8053" pipes="0" bnkAvg="5.49075" bnkMax="43.56" />
 	<txt desc="Asphalt track on desert with jumps." />
+	<adv ice="High grip asphalt and skewed jumps." />
 	<P pos="12.5514 0 267.409" w="8.12" aT="2" chkR="1.784" />
 	<P pos="-17.8165 0 188.767" w="8.12" a="0" ar="0" aT="2" />
 	<P pos="-40.3915 11.6709 128.062" w="8.112" onTer="0" a="0" ar="0.300001" aT="2" chkR="1.788" />

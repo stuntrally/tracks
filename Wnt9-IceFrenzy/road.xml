@@ -4,7 +4,8 @@
 	<mrg skirtLen="0" skirtH="0.02" merge="1" mergeLen="80" lodPntLen="10" />
 	<geom colN="4" colR="3" wsPm="4" lsPm="1" stBox="1 6.804 24.604" iDir="-1" iChk1="0" />
 	<stats length="3950.21" width="14.0265" height="23.6143" onTer="41.4463" pipes="0" bnkAvg="14.2917" bnkMax="37.62" />
-	<txt desc="Long, winding, very slippery ice track - drive slowly. Mostly banked. Partly on bridges with twisted, skewed turns." />
+	<txt desc="Long, winding, very slippery track." />
+	<adv ice="Ice, drive slower. Mostly banked. Partly on bridges with very twisted, skewed turns." />
 	<P pos="34.0643 0 156.118" w="13.2" aT="2" chkR="1.668" />
 	<P pos="99.7101 0 132.252" w="13.2" aT="2" />
 	<P pos="170.601 0 115.958" w="13.2" aT="2" />

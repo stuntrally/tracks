@@ -1,7 +1,7 @@
 <scene>
-	<ver num="2401" baseTrk="" />
+	<ver num="2700" baseTrk="" secEd="25" />
 	<car tires="0" />
-	<start pos="-4.06422 7.15491 -7.55272" rot="-0 0 -1.62921e-007 -1" />
+	<start pos="-4.06422 7.15491 -7.55272" rot="-0 0 -1.62921e-07 -1" pos2="0 0 0" rot2="0 0 0 1" />
 	<sound ambient="" reverbs="Desert" />
 	<sky material="sky/day_blue" />
 	<fog color="0.583 0.222 0.900 1.000 0.000" color2="0.583 0.222 0.900 1.000 0.000" linStart="169.044" linEnd="477.698" />
@@ -28,11 +28,8 @@
 			<noise frq0="42.2" oct0="3" prs0="0.3" pow0="1.5" frq1="43.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
 		<texture road="1" surf="roadJungle" dust="0" dustS="0.6" mud="0.2" smoke="0" tclr="0.139 0.600 0.400 0.700 0.000" />
-		<par dust="Dust" mud="Mud" smoke="Smoke" />
 		<texture road="2" surf="Default" dust="0" dustS="0.2" mud="0" smoke="0" tclr="0.160 0.500 0.200 0.700 0.000" />
-		<par dust="Dust" mud="Mud" smoke="Smoke" />
 		<texture road="3" surf="Default" dust="0" dustS="0.2" mud="0" smoke="0" tclr="0.160 0.500 0.200 0.700 0.000" />
-		<par dust="Dust" mud="Mud" smoke="Smoke" />
 		<texture road="4" surf="Default" dust="0" dustS="0.2" mud="0" smoke="0" tclr="0.160 0.500 0.200 0.700 0.000" />
 		<par dust="Dust" mud="Mud" smoke="Smoke" />
 	</terrain>
@@ -60,4 +57,5 @@
 	</paged>
 	<cam pos="78.1096 14.2413 -93.9379" dir="-0.696569 -0.287346 0.657438" />
 	<objects />
+	<emitters />
 </scene>

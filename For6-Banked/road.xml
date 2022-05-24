@@ -4,7 +4,8 @@
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="180" lodPntLen="20" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5.032 14.864" iDir="1" iChk1="3" />
 	<stats length="1878.2" width="7.16497" height="29.1595" onTer="0" pipes="0" bnkAvg="14.8335" bnkMax="51.266" />
-	<txt desc="Very fast road with big, banked turns." />
+	<txt desc="Very fast forest road." />
+	<adv ice="Has big, banked turns and 2 sharp flat turns near start." />
 	<P pos="147.41 0 97.4975" w="7.296" aT="2" />
 	<P pos="135.124 0 63.4199" w="7.296" aT="2" />
 	<P pos="118.512 0 34.3885" w="7.296" aT="2" />

@@ -4,7 +4,8 @@
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="200" lodPntLen="10" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 4.596 15.376" iDir="-1" iChk1="59" />
 	<stats length="2538.4" width="14.08" height="14.4307" onTer="0" pipes="0" bnkAvg="7.82724" bnkMax="22.8647" />
-	<txt desc="Round, curly and positively banked road with 4 circles." />
+	<txt desc="Round, curly, slightly banked road." />
+	<adv ice="Has 4 circles, i.e. 270 degree turns, need exact speed before start." />
 	<P pos="181.365 0 -125.013" w="14.08" aT="2" />
 	<P pos="210.337 0 -108.87" w="14.08" aT="2" chkR="1.872" />
 	<P pos="229.454 0 -83.2321" w="14.08" aT="2" />

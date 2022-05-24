@@ -4,7 +4,8 @@
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5.232 14.1524" iDir="1" iChk1="37" />
 	<stats length="1675.24" width="7.336" height="11.4669" onTer="0" pipes="0" bnkAvg="4.14364" bnkMax="12.6726" />
-	<txt desc="A curly track at sunset with a drive through water." />
+	<txt desc="A curly track at sunset." />
+	<adv ice="One turn is flooded. Has few long U-turns and circles." />
 	<P pos="-125.299 0 -57.9111" w="7.336" aT="2" mtr="2" chkR="1.728" />
 	<P pos="-148.095 0 -78.6954" w="7.336" aT="2" mtr="1" />
 	<P pos="-156.944 0 -107.383" w="7.336" aT="2" mtr="1" chkR="1.804" />

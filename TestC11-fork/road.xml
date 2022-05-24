@@ -4,7 +4,8 @@
 	<mrg loop="0" skirtLen="0.1" skirtH="0.04" merge="1" mergeLen="120" lodPntLen="10" visDist="1000" visBehind="800" />
 	<geom colN="4" colR="2.5" wsPm="4" lsPm="1" stBox="1 5 11.316" iDir="-1" iChk1="10" />
 	<stats length="368.097" width="8.192" height="19.4206" onTer="0" pipes="0" bnkAvg="3.17946" bnkMax="8.60291" />
-	<txt desc="Example of not looped track with road forks. Keep in mind only first road has checkpoints, pacenotes, trail etc." />
+	<txt desc="Example of not looped track with road forks." />
+	<adv ice="Keep in mind: only first road has checkpoints (on junctions), pacenotes, trail etc." />
 	<P pos="9.00166 0 -198.77" w="8.192" aT="2" />
 	<P pos="9.5234 0 -156.668" w="8.192" aT="2" chkR="1.808" />
 	<P pos="9.47217 0 -102.522" w="8.192" aT="2" />

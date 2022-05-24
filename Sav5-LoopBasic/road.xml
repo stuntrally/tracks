@@ -5,6 +5,7 @@
 	<geom colN="4" colR="2.4" wsPm="4" lsPm="1" stBox="1 5 11.86" iDir="-1" iChk1="119" />
 	<stats length="2135.34" width="6.84666" height="52.0821" onTer="61.5101" pipes="21.1191" bnkAvg="12.2402" bnkMax="89.4" />
 	<txt desc="Basic stunt elements: loop, side loop, side bridge turn and pipe turn (all 180 degrees)." />
+	<adv ice="" />
 	<P pos="-32.9456 0 105.177" w="7.488" aT="2" />
 	<P pos="-7.12555 0 109.71" w="6.88" a="75.78" ar="0" aT="0" col="0" chkR="1.144" ckL="2" />
 	<P pos="1.42783 0.462184 112.08" w="6.744" onTer="0" a="75.78" ar="0" aT="0" col="0" />

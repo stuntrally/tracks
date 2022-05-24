@@ -5,6 +5,7 @@
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5.748 14.124" iDir="-1" iChk1="13" />
 	<stats length="1300.77" width="11.0313" height="4.20299" onTer="0" pipes="0" bnkAvg="3.17379" bnkMax="12.3214" />
 	<txt desc="Short tricky mountain track in winter at dawn." />
+	<adv ice="Reduce speed to minimum before sharper turns." />
 	<P pos="172.469 0 22.2822" w="13.5439" aT="2" />
 	<P pos="154.899 0 57.6474" w="15.6511" aT="2" chkR="1.588" />
 	<P pos="130.336 0 88.9888" w="17.0431" aT="2" />

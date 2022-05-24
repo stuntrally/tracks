@@ -4,7 +4,8 @@
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5.33599 13.1521" iDir="-1" iChk1="9" />
 	<stats length="2346.13" width="7" height="17.4844" onTer="10.9025" pipes="0" bnkAvg="3.45548" bnkMax="17.1456" />
-	<txt desc="A mix of wide, sharp and banked curves in an orange autumn forest at sunset." />
+	<txt desc="Orange autumn forest at sunset." />
+	<adv ice="A mix of wide, sharp and banked curves." />
 	<P pos="225.822 0 148.95" w="7" aT="2" mtr="1" chkR="1.556" />
 	<P pos="84.095 0 48.3708" w="7" aT="2" chkR="1.452" />
 	<P pos="156.705 0 23.1392" w="7" aT="2" mtr="1" />

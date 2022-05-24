@@ -5,6 +5,7 @@
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5.388 20.548" iDir="-1" iChk1="67" />
 	<stats length="5626.73" width="11.0219" height="24.9312" onTer="32.1474" pipes="13.0176" bnkAvg="8.7673" bnkMax="28.659" />
 	<txt desc="Fast and easy rally on a wide road through a sahel river landscape, constituting a small stretch of a large river delta system." />
+	<adv ice="Small parts on asphalt. Has few slower, winding turns. Otherwise fast and wide." />
 	<P pos="88.6174 -2.45611 -102.514" w="10.592" onTer="0" a="0" ar="0" aT="2" />
 	<P pos="86.272 -2.54322 -58.8192" w="10.592" onTer="0" a="0" ar="0" aT="2" pipe="1" />
 	<P pos="83.3926 -2.47146 2.36635" w="10.592" onTer="0" a="0" ar="0" aT="2" col="0" mtr="1" />

@@ -4,7 +4,8 @@
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="600" lodPntLen="40" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 6.70405 16.576" iDir="-1" iChk1="28" />
 	<stats length="1028.6" width="7.68368" height="27.1717" onTer="0" pipes="0" bnkAvg="15.0021" bnkMax="28.4887" />
-	<txt desc="A track with long curves which have been tilted away from the curve, making it very annoying to drive. Avoid spinning wheels and keep on inside of corners." />
+	<txt desc="A track with long curves tilted away from the curve." />
+	<adv ice="Very annoying to drive. Avoid spinning wheels and keep on inside of corners." />
 	<P pos="103.826 0 -52.9181" w="7.888" aT="2" />
 	<P pos="120.123 0 -58.8057" w="8.36" aT="2" />
 	<P pos="132.998 0 -74.51" w="8.176" aT="2" chkR="1.376" />

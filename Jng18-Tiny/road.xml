@@ -5,6 +5,7 @@
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5 12.22" iDir="-1" iChk1="26" />
 	<stats length="817.799" width="6.232" height="14.715" onTer="4.52407" pipes="0" bnkAvg="13.7276" bnkMax="49.4319" />
 	<txt desc="Tiny, tricky track in jungle. Quite banked road in rain and dense fog." />
+	<adv ice="" />
 	<P pos="-72.7906 0 39.5065" w="6.232" aT="2" />
 	<P pos="-57.5429 0 11.4151" w="6.232" a="0" ar="0" aT="2" col="0" />
 	<P pos="-48.4285 10.374 -3.54073" w="6.232" onTer="0" a="0" ar="0" aT="2" col="0" />

@@ -4,7 +4,8 @@
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 7.964 18.76" iDir="-1" iChk1="1" />
 	<stats length="1897" width="7.42374" height="19.952" onTer="5.50849" pipes="0" bnkAvg="7.68769" bnkMax="32.2511" />
-	<txt desc="Fast desert with a jump, mud pool, and banked circle." />
+	<txt desc="Fast desert track." />
+	<adv ice="Has a jump, mud pool and a banked circle." />
 	<P pos="29.4151 0 247.72" w="7.3152" aT="2" />
 	<P pos="69.4483 0 244.171" w="7.3152" aT="2" chkR="2.016" />
 	<P pos="99.74 0 221.214" w="7.3152" aT="2" />

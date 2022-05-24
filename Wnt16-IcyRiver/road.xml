@@ -4,7 +4,8 @@
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="521.66" lodPntLen="20" />
 	<geom colN="6" colR="3" wsPm="4" lsPm="1" stBox="1 11.476 20.192" iDir="1" iChk1="20" />
 	<stats length="3824.13" width="10.9882" height="57.5254" onTer="4.38194" pipes="0" bnkAvg="5.08038" bnkMax="17.2635" />
-	<txt desc="Very slippery track with different road surfaces, from wet asphalt, wet snow, snow and ice. Has also a section driven on frozen part of river." />
+	<txt desc="Very slippery track with different road surfaces around a partly frozen river." />
+	<adv ice="Road goes on wet asphalt, wet snow, snow and ice. Has many U-turns and 1 circle. Also a curly section driven on frozen part of river." />
 	<P pos="-219.13 0 246.81" w="18.384" aT="2" chkR="1.644" />
 	<P pos="-233.415 0 228.217" w="11.904" aT="2" />
 	<P pos="-227.936 0 162.61" w="8.296" aT="2" chkR="2.1" />

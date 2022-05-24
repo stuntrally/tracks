@@ -5,6 +5,7 @@
 	<geom colN="4" colR="2.2" wsPm="4" lsPm="1" stBox="1 13.084 9.22799" iDir="-1" iChk1="110" />
 	<stats length="1445.05" width="6.9837" height="56.8098" onTer="100" pipes="100" bnkAvg="26.1148" bnkMax="87.8811" />
 	<txt desc="Short, extremely twisted pipe track." />
+	<adv ice="Mostly no steering needed due to narrow pipes. Don't drive too fast, for no damage." />
 	<P pos="48.7783 -2.35927 -8.98889" w="6.904" onTer="0" a="0" ar="0" aT="2" col="0" pipe="1" mtr="1" />
 	<P pos="55.5487 2.29031 -0.614395" w="6.904" onTer="0" a="0" ar="0" aT="2" pipe="1" mtr="1" />
 	<P pos="64.6685 7.80309 3.22618" w="6.904" onTer="0" a="0" ar="0" aT="2" col="0" pipe="1" mtr="1" chkR="1.92" />

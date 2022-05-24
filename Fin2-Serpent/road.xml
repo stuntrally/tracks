@@ -4,7 +4,8 @@
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5 17.796" iDir="1" iChk1="53" />
 	<stats length="2332.96" width="9.09008" height="23.9987" onTer="0" pipes="0" bnkAvg="4.52695" bnkMax="12.9179" />
-	<txt desc="Short fast road with terrain jumps and few U-turns." />
+	<txt desc="Short, rather fast road." />
+	<adv ice="Has few terrain jumps and U-turns." />
 	<P pos="181.972 0 103.406" w="8.77298" aT="2" mtr="1" chkR="1.92" />
 	<P pos="166.94 0 79.1595" w="8.87698" aT="2" mtr="1" />
 	<P pos="137.989 0 64.3513" w="8.50098" aT="2" mtr="1" />

@@ -4,7 +4,8 @@
 	<mrg skirtLen="0.4" skirtH="0.12" merge="1" mergeLen="809.994" lodPntLen="20" visDist="1000" visBehind="800" />
 	<geom colN="4" colR="2.39684" wsPm="4" lsPm="1" stBox="1 5.552 20.748" iDir="1" iChk1="3" />
 	<stats length="6077.93" width="9.70881" height="115.425" onTer="77.4425" pipes="44.6516" bnkAvg="12.1069" bnkMax="89.5684" />
-	<txt desc="Pickled landscape with a cave inclucing a hidden village behind a waterlock. Slow down entering the cave flight (&lt;75). Enjoy." />
+	<txt desc="Pickled landscape with a cave inclucing a hidden village behind a waterlock." />
+	<adv ice="Twisted bridges, half pipes and pipe. Slow down before entering the cave flight (&lt;75 kmh). Enjoy." />
 	<P pos="171.446 0 277.211" w="9.056" aT="2" mtr="3" chkR="1.76" />
 	<P pos="195.444 0 287.832" w="8.08" aT="2" mtr="3" />
 	<P pos="231.419 0 275.107" w="9.192" aT="2" mtr="3" />

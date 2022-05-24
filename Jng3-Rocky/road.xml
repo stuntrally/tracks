@@ -5,6 +5,7 @@
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5.064 16.352" iDir="-1" iChk1="31" />
 	<stats length="1903.7" width="8.592" height="15.7951" onTer="0" pipes="0" bnkAvg="6.6794" bnkMax="30.0174" />
 	<txt desc="Fast and winding track with 3 half circles (1 banked) through very dark rocky terrain." />
+	<adv ice="" />
 	<P pos="-186.429 0 179.793" w="8.592" aT="2" chkR="1.672" />
 	<P pos="-156.688 0 203.98" w="8.592" aT="2" />
 	<P pos="-112.471 0 200.422" w="8.592" aT="2" chkR="1.748" />

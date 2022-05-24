@@ -4,7 +4,8 @@
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" visDist="1000" visBehind="800" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 4.888 13.424" iDir="-1" iChk1="25" />
 	<stats length="1963.28" width="7.19656" height="15.7534" onTer="25.776" pipes="0" bnkAvg="2.14568" bnkMax="7.72702" />
-	<txt desc="A winding track with narrow bridged road." />
+	<txt desc="A winding track with narrow, partly bridged road." />
+	<adv ice="Wide vehicles are bad for such bridges." />
 	<P pos="147.448 0 -70.4497" w="7.216" aT="2" />
 	<P pos="127.876 0 -109.213" w="7.216" aT="2" chkR="1.524" />
 	<P pos="99.5824 0 -130.572" w="7.216" aT="2" />

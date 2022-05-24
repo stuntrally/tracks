@@ -5,6 +5,7 @@
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 8.2639 23.896" iDir="-1" iChk1="113" />
 	<stats length="14124.5" width="10.8329" height="233.037" onTer="35.3548" pipes="10.761" bnkAvg="5.51709" bnkMax="44.7599" />
 	<txt desc="Vast terrain with very long road, having fast straights and few tricky slow parts. Also mud and pipe sections." />
+	<adv ice="" />
 	<P pos="1529.02 0 -451.321" w="18.0008" aT="2" mtr="2" />
 	<P pos="1520.64 0 -511.494" w="18.0008" aT="2" mtr="2" chkR="2.5" />
 	<P pos="1481.31 0 -563.841" w="18.0008" aT="2" mtr="2" />

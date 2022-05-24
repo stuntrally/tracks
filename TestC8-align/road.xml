@@ -4,7 +4,8 @@
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="180" lodPntLen="10" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 6.304 23.624" iDir="-1" iChk1="6" />
 	<stats length="635.342" width="12.9931" height="20.4735" onTer="0" pipes="0" bnkAvg="12.6506" bnkMax="36.8291" />
-	<txt desc="Short oval track in hilly terrain. Whole road made using bridged road and then align terrain to road tool." />
+	<txt desc="Short oval track in hilly terrain. Whole road made using bridged road and then: Align Terrain To Road tool." />
+	<adv ice="Very fast banked turns. Possible to drive flat out, on full throttle with cars." />
 	<P pos="-70.3609 0 103.312" w="13.16" aT="2" chkR="1.676" />
 	<P pos="-19.2787 0 134.436" w="11.64" aT="2" />
 	<P pos="54.7027 0 124.189" w="15.288" aT="2" chkR="1.724" />

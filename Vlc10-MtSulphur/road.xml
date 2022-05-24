@@ -4,7 +4,8 @@
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5.56 19.968" iDir="-1" iChk1="6" />
 	<stats length="2772.52" width="7" height="75.9887" onTer="6.01048" pipes="0" bnkAvg="2.3815" bnkMax="8.78127" />
-	<txt desc="A long, tricky and bumpy track around an old dusty volcano in a dark jungle. Only for skilled drivers." />
+	<txt desc="A long, dark track around an old dusty volcano in a dark jungle." />
+	<adv ice="Tricky and very bumpy, only for skilled drivers and durable vehicles." />
 	<P pos="315.961 0 20.3547" w="7" aT="2" chkR="1.404" />
 	<P pos="337.096 0 150.47" w="7" aT="2" />
 	<P pos="322.822 0 207.475" w="7" aT="2" chkR="1.444" />

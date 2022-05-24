@@ -4,7 +4,8 @@
 	<mrg skirtLen="0.4" skirtH="0.12" merge="1" mergeLen="1500.07" lodPntLen="99.9245" visDist="400" visBehind="400" />
 	<geom colN="6" colR="2.41989" wsPm="4" lsPm="1" stBox="1 5.552 17.656" iDir="1" iChk1="0" />
 	<stats length="15862.3" width="8.17285" height="284.854" onTer="65.689" pipes="33.2109" bnkAvg="15.195" bnkMax="88.7784" />
-	<txt desc="Enjoy the adapter islands. Stunts (especially one dedicated island), rally, villages and natural beauty. Easiest is to take the two jumps at 130 km/h (80 mph). Slow down when the road is not in view (behind hill etc.) unless you know it well." />
+	<txt desc="Enjoy the Adapter Islands. Stunts, rally, villages and natural beauty." />
+	<adv ice="Very long. One dedicated island especially has loops. Easiest is to take the two jumps at 130 km/h (80 mph). Caution! Slow down when the road is not in view (behind hill etc.) unless you know it well." />
 	<P pos="428.187 0 -63.351" w="7.792" aT="2" chkR="1.324" />
 	<P pos="393.348 0 -67.2222" w="7" aT="2" />
 	<P pos="372.947 0 -73.8088" w="7" aT="2" mtr="3" chkR="1.364" />

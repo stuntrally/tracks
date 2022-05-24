@@ -4,7 +4,8 @@
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="200" lodPntLen="20" />
 	<geom colN="4" colR="2.56777" wsPm="4" lsPm="1" stBox="1 7.30401 20.2279" iDir="-1" iChk1="52" />
 	<stats length="2686.92" width="8.73875" height="99.4337" onTer="47.4264" pipes="8.59333" bnkAvg="11.7586" bnkMax="60.62" />
-	<txt desc="Beautiful red dawn in the desert during sandstorm. Almost another planet. Generally slow and bumpy, with few sudden drops." />
+	<txt desc="Beautiful red dawn in the desert during sandstorm. Almost another planet." />
+	<adv ice="Generally slow and bumpy, with few sudden drops. Slow down if road is unseen." />
 	<P pos="259.559 0 85.2118" w="7" aT="2" chkR="1.864" />
 	<P pos="217.359 0 27.5758" w="7" a="0" ar="-4.515" aT="2" chkR="1" />
 	<P pos="173.791 19.7921 2.57589" w="8.2" onTer="0" a="0" ar="0" aT="2" chkR="1" />

@@ -5,6 +5,7 @@
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 6.456 12.884" iDir="-1" iChk1="15" />
 	<stats length="3117.13" width="5.41474" height="83.189" onTer="0" pipes="0" bnkAvg="43.1535" bnkMax="78.0682" />
 	<txt desc="A big egg-shaped hole in ground with a curly road on its slopes. Can be driven only from in-car cameras." />
+	<adv ice="" />
 	<P pos="58.7234 0 16.2118" w="6.424" aT="2" mtr="1" />
 	<P pos="37.0156 0 26.3085" w="6.56" aT="2" mtr="1" />
 	<P pos="21.7806 0 27.3341" w="7.248" aT="2" mtr="1" />

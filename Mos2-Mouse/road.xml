@@ -5,6 +5,7 @@
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5.288 18.344" iDir="-1" iChk1="43" />
 	<stats length="1661.17" width="9.56948" height="20.8076" onTer="0" pipes="0" bnkAvg="15.9645" bnkMax="31.3473" />
 	<txt desc="Tricky track in rain and fog. Has few sharp, unexpected, banked turns and many water puddles." />
+	<adv ice="" />
 	<P pos="22.4175 0 7.81821" w="8.024" aT="2" />
 	<P pos="28.8062 0 -70.8382" w="8.024" aT="2" />
 	<P pos="23.5152 0 -137.408" w="8.024" aT="2" chkR="1.956" />

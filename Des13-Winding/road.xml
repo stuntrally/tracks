@@ -4,7 +4,8 @@
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="300" lodPntLen="30" />
 	<geom colN="6" colR="2" wsPm="6" lsPm="2" stBox="1 19.896 15.0041" iDir="1" iChk1="14" />
 	<stats length="4466.74" width="9.15964" height="74.4495" onTer="96.4038" pipes="100" bnkAvg="4.84399" bnkMax="28.1479" />
-	<txt desc="A fast easy pipe track in the middle of the desert. With few circles and a winding part." />
+	<txt desc="A fast easy pipe track in the middle of the desert." />
+	<adv ice="Has few circles and a winding part. Low suspension cars require less speed." />
 	<P pos="150.085 17.0149 6.44139" w="8.99921" onTer="0" a="0" ar="0" aT="2" col="0" pipe="1" />
 	<P pos="152.079 9.62911 126.727" w="8.99921" onTer="0" a="0" ar="0" aT="2" pipe="1" chkR="1.7" />
 	<P pos="84.7815 3.22887 158.659" w="8.99921" onTer="0" a="0" ar="0" aT="2" col="0" pipe="1" />

@@ -4,7 +4,8 @@
 	<mrg skirtLen="0" skirtH="0.03" merge="1" mergeLen="1200" lodPntLen="120" visDist="1000" visBehind="800" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5.516 18.22" iDir="-1" iChk1="120" />
 	<stats length="8102.21" width="9.51817" height="226.249" onTer="51.1453" pipes="0" bnkAvg="2.04739" bnkMax="16.14" />
-	<txt desc="Long, wide, fast road, going from sea level up to mountains and back, with great views." />
+	<txt desc="Road, going from sea level, up to mountains and back, with great views." />
+	<adv ice="Long, wide, fast. Half on bridges, don't hit walls. Has one steeper slope with tight turn." />
 	<P pos="602.232 0 369.197" w="9.248" aT="2" col="0" mtr="1" />
 	<P pos="603.18 0 322.343" w="9.248" aT="2" col="0" mtr="1" chkR="2.264" />
 	<P pos="563.384 0 282.559" w="9.248" aT="2" col="0" />

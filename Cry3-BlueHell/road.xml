@@ -4,7 +4,8 @@
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="720.96" lodPntLen="36.8094" />
 	<geom colN="6" colR="2.82091" wsPm="8" lsPm="1.53229" stBox="1 14.336 29.4518" iDir="-1" iChk1="179" />
 	<stats length="6170" width="13.7494" height="136.021" onTer="75.9874" pipes="33.2941" onPipe="17.4597" bnkAvg="18.2272" bnkMax="87.54" />
-	<txt desc="Extremely difficult track with very tricky twisted and on-pipe loops. Keep speed to not fall off in them. Caution! crazy obstacles, avoid damage. Unique dark from black sun, ambient fog and heavy specular." />
+	<txt desc="Extremely difficult track. Unique dark from black sun, ambient fog and heavy specular." />
+	<adv ice="Very tricky and twisted. Has also an on-pipe loop, be in center and keep speed, to not fall off. Caution! crazy obstacles, avoid damage." />
 	<P pos="-252.956 0 -94.1289" w="9.336" aT="2" chkR="1.364" />
 	<P pos="-286.637 0 -36.2566" w="9.82401" aT="2" />
 	<P pos="-275.152 0 -16.677" w="7.776" a="0" ar="8.04" aT="2" mtr="2" />

@@ -4,7 +4,8 @@
 	<mrg skirtLen="2" skirtH="0.12" merge="1" mergeLen="200" lodPntLen="10" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 6.616 23.66" iDir="1" iChk1="27" />
 	<stats length="3308.61" width="9.63733" height="186.705" onTer="55.3843" pipes="52.6111" bnkAvg="5.76639" bnkMax="40.9301" />
-	<txt desc="Another track from that mysterious planet. Few curly pipes and a triple loop, partly in water." />
+	<txt desc="Another track on that mysterious, dark violet planet." />
+	<adv ice="Few curly pipes and a triple loop, partly in water. With a long crossing through jelly fluid." />
 	<P pos="122.008 0 -89.0541" w="8.576" aT="2" col="0" />
 	<P pos="76.1711 0 -97.1664" w="8.576" a="253.44" ar="0" aT="1" col="0" />
 	<P pos="38.2432 -2.20614 -103.12" w="8.576" onTer="0" a="271.68" ar="0" aT="1" pipe="1" />

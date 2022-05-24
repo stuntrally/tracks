@@ -5,4 +5,5 @@
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 3 5" iDir="-1" iChk1="0" />
 	<stats length="0" width="0" height="0" onTer="0" pipes="0" bnkAvg="0" bnkMax="0" />
 	<txt desc="Big hilly terrain with many large fluid areas." />
+	<adv ice="Good for practicing driving on gravel." />
 </SplineRoad>

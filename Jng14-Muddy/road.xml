@@ -5,6 +5,7 @@
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5 11.74" iDir="-1" iChk1="20" />
 	<stats length="796.785" width="6.12878" height="11.2401" onTer="8.2106" pipes="0" bnkAvg="4.68775" bnkMax="21.4927" />
 	<txt desc="A short, winding road through muddy jungle." />
+	<adv ice="" />
 	<P pos="57.6585 0 53.0499" w="6.0816" aT="2" />
 	<P pos="42.2057 0 56.2554" w="6.0816" aT="2" />
 	<P pos="25.1595 0 52.3969" w="6.0816" a="0" ar="8.04" aT="2" chkR="1.804" />

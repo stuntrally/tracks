@@ -4,7 +4,8 @@
 	<mrg loop="1" skirtLen="0.2" skirtH="0.1" merge="1" mergeLen="1487" lodPntLen="85.3464" visDist="400" visBehind="400" />
 	<geom colN="4" colR="2" wsPm="8" lsPm="1" stBox="1 8.152 18.608" iDir="-1" iChk1="199" />
 	<stats length="17981.3" width="11.0842" height="347.827" onTer="84.9305" pipes="38.5091" onPipe="3.02756" bnkAvg="14.1452" bnkMax="90" />
-	<txt desc="Very long, extreme stunt track in unidentified scenery. With few levels, lots of loops, glass pipes, halfpipes, banked turns and jumps. Top base has a bumpy, on pipe, glass staircase. Slow down in blue pipes. Has fast, glass and mirror style road." />
+	<txt desc="Very long, extreme stunt track in unidentified scenery. Has fast, glass and mirror style road." />
+	<adv ice="Few levels, lots of loops, glass pipes, halfpipes, 90 degrees banked turns and jumps. Top base has a bumpy, slow, on pipe, glass staircase. Also slow down in blue pipes." />
 	<P pos="-214.542 302.77 114.218" w="19.656" onTer="0" a="35.505" ar="-9.12001" aT="2" col="0" mtr="-1" not="1" />
 	<P pos="-213.844 304.59 138.478" w="14.456" onTer="0" a="-1.755" ar="0" aT="2" col="0" pipe="0.436" mtr="1" wall="-1" />
 	<P pos="-215.553 310.426 175.321" w="23.248" onTer="0" a="-1.755" ar="0" aT="2" col="0" pipe="0.436" mtr="1" wall="-1" />

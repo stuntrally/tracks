@@ -4,7 +4,8 @@
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="800" lodPntLen="120" />
 	<geom colN="6" colR="2" wsPm="4" lsPm="1" stBox="1 5.56 19.968" iDir="-1" iChk1="4" />
 	<stats length="4327.26" width="7.29247" height="34.0249" onTer="17.1717" pipes="10.7185" bnkAvg="4.08692" bnkMax="24.84" />
-	<txt desc="Dark, long, muddy, bumpy and slippery road. Has few wide curves but partly slow and winding." />
+	<txt desc="Dark, long, muddy, bumpy and slippery road." />
+	<adv ice="Has few wide curves, but partly slow and winding through mud, later also in pipe." />
 	<P pos="-320.001 0 -139.009" w="7" aT="2" />
 	<P pos="-277.164 0 -223.612" w="7" aT="2" />
 	<P pos="-206.763 0 -288.231" w="7" aT="2" chkR="1.76" />

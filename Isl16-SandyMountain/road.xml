@@ -4,7 +4,8 @@
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="1503.4" lodPntLen="39.5937" visDist="500" visBehind="500" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 6.304 16.56" iDir="1" iChk1="50" />
 	<stats length="7906.58" width="8.23344" height="48.5144" onTer="9.80632" pipes="3.83437" bnkAvg="3.94667" bnkMax="30.7676" />
-	<txt desc="A winding road through sparse forest. Mostly flat and easy, fast track through desolate mountain scenery with a large lake." />
+	<txt desc="A winding road through sparse forest in desolate mountain scenery with a large lake." />
+	<adv ice="Mostly flat, fast and easy. Good for fastest vehicles." />
 	<P pos="-519.662 0 135.986" w="8.508" a="0" ar="-4.98" aT="2" col="0" />
 	<P pos="-484.615 0.413921 57.6944" w="8.43114" onTer="0" a="0" ar="-7.8" aT="2" pipe="1" chkR="1" />
 	<P pos="-339.993 2.42 -102.89" w="9.22999" onTer="0" a="0" ar="0" aT="2" col="0" />

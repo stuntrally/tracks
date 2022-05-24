@@ -4,7 +4,8 @@
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5.33599 14.2081" iDir="-1" iChk1="9" />
 	<stats length="1506.37" width="9.544" height="29.2422" onTer="10.9026" pipes="0" bnkAvg="10.6098" bnkMax="26.2982" />
-	<txt desc="Winding road in red autumn forest. With 2 bridges and banked turns." />
+	<txt desc="Winding road in red autumn forest." />
+	<adv ice="With 2 bridges and banked turns. Limited visibility because of close trees." />
 	<P pos="86.2718 0 38.9917" w="9.544" a="0" ar="0" aT="2" mtr="1" />
 	<P pos="116.953 0 10.9948" w="9.544" aT="2" mtr="1" chkR="1.736" />
 	<P pos="138.743 0 -26.8493" w="9.544" aT="2" mtr="1" />

@@ -4,7 +4,8 @@
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="600" lodPntLen="40" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 6.924 15.64" iDir="-1" iChk1="55" />
 	<stats length="2847.75" width="7.6032" height="82.748" onTer="16.0581" pipes="0" bnkAvg="9.61474" bnkMax="39.1341" />
-	<txt desc="Slow and difficult mountain track. Bumpy terrain and high slopes covered with slippy, winding road." />
+	<txt desc="Slow and difficult mountain track." />
+	<adv ice="Hilly terrain with high slopes, covered with slippy, winding road." />
 	<P pos="-67.0609 0 -133.616" w="7.592" aT="2" />
 	<P pos="-46.8329 0 -132.216" w="7.592" aT="2" chkR="2.488" />
 	<P pos="-34.2254 0 -114.936" w="7.592" aT="2" />

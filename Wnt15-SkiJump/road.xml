@@ -4,7 +4,8 @@
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
 	<geom colN="4" colR="5.15483" wsPm="4" lsPm="1" stBox="1 6.70405 16.576" iDir="-1" iChk1="29" />
 	<stats length="2678.18" width="10.374" height="204.432" onTer="10.9235" pipes="0" bnkAvg="1.59378" bnkMax="6.89212" />
-	<txt desc="A track with a deep drop and jump on the snow. Landing safe, rather than flying far, is the key to success. Reverse direction very hard without boost." />
+	<txt desc="A track with a deep drop and a ski jump on the snow." />
+	<adv ice="Landing safe, rather than flying far, is the key to success. Reverse direction requires boost." />
 	<P pos="282.541 0 -32.1852" w="7.792" aT="2" />
 	<P pos="294.636 0 -126.372" w="7.792" aT="2" chkR="1.5" />
 	<P pos="293.507 0 -181.077" w="7.792" aT="2" />

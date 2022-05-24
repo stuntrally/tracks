@@ -1,10 +1,11 @@
 <SplineRoad>
-	<mtr road="roadJungle" pipe="pipeGlass" road2="roadStone" road3="roadSand2" road4="roadAsphalt" />
-	<dim tcMul="0.0846225" tcW="0.2" tcP="0.050191" tcPW="0.3" tcC="0.2" lenDim="2.0054" widthSteps="5" heightOfs="0.06" />
-	<mrg skirtLen="0.1" skirtH="0.05" merge="1" mergeLen="6000" lodPntLen="60.1729" visDist="600" visBehind="600" />
+	<mtr river="0" road="roadJungle" pipe="pipeGlass" road2="roadStone" road3="roadSand2" road4="roadAsphalt" />
+	<dim tcMul="0.0693002" tcW="0.01" tcP="0.01" tcPW="0.039687" tcC="0.0390873" lenDim="2.04639" widthSteps="4" heightOfs="0.06" />
+	<mrg loop="1" skirtLen="0.1" skirtH="0.05" merge="1" mergeLen="2400" lodPntLen="60.1729" visDist="600" visBehind="600" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1.4702" stBox="1 6.72801 16.144" iDir="1" iChk1="4" />
-	<stats length="21746.1" width="8.53851" height="1411.23" onTer="77.1726" pipes="26.7422" bnkAvg="10.5065" bnkMax="86.969" />
-	<txt desc="Extremely long mountain track. Starting at sea level with a beach drive. Going high up into the mountains and ending with a descend through the valley, passing by two villages and few cave tunnels along the way. Has very high altitude differences, spiraling hill climbs and few glass lookouts." />
+	<stats length="21746.5" width="8.53849" height="1411.26" onTer="77.1712" pipes="26.7417" bnkAvg="10.0144" bnkMax="89.8781" />
+	<txt desc="Extremely long mountain track. Starting at sea level with a beach drive. Going high up into the mountains and ending with a descend through the valley, passing by two villages and few cave tunnels along the way." />
+	<adv ice="Has very high altitude differences, spiraling hill climbs and few glass lookouts." />
 	<P pos="-681.357 -58.0972 646.233" w="7.64" onTer="0" a="0" ar="0" aT="2" col="0" />
 	<P pos="-692.374 -51.3066 528.021" w="7.64" onTer="0" a="0" ar="0" aT="2" col="0" />
 	<P pos="-702.817 -57.1582 426.153" w="7.64" onTer="0" a="0" ar="0" aT="2" col="0" chkR="1" />
@@ -417,8 +418,8 @@
 	<P pos="683.854 0 6.0741" w="7.64" aT="2" col="0" chkR="1.78" />
 	<P pos="657.3 0 29.6505" w="7.64" aT="2" col="0" />
 	<P pos="614.252 0 25.9644" w="7.64" aT="2" col="0" />
-	<P pos="575.971 0 18.5374" w="7.64" aT="2" col="0" />
-	<P pos="523.476 0 11.722" w="7.64" aT="2" col="0" />
+	<P pos="575.913 0 19.0904" w="7.64" aT="2" col="0" />
+	<P pos="523.447 0 12.5201" w="7.64" aT="2" col="0" />
 	<P pos="476.464 0 13.5099" w="7.64" aT="2" col="0" />
 	<P pos="451.309 0 19.3558" w="7.64" aT="2" col="0" />
 	<P pos="425.825 0 30.7524" w="7.64" aT="2" col="0" chkR="1.544" />

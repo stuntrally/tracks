@@ -4,7 +4,8 @@
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="516.139" lodPntLen="14.987" />
 	<geom colN="8" colR="2.88229" wsPm="4" lsPm="1" stBox="1 10.996 20.9761" iDir="-1" iChk1="49" />
 	<stats length="9437.92" width="9.15427" height="198.315" onTer="47.6408" pipes="22.5661" bnkAvg="18.006" bnkMax="89.5803" />
-	<txt desc="Long, winding road in a red canyon. With banked road and pipes. Beware of obstacles." />
+	<txt desc="Long, winding road in a red canyon." />
+	<adv ice="Banked waving bridges and pipes. Beware of obstacles." />
 	<P pos="-99.4853 60.4456 35.0964" w="10.224" onTer="0" a="0" ar="84.7802" aT="2" col="0" pipe="1" mtr="2" />
 	<P pos="-99.9356 60.9908 2.48108" w="11.688" onTer="0" a="0" ar="89.5802" aT="2" col="0" pipe="1" />
 	<P pos="-74.7701 56.7142 -21.5185" w="9.97601" onTer="0" a="0" ar="85.9801" aT="2" pipe="1" />

@@ -5,6 +5,7 @@
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 9.1 20.192" iDir="1" iChk1="173" />
 	<stats length="5049.5" width="8.30352" height="48.9971" onTer="40.8923" pipes="9.93582" bnkAvg="8.44347" bnkMax="58.92" />
 	<txt desc="Track with a lot of mud and very twisted bridge segments. Road is mostly on islands, one contains a tiny village on it." />
+	<adv ice="" />
 	<P pos="146.275 0 145.579" w="10.208" aT="2" chkR="1.832" />
 	<P pos="172.853 0 110.623" w="9.264" aT="2" />
 	<P pos="200.491 0 88.6249" w="9.32" aT="2" chkR="1.712" />

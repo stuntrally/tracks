@@ -4,7 +4,8 @@
 	<mrg loop="1" skirtLen="1" skirtH="0.12" merge="1" mergeLen="427.16" lodPntLen="14.8323" visDist="1000" visBehind="800" />
 	<geom colN="6" colR="2.35514" wsPm="6.01414" lsPm="1" stBox="1 6.712 19.92" iDir="-1" iChk1="47" />
 	<stats length="5596.41" width="12.9204" height="69.376" onTer="35.1361" pipes="31.6197" onPipe="18.9764" bnkAvg="6.15676" bnkMax="40.101" />
-	<txt desc="Tricky track inside and around an Alien base. With on-pipe drive (mixer), obstacles, bumps and few fluids including acid." />
+	<txt desc="Tricky track inside and around an Alien base." />
+	<adv ice="Has a tricky on-pipe drive (acid mixer), obstacles, bumps and few fluids including acid." />
 	<P pos="-283.473 0 -117.821" w="13.856" a="0" ar="0" aT="2" chkR="1.188" />
 	<P pos="-306.346 0 -112.504" w="7" aT="2" />
 	<P pos="-325.034 0 -92.4774" w="7.632" aT="2" />

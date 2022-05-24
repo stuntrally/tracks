@@ -4,7 +4,8 @@
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 6.056 19.18" iDir="-1" iChk1="0" />
 	<stats length="1646.48" width="11.4558" height="29.8013" onTer="53.132" pipes="0" bnkAvg="4.35245" bnkMax="18.2396" />
-	<txt desc="A track where you jump over 4 pyramids. Aim at 120 km/h (76 mph) to jump over safely. Not drivable in reversed." />
+	<txt desc="A track where you jump over 4 pyramids. Not drivable reversed." />
+	<adv ice="Aim at 120 km/h (76 mph) to jump over safely." />
 	<P pos="188.442 0 173.253" w="7.544" aT="2" chkR="1.848" />
 	<P pos="135.814 0 187.348" w="7.984" aT="2" chkR="1.856" />
 	<P pos="87.5975 0 128.046" w="7.4" aT="2" />

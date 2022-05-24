@@ -4,7 +4,8 @@
 	<mrg loop="0" skirtLen="0.2" skirtH="0.12" merge="1" mergeLen="180" lodPntLen="10" visDist="1000" visBehind="800" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 6.304 12.732" iDir="1" iChk1="6" />
 	<stats length="124.092" width="7.94028" height="3.56793" onTer="0" pipes="0" bnkAvg="5.91558" bnkMax="12.0335" />
-	<txt desc="SR logo track. Actually possible to drive in each letter, except river." />
+	<txt desc="SR logo track." />
+	<adv ice="Actually possible to drive in each letter, except river." />
 	<P pos="-13.4215 0 151.994" w="7.14814" aT="2" mtr="3" chkR="1.376" />
 	<P pos="-6.29725 0 158.359" w="7.38814" aT="2" mtr="3" />
 	<P pos="-0.403027 0 165.365" w="7.14814" aT="2" mtr="2" />

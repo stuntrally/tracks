@@ -4,7 +4,8 @@
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 11.976 24.116" iDir="1" iChk1="5" />
 	<stats length="1209.53" width="8.60113" height="19.7578" onTer="11.9634" pipes="0" bnkAvg="4.03709" bnkMax="11.8486" />
-	<txt desc="A small track on a tiny island at dawn. Curly and with few 180 turns." />
+	<txt desc="Small track on a tiny island at dawn." />
+	<adv ice="Very curly, has few U-turns (180 degrees) and a short bridge." />
 	<P pos="50.6676 0 114.423" w="8.096" aT="2" mtr="1" />
 	<P pos="88.0102 0 137.687" w="8.096" aT="2" />
 	<P pos="120.356 0 140.264" w="8.096" aT="2" chkR="1.872" />

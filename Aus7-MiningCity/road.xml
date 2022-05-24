@@ -4,7 +4,8 @@
 	<mrg skirtLen="0.4" skirtH="0.1" merge="1" mergeLen="400" lodPntLen="20" />
 	<geom colN="6" colR="2" wsPm="4" lsPm="1" stBox="1 5.98 13.3" iDir="-1" iChk1="106" />
 	<stats length="3938.69" width="7.57122" height="49.1384" onTer="0" pipes="0" bnkAvg="3.34132" bnkMax="31.6747" />
-	<txt desc="A track in a city built close to a mine. Has both asphalt and gravel road. Also few U-turns." />
+	<txt desc="A track in a city built close to a mine." />
+	<adv ice="Has both asphalt and gravel road. Also few U-turns." />
 	<P pos="15.1134 0 -84.1715" w="9.096" aT="2" col="0" mtr="1" chkR="1.444" />
 	<P pos="45.8822 0 -102.117" w="7" aT="2" col="0" mtr="1" />
 	<P pos="70.3741 0 -129.698" w="7" aT="2" col="0" mtr="1" />

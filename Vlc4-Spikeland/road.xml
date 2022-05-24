@@ -4,7 +4,8 @@
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="800" lodPntLen="120" />
 	<geom colN="6" colR="2" wsPm="4" lsPm="1" stBox="1 5.56 19.968" iDir="1" iChk1="7" />
 	<stats length="1447.84" width="7" height="35.814" onTer="14.1947" pipes="0" bnkAvg="4.18012" bnkMax="29.1169" />
-	<txt desc="This is a short and very bumpy track. Your best bet is to drive slowly and carefully." />
+	<txt desc="Short and very bumpy track." />
+	<adv ice="Drive slowly and carefully." />
 	<P pos="49.5373 8.15064 7.68122" w="7" onTer="0" a="0" ar="0" aT="2" />
 	<P pos="87.6617 0 -18.8302" w="7" a="0" ar="0" aT="2" chkR="1.6" />
 	<P pos="119.401 0 -31.8414" w="7" aT="2" />

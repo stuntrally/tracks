@@ -4,7 +4,8 @@
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="702.067" lodPntLen="15.7966" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5.552 17.656" iDir="-1" iChk1="6" />
 	<stats length="4852.97" width="8.78038" height="159.386" onTer="16.1338" pipes="0" bnkAvg="3.51972" bnkMax="26.154" />
-	<txt desc="A city built on mountain slopes. Has few quite sharp hairpin turns, bridges and terrain bumps. Not for those afraid of heights." />
+	<txt desc="A city built on mountain slopes. Not for those afraid of heights." />
+	<adv ice="Has few quite sharp, hairpin turns, bridges and terrain bumps." />
 	<P pos="178.403 0 23.8422" w="9.66356" a="-2.58" ar="6.96" aT="2" col="0" chkR="1" />
 	<P pos="145.87 33.4518 24.1973" w="7.60756" onTer="0" a="0" ar="0" aT="2" col="0" />
 	<P pos="113.313 0 27.2016" w="8.81556" a="2.83507" ar="-6.912" aT="2" chkR="1" />

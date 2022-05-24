@@ -5,6 +5,7 @@
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 3.2 16.284" iDir="1" iChk1="4" />
 	<stats length="272.321" width="10.0592" height="12.5454" onTer="0" pipes="0" bnkAvg="0.516533" bnkMax="1.17257" />
 	<txt desc="Short track with irregular checkpoints for testing." />
+	<adv ice="Various turns, some sharp." />
 	<P pos="-23.2108 0 41.9794" w="8.936" aT="2" chkR="1.54" />
 	<P pos="-57.6493 0 -21.0137" w="8.936" aT="2" chkR="1.468" />
 	<P pos="-50.5509 0 -40.9436" w="10.936" aT="2" chkR="1.4" />

@@ -5,6 +5,7 @@
 	<geom colN="4" colR="2.6" wsPm="4" lsPm="1" stBox="1 20.46 12.344" iDir="-1" iChk1="32" />
 	<stats length="3860.38" width="9.7664" height="157.498" onTer="100" pipes="100" bnkAvg="2.54956" bnkMax="31.26" />
 	<txt desc="Fast, long and difficult track for experts. Twisted, with loops and few sharp pipe direction changes (in dark blue glass)." />
+	<adv ice="" />
 	<P pos="53.3025 64.0461 133.286" w="9.7664" onTer="0" a="69.48" ar="31.26" aT="0" col="0" pipe="1" mtr="1" />
 	<P pos="50.9692 35.1828 116.23" w="9.7664" onTer="0" a="48.3" ar="0" aT="0" col="0" pipe="1" mtr="3" />
 	<P pos="23.1906 35.4627 91.9326" w="9.7664" onTer="0" a="54.3" ar="0" aT="0" col="0" pipe="1" />

@@ -1,10 +1,11 @@
 <SplineRoad>
-	<mtr road="roadStone" pipe="pipeGlass" />
+	<mtr river="0" road="roadStone" pipe="pipeGlass" />
 	<dim tcMul="0.0679848" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="8" heightOfs="0.1" />
-	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="180" lodPntLen="10" visDist="1000" visBehind="800" />
+	<mrg loop="1" skirtLen="1" skirtH="0.12" merge="1" mergeLen="180" lodPntLen="10" visDist="1000" visBehind="800" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 6.304 23.224" iDir="-1" iChk1="12" />
-	<stats length="1130.9" width="15.5493" height="15.1726" onTer="12.8667" pipes="6.87872" bnkAvg="1.94577" bnkMax="7.14725" />
-	<txt desc="Short oval track in hilly terrain. Whole road made using bridged road and then align terrain to road tool." />
+	<stats length="1201.44" width="14.2066" height="21.006" onTer="0" pipes="8.30416" bnkAvg="1.68993" bnkMax="7.14725" />
+	<txt desc="Short track for testing pacenotes." />
+	<adv ice="Few different turns also sharp." />
 	<P pos="-60.9191 0 68.3993" w="13.16" aT="2" chkR="1.676" />
 	<P pos="28.3312 0 148.315" w="11.64" aT="2" />
 	<P pos="98.9763 0 185.461" w="15.288" aT="2" chkR="1.724" />

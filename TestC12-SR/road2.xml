@@ -5,6 +5,7 @@
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1.5 5 12" iDir="-1" iChk1="0" />
 	<stats length="69.5164" width="5.49489" height="3.46969" onTer="51.8399" pipes="0" bnkAvg="7.7464" bnkMax="26.865" />
 	<txt desc="" />
+	<adv ice="" />
 	<P pos="57.7529 0 26.3097" w="5.4764" aT="2" />
 	<P pos="56.7611 0 31.2823" w="5.7784" aT="2" />
 	<P pos="54.7762 0 35.0028" w="5.4764" aT="2" />

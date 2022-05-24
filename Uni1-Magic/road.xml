@@ -5,6 +5,7 @@
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 6.616 23.66" iDir="1" iChk1="1" />
 	<stats length="1387.8" width="15.6135" height="42.7623" onTer="8.61014" pipes="17.0854" bnkAvg="17.8922" bnkMax="54.0633" />
 	<txt desc="Hidden track, on a mysterious planet in space, magic." />
+	<adv ice="Goes on jelly like fluid surface with litte grip. Also has a short pipe and banked terrain turn." />
 	<P pos="-33.8802 0 -133.611" w="16.168" aT="2" />
 	<P pos="-34.1233 0 -71.6765" w="16.168" aT="2" mtr="-1" chkR="1.472" />
 	<P pos="-22.4685 0 -22.5784" w="16.168" aT="2" mtr="-1" />

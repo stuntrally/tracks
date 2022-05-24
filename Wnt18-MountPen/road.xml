@@ -4,7 +4,8 @@
 	<mrg skirtLen="0.3" skirtH="0.05" merge="1" mergeLen="1500" lodPntLen="40" visDist="1000" visBehind="800" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 6.20801 16.324" iDir="-1" iChk1="201" />
 	<stats length="6192.93" width="7.65136" height="304.302" onTer="45.8176" pipes="18.1725" bnkAvg="5.9707" bnkMax="84.7799" />
-	<txt desc="Curly track through snow covered, high mountains. The highest roads are slippery and may be even icy. Watch out for hairpin turns to not fall off cliffs." />
+	<txt desc="Curly track through snow covered, high mountains." />
+	<adv ice="The highest roads are very slippery and may be even icy. Watch out for hairpin turns to not fall off cliffs." />
 	<P pos="-369.95 0 -70.8071" w="7" aT="2" col="0" mtr="2" />
 	<P pos="-353.287 0 -94.4535" w="7" aT="2" col="0" mtr="1" />
 	<P pos="-345.753 0 -112.067" w="7" aT="2" col="0" mtr="1" />

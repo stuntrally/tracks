@@ -4,7 +4,8 @@
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="702.067" lodPntLen="15.7966" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5.552 17.656" iDir="1" iChk1="2" />
 	<stats length="3562.73" width="11.5141" height="102.766" onTer="58.4558" pipes="0" bnkAvg="6.70026" bnkMax="89.0402" />
-	<txt desc="Tropical beach shore with a track inside city and suburban areas. Has an abandoned pipe stunt area at sea. Speeds for two jumps are 95 and 75 km/h. If you go too fast in the second stunt it is possible to do the second loop many times." />
+	<txt desc="Tropical beach shore with a track inside city and suburban areas." />
+	<adv ice="Partly on asphalt. Has an abandoned pipe stunt area at sea. Optional, exploration only. Speeds for two jumps are 95 and 75 km/h. If you go too fast in the second stunt it is possible to do the second loop many times." />
 	<P pos="49.6406 0 -272.13" w="7" aT="2" mtr="1" chkR="1.668" />
 	<P pos="22.0211 0 -200.101" w="8.432" aT="2" mtr="1" />
 	<P pos="5.81862 0 -179.325" w="11.288" aT="2" mtr="1" chkR="1.636" />

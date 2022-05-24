@@ -4,7 +4,8 @@
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="1010.59" lodPntLen="27.5323" />
 	<geom colN="6" colR="2.82091" wsPm="6" lsPm="1.4702" stBox="1 5.33599 13.1521" iDir="1" iChk1="192" />
 	<stats length="8463.45" width="10.1953" height="95.6151" onTer="71.1964" pipes="68.2727" onPipe="55.9929" bnkAvg="3.50792" bnkMax="70.5533" />
-	<txt desc="Extremely difficult and long road, inside industrial area, with obstacles. Drive slowly! Keep center on pipe, and when leaving. Orange pipes are twisted, blue are easy." />
+	<txt desc="Extremely difficult and long road, inside industrial area, with obstacles." />
+	<adv ice="Almost fully on pipe. Drive slowly! Keep center of pipe, go lower in turns. Orange pipes are twisted, blue are easy. Has a tricky on-pipe loop." />
 	<P pos="165.665 0 -54.9515" w="7.73378" aT="2" mtr="1" />
 	<P pos="174.599 0 -79.5811" w="11.2727" a="0" ar="0" aT="2" mtr="-1" not="1" />
 	<P pos="172.334 46.6856 -74.749" w="14.1371" onTer="0" a="0" ar="0" aT="2" col="0" pipe="1" mtr="3" onP="1" />

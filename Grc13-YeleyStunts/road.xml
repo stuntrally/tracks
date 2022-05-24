@@ -4,7 +4,8 @@
 	<mrg loop="1" skirtLen="0.2" skirtH="0.06" merge="1" mergeLen="651.078" lodPntLen="50.4035" visDist="320.439" visBehind="329.759" />
 	<geom colN="6" colR="3.60209" wsPm="4" lsPm="1" stBox="1 5.288 18.344" iDir="1" iChk1="128" />
 	<stats length="23582.5" width="7.96576" height="71.4038" onTer="50.1521" pipes="14.7889" bnkAvg="11.3412" bnkMax="89.4" />
-	<txt desc="Stunt track on Yeley peninsula and its shore islands. Extremely long and with plenty of stunts. Famous for having many loops in city center." />
+	<txt desc="Stunt track on Yeley peninsula and its shore islands. Famous for having many loops in city center." />
+	<adv ice="Extremely long and with plenty of stunts, loops, jumps. Mostly flat. Few obstacles, easy ponds and bumps." />
 	<P pos="707.227 0 317.631" w="8.11425" aT="2" col="0" />
 	<P pos="701.202 0 272.214" w="8.08927" aT="2" col="0" />
 	<P pos="686.334 0 231.346" w="8.88407" a="0" ar="0" aT="2" col="0" wall="-1" />

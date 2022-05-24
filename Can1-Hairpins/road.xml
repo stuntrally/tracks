@@ -4,7 +4,8 @@
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="160" lodPntLen="10" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 6.804 24.604" iDir="-1" iChk1="68" />
 	<stats length="1916.15" width="8.10393" height="59.4427" onTer="0" pipes="0" bnkAvg="28.3744" bnkMax="59.7459" />
-	<txt desc="Tricky but fast track, with many sharp turns - hairpins, also very banked and high terrain angles." />
+	<txt desc="Tricky but fast track with high terrain slopes." />
+	<adv ice="Has many sharp hairpin turns and high banking angles." />
 	<P pos="-140.064 0 104.089" w="8.136" aT="2" />
 	<P pos="-136.715 0 134.256" w="8.136" aT="2" chkR="2.016" />
 	<P pos="-123.343 0 151.156" w="8.136" aT="2" />

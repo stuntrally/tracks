@@ -5,6 +5,7 @@
 	<geom colN="6" colR="3.43052" wsPm="4" lsPm="1" stBox="1 5.33599 16.8001" iDir="-1" iChk1="128" />
 	<stats length="8520.8" width="8.13063" height="148.298" onTer="49.7555" pipes="34.0683" bnkAvg="7.99931" bnkMax="44.0999" />
 	<txt desc="Long, winding asphalt road trough a space mining facility. With pipes and and narrow sections." />
+	<adv ice="" />
 	<P pos="79.679 183.964 -5.92665" w="7" onTer="0" a="0" ar="0" aT="2" pipe="1" mtr="2" />
 	<P pos="48.5775 180.434 -30.6299" w="10.016" onTer="0" a="0" ar="0" aT="2" pipe="1" mtr="2" />
 	<P pos="14.1961 171.026 -62.0626" w="11.176" onTer="0" a="0" ar="0" aT="2" col="0" pipe="1" mtr="2" />

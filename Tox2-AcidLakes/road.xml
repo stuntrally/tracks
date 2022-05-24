@@ -4,7 +4,8 @@
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="800" lodPntLen="40" visDist="400" visBehind="400" />
 	<geom colN="6" colR="2" wsPm="4" lsPm="1" stBox="1 6.904 17.0964" iDir="1" iChk1="24" />
 	<stats length="1574.32" width="8.752" height="2.0649" onTer="0" pipes="0" bnkAvg="1.84778" bnkMax="12.3667" />
-	<txt desc="A short curly road around acid lakes. Keep your wheels away from acid, stay on road." />
+	<txt desc="Short and curly road, around vaporing acid lakes. Dangerous, unless when hovering above." />
+	<adv ice="Stay on road, keep all your wheels away from acid." />
 	<P pos="2.98369 0 -66.6983" w="8.752" aT="2" />
 	<P pos="11.9816 0 -88.7133" w="8.752" aT="2" chkR="1.56" />
 	<P pos="27.6147 0 -100.229" w="8.752" aT="2" mtr="1" />

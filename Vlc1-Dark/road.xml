@@ -5,6 +5,7 @@
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 4.76 12.6324" iDir="1" iChk1="18" />
 	<stats length="1139.22" width="6.776" height="8.47402" onTer="0" pipes="0" bnkAvg="4.25122" bnkMax="26.7413" />
 	<txt desc="A black volcanic terrain in a very dark clouded dusk, horrifying." />
+	<adv ice="Bumpy at places, shortly through water and slightly banked." />
 	<P pos="150.208 0 147.598" w="6.776" aT="2" />
 	<P pos="123.506 0 182.683" w="6.776" aT="2" />
 	<P pos="85.854 0 202.977" w="6.776" aT="2" chkR="1.996" />

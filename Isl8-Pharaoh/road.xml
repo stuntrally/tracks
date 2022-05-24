@@ -5,6 +5,7 @@
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 6.96 18.7404" iDir="-1" iChk1="43" />
 	<stats length="2645.16" width="12.0957" height="41.7473" onTer="3.35625" pipes="0" bnkAvg="12.629" bnkMax="55.0658" />
 	<txt desc="Small curly and tricky track, in the land of the Pharaoh." />
+	<adv ice="Has 2 very banked terrain turns and many terrain jumps in middle." />
 	<P pos="140.292 0 -60.7328" w="14.5817" aT="2" chkR="1.812" />
 	<P pos="180.722 0 -86.2093" w="14.5817" aT="2" />
 	<P pos="189.922 0 -151.81" w="14.5817" aT="2" chkR="1.856" />

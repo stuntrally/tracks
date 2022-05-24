@@ -4,5 +4,6 @@
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="180" lodPntLen="10" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 3 9" iDir="-1" iChk1="0" />
 	<stats length="0" width="0" height="0" onTer="0" pipes="0" bnkAvg="0" bnkMax="0" />
-	<txt desc="Hilly and very slippery terrain. With various surfaces, white is ice, brown has most grip." />
+	<txt desc="Hilly and very slippery terrain." />
+	<adv ice="With various surfaces: white is ice, green is wet snow, brown has most grip." />
 </SplineRoad>

@@ -5,6 +5,7 @@
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 6.696 15.9881" iDir="-1" iChk1="18" />
 	<stats length="1165.65" width="7.944" height="9.40017" onTer="0" pipes="0" bnkAvg="7.27077" bnkMax="20.3115" />
 	<txt desc="Small curly track in heavy rain." />
+	<adv ice="Rather flat and slippery, needs much steering." />
 	<P pos="-9.24809 0 176.955" w="7.944" aT="2" />
 	<P pos="15.0485 0 138.644" w="7.944" aT="2" />
 	<P pos="47.1393 0 105.286" w="7.944" aT="2" chkR="1.72" />

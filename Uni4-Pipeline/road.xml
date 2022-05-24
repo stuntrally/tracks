@@ -4,7 +4,8 @@
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="600" lodPntLen="40" visDist="1000" visBehind="800" />
 	<geom colN="8" colR="4" wsPm="4" lsPm="1" stBox="1 14.2 36.3283" iDir="1" iChk1="5" />
 	<stats length="7537.4" width="12.1597" height="89.9379" onTer="56.1913" pipes="72.4438" onPipe="5.51422" bnkAvg="2.7113" bnkMax="52.9246" />
-	<txt desc="Difficult, long, winding track, made in remains of pipeline installations. Few obstacles inside. Partly driven on pipe." />
+	<txt desc="Difficult, long, winding track, made in remains of pipeline installations." />
+	<adv ice="Many obstacles inside, usually big columns. Partly driven on pipe." />
 	<P pos="488.404 0 -79.9069" w="9.1368" aT="2" mtr="1" chkR="2.14" />
 	<P pos="456.935 0 -113.514" w="9.1368" aT="2" />
 	<P pos="408.136 0 -130.969" w="9.1368" aT="2" />

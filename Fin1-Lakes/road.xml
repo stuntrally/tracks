@@ -4,7 +4,8 @@
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="800" lodPntLen="40" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 4.972 18.368" iDir="-1" iChk1="24" />
 	<stats length="3657.12" width="7.67274" height="37.1846" onTer="9.30664" pipes="0" bnkAvg="3.17358" bnkMax="10.5764" />
-	<txt desc="A track in Finland scenery, with lakes. Partly winding and bumpy, but with fast straights near water." />
+	<txt desc="A track in Finland scenery, with lakes." />
+	<adv ice="Partly winding and bumpy, but with fast straights near water." />
 	<P pos="-2.84725 -0.882127 47.4663" w="7.6224" onTer="0" a="0" ar="0" aT="2" />
 	<P pos="10.1673 -1.26169 -7.43823" w="7.1744" onTer="0" a="0" ar="0" aT="2" />
 	<P pos="23.6996 0 -64.9161" w="7.2864" a="0" ar="0" aT="2" chkR="1.168" />

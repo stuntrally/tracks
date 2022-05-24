@@ -5,6 +5,7 @@
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 7.2399 15.896" iDir="-1" iChk1="18" />
 	<stats length="1508.03" width="10.1304" height="49.3006" onTer="12.3925" pipes="0" bnkAvg="4.28763" bnkMax="17.7805" />
 	<txt desc="Difficult bumpy track with muddy road and a hill at center." />
+	<adv ice="" />
 	<P pos="91.7492 0 71.3416" w="10.1705" aT="2" />
 	<P pos="-6.5652 0 145.637" w="10.1705" aT="2" chkR="1.416" />
 	<P pos="53.1578 0 225.66" w="10.1705" aT="2" chkR="1.524" />

@@ -4,7 +4,8 @@
 	<mrg loop="1" skirtLen="0" skirtH="0.05" merge="1" mergeLen="1200" lodPntLen="40" visDist="600" visBehind="400" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 7.79601 14.408" iDir="1" iChk1="162" />
 	<stats length="6740.18" width="7.94624" height="283.984" onTer="66.2511" pipes="0" bnkAvg="4.07137" bnkMax="18.9378" />
-	<txt desc="Long, winding track in high mountains. Mostly bridged, going from bottom until snowy mountain peaks." />
+	<txt desc="Long, winding track in beautiful high mountain scenery." />
+	<adv ice="Mostly bridged, going from bottom until snowy peaks. Has many narrow, sharp U-turns and high slopes." />
 	<P pos="172.076 25.0168 -298.649" w="8.144" onTer="0" a="0" ar="0" aT="2" />
 	<P pos="137.814 18.4986 -257.13" w="8.936" onTer="0" a="0" ar="-6.12" aT="2" col="0" />
 	<P pos="136.048 10.9846 -199.409" w="8.144" onTer="0" a="14.04" ar="0" aT="2" col="0" chkR="1.888" />

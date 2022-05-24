@@ -4,7 +4,8 @@
 	<mrg skirtLen="0" skirtH="0.06" merge="1" mergeLen="1328.11" lodPntLen="35.8398" visDist="500" visBehind="500" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5.064 16.352" iDir="1" iChk1="220" />
 	<stats length="11851" width="8.24665" height="265.206" onTer="61.4676" pipes="28.5005" bnkAvg="17.0815" bnkMax="89.7482" />
-	<txt desc="Enjoy the Schwab stunt area and around in autumn. Very challenging track. Mountain rally, stunts (dedicated area along the large lake), two small villages, caves, waterhits and many pipe jumps." />
+	<txt desc="Enjoy the Schwab stunt area and around in autumn. Mountain rally with two small villages, few caves and waterhits." />
+	<adv ice="Very challenging track. Has many short pipe jumps. Loops are in dedicated area along the large lake." />
 	<P pos="-399.407 0 -22.4077" w="8.2" a="0" ar="0" aT="2" col="0" mtr="1" />
 	<P pos="-403.685 0 6.61176" w="8.2" aT="2" col="0" mtr="1" />
 	<P pos="-404.33 0 23.0342" w="8.2" aT="2" col="0" mtr="1" />

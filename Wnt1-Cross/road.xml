@@ -4,7 +4,8 @@
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5.212 11.768" iDir="-1" iChk1="47" />
 	<stats length="2285.54" width="7.976" height="13.4444" onTer="0" pipes="0" bnkAvg="3.51725" bnkMax="10.2934" />
-	<txt desc="Simple winter crossing.&#x0A;Snowing and slippery." />
+	<txt desc="Simple winter crossing." />
+	<adv ice="Snowing and slippery. Slow down very much, early before turns." />
 	<P pos="175.566 0 -7.76483" w="7.976" aT="2" />
 	<P pos="211.019 0 -7.63254" w="7.976" aT="2" chkR="2.104" />
 	<P pos="244.11 0 -12.6518" w="7.976" aT="2" />

@@ -4,7 +4,8 @@
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 6.804 24.604" iDir="1" iChk1="47" />
 	<stats length="2130.17" width="8.304" height="68.3388" onTer="21.8951" pipes="0" bnkAvg="11.4521" bnkMax="28.614" />
-	<txt desc="Curly, track in mountains with few bridges. Heavy snow and dense fog." />
+	<txt desc="Curly track in mountains during heavy snowfall and dense fog." />
+	<adv ice="With bridges, few big circles and 1 sharp hairpin turn." />
 	<P pos="4.00373 0 121.864" w="8.304" aT="2" />
 	<P pos="7.626 0 165.098" w="8.304" aT="2" chkR="2.248" />
 	<P pos="26.6865 0 148.608" w="8.304" aT="2" chkR="2.248" />
