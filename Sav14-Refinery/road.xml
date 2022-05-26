@@ -4,8 +4,8 @@
 	<mrg loop="1" skirtLen="0" skirtH="0" merge="1" mergeLen="166.893" lodPntLen="20" visDist="1000" visBehind="800" />
 	<geom colN="5" colR="2.5" wsPm="4" lsPm="1" stBox="1 5.16 11.208" iDir="1" iChk1="87" />
 	<stats length="5328.49" width="8.18549" height="69.1901" onTer="83.7282" pipes="35.8193" bnkAvg="17.9425" bnkMax="89.9657" />
-	<txt desc="Hard difficulty, stunt track. Intense skewed loops, pipes, very banked, twisted road and jumps. Caution: crazy! For professional stunt drivers." />
-	<adv ice="" />
+	<txt desc="Extremely difficult, but not too long, stunt track located in salt mine with refinery. Caution: crazy! For professional stunt drivers." />
+	<adv ice="Very curly in 3D, with intense skewed loops, vertical twisted road, pipes and jumps. Drive calm and slow, don't hit walls." />
 	<P pos="-43.911 30.5373 -28.3669" w="8.58" onTer="0" a="0" ar="0" aT="2" col="0" />
 	<P pos="-34.9745 27.9078 -12.6081" w="8.4" onTer="0" a="0" ar="-11.4" aT="2" col="0" chkR="1" />
 	<P pos="-15.9518 22.6892 -3.25598" w="7" onTer="0" a="0" ar="-25.8" aT="2" />
@@ -45,8 +45,8 @@
 	<P pos="58.5761 4.83954 30.1593" w="7.088" onTer="0" a="102.84" ar="14.559" aT="0" col="0" />
 	<P pos="71.4582 4.49047 30.9248" w="8.432" onTer="0" a="93.66" ar="3.78" aT="0" mtr="1" chkR="1" />
 	<P pos="103.07 10.8 34.543" w="12.184" onTer="0" a="0" ar="0" aT="1" pipe="1" mtr="-1" />
-	<P pos="111.791 12.94 34.5452" w="10.544" onTer="0" a="0" ar="0" aT="2" pipe="1" mtr="-1" />
-	<P pos="123.116 11.5 35.5973" w="10.272" onTer="0" a="0" ar="0" aT="1" col="0" mtr="-1" />
+	<P pos="114.513 20.46 35.2818" w="10.544" onTer="0" a="0" ar="0" aT="2" pipe="1" mtr="-1" />
+	<P pos="126.305 24.06 36.2763" w="10.272" onTer="0" a="0" ar="0" aT="1" col="0" mtr="-1" />
 	<P pos="133.674 10.362 36.884" w="10.784" onTer="0" a="0" ar="0" aT="1" mtr="1" />
 	<P pos="180.912 0.994462 40.489" w="12.688" onTer="0" a="0" ar="0" aT="2" col="0" pipe="1" mtr="1" />
 	<P pos="194.719 1.8 56.7279" w="12.6" onTer="0" a="0" ar="0" aT="2" col="0" pipe="1" mtr="1" chkR="1" />
