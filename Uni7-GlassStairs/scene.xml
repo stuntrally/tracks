@@ -1,7 +1,7 @@
 <scene>
-	<ver num="2700" baseTrk="Uni6-Wild" secEd="90441" />
+	<ver num="2700" baseTrk="Uni6-Wild" secEd="91859" />
 	<car tires="0" damage="0.351759" road1mtr="0" />
-	<start pos="17.4937 74.5564 225.335" rot="-5.38304e-07 -2.82569e-07 -0.99989 -0.0156819" />
+	<start pos="17.4937 74.5564 225.335" rot="-5.38304e-07 -2.82569e-07 -0.99989 -0.0156819" pos2="0 0 0" rot2="0 0 0 1" />
 	<sound ambient="" reverbs="Unidentified" />
 	<sky material="sky/magic" skyYaw="64.0909" />
 	<fog color="0.867 0.424 1.122 1.000 0.000" color2="0.709 0.565 0.762 1.000 0.680" linStart="188.275" linEnd="2000" />
@@ -13,6 +13,7 @@
 		<fluid name="water blue" pos="-55.4216 192.083 -57.5069" rot="0 0 0" size="38.6785 3.10446 143.638" tile="0.01 0.01" />
 		<fluid name="mud soft" pos="-185.331 281.791 101.518" rot="0 0 0" size="8.91389 6.61678 43.9967" tile="0.01 0.01" />
 		<fluid name="blue jelly" pos="-210.303 252.469 -65.2493" rot="0 0 0" size="50 20 50" tile="0.01 0.01" />
+		<fluid name="blue jelly" pos="-220.845 253.423 137.233" rot="0 0 0" size="26.3453 4.04472 33.4697" tile="0.01 0.01" />
 	</fluids>
 	<terrain size="1025" triangle="1.30521" errNorm="15.00" emissive="1" specPowEm="1.74492">
 		<texture on="1" file="desert_sand_bigx_d.jpg" fnorm="desert_sand_big_n.jpg" scale="7.08998" surf="DesertFast" dust="0.215447" dustS="0.298781" mud="0.156504" smoke="0" tclr="0.683 0.500 0.400 0.900 0.000" angMin="0" angMax="8.03571" angSm="4.02142" hMin="-300" hMax="500" hSm="20" nOn="0" noise="0.795977" n_1="0" n2="0.801724">
