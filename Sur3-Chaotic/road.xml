@@ -5,7 +5,7 @@
 	<geom colN="5" colR="2.5" wsPm="4" lsPm="1" stBox="1 4.824 20.748" iDir="-1" iChk1="33" />
 	<stats length="2174.12" width="8.50708" height="102.594" onTer="60.9901" pipes="31.2346" bnkAvg="18.8716" bnkMax="84.3001" />
 	<txt desc="Short track in a funny, random scenery." />
-	<adv ice="Contains a lot of different objects, from skyscrapers, alien buildings to everything. Twisted road with one bad camber turn." />
+	<adv ice="Contains a lot of different objects, from skyscrapers, Alien buildings to everything. Twisted road with one bad camber turn." />
 	<P pos="151.928 79.4062 10.9393" w="7" onTer="0" a="0" ar="-62.9399" aT="2" mtr="1" />
 	<P pos="156.93 77.1453 -18.6042" w="7" onTer="0" a="0" ar="-69.3601" aT="2" mtr="1" chkR="1" />
 	<P pos="127.405 83.2885 -23.7543" w="8.296" onTer="0" a="0" ar="-84.3001" aT="2" mtr="1" />

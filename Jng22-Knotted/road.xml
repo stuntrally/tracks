@@ -4,7 +4,7 @@
 	<mrg skirtLen="0.12" skirtH="0.03" merge="1" mergeLen="800" lodPntLen="60" />
 	<geom colN="4" colR="2.5" wsPm="4" lsPm="1" stBox="1 6.70405 18.548" iDir="1" iChk1="52" />
 	<stats length="2876.25" width="9.77488" height="43.544" onTer="81.5665" pipes="33.121" bnkAvg="8.12595" bnkMax="30.4619" />
-	<txt desc="Very winding and curly track around dark jungle." />
+	<txt desc="An extremely curly track around dark jungle." />
 	<adv ice="Mostly bridged and with halfpipes, also slippery terrain." />
 	<P pos="76.5946 61.2354 5.65111" w="11.336" onTer="0" a="0" ar="18.78" aT="2" pipe="0.484" />
 	<P pos="69.236 60.3566 36.5506" w="10.936" onTer="0" a="0" ar="24.24" aT="2" col="0" pipe="0.484" />

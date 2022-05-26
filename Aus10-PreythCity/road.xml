@@ -5,7 +5,7 @@
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 11.976 24.116" iDir="1" iChk1="3" />
 	<stats length="7744.09" width="7.78103" height="98.1082" onTer="43.9937" pipes="21.0447" bnkAvg="7.70909" bnkMax="89.5199" />
 	<txt desc="Preyth City at one of Earth&apos;s pinkest mineral lakes." />
-	<adv ice="Has few jumps and an inverted loop: turn gently (leftward) before entering, to be upside down, and turn again before exit, to be straight. Pipes have interruptions in the city." />
+	<adv ice="Has few jumps and an inverted loop: turn gently (to side) before entering, to be upside down, and turn again before exit, to be straight. Pipes have interruptions in the city, go slowly on side to cross." />
 	<P pos="131.622 0 -162.33" w="7.808" aT="2" mtr="1" />
 	<P pos="75.56 0 -158.878" w="7" aT="2" mtr="1" />
 	<P pos="18.8164 0 -160.436" w="7" aT="2" mtr="1" />

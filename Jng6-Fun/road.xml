@@ -5,7 +5,7 @@
 	<geom colN="6" colR="3" wsPm="4" lsPm="1" stBox="1 5.664 22.336" iDir="-1" iChk1="112" />
 	<stats length="3486.74" width="13.6351" height="57.1987" onTer="62.025" pipes="21.8415" bnkAvg="7.12757" bnkMax="67.8599" />
 	<txt desc="Winding track in flat, sparse jungle area." />
-	<adv ice="Has 3 small jumps, water and mud splashes, narrow section, twisted banking bumps and one pipe." />
+	<adv ice="Has 3 small jumps, water and mud splashes, narrow section, twisted banking bumps and 2 pipes." />
 	<P pos="100.495 0 74.5691" w="13.072" aT="2" chkR="1.236" />
 	<P pos="129.453 0 119.076" w="9.704" a="20.16" ar="0" aT="0" col="0" chkR="1.292" />
 	<P pos="129.935 -7.93712 154.501" w="11.624" onTer="0" a="-28.02" ar="40.101" aT="0" pipe="0.508" />

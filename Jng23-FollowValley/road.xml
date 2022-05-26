@@ -4,7 +4,7 @@
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="499.769" lodPntLen="14.8323" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5.064 16.352" iDir="-1" iChk1="98" />
 	<stats length="3630.14" width="7.01738" height="146.459" onTer="34.0616" pipes="14.4921" bnkAvg="4.66509" bnkMax="53.76" />
-	<txt desc="Cliff road following a valley through dense jungle near water." />
+	<txt desc="Cliff road following a valley through dark jungle near water." />
 	<adv ice="Has steep parts and few hairpin turns. Otherwise fast and smooth." />
 	<P pos="108.677 0 58.9638" w="7" aT="2" />
 	<P pos="181.842 0 143.207" w="7" aT="2" />

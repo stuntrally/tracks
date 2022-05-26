@@ -5,7 +5,7 @@
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 10.028 23.8201" iDir="1" iChk1="29" />
 	<stats length="3872.88" width="7.40845" height="117.045" onTer="66.8768" pipes="21.7302" bnkAvg="21.5977" bnkMax="90" />
 	<txt desc="Tricky track in interesting desert terrain." />
-	<adv ice="With 90 degree banked turns, one narrow with no side walls (yellow). Has a couple of stunts." />
+	<adv ice="With 90° banked turns, one narrow with no side walls (yellow). Has a couple of stunts." />
 	<P pos="143.892 -3.58841 -82.3783" w="7" onTer="0" a="0" ar="0" aT="2" chkR="1" ckL="1" />
 	<P pos="157.655 23.2997 -75.5537" w="7" onTer="0" a="128.22" ar="-8.16" aT="2" col="0" />
 	<P pos="141.016 55.5805 -79.3925" w="7" onTer="0" a="-179.159" ar="-721.022" aT="2" col="0" />

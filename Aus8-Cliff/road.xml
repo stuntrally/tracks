@@ -5,7 +5,7 @@
 	<geom colN="5" colR="2.5" wsPm="4" lsPm="1" stBox="1 5 20.748" iDir="-1" iChk1="47" />
 	<stats length="3040.85" width="8.03143" height="233.068" onTer="41.0649" pipes="0" bnkAvg="35.3864" bnkMax="83.0399" />
 	<txt desc="Heavily banked road on a red cliff." />
-	<adv ice="Don&apos;t fall off and stay on road. Very waving and bumpy." />
+	<adv ice="Don&apos;t fall off and stay on road. Very waving and bumpy. Keep speed and grip in almost vertical turns." />
 	<P pos="234.634 0 173.613" w="7" aT="2" chkR="1.932" />
 	<P pos="206.801 0 193.811" w="8.248" a="-20.04" ar="49.1399" aT="2" col="0" mtr="1" />
 	<P pos="155.094 180.167 204.778" w="7" onTer="0" a="0" ar="20.46" aT="2" mtr="1" />

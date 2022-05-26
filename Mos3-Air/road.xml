@@ -4,7 +4,7 @@
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
 	<geom colN="4" colR="1" wsPm="4" lsPm="1" stBox="1 5.152 16.568" iDir="-1" iChk1="7" />
 	<stats length="1069.6" width="8.99913" height="38.9533" onTer="5.01097" pipes="0" bnkAvg="7.05968" bnkMax="24.9739" />
-	<txt desc="Simple, fast 8-figure track with a simple, short jump." />
+	<txt desc="Small, simple, fast 8-figure track with an easy, short jump." />
 	<adv ice="The jump can be taken with a speed of at least 92 km/h (57 mph) in either direction. Not too much more." />
 	<P pos="-163.73 0 -39.2106" w="9.0008" aT="2" chkR="1.656" />
 	<P pos="-189.503 0 -18.113" w="9.0024" aT="2" />

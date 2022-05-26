@@ -5,7 +5,7 @@
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 4.76 15.1924" iDir="-1" iChk1="31" />
 	<stats length="1304.67" width="8.0696" height="7.07427" onTer="0" pipes="0" bnkAvg="8.22598" bnkMax="30.6311" />
 	<txt desc="Small island track with few buildings." />
-	<adv ice="Curly road with few broad U-turns and a banked circle turn." />
+	<adv ice="Curly road with 2 broad U-turns and 2 banked circle turns." />
 	<P pos="-103.748 0 125.872" w="7.72" aT="2" chkR="1.816" />
 	<P pos="-75.5275 0 143.268" w="7.72" aT="2" />
 	<P pos="-42.3133 0 146.131" w="7.72" aT="2" chkR="1.812" />

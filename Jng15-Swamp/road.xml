@@ -4,7 +4,7 @@
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="320" lodPntLen="20" />
 	<geom colN="5" colR="1.8" wsPm="4" lsPm="1" stBox="1 5.056 12.36" iDir="-1" iChk1="96" />
 	<stats length="2843.38" width="5.58339" height="15.6926" onTer="12.3488" pipes="0" bnkAvg="3.2764" bnkMax="24.12" />
-	<txt desc="Difficult, winding, bumpy road inside a jungle swamp." />
+	<txt desc="Difficult, very bumpy road inside a jungle swamp." />
 	<adv ice="Many terrain jumps, easy to loose direction." />
 	<P pos="-74.747 0 -80.7318" w="6.064" aT="2" />
 	<P pos="-91.5414 0 -71.3942" w="6.064" aT="2" />

@@ -5,7 +5,7 @@
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5 14.564" iDir="1" iChk1="4" />
 	<stats length="1684.97" width="7.592" height="11.33" onTer="0" pipes="0" bnkAvg="5.05527" bnkMax="14.8982" />
 	<txt desc="Simple, small, curly road in lush jungle." />
-	<adv ice="Very round. Bumpy at places, with a bit of water." />
+	<adv ice="Very round. Bumpy at places, with a bit of water and mud." />
 	<P pos="-106.062 0 -157.71" w="7.592" aT="2" />
 	<P pos="-52.9932 0 -158.955" w="7.592" aT="2" />
 	<P pos="24.601 0 -158.478" w="7.592" aT="2" />

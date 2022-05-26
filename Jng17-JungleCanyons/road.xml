@@ -5,7 +5,7 @@
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5 21.8241" iDir="1" iChk1="54" />
 	<stats length="5947.08" width="11.5313" height="131.699" onTer="4.01701" pipes="0" bnkAvg="4.60132" bnkMax="20.0382" />
 	<txt desc="Majestic and rather empty jungle scenery." />
-	<adv ice="Terrain has high slopes and few jumps, but has fast driving in lower parts. With one narrow hill climb." />
+	<adv ice="Terrain with high slopes and few jumps, but has fast driving in lower parts. With one narrow hill climb." />
 	<P pos="167.653 0 -359.019" w="6" aT="2" chkR="7.14" />
 	<P pos="173.975 0 -504.051" w="6" aT="2" />
 	<P pos="258.565 0 -555.142" w="6" aT="2" chkR="5.668" />

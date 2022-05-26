@@ -4,7 +4,7 @@
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="608.284" lodPntLen="15.144" visDist="1000" visBehind="800" />
 	<geom colN="4" colR="2" wsPm="5.9874" lsPm="1" stBox="1 10.376 18.408" iDir="1" iChk1="167" />
 	<stats length="5879.76" width="11.6194" height="319.125" onTer="76.6724" pipes="54.7759" onPipe="8.91085" bnkAvg="21.0304" bnkMax="76.6801" />
-	<txt desc="A very tricky, winding, slow track around a small alien base." />
+	<txt desc="A very tricky, winding, slow track around a small Alien base." />
 	<adv ice="Has a 300 m high, free-fall part. Caution: many obstacles, partly slippery and also on pipe." />
 	<P pos="101.396 106.923 114.86" w="8.57105" onTer="0" a="-2.64" ar="-2.46" aT="2" mtr="1" />
 	<P pos="64.0537 109.864 121.437" w="9.256" onTer="0" a="0" ar="0" aT="2" col="0" mtr="1" chkR="1" />
