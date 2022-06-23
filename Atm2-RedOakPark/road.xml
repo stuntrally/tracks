@@ -1,7 +1,7 @@
 <SplineRoad>
-	<mtr road="roadSandShore" pipe="pipeAsphalt" road2="roadMud" />
+	<mtr river="0" road="roadSandShore" pipe="pipeAsphalt" road2="roadMud" />
 	<dim tcMul="0.1" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="2" widthSteps="6" heightOfs="0.06" />
-	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
+	<mrg loop="1" skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" visDist="1000" visBehind="800" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5.33599 14.2081" iDir="-1" iChk1="9" />
 	<stats length="1506.37" width="9.544" height="29.2422" onTer="10.9026" pipes="0" bnkAvg="10.6098" bnkMax="26.2982" />
 	<txt desc="Winding road in red autumn forest." />

@@ -1,7 +1,7 @@
 <SplineRoad>
-	<mtr road="roadSnow" />
+	<mtr river="0" road="roadSnow" pipe="pipeGlass" />
 	<dim tcMul="0.05" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="8" heightOfs="0.06" />
-	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="200" lodPntLen="10" />
+	<mrg loop="1" skirtLen="1" skirtH="0.12" merge="1" mergeLen="200" lodPntLen="10" visDist="1000" visBehind="800" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 4.596 15.376" iDir="-1" iChk1="59" />
 	<stats length="2538.4" width="14.08" height="14.4307" onTer="0" pipes="0" bnkAvg="7.82724" bnkMax="22.8647" />
 	<txt desc="Round, curly, slightly banked road." />

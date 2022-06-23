@@ -1,9 +1,9 @@
 <SplineRoad>
-	<mtr road="roadMud" road2="roadJungle" road3="roadSandDark" />
+	<mtr river="0" road="roadMud" pipe="pipeGlass" road2="roadJungle" road3="roadSandDark" />
 	<dim tcMul="0.1" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="8" heightOfs="0.1" />
-	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="320" lodPntLen="20" />
+	<mrg loop="1" skirtLen="1" skirtH="0.12" merge="1" mergeLen="320" lodPntLen="20" visDist="1000" visBehind="800" />
 	<geom colN="5" colR="1.8" wsPm="4" lsPm="1" stBox="1 5.08 15.64" iDir="-1" iChk1="54" />
-	<stats length="2728.95" width="6.2848" height="15.3139" onTer="0" pipes="0" bnkAvg="4.53272" bnkMax="29.4139" />
+	<stats length="2728.95" width="6.2848" height="15.314" onTer="0" pipes="0" bnkAvg="4.53271" bnkMax="29.4141" />
 	<txt desc="Difficult, winding, bumpy road inside a muddy swamp." />
 	<adv ice="Only for patient drivers. Lots of driving inside mud and jumping into it." />
 	<P pos="-115.985 0 154.774" w="6.2848" aT="2" />

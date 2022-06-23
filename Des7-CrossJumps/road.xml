@@ -1,7 +1,7 @@
 <SplineRoad>
-	<mtr road="roadDesert" road2="roadDesertOrn" wall="road_wall_Desert" col="road_col_Desert" />
+	<mtr river="0" road="roadDesert" pipe="pipeGlass" road2="roadDesertOrn" wall="road_wall_Desert" col="road_col_Desert" />
 	<dim tcMul="0.0473075" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="2" widthSteps="6" heightOfs="0.06" />
-	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="200" lodPntLen="10" visDist="1000" visBehind="800" />
+	<mrg loop="1" skirtLen="1" skirtH="0.12" merge="1" mergeLen="200" lodPntLen="10" visDist="1000" visBehind="800" />
 	<geom colN="8" colR="3.78747" wsPm="4" lsPm="1" stBox="1 5.52 17.636" iDir="-1" iChk1="89" />
 	<stats length="4023.67" width="8.85233" height="27.8859" onTer="17.2023" pipes="0" bnkAvg="6.90825" bnkMax="41.9296" />
 	<txt desc="Long fast track with a lot of jumps." />

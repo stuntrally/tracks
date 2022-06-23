@@ -1,7 +1,7 @@
 <SplineRoad>
-	<mtr road="roadSand2" pipe="pipeAsphalt" road2="roadSandDark" pipe2="pipeGlassCyan" road3="roadDesert" />
+	<mtr river="0" road="roadSand2" pipe="pipeAsphalt" road2="roadSandDark" pipe2="pipeGlassCyan" road3="roadDesert" />
 	<dim tcMul="0.1" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="2" widthSteps="6" heightOfs="0.06" />
-	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
+	<mrg loop="1" skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" visDist="1000" visBehind="800" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5.232 14.1524" iDir="1" iChk1="37" />
 	<stats length="1675.24" width="7.336" height="11.4669" onTer="0" pipes="0" bnkAvg="4.14364" bnkMax="12.6726" />
 	<txt desc="A curly track at sunset." />

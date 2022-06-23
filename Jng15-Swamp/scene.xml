@@ -1,34 +1,38 @@
 <scene>
+	<ver num="2700" baseTrk="TestC4-ow" secEd="159" />
 	<car tires="0" />
-	<start pos="8.59984 83.4053 1.01515" rot="0.044859 -0.00578199 -0.0162208 0.998853" />
+	<start pos="8.59984 83.4053 1.01515" rot="0.044859 -0.00578199 -0.0162208 0.998853" pos2="0 0 0" rot2="0 0 0 1" />
 	<sound ambient="" reverbs="Jungle" />
 	<sky material="sky/gray_clouds" />
-	<fog color="0.66 0.7 0.73 1" color2="0.5 0.53 0.56 1" linStart="0" linEnd="183.013" />
-	<fogH color="0.45 0.55 0.4 0.9" height="2.46001" dens="3.00125" linStart="0" linEnd="36.45" />
-	<light sceneryId="J14" pitch="42.5372" yaw="21.8009" ambient="0.5 0.5 0.5" diffuse="0.65 0.65 0.63" specular="0.99 0.99 0.97" />
+	<fog color="0.571 0.096 0.730 1.000 0.000" color2="0.583 0.107 0.560 1.000 0.000" linStart="0" linEnd="183.013" />
+	<fogH color="0.278 0.273 0.550 0.900 0.000" height="2.46001" dens="3.00125" linStart="0" linEnd="36.45" />
+	<light pitch="42.5372" yaw="21.8009" ambient="0.000 0.000 0.500 1.000 0.000" diffuse="0.167 0.031 0.650 1.000 0.000" specular="0.167 0.020 0.990 1.000 0.000" />
 	<fluids>
 		<fluid name="water green" pos="-0.25155 0.06 0.404012" rot="0 0 0" size="800 40 800" tile="0.00994745 0.00994745" />
 	</fluids>
 	<terrain size="513" triangle="0.735017" errNorm="1.00">
-		<texture on="1" file="grass_green_d.jpg" fnorm="grass_green_n.jpg" scale="6.16095" surf="GrassJungle" dust="0" dustS="0.2" mud="0.4" smoke="0" tclr="0.16 0.31 0.04 0.7" angMin="0" angMax="32.6174" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
+		<texture on="1" file="grass_green_d.jpg" fnorm="grass_green_n.jpg" scale="6.16095" surf="GrassJungle" dust="0" dustS="0.2" mud="0.4" smoke="0" tclr="0.259 0.871 0.310 0.700 0.000" angMin="0" angMax="32.6174" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
 			<noise frq0="22.2" oct0="3" prs0="0.546184" pow0="2.78195" frq1="28.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
-		<texture on="1" file="grass_ground_d.jpg" fnorm="grass_ground_n.jpg" scale="7.06531" surf="GrassForest" dust="0" dustS="0.2" mud="0.8" smoke="0" tclr="0.22 0.2 0.04 0.9" angMin="31.6107" angMax="43.0871" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="0.219236" n_1="0" n2="0">
+		<texture on="1" file="grass_ground_d.jpg" fnorm="grass_ground_n.jpg" scale="7.06531" surf="GrassForest" dust="0" dustS="0.2" mud="0.8" smoke="0" tclr="0.148 0.818 0.220 0.900 0.000" angMin="31.6107" angMax="43.0871" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="0.219236" n_1="0" n2="0">
 			<noise frq0="26.2" oct0="3" prs0="0.3" pow0="1.5" frq1="31.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
-		<texture on="0" file="" fnorm="" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="0.4" smoke="0" tclr="0.48 0.42 0.2 0.7" angMin="39.0604" angMax="50" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="0.648768" n_1="0" n2="0">
+		<texture on="0" file="" fnorm="" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="0.4" smoke="0" tclr="0.131 0.583 0.480 0.700 0.000" angMin="39.0604" angMax="50" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="0.648768" n_1="0" n2="0">
 			<noise frq0="30.2" oct0="3" prs0="0.3" pow0="1.5" frq1="34.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
-		<texture on="0" file="" fnorm="" scale="6.5" surf="Rocks" dust="0" dustS="0.2" mud="0.4" smoke="0" tclr="0.48 0.42 0.2 0.7" angMin="56.5772" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
+		<texture on="0" file="" fnorm="" scale="6.5" surf="Rocks" dust="0" dustS="0.2" mud="0.4" smoke="0" tclr="0.131 0.583 0.480 0.700 0.000" angMin="56.5772" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
 			<noise frq0="34.2" oct0="3" prs0="0.3" pow0="1.5" frq1="37.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
-		<texture on="0" file="" fnorm="" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
+		<texture on="0" file="" fnorm="" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.167 1.000 0.200 1.000 0.000" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
 			<noise frq0="38.2" oct0="3" prs0="0.3" pow0="1.5" frq1="40.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
-		<texture on="0" file="" fnorm="" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
+		<texture on="0" file="" fnorm="" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.167 1.000 0.200 1.000 0.000" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
 			<noise frq0="42.2" oct0="3" prs0="0.3" pow0="1.5" frq1="43.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
-		<texture road="1" surf="roadJungle" dust="0" dustS="0.2" mud="0" smoke="0" tclr="0.4 0.4 0.2 1" />
+		<texture road="1" surf="roadJungle" dust="0" dustS="0.2" mud="0" smoke="0" tclr="0.167 0.500 0.400 1.000 0.000" />
+		<texture road="2" surf="roadJungle" dust="0" dustS="0.2" mud="0" smoke="0" tclr="0.160 0.500 0.200 0.700 0.000" />
+		<texture road="3" surf="roadForest" dust="0" dustS="0.2" mud="0" smoke="0" tclr="0.160 0.500 0.200 0.700 0.000" />
+		<texture road="4" surf="Default" dust="0" dustS="0.2" mud="0" smoke="0" tclr="0.160 0.500 0.200 0.700 0.000" />
 		<par dust="Dust" mud="Mud" smoke="Smoke" />
 	</terrain>
 	<paged densGrass="0.2" densTrees="0.5" grPage="80" grDist="80" grDensSmooth="6" trPage="80" trDist="160" trDistImp="800" trRdDist="2">
@@ -47,8 +51,8 @@
 		<layer on="1" name="tree.09.mesh" dens="0.026829" minScale="0.849972" maxScale="1.15" ofsY="0" addTrRdDist="3" maxRdist="100" windFx="0.599985" windFy="0.00999726" maxTerAng="31.0168" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="1" name="farn1.mesh" dens="0.34" minScale="0.177384" maxScale="0.24959" ofsY="0" addTrRdDist="1" maxRdist="3" windFx="7.29999" windFy="0.0599962" maxTerAng="37.4526" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="1" name="farn2.mesh" dens="0.34" minScale="0.173636" maxScale="0.240232" ofsY="0" addTrRdDist="1" maxRdist="3" windFx="7.29999" windFy="0.0599973" maxTerAng="38.4964" minTerH="-100" maxTerH="100" maxDepth="5" />
-		<layer on="1" name="rock.05.mesh" dens="0.0305407" minScale="0.0299976" maxScale="0.109999" ofsY="0" addTrRdDist="3" maxRdist="100" windFx="0" windFy="0" maxTerAng="32.4482" minTerH="-100" maxTerH="100" maxDepth="5" />
-		<layer on="0" name="rock.07.mesh" dens="0.0320951" minScale="0.0299971" maxScale="0.109999" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0" windFy="0" maxTerAng="34.4069" minTerH="-100" maxTerH="100" maxDepth="5" />
+		<layer on="0" name="rock21triEdgeSpeck.mesh" dens="0.0305407" minScale="0.7" maxScale="1.2" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0" windFy="0" maxTerAng="34.34" minTerH="-100" maxTerH="100" maxDepth="1" />
+		<layer on="1" name="rock30grayGreen.mesh" dens="0.0228403" minScale="0.993208" maxScale="1.20031" ofsY="0" addTrRdDist="7" maxRdist="100" windFx="0" windFy="0" maxTerAng="34.34" minTerH="-100" maxTerH="100" maxDepth="1" />
 		<layer on="0" name="" dens="0.0999996" minScale="0.0999971" maxScale="0.249999" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="0" name="" dens="0.0999996" minScale="0.0999983" maxScale="0.249999" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
@@ -61,4 +65,5 @@
 		<o name="watchtower2" pos="93.5698 84.7064 0.554081" rot="0.0215329 -0.999769 0 0" sc="1.19826 1.19826 1.19826" />
 		<o name="watchtower2" pos="-122.484 132.421 0.129272" rot="0.999898 0.0142759 0 0" sc="1.10364 1.10364 1.10364" />
 	</objects>
+	<emitters />
 </scene>

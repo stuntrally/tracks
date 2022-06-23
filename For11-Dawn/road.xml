@@ -1,9 +1,9 @@
 <SplineRoad>
-	<mtr road="roadJungle" />
+	<mtr river="0" road="roadJungle" pipe="pipeGlass" />
 	<dim tcMul="0.12" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="6" heightOfs="0.06" />
-	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
+	<mrg loop="1" skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" visDist="1000" visBehind="800" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 6.4079 11.692" iDir="1" iChk1="11" />
-	<stats length="860.211" width="6" height="22.2048" onTer="0" pipes="0" bnkAvg="8.02556" bnkMax="25.6218" />
+	<stats length="860.211" width="6" height="22.2048" onTer="0" pipes="0" bnkAvg="8.02554" bnkMax="25.6218" />
 	<txt desc="Short, narrow track in forest at dawn." />
 	<adv ice="Has few terrain bumps and banked turns." />
 	<P pos="10.5097 0 135.389" w="6" aT="2" />

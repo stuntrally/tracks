@@ -1,7 +1,7 @@
 <SplineRoad>
-	<mtr road="roadJungle" road2="roadNdirt" />
+	<mtr river="0" road="roadJungle" pipe="pipeGlass" road2="roadNdirt" />
 	<dim tcMul="0.1" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="6" heightOfs="0.06" />
-	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="180" lodPntLen="10" />
+	<mrg loop="1" skirtLen="1" skirtH="0.12" merge="1" mergeLen="180" lodPntLen="10" visDist="1000" visBehind="800" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5 17.148" iDir="-1" iChk1="51" />
 	<stats length="1199.83" width="8.112" height="15.7095" onTer="0" pipes="0" bnkAvg="11.5799" bnkMax="30.4601" />
 	<txt desc="Fast and nice, small, curly track." />

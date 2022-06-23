@@ -1,7 +1,7 @@
 <scene>
-	<ver num="2500" baseTrk="X3-Cloud" secEd="111" />
+	<ver num="2700" baseTrk="X3-Cloud" secEd="269" />
 	<car tires="0" />
-	<start pos="-64.6381 -5.47507 -5.58963" rot="-0.0643443 -0.0812483 0.696827 0.709731" />
+	<start pos="-64.6381 -5.47507 -5.58963" rot="-0.0643443 -0.0812483 0.696827 0.709731" pos2="0 0 0" rot2="0 0 0 1" />
 	<sound ambient="" reverbs="Forest" />
 	<sky material="sky/cloudy" rainName="RainFastA" rainEmit="3624" rain2Name="RainFine" rain2Emit="1998" />
 	<fog color="0.167 0.056 0.720 1.000 0.000" color2="0.542 0.077 0.520 1.000 0.000" linStart="9.84918" linEnd="321.606" />
@@ -47,9 +47,9 @@
 		<layer on="1" name="fir06.mesh" dens="0.449997" minScale="0.0399986" maxScale="0.119995" ofsY="0" addTrRdDist="1" maxRdist="100" windFx="1.79999" windFy="0.0999955" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="1" name="tree.09.mesh" dens="0.0499998" minScale="0.599997" maxScale="0.899998" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0.799999" windFy="0.0199999" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="1" name="shroom1_2.mesh" dens="0.0399999" minScale="0.149999" maxScale="0.249999" ofsY="0" addTrRdDist="1" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
-		<layer on="0" name="plant1.mesh" dens="0.34" minScale="0.0799998" maxScale="0.149999" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="1.8" windFy="0.0999999" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
+		<layer on="1" name="rock24triangle.mesh" dens="0.0195526" minScale="0.628276" maxScale="0.960104" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0" windFy="0" maxTerAng="31.8055" minTerH="-100" maxTerH="100" maxDepth="1" />
 		<layer on="1" name="farn1.mesh" dens="0.24" minScale="0.119999" maxScale="0.199998" ofsY="0" addTrRdDist="1" maxRdist="100" windFx="9.29999" windFy="0.119999" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
-		<layer on="1" name="rock.07.mesh" dens="0.0149999" minScale="0.0299997" maxScale="0.209999" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
+		<layer on="1" name="rock23dark1block.mesh" dens="0.0363581" minScale="0.633223" maxScale="0.915006" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0" windFy="0" maxTerAng="31.8055" minTerH="-100" maxTerH="100" maxDepth="1" />
 		<layer on="0" name="" dens="0.0999996" minScale="0.0999994" maxScale="0.249999" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="0" name="" dens="0.0999996" minScale="0.0999994" maxScale="0.249996" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="0" name="" dens="0.0999996" minScale="0.0999994" maxScale="0.249999" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
@@ -78,4 +78,5 @@
 		<o name="crate2s" pos="-116.721 84.307 -4.20611" rot="0.423626 0.902614 -0.0245585 -0.0722931" />
 		<o name="crate2s" pos="-113.996 76.7399 -4.69317" rot="0.417752 0.905656 -0.0293524 -0.0664005" />
 	</objects>
+	<emitters />
 </scene>

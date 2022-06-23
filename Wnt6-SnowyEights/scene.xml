@@ -1,32 +1,36 @@
 <scene>
+	<ver num="2700" baseTrk="X3-Cloud" secEd="149" />
 	<car tires="0" />
-	<start pos="-248.014 -60.1385 0.635598" rot="-1.53686e-015 5.56857e-015 -0.70711 -0.707114" />
+	<start pos="-248.014 -60.1385 0.635598" rot="-1.53686e-15 5.56857e-15 -0.70711 -0.707114" pos2="0 0 0" rot2="0 0 0 1" />
 	<sound ambient="" reverbs="Savanna" />
 	<sky material="sky/sunset_blue_gen" rainName="SnowFine" rainEmit="210" skyYaw="48.2707" />
-	<fog color="0.8 0.55 0.4 0.9" color2="0.53 0.33 0.2 0.5" linStart="90.3125" linEnd="432.45" />
-	<fogH color="0.73 0.86 1 1" height="-1" dens="100" linStart="0" linEnd="400" />
-	<light pitch="16" yaw="57" ambient="0.42 0.41 0.4" diffuse="0.7 0.34 0.2" specular="0.7 0.52 0.3" />
+	<fog color="0.062 0.500 0.800 0.900 0.000" color2="0.066 0.623 0.530 0.500 0.000" linStart="90.3125" linEnd="432.45" />
+	<fogH color="0.586 0.270 1.000 1.000 0.000" height="-1" dens="100" linStart="0" linEnd="400" />
+	<light pitch="16" yaw="57" ambient="0.083 0.048 0.420 1.000 0.000" diffuse="0.047 0.714 0.700 1.000 0.000" specular="0.092 0.571 0.700 1.000 0.000" />
 	<fluids />
 	<terrain size="513" triangle="1.76058" errNorm="1.70" specPow="6.44325">
-		<texture on="0" file="snow1_d.jpg" fnorm="snow1_n.jpg" scale="4.5" surf="SnowMedium" dust="1" dustS="0.8" mud="1" smoke="0" tclr="0.4 0.4 0.4 0.6" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
+		<texture on="0" file="snow1_d.jpg" fnorm="snow1_n.jpg" scale="4.5" surf="SnowMedium" dust="1" dustS="0.8" mud="1" smoke="0" tclr="0.000 0.000 0.400 0.600 0.000" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
 			<noise frq0="22.2" oct0="3" prs0="0.3" pow0="1.5" frq1="28.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
-		<texture on="1" file="snow2_d.jpg" fnorm="snow2_n.jpg" scale="6.5" surf="SnowMedium" dust="1" dustS="0.8" mud="1" smoke="0" tclr="0.4 0.4 0.4 0.6" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="1.0027">
+		<texture on="1" file="snow2_d.jpg" fnorm="snow2_n.jpg" scale="6.5" surf="SnowMedium" dust="1" dustS="0.8" mud="1" smoke="0" tclr="0.000 0.000 0.400 0.600 0.000" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="1.0027">
 			<noise frq0="7.44098" oct0="4" prs0="0.570841" pow0="4.1361" frq1="10.275" oct1="3" prs1="0.4" pow1="4.67378" />
 		</texture>
-		<texture on="1" file="snow_bumpy_d.jpg" fnorm="snow_bumpy_n.jpg" scale="13.638" surf="SnowMedium" dust="1" dustS="0.8" mud="1" smoke="0" tclr="0.4 0.4 0.4 0.6" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="1" noise="0" n_1="0" n2="0">
+		<texture on="1" file="snow_bumpy_d.jpg" fnorm="snow_bumpy_n.jpg" scale="13.638" surf="SnowMedium" dust="1" dustS="0.8" mud="1" smoke="0" tclr="0.000 0.000 0.400 0.600 0.000" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="1" noise="0" n_1="0" n2="0">
 			<noise frq0="46.9677" oct0="2" prs0="0.377248" pow0="1.17653" frq1="34.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
-		<texture on="1" file="snow_rough_d.jpg" fnorm="snow_rough_n.jpg" scale="10.1318" surf="SnowWet" dust="1" dustS="0.8" mud="1" smoke="0" tclr="0.4 0.4 0.4 0.6" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="1" noise="1" n_1="0" n2="0">
+		<texture on="1" file="snow_rough_d.jpg" fnorm="snow_rough_n.jpg" scale="10.1318" surf="SnowWet" dust="1" dustS="0.8" mud="1" smoke="0" tclr="0.000 0.000 0.400 0.600 0.000" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="1" noise="1" n_1="0" n2="0">
 			<noise frq0="34.2" oct0="3" prs0="0.3" pow0="1.5" frq1="37.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
-		<texture on="0" file="" fnorm="" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
+		<texture on="0" file="" fnorm="" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.167 1.000 0.200 1.000 0.000" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
 			<noise frq0="38.2" oct0="3" prs0="0.3" pow0="1.5" frq1="40.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
-		<texture on="0" file="" fnorm="" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
+		<texture on="0" file="" fnorm="" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.167 1.000 0.200 1.000 0.000" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
 			<noise frq0="42.2" oct0="3" prs0="0.3" pow0="1.5" frq1="43.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
-		<texture road="1" surf="roadSnow" dust="0.5" dustS="0.5" mud="0.2" smoke="0" tclr="0.5 0.4 0.4 0.5" />
+		<texture road="1" surf="roadSnow" dust="0.5" dustS="0.5" mud="0.2" smoke="0" tclr="0.000 0.200 0.500 0.500 0.000" />
+		<texture road="2" surf="roadJungle" dust="0" dustS="0.2" mud="0" smoke="0" tclr="0.160 0.500 0.200 0.700 0.000" />
+		<texture road="3" surf="roadJungle" dust="0" dustS="0.2" mud="0" smoke="0" tclr="0.160 0.500 0.200 0.700 0.000" />
+		<texture road="4" surf="roadDesert" dust="0" dustS="0.9" mud="0" smoke="0.357995" tclr="0.160 0.500 0.200 0.700 0.000" />
 		<par dust="SnowDust" mud="SnowMud" smoke="Smoke" />
 	</terrain>
 	<paged densGrass="0.15" densTrees="0.5" grPage="80" grDist="80" grDensSmooth="6" trPage="80" trDist="160" trDistImp="800" trRdDist="0">
@@ -43,9 +47,9 @@
 		<layer on="1" name="pine2_tall_full.mesh" dens="0.262085" minScale="0.586023" maxScale="0.965188" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0.11197" windFy="0.0177949" maxTerAng="37.4117" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="1" name="pine3_fat_full.mesh" dens="0.255405" minScale="0.586023" maxScale="1.02475" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0.142359" windFy="0.0188413" maxTerAng="33.6916" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="1" name="pine1_full.mesh" dens="0.199181" minScale="0.545153" maxScale="1.03695" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0.177804" windFy="0.0115325" maxTerAng="33.6916" minTerH="-100" maxTerH="100" maxDepth="5" />
-		<layer on="0" name="rock.05w.mesh" dens="0.13" minScale="0.0732529" maxScale="0.217865" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
-		<layer on="1" name="rock.07w.mesh" dens="0.13" minScale="0.0446094" maxScale="0.181185" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
-		<layer on="1" name="rock_W03.mesh" dens="0.0194865" minScale="1.12362" maxScale="2.28148" ofsY="0" addTrRdDist="12" maxRdist="100" windFx="0" windFy="0" maxTerAng="27.8798" minTerH="-100" maxTerH="100" maxDepth="5" />
+		<layer on="0" name="rock43winter.mesh" dens="0.0296929" minScale="0.7" maxScale="1.2" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0" windFy="0" maxTerAng="34.34" minTerH="-100" maxTerH="100" maxDepth="1" />
+		<layer on="0" name="rock27winter.mesh" dens="0.0219944" minScale="0.7" maxScale="1.2" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0" windFy="0" maxTerAng="34.34" minTerH="-100" maxTerH="100" maxDepth="1" />
+		<layer on="1" name="rock_W03.mesh" dens="0.0830221" minScale="1.12362" maxScale="2.28148" ofsY="0" addTrRdDist="12" maxRdist="100" windFx="0" windFy="0" maxTerAng="27.8798" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="1" name="rock_n1-W.mesh" dens="0.0425945" minScale="0.300044" maxScale="0.79017" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="1" name="rock_n4r-W.mesh" dens="0.0999996" minScale="0.68302" maxScale="1.2734" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="1" name="rock_n5v-W.mesh" dens="0.0668328" minScale="1.16431" maxScale="1.69149" ofsY="0" addTrRdDist="5" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
@@ -53,4 +57,5 @@
 	</paged>
 	<cam pos="261.48 35.261 -137.542" dir="-0.984422 -0.113523 0.134261" />
 	<objects />
+	<emitters />
 </scene>

@@ -1,32 +1,36 @@
 <scene>
+	<ver num="2700" baseTrk="" secEd="138" />
 	<car tires="0" />
-	<start pos="2.77609 -2.35831 -13.2644" rot="-0.000195 -0.000375 -0.999871 -0.0163118" />
+	<start pos="2.77609 -2.35831 -13.2644" rot="-0.000195 -0.000375 -0.999871 -0.0163118" pos2="0 0 0" rot2="0 0 0 1" />
 	<sound ambient="" reverbs="Forest" />
 	<sky material="sky/blue_clouds" />
-	<fog color="0.75 0.8 0.85 1" color2="0.7 0.78 0.84 1" linStart="120.05" linEnd="741.817" />
-	<fogH color="0.73 0.86 1 1" height="-300" dens="100" linStart="0" linEnd="400" />
-	<light sceneryId="F12" pitch="47.2388" yaw="57.3124" ambient="0.5 0.5 0.45" diffuse="0.66 0.63 0.5" specular="0.5 0.5 0.5" />
+	<fog color="0.583 0.118 0.850 1.000 0.000" color2="0.571 0.167 0.840 1.000 0.000" linStart="120.05" linEnd="741.817" />
+	<fogH color="0.586 0.270 1.000 1.000 0.000" height="-300" dens="100" linStart="0" linEnd="400" />
+	<light pitch="47.2388" yaw="57.3124" ambient="0.167 0.100 0.500 1.000 0.000" diffuse="0.135 0.242 0.660 1.000 0.000" specular="0.000 0.000 0.500 1.000 0.000" />
 	<fluids />
 	<terrain size="513" triangle="1.16216" errNorm="5.00">
-		<texture on="0" file="grass_mix_d.jpg" fnorm="grass_mix_n.jpg" scale="6.5" surf="GrassJungle" dust="0" dustS="0.2" mud="0.8" smoke="0" tclr="0.18 0.36 0.04 0.7" angMin="0" angMax="22.2536" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="0.681216" n_1="0" n2="0">
+		<texture on="0" file="grass_mix_d.jpg" fnorm="grass_mix_n.jpg" scale="6.5" surf="GrassJungle" dust="0" dustS="0.2" mud="0.8" smoke="0" tclr="0.260 0.889 0.360 0.700 0.000" angMin="0" angMax="22.2536" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="0.681216" n_1="0" n2="0">
 			<noise frq0="22.2" oct0="3" prs0="0.3" pow0="1.68547" frq1="28.5" oct1="3" prs1="0.4" pow1="1.65894" />
 		</texture>
-		<texture on="1" file="grass_ground_d.jpg" fnorm="grass_ground_n.jpg" scale="9.5" surf="GrassForest" dust="0" dustS="0.2" mud="0.6" smoke="0" tclr="0.15 0.2 0.1 0.9" angMin="0" angMax="6.16438" angSm="2.43307" hMin="-300" hMax="300" hSm="28.1253" nOn="0" noise="1" n_1="0" n2="0">
+		<texture on="1" file="grass_ground_d.jpg" fnorm="grass_ground_n.jpg" scale="9.5" surf="GrassForest" dust="0" dustS="0.2" mud="0.6" smoke="0" tclr="0.250 0.500 0.200 0.900 0.000" angMin="0" angMax="6.16438" angSm="2.43307" hMin="-300" hMax="300" hSm="28.1253" nOn="0" noise="1" n_1="0" n2="0">
 			<noise frq0="106.822" oct0="4" prs0="0.626027" pow0="3.37459" frq1="31.5" oct1="3" prs1="0.4" pow1="1.75282" />
 		</texture>
-		<texture on="0" file="snow_mntn_d.jpg" fnorm="snow_mntn_n.jpg" scale="37.3116" surf="SnowMedium" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="1" noise="0" n_1="0" n2="0">
+		<texture on="0" file="snow_mntn_d.jpg" fnorm="snow_mntn_n.jpg" scale="37.3116" surf="SnowMedium" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.167 1.000 0.200 1.000 0.000" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="1" noise="0" n_1="0" n2="0">
 			<noise frq0="38.2" oct0="3" prs0="0.3" pow0="1.5" frq1="40.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
-		<texture on="1" file="mntn_gray_d.jpg" fnorm="mntn_dark_n.jpg" scale="17.7698" surf="Rocks" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.23 0.23 0.1 0.8" angMin="7.92564" angMax="19.3738" angSm="5.41474" hMin="-300" hMax="300" hSm="0" nOn="0" noise="0" n_1="0.196911" n2="0">
+		<texture on="1" file="mntn_gray_d.jpg" fnorm="mntn_dark_n.jpg" scale="17.7698" surf="Rocks" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.167 0.565 0.230 0.800 0.000" angMin="7.92564" angMax="19.3738" angSm="5.41474" hMin="-300" hMax="300" hSm="0" nOn="0" noise="0" n_1="0.196911" n2="0">
 			<noise frq0="13.148" oct0="4" prs0="0.525049" pow0="3.77606" frq1="34.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
-		<texture on="1" file="mntn_white_d.jpg" fnorm="jungle_stone_n.jpg" scale="31.386" surf="SnowMedium" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="22.0157" angMax="90" angSm="14.7122" hMin="-300" hMax="300" hSm="25.0979" nOn="0" triplanar="1" noise="1" n_1="1" n2="0">
+		<texture on="1" file="mntn_white_d.jpg" fnorm="jungle_stone_n.jpg" scale="31.386" surf="SnowMedium" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.167 1.000 0.200 1.000 0.000" angMin="22.0157" angMax="90" angSm="14.7122" hMin="-300" hMax="300" hSm="25.0979" nOn="0" triplanar="1" noise="1" n_1="1" n2="0">
 			<noise frq0="34.2" oct0="3" prs0="0.3" pow0="1.5" frq1="37.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
-		<texture on="0" file="" fnorm="" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.2 0.2 0 1" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
+		<texture on="0" file="" fnorm="" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.167 1.000 0.200 1.000 0.000" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
 			<noise frq0="42.2" oct0="3" prs0="0.3" pow0="1.5" frq1="43.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
-		<texture road="1" surf="roadForest" dust="0" dustS="1" mud="0" smoke="0" tclr="0.3 0.3 0.1 0.5" />
+		<texture road="1" surf="roadForest" dust="0" dustS="1" mud="0" smoke="0" tclr="0.167 0.667 0.300 0.500 0.000" />
+		<texture road="2" surf="Default" dust="0" dustS="0.2" mud="0" smoke="0" tclr="0.160 0.500 0.200 0.700 0.000" />
+		<texture road="3" surf="Default" dust="0" dustS="0.2" mud="0" smoke="0" tclr="0.160 0.500 0.200 0.700 0.000" />
+		<texture road="4" surf="Default" dust="0" dustS="0.2" mud="0" smoke="0" tclr="0.160 0.500 0.200 0.700 0.000" />
 		<par dust="Dust" mud="Mud" smoke="Smoke" />
 	</terrain>
 	<paged densGrass="0.3" densTrees="2" grPage="80" grDist="80" grDensSmooth="1" trPage="100" trDist="100" trDistImp="800" trRdDist="1">
@@ -43,9 +47,9 @@
 		<layer on="1" name="pine1_norm.mesh" dens="0.234479" minScale="0.597574" maxScale="0.960347" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0.482161" windFy="0.0287762" maxTerAng="25.1389" minTerH="-11" maxTerH="11" maxDepth="0" />
 		<layer on="1" name="pine2_tall_norm.mesh" dens="0.234479" minScale="0.323118" maxScale="0.548818" ofsY="0" addTrRdDist="1" maxRdist="100" windFx="1.61091" windFy="0.0799488" maxTerAng="24.3114" minTerH="-11" maxTerH="14" maxDepth="0" />
 		<layer on="1" name="fir14.mesh" dens="0.293487" minScale="0.0247856" maxScale="0.0700935" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="12" windFy="0.046916" maxTerAng="23.1933" minTerH="-9.72477" maxTerH="14.3119" maxDepth="0" />
-		<layer on="0" name="plant1.mesh" dens="0.264331" minScale="0.0799793" maxScale="0.149982" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="1.79999" windFy="0.0999821" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="0" />
+		<layer on="1" name="rock28grayWhite.mesh" dens="0.0296929" minScale="0.7" maxScale="1.2" ofsY="0" addTrRdDist="4" maxRdist="100" windFx="0" windFy="0" maxTerAng="34.34" minTerH="-100" maxTerH="100" maxDepth="1" />
 		<layer on="1" name="fern2.mesh" dens="0.264331" minScale="0.119999" maxScale="0.199993" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="1.87101" windFy="0.0239909" maxTerAng="42.759" minTerH="-9" maxTerH="9" maxDepth="0" />
-		<layer on="1" name="rock.07.mesh" dens="0.0149999" minScale="0.029996" maxScale="0.159174" ofsY="0" addTrRdDist="3" maxRdist="100" windFx="0" windFy="0" maxTerAng="40.8799" minTerH="-4" maxTerH="20" maxDepth="0" />
+		<layer on="1" name="rock41grayWh.mesh" dens="0.0149999" minScale="0.7" maxScale="1.2" ofsY="0" addTrRdDist="4" maxRdist="100" windFx="0" windFy="0" maxTerAng="34.34" minTerH="-4" maxTerH="20" maxDepth="1" />
 		<layer on="0" name="" dens="0.0999996" minScale="0.0999971" maxScale="0.249988" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-200" maxTerH="100" maxDepth="0" />
 		<layer on="0" name="" dens="0.0999996" minScale="0.0999971" maxScale="0.249988" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="0" />
 		<layer on="0" name="" dens="0.0999996" minScale="0.0999971" maxScale="0.249988" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="0" />
@@ -54,7 +58,7 @@
 	<cam pos="95.933 52.4868 138.769" dir="-0.46134 -0.342086 -0.818622" />
 	<objects>
 		<o name="big_tire" pos="-20.1682 -128.348 0.116747" rot="-0.676113 0.735315 -0.011639 -0.0452545" />
-		<o name="big_tire" pos="1.02193 -101.599 -0.713387" rot="-0.665056 0.746794 1.90767e-007 8.12221e-007" />
+		<o name="big_tire" pos="1.02193 -101.599 -0.713387" rot="-0.665056 0.746794 1.90767e-07 8.12221e-07" />
 		<o name="wood_block" pos="48.7061 -108.619 -0.805922" rot="0.99516 0.0962823 -0.0168558 0.0101335" />
 		<o name="wood_block" pos="106.984 -73.2106 -0.0333859" rot="0.864108 0.501139 0.0452839 0.0112002" />
 		<o name="wood_block" pos="74.3671 76.8835 1.584" rot="0.0622637 0.99806 0.000296605 0.000422403" />
@@ -64,9 +68,10 @@
 		<o name="crate" pos="90.5985 -68.3039 -0.181115" rot="-0.146833 0.988003 0.0260682 -0.0401326" />
 		<o name="crate" pos="82.0636 -102.688 -0.653433" rot="-0.192803 0.981143 -0.00516785 -0.0125679" />
 		<o name="crate" pos="49.9026 -104.057 -0.825647" rot="-0.0693446 0.997293 0.0144777 -0.01969" />
-		<o name="crate" pos="6.27491 -102.314 -0.728561" rot="-0.15175 0.988419 -2.87321e-007 8.13329e-008" />
+		<o name="crate" pos="6.27491 -102.314 -0.728561" rot="-0.15175 0.988419 -2.87321e-07 8.13329e-08" />
 		<o name="crate" pos="112.091 32.2844 4.52092" rot="0.751491 -0.659718 -0.00368394 -0.00448671" />
-		<o name="crate" pos="127.784 -62.8391 0.305775" rot="0.779634 -0.626208 -8.05297e-005 -0.00585147" />
+		<o name="crate" pos="127.784 -62.8391 0.305775" rot="0.779634 -0.626208 -8.05297e-05 -0.00585147" />
 		<o name="crate" pos="117.136 -58.61 0.3544" rot="0.754434 -0.656214 -0.0136586 -0.00510536" />
 	</objects>
+	<emitters />
 </scene>

@@ -1,7 +1,7 @@
 <SplineRoad>
-	<mtr road="roadSand" road2="roadSand2" />
+	<mtr river="0" road="roadSand" pipe="pipeGlass" road2="roadSand2" />
 	<dim tcMul="0.1" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="8" heightOfs="0.1" />
-	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="180" lodPntLen="10" />
+	<mrg loop="1" skirtLen="1" skirtH="0.12" merge="1" mergeLen="180" lodPntLen="10" visDist="1000" visBehind="800" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5.28 12.396" iDir="-1" iChk1="5" />
 	<stats length="1295.53" width="6.83596" height="6.72892" onTer="0" pipes="0" bnkAvg="1.52883" bnkMax="28.4877" />
 	<txt desc="Short, nice, winding road around persian city." />

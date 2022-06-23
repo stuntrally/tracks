@@ -1,7 +1,7 @@
 <SplineRoad>
-	<mtr road="roadMoss" pipe="pipeAsphalt" />
+	<mtr river="0" road="roadMoss" pipe="pipeAsphalt" />
 	<dim tcMul="0.06" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="2" widthSteps="6" heightOfs="0.06" />
-	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
+	<mrg loop="1" skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" visDist="1000" visBehind="800" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5.288 18.344" iDir="-1" iChk1="43" />
 	<stats length="1661.17" width="9.56948" height="20.8076" onTer="0" pipes="0" bnkAvg="15.9645" bnkMax="31.3473" />
 	<txt desc="Tricky, mossy jungle track in rain and fog." />

@@ -1,11 +1,11 @@
 <SplineRoad>
-	<mtr road="roadIce" />
+	<mtr river="0" road="roadIce" pipe="pipeGlass" />
 	<dim tcMul="0.0655407" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="8" heightOfs="0.06" />
-	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
+	<mrg loop="1" skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" visDist="1000" visBehind="800" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5.748 24.168" iDir="-1" iChk1="0" />
 	<stats length="530.823" width="13" height="2.73258" onTer="0" pipes="0" bnkAvg="3.28561" bnkMax="5.82024" />
 	<txt desc="Tiny but extremely slippery ice track." />
-	<adv ice="Drive very slowly. Throttle on straight parts only. Can go into snow to slow down before truns, on inner side. If not then just brake a lot, but don't lock wheels." />
+	<adv ice="Drive very slowly. Throttle on straight parts only. Can go into snow to slow down before truns, on inner side. If not then just brake a lot, but don&apos;t lock wheels." />
 	<P pos="-49.53 0 86.1294" w="13" aT="2" chkR="2.06" />
 	<P pos="-21.6495 0 79.2819" w="13" aT="2" />
 	<P pos="15.1384 0 53.5678" w="13" aT="2" />

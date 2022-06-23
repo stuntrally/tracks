@@ -52,9 +52,9 @@
 		<layer on="1" name="treeD-34desTiny.mesh" dens="0.0399543" minScale="0.907978" maxScale="1.34492" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0.101797" windFy="0.00641048" maxTerAng="17.4866" minTerH="-10" maxTerH="30" maxDepth="0" />
 		<layer on="1" name="cactus.mesh" dens="0.0399999" minScale="0.462021" maxScale="0.853076" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="17.1673" minTerH="-10" maxTerH="30" maxDepth="0" />
 		<layer on="1" name="rock_n2-GYel.mesh" dens="0.0444028" minScale="0.863874" maxScale="1.30169" ofsY="0" addTrRdDist="4" maxRdist="100" windFx="0" windFy="0" maxTerAng="34.2693" minTerH="-10" maxTerH="30" maxDepth="1" />
-		<layer on="0" name="rock.07.mesh" dens="0.0115767" minScale="0.119856" maxScale="0.305434" ofsY="0" addTrRdDist="4" maxRdist="100" windFx="0" windFy="0" maxTerAng="28.9074" minTerH="-10" maxTerH="30" maxDepth="1" />
-		<layer on="0" name="" dens="0.0999996" minScale="0.0999994" maxScale="0.249992" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-10" maxTerH="10" maxDepth="1" />
-		<layer on="0" name="" dens="0.0999996" minScale="0.0999994" maxScale="0.249994" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-10" maxTerH="10" maxDepth="5" />
+		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
+		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
+		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 	</paged>
 	<cam pos="469.373 137.127 -510.9" dir="-0.486879 -0.22409 0.844241" />

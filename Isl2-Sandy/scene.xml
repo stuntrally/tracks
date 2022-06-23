@@ -1,7 +1,7 @@
 <scene>
-	<ver num="2700" baseTrk="" secEd="860" />
+	<ver num="2700" baseTrk="" secEd="938" />
 	<car tires="0" />
-	<start pos="-125.032 -40.7137 0.684183" rot="0.005057 -0.00528 0.710572 0.703608" />
+	<start pos="-125.032 -40.7137 0.684183" rot="0.005057 -0.00528 0.710572 0.703608" pos2="0 0 0" rot2="0 0 0 1" />
 	<sound ambient="" reverbs="Savanna" />
 	<sky material="sky/morning2_gen" />
 	<fog color="0.515 0.145 0.760 1.000 0.000" color2="0.553 0.288 0.660 1.000 0.000" linStart="309.115" linEnd="902.306" />
@@ -50,7 +50,7 @@
 		<layer on="1" name="palm.mesh" dens="0.199788" minScale="0.503928" maxScale="2.91862" ofsY="0" addTrRdDist="3" maxRdist="100" windFx="0.246534" windFy="0.0229909" maxTerAng="50" minTerH="-0.5" maxTerH="100" maxDepth="5" />
 		<layer on="1" name="farn1.mesh" dens="0.34" minScale="0.110814" maxScale="0.435684" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="7.29999" windFy="0.0599931" maxTerAng="50" minTerH="-1" maxTerH="100" maxDepth="5" />
 		<layer on="1" name="farn2.mesh" dens="0.34" minScale="0.136625" maxScale="0.406435" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="7.29999" windFy="0.0599941" maxTerAng="50" minTerH="-1.5" maxTerH="100" maxDepth="5" />
-		<layer on="0" name="rock.05.mesh" dens="0.0305751" minScale="0.0299992" maxScale="0.209997" ofsY="0" addTrRdDist="4" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-6" maxTerH="100" maxDepth="5" />
+		<layer on="1" name="rock14tall1cgr.mesh" dens="0.0144136" minScale="0.7" maxScale="1.2" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0" windFy="0" maxTerAng="34.34" minTerH="-6" maxTerH="100" maxDepth="1" />
 		<layer on="1" name="rock_n2-GYel.mesh" dens="0.0284247" minScale="0.51386" maxScale="0.740175" ofsY="0" addTrRdDist="5" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-6" maxTerH="100" maxDepth="5" />
 		<layer on="0" name="" dens="0.0999996" minScale="0.0999994" maxScale="0.249999" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="0" name="" dens="0.0999996" minScale="0.0999994" maxScale="0.249999" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />

@@ -1,7 +1,7 @@
 <SplineRoad>
-	<mtr road="roadSand" pipe="pipeAsphalt" road2="roadDesertD" pipe2="pipeGlassCyan" road3="roadGDesert" />
+	<mtr river="0" road="roadSand" pipe="pipeAsphalt" road2="roadDesertD" pipe2="pipeGlassCyan" road3="roadGDesert" wall="road_wall_Desert" col="road_col_Desert" />
 	<dim tcMul="0.08" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="2" widthSteps="6" heightOfs="0.06" />
-	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" visDist="1000" visBehind="800" />
+	<mrg loop="1" skirtLen="1" skirtH="0.12" merge="1" mergeLen="295.675" lodPntLen="18.5745" visDist="562.004" visBehind="530.513" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5.288 16.8084" iDir="-1" iChk1="55" />
 	<stats length="3477.54" width="7.16299" height="15.6838" onTer="18.2452" pipes="7.32573" bnkAvg="2.24859" bnkMax="23.5209" />
 	<txt desc="A track connecting few small islands." />
@@ -12,7 +12,7 @@
 	<P pos="-184.686 0 245.12" w="7.592" aT="2" pipe="1" mtr="1" />
 	<P pos="-156.314 0 256.002" w="9.104" aT="2" pipe="1" mtr="1" chkR="1.836" />
 	<P pos="-123.368 0 260.074" w="7.688" aT="2" />
-	<P pos="-84.8209 0 260.14" w="7.072" a="0" ar="0" aT="2" mtr="1" chkR="1.42" />
+	<P pos="-84.8209 0 260.14" w="7.072" a="0" ar="0" aT="2" col="0" mtr="1" chkR="1.42" />
 	<P pos="-48.2963 3.08089 253.341" w="7.072" onTer="0" a="0" ar="0" aT="2" mtr="1" />
 	<P pos="-16.1615 3.11753 244.841" w="7.072" onTer="0" a="0" ar="0" aT="2" col="0" mtr="1" />
 	<P pos="16.6821 0 230.861" w="7.072" a="0" ar="0" aT="2" mtr="1" chkR="1.152" />

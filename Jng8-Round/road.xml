@@ -1,9 +1,9 @@
 <SplineRoad>
-	<mtr road="roadJDark" wall="road_wall_JDark" pipeW="pipe_wall_JDark" />
+	<mtr river="0" road="roadJDark" pipe="pipeGlass" wall="road_wall_JDark" pipeW="pipe_wall_JDark" />
 	<dim tcMul="0.08" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="6" heightOfs="0.06" />
-	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
+	<mrg loop="1" skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" visDist="1000" visBehind="800" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5 11.788" iDir="-1" iChk1="3" />
-	<stats length="2549.31" width="7.03462" height="6.78782" onTer="0" pipes="0" bnkAvg="10.5584" bnkMax="23.3096" />
+	<stats length="2549.31" width="7.03462" height="6.78782" onTer="0" pipes="0" bnkAvg="10.5584" bnkMax="23.3097" />
 	<txt desc="Fast, long, dark jungle road in rain." />
 	<adv ice="Bumpy and with 2 broad, banked circles. Close trees." />
 	<P pos="41.3009 0 244.132" w="7.03462" aT="2" />

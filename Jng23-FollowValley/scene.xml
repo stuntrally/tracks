@@ -52,9 +52,9 @@
 		<layer on="0" name="farn1.mesh" dens="0.586017" minScale="0.0999978" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="7.29998" windFy="0.0599988" maxTerAng="43.7601" minTerH="22.2" maxTerH="170" maxDepth="5" />
 		<layer on="1" name="plant_tropical.mesh" dens="0.319309" minScale="1.38268" maxScale="1.71827" ofsY="0" addTrRdDist="0" maxRdist="19" windFx="0.06" windFy="0.015" maxTerAng="27.49" minTerH="22.2" maxTerH="170" maxDepth="0.5" />
 		<layer on="1" name="rock.05.mesh" dens="0.0297265" minScale="0.0299986" maxScale="0.209996" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0" windFy="0" maxTerAng="50.8076" minTerH="22.2" maxTerH="180" maxDepth="5" />
-		<layer on="0" name="rock.07.mesh" dens="0.0381821" minScale="0.0299986" maxScale="0.209996" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0" windFy="0" maxTerAng="40.7934" minTerH="22.2" maxTerH="300" maxDepth="5" />
-		<layer on="0" name="" dens="0.0999996" minScale="0.0999978" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
-		<layer on="0" name="" dens="0.0999996" minScale="0.0999978" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
+		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
+		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
+		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 	</paged>
 	<cam pos="409.943 48.839 98.2808" dir="-0.0585593 0.196308 -0.978792" />

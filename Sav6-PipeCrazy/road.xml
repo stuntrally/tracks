@@ -1,7 +1,7 @@
 <SplineRoad>
-	<mtr road="roadSavannah" pipe="pipeGlassCyan" pipe2="pipeGlass" />
+	<mtr river="0" road="roadSavannah" pipe="pipeGlassCyan" pipe2="pipeGlass" />
 	<dim tcMul="0.1" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="8" heightOfs="0.06" />
-	<mrg skirtLen="0.1" skirtH="0.04" merge="1" mergeLen="120" lodPntLen="10" visDist="1000" visBehind="800" />
+	<mrg loop="1" skirtLen="0.1" skirtH="0.04" merge="1" mergeLen="120" lodPntLen="10" visDist="1000" visBehind="800" />
 	<geom colN="4" colR="2.5" wsPm="4" lsPm="1" stBox="1 5 11.316" iDir="1" iChk1="12" />
 	<stats length="868.934" width="7.35758" height="65.0441" onTer="69.859" pipes="69.859" bnkAvg="1.47022" bnkMax="29.76" />
 	<txt desc="Short, crazy twisted pipe road." />
@@ -20,7 +20,7 @@
 	<P pos="-9.38238 0 90.2138" w="6" aT="2" />
 	<P pos="-35.7855 0 91.2086" w="6" aT="2" chkR="1.464" />
 	<P pos="-56.0716 0 94.1554" w="6" a="-92.4" ar="0" aT="0" col="0" mtr="1" />
-	<P pos="-71.871 3.28456 100.132" w="8" onTer="0" a="-62.4" ar="0" aT="0" pipe="1" mtr="1" />
+	<P pos="-71.871 3.28456 100.132" w="8" onTer="0" a="-62.4" ar="0" aT="0" col="0" pipe="1" mtr="1" />
 	<P pos="-84.2175 6.61204 104.579" w="8" onTer="0" a="-71.16" ar="0" aT="0" col="0" pipe="1" mtr="1" />
 	<P pos="-94.4957 10.4549 106.397" w="8" onTer="0" a="-85.8" ar="0" aT="0" pipe="1" mtr="1" />
 	<P pos="-102.944 13.9584 104.827" w="8" onTer="0" a="-112.74" ar="0" aT="0" col="0" pipe="1" mtr="1" />
@@ -61,7 +61,7 @@
 	<P pos="-63.7728 14.3157 49.0422" w="8" onTer="0" a="18" ar="0" aT="0" col="0" pipe="1" mtr="1" />
 	<P pos="-55.4873 11.4536 61.0592" w="8" onTer="0" a="48.9" ar="0" aT="0" pipe="1" mtr="1" chkR="1.968" />
 	<P pos="-41.5412 8.0325 68.2553" w="8" onTer="0" a="73.68" ar="0" aT="0" col="0" pipe="1" mtr="1" />
-	<P pos="-26.9558 5.01075 70.3084" w="8" onTer="0" a="85.08" ar="0" aT="0" pipe="1" mtr="1" />
+	<P pos="-26.9558 5.01075 70.3084" w="8" onTer="0" a="85.08" ar="0" aT="0" col="0" pipe="1" mtr="1" />
 	<P pos="-11.0028 2.13148 68.8526" w="8" onTer="0" a="103.68" ar="0" aT="0" col="0" pipe="1" mtr="1" />
 	<P pos="6.95832 0 65.1787" w="6" a="105.12" ar="0" aT="0" />
 </SplineRoad>

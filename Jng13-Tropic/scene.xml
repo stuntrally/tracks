@@ -1,7 +1,7 @@
 <scene>
-	<ver num="2700" baseTrk="" secEd="139" />
+	<ver num="2700" baseTrk="" secEd="430" />
 	<car tires="0" />
-	<start pos="-15.9753 295.536 10.9724" rot="-0.028477 -0.058365 -0.251695 0.965666" />
+	<start pos="-15.9753 295.536 10.9724" rot="-0.028477 -0.058365 -0.251695 0.965666" pos2="0 0 0" rot2="0 0 0 1" />
 	<sound ambient="" reverbs="Rocky" />
 	<sky material="sky/day_blue" skyYaw="-11.2782" />
 	<fog color="0.569 0.312 0.770 0.900 0.000" color2="0.561 0.293 0.750 0.900 0.000" linStart="149.258" linEnd="1153.37" />
@@ -51,8 +51,8 @@
 		<layer on="1" name="palm.mesh" dens="0.157095" minScale="0.503928" maxScale="2.9186" ofsY="0" addTrRdDist="1" maxRdist="100" windFx="0.246534" windFy="0.0229743" maxTerAng="32.9709" minTerH="-0.5" maxTerH="71" maxDepth="0" />
 		<layer on="1" name="farn1.mesh" dens="0.0999996" minScale="0.149999" maxScale="0.249999" ofsY="0" addTrRdDist="0" maxRdist="3" windFx="7.29999" windFy="0.0599931" maxTerAng="41.3535" minTerH="-2.5" maxTerH="100" maxDepth="1" />
 		<layer on="0" name="farn2.mesh" dens="0.0199999" minScale="0.149999" maxScale="0.249999" ofsY="0" addTrRdDist="0" maxRdist="20" windFx="7.29999" windFy="0.0599931" maxTerAng="34.8108" minTerH="-2.5" maxTerH="100" maxDepth="1" />
-		<layer on="1" name="rock.05.mesh" dens="0.0199999" minScale="0.0599921" maxScale="0.226726" ofsY="0" addTrRdDist="1" maxRdist="100" windFx="0" windFy="0" maxTerAng="23.0061" minTerH="-0.5" maxTerH="100" maxDepth="1" />
-		<layer on="0" name="rock.07.mesh" dens="0.0199999" minScale="0.0599921" maxScale="0.245353" ofsY="0" addTrRdDist="1" maxRdist="100" windFx="0" windFy="0" maxTerAng="26.379" minTerH="-0.5" maxTerH="100" maxDepth="1" />
+		<layer on="1" name="rock22jng1Harsh.mesh" dens="0.0199999" minScale="0.504249" maxScale="0.947071" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0" windFy="0" maxTerAng="34.34" minTerH="-0.5" maxTerH="100" maxDepth="1" />
+		<layer on="1" name="rock25dark2Harsh2.mesh" dens="0.0199999" minScale="0.7" maxScale="1.2" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0" windFy="0" maxTerAng="34.34" minTerH="-0.5" maxTerH="100" maxDepth="1" />
 		<layer on="1" name="plant_tropical.mesh" dens="0.11" minScale="1.51159" maxScale="1.88513" ofsY="0" addTrRdDist="0" maxRdist="3" windFx="0.0623976" windFy="0.0148893" maxTerAng="37.4117" minTerH="-0.5" maxTerH="100" maxDepth="1" />
 		<layer on="0" name="" dens="0.0999996" minScale="0.0999983" maxScale="0.249999" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="30" minTerH="-0.5" maxTerH="100" maxDepth="1" />
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="30" minTerH="-0.5" maxTerH="100" maxDepth="1" />

@@ -1,7 +1,7 @@
 <SplineRoad>
-	<mtr road="roadSavannah" road2="roadSandShore" />
+	<mtr river="0" road="roadSavannah" pipe="pipeGlass" road2="roadSandShore" />
 	<dim tcMul="0.1" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="6" heightOfs="0.06" />
-	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="300" lodPntLen="20" />
+	<mrg loop="1" skirtLen="1" skirtH="0.12" merge="1" mergeLen="300" lodPntLen="20" visDist="1000" visBehind="800" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5.26 13.412" iDir="1" iChk1="12" />
 	<stats length="5803.93" width="7.21803" height="110.211" onTer="21.6762" pipes="0" bnkAvg="11.59" bnkMax="55.2243" />
 	<txt desc="Long, fast road with bridges. On empty, rocky savannah grassland." />

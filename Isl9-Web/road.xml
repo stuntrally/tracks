@@ -1,7 +1,7 @@
 <SplineRoad>
-	<mtr road="roadSand2" pipe="pipeAsphalt" road2="roadDesertD" road3="roadAsphalt" road4="roadAdesert" wall="road_wall_Red" col="road_col_Red" />
+	<mtr river="0" road="roadSand2" pipe="pipeAsphalt" road2="roadDesertD" road3="roadAsphalt" road4="roadAdesert" wall="road_wall_Red" col="road_col_Red" />
 	<dim tcMul="0.05" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="2" widthSteps="6" heightOfs="0.06" />
-	<mrg skirtLen="0" skirtH="0.12" merge="1" mergeLen="1000" lodPntLen="20" />
+	<mrg loop="1" skirtLen="0" skirtH="0.12" merge="1" mergeLen="1000" lodPntLen="20" visDist="1000" visBehind="800" />
 	<geom colN="8" colR="6" wsPm="4" lsPm="1" stBox="1 9.672 28.4404" iDir="1" iChk1="23" />
 	<stats length="13334.6" width="14.3021" height="128.254" onTer="92.1942" pipes="0" bnkAvg="14.3379" bnkMax="84.96" />
 	<txt desc="Extremely long and banked road, levitating in air." />
@@ -137,8 +137,8 @@
 	<P pos="156.7 108.002 -301.568" w="36.6602" onTer="0" a="9.06" ar="-2.517" aT="2" col="0" mtr="3" chkR="1.0504" />
 	<P pos="268.427 104.184 -220.177" w="13.7593" onTer="0" a="-6.36" ar="10.56" aT="2" col="0" chkR="1.204" />
 	<P pos="319.417 93.6078 -129.821" w="10.2224" onTer="0" a="0" ar="17.58" aT="2" col="0" />
-	<P pos="343.716 97.755 -58.5461" w="11.4105" onTer="0" a="-4.76837e-007" ar="24.78" aT="2" col="0" mtr="1" chkR="1.16" />
-	<P pos="353.839 99.78 -11.0518" w="14.6905" onTer="0" a="-4.76837e-007" ar="54.36" aT="2" col="0" mtr="1" />
+	<P pos="343.716 97.755 -58.5461" w="11.4105" onTer="0" a="-4.76837e-07" ar="24.78" aT="2" col="0" mtr="1" chkR="1.16" />
+	<P pos="353.839 99.78 -11.0518" w="14.6905" onTer="0" a="-4.76837e-07" ar="54.36" aT="2" col="0" mtr="1" />
 	<P pos="344.128 98.0862 25.6184" w="16.5903" onTer="0" a="0.48001" ar="71.7601" aT="2" col="0" mtr="2" />
 	<P pos="308.323 97.266 28.6926" w="14.5995" onTer="0" a="7.32001" ar="44.7" aT="2" col="0" mtr="1" />
 	<P pos="270.412 95.0646 5.01328" w="12.4073" onTer="0" a="0" ar="0" aT="2" col="0" />

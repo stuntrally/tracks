@@ -1,7 +1,7 @@
 <SplineRoad>
-	<mtr road="roadJungle" pipe="pipeAsphalt" pipe2="pipeGlass" wall="road_wall_Jungle" pipeW="pipe_wall_Jungle" />
+	<mtr river="0" road="roadJungle" pipe="pipeAsphalt" pipe2="pipeGlass" wall="road_wall_Jungle" pipeW="pipe_wall_Jungle" />
 	<dim tcMul="0.1" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="2" widthSteps="6" heightOfs="0.06" />
-	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="800" lodPntLen="120" visDist="1000" visBehind="800" />
+	<mrg loop="1" skirtLen="1" skirtH="0.12" merge="1" mergeLen="800" lodPntLen="120" visDist="1000" visBehind="800" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5 14.968" iDir="1" iChk1="18" />
 	<stats length="6843.4" width="7.59461" height="86.0919" onTer="16.8821" pipes="0" bnkAvg="3.83782" bnkMax="24.5559" />
 	<txt desc="Long, winding road in tropical jungle. Has small mountains and great views." />
@@ -75,7 +75,7 @@
 	<P pos="-261.173 0 317.951" w="7.6" aT="2" chkR="2.004" />
 	<P pos="-296.242 0 296.632" w="7.6" aT="2" />
 	<P pos="-342.233 0 272.822" w="7.6" a="0" ar="0" aT="2" col="0" />
-	<P pos="-366.465 2.26514 244.516" w="7.6" onTer="0" a="0" ar="2.88" aT="2" col="0" chkR="2.008" />
+	<P pos="-366.465 2.26514 244.516" w="7.6" onTer="0" a="0" ar="2.88" aT="2" col="0" chkR="1" />
 	<P pos="-375.342 2.38222 220.196" w="7.6" onTer="0" a="0" ar="4.2" aT="2" col="0" />
 	<P pos="-378.835 1.22715 187.421" w="7.6" onTer="0" a="0" ar="2.64" aT="2" col="0" />
 	<P pos="-376.45 0 159.734" w="7.6" a="0" ar="0" aT="2" chkR="2.068" />
@@ -158,10 +158,10 @@
 	<P pos="493.911 0 350.657" w="7.6" a="0" ar="0" aT="2" chkR="2.22" />
 	<P pos="479.124 0 371.968" w="7.6" aT="2" />
 	<P pos="460.383 0 398.941" w="7.6" aT="2" />
-	<P pos="431.808 0 435.187" w="7.6" a="0" ar="0" aT="2" />
+	<P pos="431.808 0 435.187" w="7.6" a="0" ar="0" aT="2" col="0" />
 	<P pos="403.561 38.6397 446.748" w="7.6" onTer="0" a="0" ar="14.34" aT="2" col="0" chkR="2.18" />
 	<P pos="371.491 24.7804 442.701" w="7.6" onTer="0" a="0" ar="9.54" aT="2" />
-	<P pos="340.687 12.184 427.532" w="7.6" onTer="0" a="0" ar="6.18" aT="2" />
+	<P pos="340.687 12.184 427.532" w="7.6" onTer="0" a="0" ar="6.18" aT="2" col="0" />
 	<P pos="308.047 0 406.635" w="7.6" a="0" ar="5.22" aT="2" />
 	<P pos="284.476 0 389.076" w="7.6" aT="2" />
 	<P pos="253.214 0 354.09" w="7.6" aT="2" chkR="2.336" />

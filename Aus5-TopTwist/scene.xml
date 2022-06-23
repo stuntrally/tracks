@@ -1,7 +1,7 @@
 <scene>
-	<ver num="2700" baseTrk="" secEd="416" />
+	<ver num="2700" baseTrk="" secEd="870" />
 	<car tires="0" />
-	<start pos="-339.986 -235.565 1.83783" rot="-0.04219 0.03653 -0.641465 0.765127" />
+	<start pos="-339.986 -235.565 1.83783" rot="-0.04219 0.03653 -0.641465 0.765127" pos2="0 0 0" rot2="0 0 0 1" />
 	<sound ambient="" reverbs="Rocky" />
 	<sky material="sky/morning_gen" />
 	<fog color="0.075 0.458 0.830 0.900 0.000" color2="0.083 0.274 0.730 0.900 0.000" linStart="402.523" linEnd="970.898" />
@@ -51,11 +51,11 @@
 		<layer on="0" name="tree.09.mesh" dens="0.00758376" minScale="0.849996" maxScale="1.15" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0.599999" windFy="0.00999978" maxTerAng="10.132" minTerH="-1" maxTerH="1" maxDepth="0" />
 		<layer on="1" name="treeD-22desMed.mesh" dens="0.0570942" minScale="1.07413" maxScale="1.62451" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0.271679" windFy="0.0115325" maxTerAng="24.517" minTerH="-2" maxTerH="2" maxDepth="0" />
 		<layer on="1" name="treeGC-32draUp.mesh" dens="0.0199999" minScale="1.03695" maxScale="1.4959" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0.229809" windFy="0.0148893" maxTerAng="24.3114" minTerH="-2" maxTerH="2" maxDepth="0" />
-		<layer on="1" name="rock.05.mesh" dens="0.0116235" minScale="0.0599978" maxScale="0.409999" ofsY="0" addTrRdDist="3" maxRdist="100" windFx="0" windFy="0" maxTerAng="22.3031" minTerH="-33" maxTerH="5" maxDepth="1" />
-		<layer on="0" name="rock.07.mesh" dens="0.0199999" minScale="0.0599979" maxScale="0.409999" ofsY="0" addTrRdDist="3" maxRdist="100" windFx="0" windFy="0" maxTerAng="38.1791" minTerH="-10" maxTerH="10" maxDepth="1" />
+		<layer on="1" name="rock10red1round.mesh" dens="0.0228403" minScale="0.7" maxScale="1.61237" ofsY="0" addTrRdDist="4" maxRdist="100" windFx="0" windFy="0" maxTerAng="18.3559" minTerH="-33" maxTerH="5" maxDepth="2.65455e-05" />
+		<layer on="1" name="rock11red2.mesh" dens="0.0296929" minScale="0.7" maxScale="1.46887" ofsY="0" addTrRdDist="4" maxRdist="100" windFx="0" windFy="0" maxTerAng="18.3559" minTerH="-10" maxTerH="10" maxDepth="2.65455e-05" />
 		<layer on="1" name="treeD-34desTiny.mesh" dens="0.059191" minScale="1.01265" maxScale="1.4959" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0.271679" windFy="0.0107806" maxTerAng="20.7587" minTerH="10" maxTerH="33" maxDepth="0" />
-		<layer on="0" name="" dens="0.0999996" minScale="0.0999994" maxScale="0.249999" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
-		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
+		<layer on="1" name="rock40red3flat.mesh" dens="0.0296929" minScale="0.915006" maxScale="1.69705" ofsY="0" addTrRdDist="4" maxRdist="100" windFx="0" windFy="0" maxTerAng="8.83773" minTerH="-100" maxTerH="100" maxDepth="0" />
+		<layer on="0" name="rock44red4rndWh.mesh" dens="0.1" minScale="0.7" maxScale="1.2" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0" windFy="0" maxTerAng="34.34" minTerH="-100" maxTerH="100" maxDepth="2.65455e-05" />
 	</paged>
 	<cam pos="-190.48 113.254 -570.491" dir="0.307863 -0.218448 0.926013" />
 	<objects />

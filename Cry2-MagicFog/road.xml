@@ -4,7 +4,7 @@
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="120" lodPntLen="15" />
 	<geom colN="6" colR="3.26446" wsPm="4" lsPm="1" stBox="1 6.93199 19.3761" iDir="1" iChk1="0" />
 	<stats length="2985.71" width="11.9469" height="61.1769" onTer="72.4872" pipes="60.7335" bnkAvg="17.6116" bnkMax="53.7147" />
-	<txt desc="Winding road on crystal moon in mysteriously colored fog." />
+	<txt desc="Winding road on dark crystal moon in mysteriously colored fog." />
 	<adv ice="Partly half-pipe, with few obstacles, U-turns, surprise jumps and twists." />
 	<P pos="162.023 0 -26.0452" w="8.63757" aT="2" chkR="1.404" />
 	<P pos="173.074 0 -5.12241" w="9.50019" a="0" ar="-1.146" aT="2" col="0" mtr="2" />
