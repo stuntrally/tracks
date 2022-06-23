@@ -1,9 +1,9 @@
 <SplineRoad>
-	<mtr road="roadSandDark" pipe="pipeAsphalt" pipe2="pipeGlassCyan" />
+	<mtr river="0" road="roadSandDark" pipe="pipeAsphalt" pipe2="pipeGlassCyan" />
 	<dim tcMul="0.08" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="2" widthSteps="6" heightOfs="0.06" />
-	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
+	<mrg loop="1" skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" visDist="1000" visBehind="800" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 4.76 12.6324" iDir="1" iChk1="18" />
-	<stats length="1139.22" width="6.776" height="8.47402" onTer="0" pipes="0" bnkAvg="4.25122" bnkMax="26.7413" />
+	<stats length="1139.21" width="6.776" height="8.47401" onTer="0" pipes="0" bnkAvg="4.25122" bnkMax="26.7413" />
 	<txt desc="A black volcanic terrain in a very dark clouded dusk, horrifying." />
 	<adv ice="Bumpy at places, shortly through water and slightly banked." />
 	<P pos="150.208 0 147.598" w="6.776" aT="2" />

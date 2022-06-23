@@ -1,12 +1,12 @@
 <scene>
-	<ver num="2600" baseTrk="" secEd="133" />
+	<ver num="2700" baseTrk="" secEd="2495" />
 	<car tires="0" />
-	<start pos="-1.30182 7.95081 -10.5378" rot="-0 0 -1.62921e-07 -1" />
+	<start pos="25.7605 81.4066 -10.7611" rot="-5.36442e-07 2.70148e-07 -0.696621 -0.717442" />
 	<sound ambient="" reverbs="Australia" />
-	<sky material="sky/day_clouds" />
+	<sky material="001_empty_blue" />
 	<fog color="0.583 0.120 0.788 0.805 0.000" color2="0.583 0.186 0.620 0.900 0.000" linStart="300" linEnd="800" />
 	<fogH color="0.583 0.037 0.540 1.000 0.000" height="-300" dens="100" linStart="0" linEnd="400" />
-	<light pitch="33" yaw="-40.1504" ambient="0.000 0.000 0.550 1.000 0.000" diffuse="0.167 0.035 0.850 1.000 0.000" specular="0.167 0.020 0.990 1.000 0.000" />
+	<light pitch="33" yaw="-40.1504" ambient="0.000 0.000 0.550 1.000 0.000" diffuse="0.167 0.035 0.850 1.000 0.000" specular="0.314 0.000 0.990 0.000 0.000" />
 	<fluids>
 		<fluid name="water blue" pos="-32.7663 -11.137 -8.03985" rot="0 0 0" size="50 20 50" tile="0.01 0.01" />
 	</fluids>
@@ -48,16 +48,16 @@
 		<gchan amin="0" amax="30" asm="20" hmin="-100" hmax="100" hsm="20" ns="0" frq="88" oct="3" prs="0.3" pow="1.2" rd="0" />
 		<layer on="1" name="cactus.mesh" dens="0.0487435" minScale="0.4" maxScale="0.72" ofsY="0" addTrRdDist="1" maxRdist="100" windFx="0" windFy="0" maxTerAng="26.93" minTerH="-100" maxTerH="100" maxDepth="0" />
 		<layer on="1" name="palm2.mesh" dens="0.45" minScale="2.34" maxScale="3.31" ofsY="0" addTrRdDist="1" maxRdist="100" windFx="0.3" windFy="0.115" maxTerAng="30.03" minTerH="-100" maxTerH="100" maxDepth="0" />
-		<layer on="0" name="fir14w.mesh" dens="0.25" minScale="0.06" maxScale="0.09" ofsY="0" addTrRdDist="4" maxRdist="100" windFx="1.8" windFy="0.1" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
-		<layer on="0" name="rock.05w.mesh" dens="0.13" minScale="0.03" maxScale="0.15" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
-		<layer on="0" name="rock.07w.mesh" dens="0.13" minScale="0.03" maxScale="0.15" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
-		<layer on="0" name="rock.05.mesh" dens="0.015" minScale="0.03" maxScale="0.21" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
-		<layer on="0" name="rock.07.mesh" dens="0.015" minScale="0.03" maxScale="0.21" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
+		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
+		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
+		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
+		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
+		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 	</paged>
-	<cam pos="-101.656 8.38007 -32.6049" dir="0.985482 -0.0734488 0.153069" />
+	<cam pos="-101.656 8.38006 -32.6049" dir="0.985482 -0.0734488 0.153069" />
 	<objects>
 		<o name="water_plane_big" pos="18.4861 -6.23096 -11.043" rot="0 -1 0 0" />
 		<o name="plastic_barrel" pos="10.074 12.3699 -10.6848" rot="0.0344693 0.999403 -0.00196753 0.00107476" />
@@ -65,9 +65,40 @@
 		<o name="plastic_big_hvy" pos="9.08598 11.3011 -10.5508" rot="0.00118171 0.999997 -0.00199261 0.00100884" />
 		<o name="balloon2clr" pos="101.768 -35.0966 7.7356" rot="0 -1 0 0" />
 		<o name="water_plane_big" pos="55.6869 5.91046 -11.0093" rot="-0.0854466 -0.984473 -0.0760814 -0.133129" />
-		<o name="windmill" pos="15.9351 42.9214 -11.3097" rot="0.094409 -0.995533 0 0" />
 		<o name="container_big" pos="21.3865 41.5925 -11.2855" rot="0 -1 0 0" />
 		<o name="watchtower2" pos="21.2637 32.3757 -18.0236" rot="0 -1 0 0" sc="1.98173 1.27477 1.98173" />
 		<o name="watchtower2" pos="21.5038 35.0803 -17.7318" rot="0 -1 0 0" sc="2.21106 1.51425 2.21106" />
+		<o name="han_arsenal" pos="49.9899 39.8323 -11.1598" rot="0.381909 -0.924201 0 0" />
+		<o name="maur_blacksmith" pos="-1.30673 44.2832 -11.2865" rot="0 -1 0 0" />
+		<o name="maur_boat" pos="-22.4485 31.877 -11.2759" rot="0 -1 0 0" />
+		<o name="maur_corral" pos="7.06525 58.3167 -11.3173" rot="0 -1 0 0" />
+		<o name="maur_farmstead" pos="-11.2214 58.9021 -11.3189" rot="0 -1 0 0" />
+		<o name="maur_market" pos="-38.6103 52.9481 -11.3534" rot="0 -1 0 0" />
+		<o name="maur_centre" pos="-43.8715 83.7205 -11.4716" rot="0.00581489 -0.999983 0 0" />
+		<o name="han_farmstead" pos="65.0098 98.5626 -11.2178" rot="0.708573 -0.705638 0 0" />
+		<o name="han_forge" pos="58.9699 77.0637 -11.2827" rot="0.708271 -0.70594 0 0" />
+		<o name="han_shrine" pos="21.7619 45.195 -11.192" rot="0.684596 -0.728921 0 0" />
+		<o name="han_stable" pos="38.0871 98.9039 -11.3893" rot="0.00163774 -0.999999 0 0" />
+		<o name="han_wonder" pos="7.41087 98.9209 -11.4882" rot="0 -1 0 0" />
+		<o name="maur_ship" pos="-35.1585 31.9857 -11.3026" rot="0 -1 0 0" />
+		<o name="han_academy" pos="5.80058 128.167 -11.5922" rot="0 -1 0 0" />
+		<o name="han_barracks" pos="32.2031 126.425 -11.527" rot="0 -1 0 0" />
+		<o name="han_civic_center" pos="8.51977 162.595 -11.7161" rot="0 -1 0 0" />
+		<o name="han_defense_tower" pos="51.7341 117.994 -11.4428" rot="0 -1 0 0" />
+		<o name="han_dock" pos="55.4539 136.784 -11.4887" rot="0 -1 0 0" />
+		<o name="han_fortress" pos="36.8814 159.496 -11.6215" rot="0 -1 0 0" />
+		<o name="han_gate" pos="23.8257 202.772 -11.8183" rot="0 -1 0 0" />
+		<o name="han_great_tower" pos="40.516 200.044 -11.7623" rot="0 -1 0 0" />
+		<o name="han_house_a" pos="-15.5575 173.305 -11.8593" rot="0 -1 0 0" />
+		<o name="han_house_b" pos="-15.7681 154.714 -11.7835" rot="0 -1 0 0" />
+		<o name="han_house_c" pos="-16.5863 136.709 -11.7119" rot="0 -1 0 0" />
+		<o name="han_house_d" pos="-17.2951 118.329 -11.6367" rot="0 -1 0 0" />
+		<o name="han_ministry" pos="66.7328 158.884 -11.5187" rot="0 -1 0 0" />
+		<o name="han_outpost" pos="30.7625 221.576 -11.8958" rot="0 -1 0 0" />
+		<o name="han_pagoda" pos="20.5205 220.063 -11.9277" rot="0 -1 0 0" />
+		<o name="han_storehouse" pos="-16.1769 190.383 -11.933" rot="0 -1 0 0" />
+		<o name="han_fort_old" pos="66.0869 187.647 -11.6155" rot="0 -1 0 0" />
+		<o name="han_corral" pos="-16.1357 99.9961 -11.503" rot="0 -1 0 0" />
 	</objects>
+	<emitters />
 </scene>

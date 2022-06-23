@@ -55,7 +55,7 @@
 		<layer on="1" name="treeG-16birTallUp.mesh" dens="0.194816" minScale="0.965188" maxScale="1.66818" ofsY="0" addTrRdDist="1" maxRdist="100" windFx="0.687697" windFy="0.046108" maxTerAng="23.5504" minTerH="0" maxTerH="95" maxDepth="1.23084" />
 		<layer on="1" name="rock.mesh" dens="0.408424" minScale="0.630661" maxScale="1.33848" ofsY="0" addTrRdDist="2" maxRdist="6" windFx="0" windFy="0" maxTerAng="37.7436" minTerH="0" maxTerH="100" maxDepth="1.25" />
 		<layer on="0" name="rock_n1.mesh" dens="0.0966112" minScale="0.79017" maxScale="1.2734" ofsY="0" addTrRdDist="2" maxRdist="20" windFx="0" windFy="0" maxTerAng="37.7436" minTerH="-100" maxTerH="100" maxDepth="0" />
-		<layer on="0" name="rock.07.mesh" dens="0.0952598" minScale="0.0595572" maxScale="0.192913" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="0" />
+		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="0" />
 	</paged>
 	<cam pos="497.943 244.504 436.618" dir="-0.6262 -0.295145 -0.721651" />

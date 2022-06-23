@@ -5,7 +5,7 @@
 	<geom colN="8" colR="3.66915" wsPm="4" lsPm="1" stBox="1 8.468 24.604" iDir="1" iChk1="44" />
 	<stats length="2642.36" width="8.82074" height="25.8912" onTer="20.3897" pipes="0" bnkAvg="6.73766" bnkMax="31.4968" />
 	<txt desc="Fast road with 2 long jumps over a deep abyss." />
-	<adv ice="Keep straight before jumping. The bigger jump needs 170 km/h, smaller 150 km/h." />
+	<adv ice="Keep straight before jumping. The bigger jump needs 170 km/h, smaller 150 km/h. Note: vehicles with low suspension or poor aerodynamics aren't meant for such long jumps." />
 	<P pos="202.443 0 208.127" w="10.2952" a="0" ar="0" aT="2" />
 	<P pos="247.534 0 198.65" w="9.688" aT="2" chkR="1.892" />
 	<P pos="316.114 0 180.38" w="9.08" aT="2" />

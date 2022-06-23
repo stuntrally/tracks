@@ -4,7 +4,7 @@
 	<mrg loop="0" skirtLen="1" skirtH="0.1" merge="1" mergeLen="300" lodPntLen="20" visDist="1000" visBehind="800" />
 	<geom colN="8" colR="2.67822" wsPm="4" lsPm="1" stBox="1 5 12.231" iDir="-1" iChk1="12" />
 	<stats length="198.836" width="5.61862" height="41.528" onTer="100" pipes="29.126" bnkAvg="15.8343" bnkMax="56.5709" />
-	<txt desc="Basic stunt elements: loop, side loop, side bridge turn and pipe turn (all 180 degrees)." />
+	<txt desc="" />
 	<adv ice="" />
 	<P pos="95.0221 -0.887288 -131.796" w="6.96" onTer="0" a="18.12" ar="-19.92" aT="2" col="0" mtr="1" />
 	<P pos="78.9872 -0.598204 -144.341" w="4.68" onTer="0" a="0" ar="-49.56" aT="2" col="0" pipe="0.58" mtr="1" />

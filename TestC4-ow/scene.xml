@@ -44,9 +44,9 @@
 		<layer on="1" name="tree.09.mesh" dens="0.125" minScale="0.849991" maxScale="1.15" ofsY="0" addTrRdDist="4" maxRdist="100" windFx="0.599999" windFy="0.00999949" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="1" name="farn1.mesh" dens="0.34" minScale="0.0999994" maxScale="0.249999" ofsY="0" addTrRdDist="1" maxRdist="100" windFx="7.29999" windFy="0.0599994" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="1" name="farn2.mesh" dens="0.34" minScale="0.0999994" maxScale="0.249999" ofsY="0" addTrRdDist="1" maxRdist="100" windFx="7.29999" windFy="0.0599994" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
-		<layer on="1" name="rock.05.mesh" dens="0.0416493" minScale="0.0299997" maxScale="0.209999" ofsY="0" addTrRdDist="3" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
-		<layer on="1" name="rock.07.mesh" dens="0.0416493" minScale="0.0299992" maxScale="0.209999" ofsY="0" addTrRdDist="3" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="1" name="jungle_tree.mesh" dens="0.0540211" minScale="1.60805" maxScale="2.05413" ofsY="0" addTrRdDist="6" maxRdist="100" windFx="0.402012" windFy="0.00249102" maxTerAng="29.259" minTerH="-100" maxTerH="22" maxDepth="5" />
+		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
+		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />

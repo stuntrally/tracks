@@ -52,9 +52,9 @@
 		<layer on="1" name="treeD-22desMed.mesh" dens="0.0281622" minScale="1.07413" maxScale="1.62451" ofsY="0" addTrRdDist="1" maxRdist="100" windFx="0.271679" windFy="0.0115325" maxTerAng="25.7232" minTerH="-2" maxTerH="600" maxDepth="0" />
 		<layer on="1" name="treeGC-32draUp.mesh" dens="0.0372889" minScale="1.03695" maxScale="1.4959" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0.229809" windFy="0.0148893" maxTerAng="29.1621" minTerH="-2" maxTerH="460" maxDepth="0" />
 		<layer on="1" name="rock.mesh" dens="0.0466957" minScale="0.74" maxScale="1.1" ofsY="0" addTrRdDist="1" maxRdist="100" windFx="0" windFy="0" maxTerAng="34.34" minTerH="-33" maxTerH="700" maxDepth="2" />
-		<layer on="0" name="rock.07.mesh" dens="0.0199999" minScale="0.0599979" maxScale="0.409999" ofsY="0" addTrRdDist="3" maxRdist="100" windFx="0" windFy="0" maxTerAng="38.1791" minTerH="-10" maxTerH="10" maxDepth="1" />
 		<layer on="1" name="treeD-34desTiny.mesh" dens="0.059191" minScale="1.01265" maxScale="1.4959" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0.271679" windFy="0.0107806" maxTerAng="20.7587" minTerH="10" maxTerH="33" maxDepth="0" />
-		<layer on="0" name="" dens="0.0999996" minScale="0.0999994" maxScale="0.249999" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
+		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
+		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 	</paged>
 	<cam pos="-304.139 288.956 20.8022" dir="0.834959 -0.378039 0.399913" />

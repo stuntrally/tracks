@@ -53,7 +53,7 @@
 		<layer on="1" name="pine1_full.mesh" dens="0.195295" minScale="0.420465" maxScale="0.701732" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0" windFy="0" maxTerAng="25.5579" minTerH="13" maxTerH="70" maxDepth="0" />
 		<layer on="1" name="rock_n5v-W.mesh" dens="0.0899504" minScale="0.521568" maxScale="1.38909" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0" windFy="0" maxTerAng="32.258" minTerH="-100" maxTerH="100" maxDepth="1" />
 		<layer on="1" name="rock_n4r-W.mesh" dens="0.130347" minScale="0.569438" maxScale="1.20445" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0" windFy="0" maxTerAng="32.0222" minTerH="-100" maxTerH="90" maxDepth="1" />
-		<layer on="0" name="rock.07.mesh" dens="0.0149999" minScale="0.0299992" maxScale="0.209997" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
+		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />

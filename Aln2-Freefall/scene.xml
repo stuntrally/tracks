@@ -53,9 +53,9 @@
 		<layer on="0" name="treeGY-36aspMed.mesh" dens="0.0946427" minScale="0.673449" maxScale="1.21804" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0.699996" windFy="0.00999974" maxTerAng="30.625" minTerH="-100" maxTerH="22" maxDepth="5" />
 		<layer on="0" name="treeGG-37acaTall.mesh" dens="0.151667" minScale="0.754182" maxScale="1.20445" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0.599999" windFy="0.00999945" maxTerAng="50" minTerH="-100" maxTerH="20.1835" maxDepth="5" />
 		<layer on="1" name="gum_tree_alien.mesh" dens="0.194816" minScale="1.45" maxScale="2.22" ofsY="0" addTrRdDist="1" maxRdist="100" windFx="0.3" windFy="0.004" maxTerAng="20.48" minTerH="-100" maxTerH="46.6055" maxDepth="0" />
-		<layer on="0" name="rock.07.mesh" dens="0.0529256" minScale="0.188249" maxScale="0.301956" ofsY="0" addTrRdDist="5" maxRdist="100" windFx="0.699996" windFy="0.00999976" maxTerAng="50" minTerH="-100" maxTerH="50" maxDepth="5" />
 		<layer on="0" name="jungle_tree.mesh" dens="0.0220294" minScale="0.905797" maxScale="1.23216" ofsY="0" addTrRdDist="5" maxRdist="100" windFx="0.393863" windFy="0.00277818" maxTerAng="26.369" minTerH="-100" maxTerH="13.945" maxDepth="5" />
 		<layer on="0" name="fern2.mesh" dens="0.297521" minScale="0.375514" maxScale="0.529686" ofsY="0" addTrRdDist="2" maxRdist="5" windFx="0.599999" windFy="0.00999947" maxTerAng="26.0719" minTerH="-40.9174" maxTerH="52.4771" maxDepth="5" />
+		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 	</paged>
 	<cam pos="-356.672 259.878 414.215" dir="0.734615 -0.26076 -0.626374" />

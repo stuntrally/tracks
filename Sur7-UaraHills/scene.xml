@@ -51,10 +51,10 @@
 		<layer on="0" name="shroom1_3_unid.mesh" dens="0.719572" minScale="2.06" maxScale="4" ofsY="0" addTrRdDist="6" maxRdist="100" windFx="0" windFy="0" maxTerAng="44.13" minTerH="-50" maxTerH="10" maxDepth="0" />
 		<layer on="0" name="farn1.mesh" dens="1" minScale="0.1" maxScale="0.945908" ofsY="0" addTrRdDist="1" maxRdist="3" windFx="7.3" windFy="0.06" maxTerAng="53.2544" minTerH="-50" maxTerH="10" maxDepth="0.5" />
 		<layer on="0" name="farn2.mesh" dens="1" minScale="0.173636" maxScale="0.240232" ofsY="0" addTrRdDist="1" maxRdist="3" windFx="7.29999" windFy="0.0599973" maxTerAng="38.4964" minTerH="-50" maxTerH="10" maxDepth="5" />
-		<layer on="0" name="rock.05.mesh" dens="0.0305407" minScale="0.0299976" maxScale="0.109999" ofsY="0" addTrRdDist="3" maxRdist="100" windFx="0" windFy="0" maxTerAng="32.4482" minTerH="-100" maxTerH="100" maxDepth="5" />
-		<layer on="0" name="rock.07.mesh" dens="0.0320951" minScale="0.0299971" maxScale="0.109999" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0" windFy="0" maxTerAng="34.4069" minTerH="-100" maxTerH="100" maxDepth="5" />
-		<layer on="0" name="" dens="0.0999996" minScale="0.0999971" maxScale="0.249999" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
-		<layer on="0" name="" dens="0.0999996" minScale="0.0999983" maxScale="0.249999" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
+		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
+		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
+		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
+		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 	</paged>
 	<cam pos="253.807 107.521 486.876" dir="-0.564232 -0.2348 -0.791535" />

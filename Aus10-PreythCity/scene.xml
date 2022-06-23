@@ -51,8 +51,8 @@
 		<layer on="1" name="tree.09.mesh" dens="0.122098" minScale="0.586023" maxScale="1.30169" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0" windFy="0" maxTerAng="18.0125" minTerH="5.5" maxTerH="100" maxDepth="1.64209" />
 		<layer on="1" name="farn1.mesh" dens="0.299173" minScale="0.0623137" maxScale="0.289727" ofsY="0" addTrRdDist="1" maxRdist="8" windFx="7.29999" windFy="0.0599931" maxTerAng="31.0873" minTerH="5.5" maxTerH="100" maxDepth="2" />
 		<layer on="0" name="farn2.mesh" dens="0.233764" minScale="0.107346" maxScale="0.333236" ofsY="0" addTrRdDist="1" maxRdist="100" windFx="7.29999" windFy="0.0599962" maxTerAng="29.4845" minTerH="7.15596" maxTerH="100" maxDepth="2" />
-		<layer on="1" name="rock.05.mesh" dens="0.0444028" minScale="0.0299994" maxScale="0.209998" ofsY="0" addTrRdDist="3" maxRdist="10" windFx="0" windFy="0" maxTerAng="29.4845" minTerH="7" maxTerH="100" maxDepth="2" />
-		<layer on="0" name="rock.07.mesh" dens="0.028425" minScale="0.0819476" maxScale="0.226637" ofsY="0" addTrRdDist="3" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-0.5" maxTerH="100" maxDepth="5" />
+		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
+		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />

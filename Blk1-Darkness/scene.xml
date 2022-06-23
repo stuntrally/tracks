@@ -53,7 +53,7 @@
 		<layer on="0" name="palm2.mesh" dens="0.0340454" minScale="2.34" maxScale="3.31" ofsY="0" addTrRdDist="1" maxRdist="100" windFx="0.3" windFy="0.115" maxTerAng="30.03" minTerH="-3" maxTerH="20" maxDepth="0" />
 		<layer on="0" name="farn1.mesh" dens="0.34" minScale="0.110808" maxScale="0.435678" ofsY="0" addTrRdDist="1" maxRdist="100" windFx="7.29999" windFy="0.0599931" maxTerAng="10.7578" minTerH="-20" maxTerH="20" maxDepth="5" />
 		<layer on="0" name="farn2.mesh" dens="0.34" minScale="0.136625" maxScale="0.406417" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="7.29999" windFy="0.0599931" maxTerAng="11.0319" minTerH="-20" maxTerH="20" maxDepth="5" />
-		<layer on="0" name="rock.05.mesh" dens="0.0305751" minScale="0.029996" maxScale="0.209981" ofsY="0" addTrRdDist="4" maxRdist="100" windFx="0" windFy="0" maxTerAng="30" minTerH="-3" maxTerH="100" maxDepth="5" />
+		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 	</paged>
 	<cam pos="176.249 34.2232 191.136" dir="-0.515689 -0.105161 -0.850298" />
 	<objects>
