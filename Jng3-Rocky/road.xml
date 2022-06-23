@@ -1,10 +1,10 @@
 <SplineRoad>
-	<mtr road="roadJDark" wall="road_wall_JDark" pipeW="pipe_wall_JDark" col="road_col_Dark" />
+	<mtr river="0" road="roadJDark" pipe="pipeGlass" wall="road_wall_JDark" pipeW="pipe_wall_JDark" col="road_col_Dark" />
 	<dim tcMul="0.08" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="6" heightOfs="0.06" />
-	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
+	<mrg loop="1" skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" visDist="1000" visBehind="800" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5.064 16.352" iDir="-1" iChk1="31" />
 	<stats length="1903.7" width="8.592" height="15.7951" onTer="0" pipes="0" bnkAvg="6.6794" bnkMax="30.0174" />
-	<txt desc="Fast and winding track through very dark rocky terrain." />
+	<txt desc="Fast and winding track through very dark and rocky terrain." />
 	<adv ice="With 3 broad, half circle turns, 1 banked." />
 	<P pos="-186.429 0 179.793" w="8.592" aT="2" chkR="1.672" />
 	<P pos="-156.688 0 203.98" w="8.592" aT="2" />

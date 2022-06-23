@@ -1,7 +1,7 @@
 <scene>
-	<ver num="2700" baseTrk="" secEd="627" />
+	<ver num="2700" baseTrk="" secEd="853" />
 	<car tires="0" />
-	<start pos="-9.59131 -52.4833 52.372" rot="0.00625701 -0.071909 0.160603 0.984391" />
+	<start pos="-9.59131 -52.4833 52.372" rot="0.00625701 -0.071909 0.160603 0.984391" pos2="0 0 0" rot2="0 0 0 1" />
 	<sound ambient="" reverbs="Canyon" />
 	<sky material="sky/day_blue" />
 	<fog color="0.586 0.270 1.000 1.000 0.000" color2="0.586 0.270 1.000 1.000 0.000" linStart="380.349" linEnd="1013.26" />
@@ -47,9 +47,9 @@
 		<layer on="1" name="tree.07.mesh" dens="0.0892225" minScale="0.849972" maxScale="1.15" ofsY="0" addTrRdDist="1" maxRdist="100" windFx="0.699969" windFy="0.00999757" maxTerAng="21.2785" minTerH="-100" maxTerH="77" maxDepth="5" />
 		<layer on="1" name="jungle_tree.mesh" dens="0.0627321" minScale="0.951772" maxScale="1.58628" ofsY="0" addTrRdDist="1" maxRdist="100" windFx="0.6" windFy="0.00585716" maxTerAng="20.2214" minTerH="-100" maxTerH="72" maxDepth="5" />
 		<layer on="1" name="farn1.mesh" dens="0.243549" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="7.3" windFy="0.06" maxTerAng="27.2684" minTerH="-100" maxTerH="80.367" maxDepth="5" />
-		<layer on="0" name="farn2.mesh" dens="0.34" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="7.3" windFy="0.06" maxTerAng="36.9044" minTerH="-100" maxTerH="100" maxDepth="5" />
-		<layer on="1" name="rock.05.mesh" dens="0.067465" minScale="0.0862119" maxScale="0.21" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0" windFy="0" maxTerAng="50.1103" minTerH="35.4128" maxTerH="100" maxDepth="5" />
-		<layer on="1" name="rock.mesh" dens="0.0646046" minScale="0.852828" maxScale="1.69691" ofsY="0" addTrRdDist="1" maxRdist="100" windFx="0" windFy="0" maxTerAng="48.4808" minTerH="55.5963" maxTerH="100" maxDepth="2" />
+		<layer on="0" name="farn2.mesh" dens="0.34" minScale="0.1" maxScale="0.242156" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="7.3" windFy="0.06" maxTerAng="36.9044" minTerH="-100" maxTerH="100" maxDepth="5" />
+		<layer on="1" name="rock28grayWhite.mesh" dens="0.16547" minScale="0.979877" maxScale="1.86499" ofsY="0" addTrRdDist="1" maxRdist="100" windFx="0" windFy="0" maxTerAng="12.3855" minTerH="-100" maxTerH="100" maxDepth="1" />
+		<layer on="1" name="rock46grayWhite2.mesh" dens="0.0646046" minScale="0.896119" maxScale="1.30181" ofsY="0" addTrRdDist="1" maxRdist="100" windFx="0" windFy="0" maxTerAng="12.3855" minTerH="-100" maxTerH="100" maxDepth="1" />
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />

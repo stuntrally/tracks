@@ -1,9 +1,9 @@
 <SplineRoad>
-	<mtr road="roadJungle" pipe="pipeAsphalt" pipe2="pipeGlass" wall="road_wall_Jungle" pipeW="pipe_wall_Jungle" col="road_col_Dark" />
+	<mtr river="0" road="roadJungle" pipe="pipeAsphalt" pipe2="pipeGlass" wall="road_wall_Jungle" pipeW="pipe_wall_Jungle" col="road_col_Dark" />
 	<dim tcMul="0.0404529" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="2" widthSteps="6" heightOfs="0.06" />
-	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="1200" lodPntLen="120" />
+	<mrg loop="1" skirtLen="1" skirtH="0.12" merge="1" mergeLen="1200" lodPntLen="120" visDist="1000" visBehind="800" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5 21.8241" iDir="1" iChk1="54" />
-	<stats length="5947.08" width="11.5313" height="131.699" onTer="4.01701" pipes="0" bnkAvg="4.60132" bnkMax="20.0382" />
+	<stats length="5947.08" width="11.5313" height="131.699" onTer="4.01701" pipes="0" bnkAvg="4.60127" bnkMax="20.0367" />
 	<txt desc="Majestic and rather empty jungle scenery." />
 	<adv ice="Terrain with high slopes and few jumps, but has fast driving in lower parts. With one narrow hill climb." />
 	<P pos="167.653 0 -359.019" w="6" aT="2" chkR="7.14" />

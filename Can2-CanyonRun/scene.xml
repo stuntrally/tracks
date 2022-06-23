@@ -1,7 +1,7 @@
 <scene>
-	<ver num="2700" baseTrk="" secEd="323" />
+	<ver num="2700" baseTrk="" secEd="712" />
 	<car tires="0" />
-	<start pos="301.694 13.8902 0.679377" rot="-1e-06 -1e-06 -0.72065 0.693308" />
+	<start pos="301.694 13.8902 0.679377" rot="-1e-06 -1e-06 -0.72065 0.693308" pos2="0 0 0" rot2="0 0 0 1" />
 	<sound ambient="" reverbs="Canyon" />
 	<sky material="sky/day_blue" />
 	<fog color="0.586 0.270 1.000 1.000 0.000" color2="0.586 0.270 1.000 1.000 0.000" linStart="436.464" linEnd="950.057" />
@@ -46,16 +46,16 @@
 		<gchan amin="0" amax="30" asm="20" hmin="-100" hmax="100" hsm="20" ns="0" frq="97" oct="3" prs="0.3" pow="1.2" rd="0" />
 		<layer on="1" name="pine1_norm.mesh" dens="0.249998" minScale="0.298794" maxScale="0.829212" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0.670298" windFy="0.023433" maxTerAng="30.7208" minTerH="-30" maxTerH="13" maxDepth="5" />
 		<layer on="1" name="fir06.mesh" dens="0.449997" minScale="0.0399916" maxScale="0.0897066" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="1.79999" windFy="0.0999925" maxTerAng="29.8072" minTerH="-30" maxTerH="13" maxDepth="5" />
-		<layer on="1" name="rock_Y03.mesh" dens="0.125571" minScale="0.310797" maxScale="0.73911" ofsY="0" addTrRdDist="4" maxRdist="100" windFx="1.79999" windFy="0.0999925" maxTerAng="30.9513" minTerH="-30" maxTerH="13" maxDepth="5" />
-		<layer on="1" name="rock_Y02.mesh" dens="0.0546466" minScale="0.470008" maxScale="0.73911" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="33" maxDepth="5" />
-		<layer on="0" name="rock.07.mesh" dens="0.177509" minScale="0.0299965" maxScale="0.149997" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="33" maxDepth="5" />
-		<layer on="0" name="rock.07.mesh" dens="0.0149999" minScale="0.0299986" maxScale="0.209997" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
+		<layer on="1" name="rock03can1flat.mesh" dens="0.102798" minScale="0.7" maxScale="1.55751" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0" windFy="0" maxTerAng="34.34" minTerH="-30" maxTerH="13" maxDepth="1" />
+		<layer on="1" name="rock04can2flat.mesh" dens="0.100995" minScale="0.7" maxScale="1.79456" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0" windFy="0" maxTerAng="34.34" minTerH="-100" maxTerH="33" maxDepth="1" />
+		<layer on="1" name="rock12orange.mesh" dens="0.100995" minScale="0.7" maxScale="1.8752" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0" windFy="0" maxTerAng="34.34" minTerH="-100" maxTerH="33" maxDepth="1" />
+		<layer on="1" name="rock13orange2.mesh" dens="0.101894" minScale="0.7" maxScale="0.953573" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0" windFy="0" maxTerAng="34.34" minTerH="-100" maxTerH="100" maxDepth="1" />
 		<layer on="0" name="" dens="0.0999996" minScale="0.0999983" maxScale="0.249999" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="0" name="" dens="0.0999996" minScale="0.0999983" maxScale="0.249999" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="0" name="" dens="0.0999996" minScale="0.0999983" maxScale="0.249999" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 	</paged>
-	<cam pos="394.767 157.625 6.03717" dir="-0.929808 -0.367525 0.019575" />
+	<cam pos="394.767 157.625 6.03717" dir="-0.929808 -0.367525 0.0195751" />
 	<objects>
 		<o name="fuel_can" pos="-67.9338 -121.778 0.562754" rot="-0.58794 0.80887 -0.00464674 -0.00589724" />
 		<o name="fuel_can" pos="-61.351 -127.519 0.567422" rot="-0.530507 0.847646 0.00148958 0.00752488" />

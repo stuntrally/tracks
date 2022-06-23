@@ -1,7 +1,7 @@
 <SplineRoad>
-	<mtr road="roadCdesert" wall="road_wall_Red" col="road_col_Red" />
+	<mtr river="0" road="roadCdesert" pipe="pipeGlass" wall="road_wall_Red" col="road_col_Red" />
 	<dim tcMul="0.0438223" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="8" heightOfs="0.06" />
-	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="160" lodPntLen="10" />
+	<mrg loop="1" skirtLen="1" skirtH="0.12" merge="1" mergeLen="160" lodPntLen="10" visDist="1000" visBehind="800" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 7.30401 20.2279" iDir="-1" iChk1="54" />
 	<stats length="3255.17" width="8.48495" height="32.0801" onTer="6.35826" pipes="0" bnkAvg="30.6811" bnkMax="65.2489" />
 	<txt desc="Canyon track with 3 broad circle turns." />

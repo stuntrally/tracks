@@ -1,9 +1,9 @@
 <SplineRoad>
-	<mtr road="roadDesert" wall="road_wall_Desert" col="road_col_Desert" />
+	<mtr river="0" road="roadDesert" pipe="pipeGlass" wall="road_wall_Desert" col="road_col_Desert" />
 	<dim tcMul="0.0501765" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="2" widthSteps="6" heightOfs="0.06" />
-	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
+	<mrg loop="1" skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" visDist="1000" visBehind="800" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 6.056 19.18" iDir="-1" iChk1="42" />
-	<stats length="1280.68" width="10.3005" height="10.0452" onTer="15.1344" pipes="0" bnkAvg="1.3545" bnkMax="9.25985" />
+	<stats length="1280.68" width="10.3005" height="10.0455" onTer="15.1344" pipes="0" bnkAvg="1.3545" bnkMax="9.25986" />
 	<txt desc="Small 8-shaped track with low jumps." />
 	<adv ice="Need to have 140 km/h (87 mph) to jump. Depends on vehicle, boost if too slow before jump. Partly bumpy." />
 	<P pos="141.024 0 182.234" w="9.968" aT="2" />

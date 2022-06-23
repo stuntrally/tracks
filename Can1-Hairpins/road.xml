@@ -1,9 +1,9 @@
 <SplineRoad>
-	<mtr road="roadCdesert" />
+	<mtr river="0" road="roadCdesert" pipe="pipeGlass" />
 	<dim tcMul="0.0712977" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="8" heightOfs="0.06" />
-	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="160" lodPntLen="10" />
+	<mrg loop="1" skirtLen="1" skirtH="0.12" merge="1" mergeLen="160" lodPntLen="10" visDist="1000" visBehind="800" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 6.804 24.604" iDir="-1" iChk1="68" />
-	<stats length="1916.15" width="8.10393" height="59.4427" onTer="0" pipes="0" bnkAvg="28.3744" bnkMax="59.7459" />
+	<stats length="1916.15" width="8.10393" height="59.4428" onTer="0" pipes="0" bnkAvg="28.3743" bnkMax="59.7459" />
 	<txt desc="Tricky but fast track with high terrain slopes." />
 	<adv ice="Has many sharp hairpin turns and high banking angles." />
 	<P pos="-140.064 0 104.089" w="8.136" aT="2" />

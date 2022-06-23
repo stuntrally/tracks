@@ -3,7 +3,7 @@
 	<dim tcMul="0.0452027" tcW="0.15" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="2" widthSteps="6" heightOfs="0.06" />
 	<mrg loop="1" skirtLen="1" skirtH="0.12" merge="1" mergeLen="400" lodPntLen="40" visDist="1000" visBehind="800" />
 	<geom colN="4" colR="2.49186" wsPm="4" lsPm="1" stBox="1 4.824 15.096" iDir="-1" iChk1="133" />
-	<stats length="5470.31" width="8.83581" height="135.453" onTer="32.2495" pipes="0" bnkAvg="2.60086" bnkMax="21.9" />
+	<stats length="5470.33" width="8.83581" height="135.453" onTer="32.2497" pipes="0" bnkAvg="2.60085" bnkMax="21.9" />
 	<txt desc="Long, wide, road through canyon like landscape." />
 	<adv ice="Quite bumpy terrain road and banked bridges." />
 	<P pos="395.23 0 -251.102" w="8.488" aT="2" />

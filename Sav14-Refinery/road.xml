@@ -3,9 +3,9 @@
 	<dim tcMul="0.1" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="6" heightOfs="0.06" />
 	<mrg loop="1" skirtLen="0" skirtH="0" merge="1" mergeLen="166.893" lodPntLen="20" visDist="1000" visBehind="800" />
 	<geom colN="5" colR="2.5" wsPm="4" lsPm="1" stBox="1 5.16 11.208" iDir="1" iChk1="87" />
-	<stats length="5328.49" width="8.18549" height="69.1901" onTer="83.7282" pipes="35.8193" bnkAvg="17.9425" bnkMax="89.9657" />
+	<stats length="5341.9" width="8.193" height="69.1901" onTer="83.7691" pipes="35.8714" bnkAvg="17.9425" bnkMax="89.9657" />
 	<txt desc="Extremely difficult, but not too long, stunt track located in salt mine with refinery. Caution: crazy! For professional stunt drivers." />
-	<adv ice="Very curly in 3D, with intense skewed loops, vertical twisted road, pipes and jumps. Drive calm and slow, don't hit walls." />
+	<adv ice="Very curly in 3D, with intense skewed loops, vertical twisted road, pipes and jumps. Drive calm and slow, don&apos;t hit walls." />
 	<P pos="-43.911 30.5373 -28.3669" w="8.58" onTer="0" a="0" ar="0" aT="2" col="0" />
 	<P pos="-34.9745 27.9078 -12.6081" w="8.4" onTer="0" a="0" ar="-11.4" aT="2" col="0" chkR="1" />
 	<P pos="-15.9518 22.6892 -3.25598" w="7" onTer="0" a="0" ar="-25.8" aT="2" />

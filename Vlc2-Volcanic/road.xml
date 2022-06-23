@@ -1,9 +1,9 @@
 <SplineRoad>
-	<mtr road="roadNdirt" pipe="pipeAsphalt" road2="roadJDarkD" pipe2="pipeGlass" wall="road_wall_JDark" col="road_col_Dark" />
+	<mtr river="0" road="roadNdirt" pipe="pipeAsphalt" road2="roadJDarkD" pipe2="pipeGlass" wall="road_wall_JDark" col="road_col_Dark" />
 	<dim tcMul="0.1" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="2" widthSteps="6" heightOfs="0.06" />
-	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="800" lodPntLen="120" />
+	<mrg loop="1" skirtLen="1" skirtH="0.12" merge="1" mergeLen="800" lodPntLen="120" visDist="1000" visBehind="800" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5.56 19.968" iDir="-1" iChk1="114" />
-	<stats length="5833.18" width="7.416" height="55.3883" onTer="14.8415" pipes="0" bnkAvg="3.94143" bnkMax="26.0768" />
+	<stats length="5833.18" width="7.416" height="55.3883" onTer="14.8414" pipes="0" bnkAvg="3.94145" bnkMax="26.0768" />
 	<txt desc="Dark terrain from volcanic rock with few islands in water." />
 	<adv ice="Quite bumpy, except bridges. Middle has many drives through water." />
 	<P pos="173.456 0 -91.2777" w="7.416" aT="2" mtr="1" chkR="1.912" />
@@ -56,7 +56,7 @@
 	<P pos="-321.933 0 528.031" w="7.416" aT="2" chkR="1.756" />
 	<P pos="-259.183 0 540.248" w="7.416" aT="2" chkR="1.676" />
 	<P pos="-209.593 0 528.377" w="7.416" aT="2" />
-	<P pos="-172.862 0 517.653" w="7.416" a="0" ar="0" aT="2" chkR="1.652" />
+	<P pos="-172.862 0 517.653" w="7.416" a="0" ar="0" aT="2" col="0" chkR="1.652" />
 	<P pos="-135.845 7.66605 500.474" w="7.416" onTer="0" a="0" ar="0" aT="2" mtr="1" />
 	<P pos="-63.6093 9.49235 464.728" w="7.416" onTer="0" a="0" ar="0" aT="2" mtr="1" />
 	<P pos="-5.33628 0 439.776" w="7.416" a="0" ar="0" aT="2" mtr="1" chkR="1.652" />
