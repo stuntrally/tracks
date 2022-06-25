@@ -1,7 +1,7 @@
 <SplineRoad>
-	<mtr road="roadSavannah" pipe="pipeGlassViolet" pipe2="pipeGlassWhiteB" pipe3="pipeGlassYellow" pipe4="pipeGlassRed" col="road_col_Winter" />
+	<mtr river="0" road="roadSavannah" pipe="pipeGlassViolet" pipe2="pipeGlassWhiteB" pipe3="pipeGlassYellow" pipe4="pipeGlassRed" col="road_col_Winter" />
 	<dim tcMul="0.1" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="8" heightOfs="0.06" />
-	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="160" lodPntLen="20" />
+	<mrg loop="1" skirtLen="1" skirtH="0.12" merge="1" mergeLen="160" lodPntLen="20" visDist="1000" visBehind="800" />
 	<geom colN="6" colR="3" wsPm="4" lsPm="1" stBox="1 18.356 23.424" iDir="-1" iChk1="3" />
 	<stats length="2007.47" width="12.4769" height="37.7451" onTer="100" pipes="100" onPipe="100" bnkAvg="0" bnkMax="0" />
 	<txt desc="Whole track driven on pipe." />

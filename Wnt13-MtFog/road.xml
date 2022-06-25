@@ -1,9 +1,9 @@
 <SplineRoad>
-	<mtr road="roadSnow" pipe="pipeAsphalt" pipe2="pipeGlassCyan" wall="road_wall_Winter" col="road_col_Winter" />
+	<mtr river="0" road="roadSnow" pipe="pipeAsphalt" pipe2="pipeGlassCyan" wall="road_wall_Winter" col="road_col_Winter" />
 	<dim tcMul="0.05" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="2" widthSteps="6" heightOfs="0.06" />
-	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
+	<mrg loop="1" skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" visDist="1000" visBehind="800" />
 	<geom colN="6" colR="4" wsPm="4" lsPm="1" stBox="1 5.33599 13.1521" iDir="-1" iChk1="3" />
-	<stats length="1412.38" width="8.85423" height="11.5307" onTer="10.3417" pipes="0" bnkAvg="5.48675" bnkMax="13.2887" />
+	<stats length="1412.38" width="8.85423" height="11.5307" onTer="10.3417" pipes="0" bnkAvg="5.48674" bnkMax="13.2886" />
 	<txt desc="A broad but yet dangerous mountain road in dense fog." />
 	<adv ice="Drive carefully and watch out for grass (or other helpers) for orientation." />
 	<P pos="-12.832 0 217.044" w="8.0064" a="0" ar="0" aT="2" chkR="1.3" />
@@ -62,9 +62,9 @@
 	<P pos="87.7626 0 131.865" w="10.608" aT="2" />
 	<P pos="97.233 0 151.267" w="8.0068" aT="2" />
 	<P pos="116.676 0 171.665" w="8.0008" a="0" ar="0" aT="2" chkR="1.508" />
-	<P pos="126.582 -0.729534 199.101" w="7.99599" onTer="0" a="0" ar="0" aT="2" />
+	<P pos="126.582 -0.729534 199.101" w="7.99599" onTer="0" a="0" ar="0" aT="2" col="0" />
 	<P pos="118.729 0 225.055" w="7.7704" a="0" ar="0" aT="2" chkR="1.4" />
 	<P pos="94.7292 0 214.537" w="8.12" aT="2" />
-	<P pos="75.3146 0 208.297" w="8.0044" a="0" ar="0" aT="2" chkR="1.292" />
-	<P pos="23.346 -0.175365 213.684" w="8.0104" onTer="0" a="0" ar="0" aT="2" />
+	<P pos="75.3146 0 208.297" w="8.0044" a="0" ar="0" aT="2" col="0" chkR="1.292" />
+	<P pos="23.346 -0.175365 213.684" w="8.0104" onTer="0" a="0" ar="0" aT="2" col="0" />
 </SplineRoad>

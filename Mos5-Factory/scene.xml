@@ -1,10 +1,10 @@
 <scene>
-	<ver num="2700" baseTrk="" secEd="2219" />
+	<ver num="2700" baseTrk="" secEd="2944" />
 	<car tires="0" damage="0.247492" />
-	<start pos="133.218 -30.7895 71.8364" rot="-0.0116588 -0.0146992 -0.712893 0.701044" />
+	<start pos="133.218 -30.7895 71.8364" rot="-0.0116588 -0.0146992 -0.712893 0.701044" pos2="0 0 0" rot2="0 0 0 1" />
 	<sound ambient="" reverbs="Savanna" />
 	<sky material="sky/dayovercast" rainName="RainFastA" rainEmit="601" />
-	<fog color="0.528 0.343 0.700 0.700 0.000" color2="0.583 0.333 0.600 0.700 0.000" linStart="278.905" linEnd="791.465" />
+	<fog color="0.528 0.343 0.700 0.700 0.000" color2="0.583 0.333 0.600 0.700 0.000" linStart="278.905" linEnd="919.45" />
 	<fogH color="0.433 0.294 0.340 1.000 0.000" height="-2.50627" dens="24.976" linStart="0" linEnd="48.2912" />
 	<light pitch="27.7444" yaw="137.594" ambient="0.000 0.000 0.500 1.000 0.000" diffuse="0.000 0.000 0.700 1.000 0.000" specular="0.000 0.000 0.700 1.000 0.000" />
 	<fluids>
@@ -52,18 +52,18 @@
 		<gchan amin="0" amax="30" asm="20" hmin="-100" hmax="100" hsm="20" ns="0" frq="31" oct="3" prs="0.3" pow="1.2" rd="0" />
 		<gchan amin="0" amax="30" asm="20" hmin="-100" hmax="100" hsm="20" ns="0" frq="37" oct="3" prs="0.3" pow="1.2" rd="0" />
 		<gchan amin="0" amax="30" asm="20" hmin="-100" hmax="100" hsm="20" ns="0" frq="43" oct="3" prs="0.3" pow="1.2" rd="0" />
-		<layer on="1" name="rock_n3r.mesh" dens="0.0646013" minScale="0.55" maxScale="1.04894" ofsY="0" addTrRdDist="1" maxRdist="100" windFx="0" windFy="0" maxTerAng="22.09" minTerH="8" maxTerH="50" maxDepth="2" />
+		<layer on="0" name="rock_n3r.mesh" dens="0.0646013" minScale="0.55" maxScale="1.04894" ofsY="0" addTrRdDist="1" maxRdist="100" windFx="0" windFy="0" maxTerAng="22.09" minTerH="8" maxTerH="50" maxDepth="2" />
 		<layer on="1" name="fern2.mesh" dens="0.176443" minScale="0.3" maxScale="0.44" ofsY="0" addTrRdDist="1" maxRdist="6" windFx="0" windFy="0" maxTerAng="29.12" minTerH="0.550461" maxTerH="9" maxDepth="0.5" />
 		<layer on="1" name="treeGC-29aspDnSwp.mesh" dens="0.175808" minScale="1.06729" maxScale="1.76054" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0.599999" windFy="0.00999945" maxTerAng="25.7764" minTerH="-3.85321" maxTerH="81.1009" maxDepth="1" />
 		<layer on="1" name="treeGY-36aspMed.mesh" dens="0.117806" minScale="0.919234" maxScale="1.21804" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0.699996" windFy="0.00999974" maxTerAng="22.6378" minTerH="-4.58716" maxTerH="67.156" maxDepth="1" />
-		<layer on="0" name="tree33bbTallUpO.mesh" dens="0.151667" minScale="0.97691" maxScale="1.20445" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0.599999" windFy="0.00999945" maxTerAng="50" minTerH="-4.58716" maxTerH="50" maxDepth="5" />
-		<layer on="0" name="tree51site.mesh" dens="0.117972" minScale="1.04925" maxScale="1.35954" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0.699996" windFy="0.00999975" maxTerAng="50" minTerH="-4.58716" maxTerH="50" maxDepth="5" />
-		<layer on="0" name="tree52sitefat.mesh" dens="0.117972" minScale="1.04925" maxScale="1.35954" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0.699996" windFy="0.00999976" maxTerAng="50" minTerH="-4.58716" maxTerH="50" maxDepth="5" />
-		<layer on="1" name="jungle_tree.mesh" dens="0.0145428" minScale="1.49207" maxScale="1.90608" ofsY="0" addTrRdDist="3" maxRdist="100" windFx="0.393863" windFy="0.00277818" maxTerAng="17.6963" minTerH="-4.58716" maxTerH="88.0734" maxDepth="2" />
+		<layer on="1" name="rock16black1.mesh" dens="0.244382" minScale="0.7" maxScale="1.03393" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0" windFy="0" maxTerAng="34.34" minTerH="-4.58716" maxTerH="86.2673" maxDepth="1" />
+		<layer on="1" name="rock17black2wh.mesh" dens="0.244382" minScale="0.7" maxScale="1.03393" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0" windFy="0" maxTerAng="34.34" minTerH="-4.58716" maxTerH="86.2673" maxDepth="1" />
+		<layer on="1" name="rock19harshWhite.mesh" dens="0.056978" minScale="0.653271" maxScale="0.947071" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0" windFy="0" maxTerAng="34.34" minTerH="-4.58716" maxTerH="84.6083" maxDepth="1" />
+		<layer on="0" name="jungle_tree.mesh" dens="0.0145428" minScale="1.49207" maxScale="1.90608" ofsY="0" addTrRdDist="3" maxRdist="100" windFx="0.393863" windFy="0.00277818" maxTerAng="17.6963" minTerH="-4.58716" maxTerH="88.0734" maxDepth="2" />
 		<layer on="0" name="tree55sitebig.mesh" dens="0.142305" minScale="0.988728" maxScale="1.74292" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0.599999" windFy="0.00999948" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 	</paged>
-	<cam pos="233.449 147.345 -34.0248" dir="-0.920428 -0.295726 0.255651" />
+	<cam pos="276.933 161.924 -73.4948" dir="-0.887774 -0.314853 0.335745" />
 	<objects>
 		<o name="obstacle1" pos="-7.85193 -28.1504 41.6459" rot="0.0365497 -0.707637 -0.704767 0.0349322" sc="1.30768 1.30722 1.30768" />
 		<o name="watchtower2" pos="-72.172 -26.3773 39.3114" rot="0 1 0 0" />

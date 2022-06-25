@@ -1,9 +1,9 @@
 <SplineRoad>
-	<mtr road="roadCdesert" road2="roadDesertOrn" road3="roadMud" road4="roadSandSet" />
+	<mtr river="0" road="roadCdesert" pipe="pipeGlass" road2="roadDesertOrn" road3="roadMud" road4="roadSandSet" />
 	<dim tcMul="0.0473075" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="8" heightOfs="0.06" />
-	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="160" lodPntLen="10" />
+	<mrg loop="1" skirtLen="1" skirtH="0.12" merge="1" mergeLen="160" lodPntLen="10" visDist="1000" visBehind="800" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 8.468 24.604" iDir="-1" iChk1="93" />
-	<stats length="5636.6" width="11.4314" height="113.423" onTer="3.56779" pipes="0" bnkAvg="25.5605" bnkMax="60.4329" />
+	<stats length="5636.6" width="11.4314" height="113.423" onTer="3.56779" pipes="0" bnkAvg="25.5605" bnkMax="60.433" />
 	<txt desc="Hilly but smooth terrain with road on slopes." />
 	<adv ice="Highly banked, fast and with few terrain jumps. Knowing where to land is crucial." />
 	<P pos="222.262 0 -258.195" w="10.176" aT="2" mtr="1" />

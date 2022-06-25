@@ -1,7 +1,7 @@
 <scene>
-	<ver num="2700" baseTrk="" secEd="2020" />
+	<ver num="2700" baseTrk="" secEd="2771" />
 	<car tires="0" damage="0.3" />
-	<start pos="-69.016 181.991 -25.5538" rot="-0.001352 0.00575 0.681427 0.731884" />
+	<start pos="-69.016 181.991 -25.5538" rot="-0.001352 0.00575 0.681427 0.731884" pos2="0 0 0" rot2="0 0 0 1" />
 	<sound ambient="" reverbs="MountainsClose" />
 	<sky material="sky/duskstormy" />
 	<fog color="0.167 0.500 0.200 0.800 0.000" color2="0.069 0.375 0.160 0.700 0.000" linStart="28.8" linEnd="690.312" />
@@ -58,11 +58,12 @@
 	<cam pos="52.836 62.1852 294.308" dir="-0.190422 -0.202299 -0.960632" />
 	<objects />
 	<emitters>
-		<e name="FireYellowRed" pos="-5.43376 -119.897 -136.724" sc="130.375 8.2172 102.627" up="0 1 0" rot="0" rate="226.064" st="0" />
-		<e name="FireOrange" pos="-111.834 -126.236 -41.4743" sc="99.3677 1 57.6319" up="0 1 0" rot="0" rate="178.589" st="0" />
-		<e name="FireOrangeRed" pos="72.6989 -118.212 -244.242" sc="97.776 1 56.7504" up="0 1 0" rot="0" rate="112.057" st="0" />
-		<e name="SmokeBlack" pos="-30.4555 -105.622 75.7368" sc="151.317 1 123.187" up="0 1 0" rot="0" rate="202.111" st="0" />
-		<e name="FireYellowRed" pos="-150.507 30.7582 -175.327" sc="38.0391 4.58744 37.1428" up="0 1 0" rot="0" rate="258.522" st="0" />
+		<e name="FireYellowRed" pos="-5.43376 -119.897 -136.724" sc="130.375 8.2172 102.627" up="0 1 0" rot="0" rate="151.058" st="0" />
+		<e name="FireOrange" pos="-111.834 -126.236 -41.4743" sc="99.3677 1 57.6319" up="0 1 0" rot="0" rate="30.9253" st="0" />
+		<e name="FireOrangeRed" pos="72.6989 -118.212 -244.242" sc="97.776 1 56.7504" up="0 1 0" rot="0" rate="55.9344" st="0" />
+		<e name="SmokeBlack" pos="-30.4555 -105.622 75.7368" sc="151.317 1 123.187" up="0 1 0" rot="0" rate="203.458" st="0" />
+		<e name="CraterLava2" pos="-149.827 35.7286 -174.642" sc="38.0391 8.46689 37.1428" up="0 1 0" rot="0" rate="38.4292" st="0" />
 		<e name="FireOrangeRed" pos="377.698 -104.978 -37.7831" sc="71.4045 13.9446 46.5945" up="0 1 0" rot="0" rate="245.744" st="0" />
+		<e name="SmokeGray" pos="-147.508 37.1525 -177.898" sc="28.3213 1 28.2998" up="0 1 0" rot="0" rate="10.5142" st="0" />
 	</emitters>
 </scene>

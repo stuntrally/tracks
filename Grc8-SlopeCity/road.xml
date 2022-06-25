@@ -1,9 +1,9 @@
 <SplineRoad>
-	<mtr road="roadSandWhite" road2="roadSand2" />
+	<mtr river="0" road="roadSandWhite" pipe="pipeGlass" road2="roadSand2" />
 	<dim tcMul="0.0658105" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="8" heightOfs="0.1" />
-	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="702.067" lodPntLen="15.7966" />
+	<mrg loop="1" skirtLen="1" skirtH="0.12" merge="1" mergeLen="702.067" lodPntLen="15.7966" visDist="1000" visBehind="800" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5.552 17.656" iDir="-1" iChk1="6" />
-	<stats length="4852.97" width="8.78038" height="159.386" onTer="16.1338" pipes="0" bnkAvg="3.51972" bnkMax="26.154" />
+	<stats length="4852.97" width="8.78038" height="159.386" onTer="16.1339" pipes="0" bnkAvg="3.51971" bnkMax="26.1538" />
 	<txt desc="A city built on mountain slopes. Not for those afraid of heights." />
 	<adv ice="Has few quite sharp, hairpin turns, bridges and terrain bumps." />
 	<P pos="178.403 0 23.8422" w="9.66356" a="-2.58" ar="6.96" aT="2" col="0" chkR="1" />

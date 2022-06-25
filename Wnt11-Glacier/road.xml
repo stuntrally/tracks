@@ -1,7 +1,7 @@
 <SplineRoad>
-	<mtr road="roadSnowGrn" pipe="pipeGlass" road2="roadSnow" road3="roadMud" road4="roadIce" wall="road_wall_Winter" pipeW="pipe_wall_Winter" col="road_col_Winter" />
+	<mtr river="0" road="roadSnowGrn" pipe="pipeGlass" road2="roadSnow" road3="roadMud" road4="roadIce" wall="road_wall_Winter" pipeW="pipe_wall_Winter" col="road_col_Winter" />
 	<dim tcMul="0.05" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="2" widthSteps="6" heightOfs="0.06" />
-	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="400" lodPntLen="20" visDist="1000" visBehind="800" />
+	<mrg loop="1" skirtLen="1" skirtH="0.12" merge="1" mergeLen="400" lodPntLen="20" visDist="1000" visBehind="800" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 6.068 14.256" iDir="-1" iChk1="21" />
 	<stats length="5138.76" width="10.228" height="157.824" onTer="24.0673" pipes="0" bnkAvg="5.10911" bnkMax="23.164" />
 	<txt desc="Easy route through stunning icy landscape. Has 2 caves. Partly near river." />
@@ -52,10 +52,10 @@
 	<P pos="-123.971 0 156.998" w="7.336" aT="2" />
 	<P pos="-72.1416 0 218.299" w="8.112" aT="2" chkR="2.104" />
 	<P pos="-39.9174 0 291.448" w="7.464" aT="2" />
-	<P pos="-20.9287 0 341.001" w="27.232" aT="2" mtr="2" chkR="1.304" />
-	<P pos="2.36492 0 382.712" w="37.328" aT="2" mtr="2" />
-	<P pos="55.5724 0 397.549" w="39.152" aT="2" mtr="2" />
-	<P pos="106.691 0 401.568" w="39.904" aT="2" mtr="2" chkR="1.124" />
+	<P pos="-20.9287 0 341.001" w="27.232" aT="2" mtr="1" chkR="1.304" />
+	<P pos="2.36492 0 382.712" w="37.328" aT="2" mtr="1" />
+	<P pos="55.5724 0 397.549" w="39.152" aT="2" mtr="1" />
+	<P pos="106.691 0 401.568" w="39.904" aT="2" mtr="1" chkR="1.124" />
 	<P pos="137.582 0 397.829" w="10.336" aT="2" />
 	<P pos="191.659 0 391.764" w="10.424" aT="2" />
 	<P pos="240.64 0 382.866" w="9.272" aT="2" chkR="2.252" />
@@ -73,7 +73,7 @@
 	<P pos="-275.523 0 -189.328" w="10.12" aT="2" mtr="1" />
 	<P pos="-273.817 0 -239.216" w="9.704" aT="2" mtr="1" chkR="2.336" />
 	<P pos="-230.966 0 -270.919" w="7.984" aT="2" mtr="1" />
-	<P pos="-172.927 0 -281.177" w="7.984" aT="2" col="0" mtr="3" />
+	<P pos="-172.988 0 -279.939" w="7.984" aT="2" col="0" mtr="3" />
 	<P pos="-116.741 0 -280.474" w="7.984" aT="2" mtr="3" chkR="1.66" />
 	<P pos="-54.234 0 -296.119" w="7.984" aT="2" col="0" mtr="3" />
 </SplineRoad>

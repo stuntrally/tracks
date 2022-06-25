@@ -1,7 +1,7 @@
 <scene>
-	<ver num="2500" baseTrk="" secEd="24" />
+	<ver num="2700" baseTrk="" secEd="316" />
 	<car tires="0" damage="0.2" />
-	<start pos="127.117 -34.2923 0.605137" rot="3e-006 4.9738e-013 0.184949 0.982759" />
+	<start pos="127.117 -34.2923 0.605137" rot="3e-06 4.9738e-13 0.184949 0.982759" pos2="0 0 0" rot2="0 0 0 1" />
 	<sound ambient="" reverbs="Savanna" />
 	<sky material="sky/light_blue" />
 	<fog color="0.550 0.100 1.000 1.000 0.000" color2="0.519 0.270 1.000 1.000 0.000" linStart="396.05" linEnd="1065.8" />
@@ -49,7 +49,7 @@
 		<layer on="1" name="farn1.mesh" dens="0.34" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="7.3" windFy="0.06" maxTerAng="32.9882" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="0" name="farn2.mesh" dens="0.34" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="7.3" windFy="0.06" maxTerAng="32.9882" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="1" name="jungle_tree.mesh" dens="0.0914529" minScale="1.11953" maxScale="1.87928" ofsY="0" addTrRdDist="3" maxRdist="100" windFx="0.436461" windFy="0.00576351" maxTerAng="19.4462" minTerH="-100" maxTerH="30" maxDepth="5" />
-		<layer on="1" name="rock_n2-GYel.mesh" dens="0.0835302" minScale="0.664644" maxScale="1.2594" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0" windFy="0" maxTerAng="34.987" minTerH="-100" maxTerH="100" maxDepth="5" />
+		<layer on="1" name="rock37brGr1tall.mesh" dens="0.131765" minScale="0.84102" maxScale="1.80451" ofsY="0" addTrRdDist="4" maxRdist="100" windFx="0" windFy="0" maxTerAng="34.34" minTerH="-100" maxTerH="100" maxDepth="1" />
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
@@ -57,4 +57,5 @@
 	</paged>
 	<cam pos="398.753 130.041 -135.1" dir="-0.866641 -0.281242 0.412113" />
 	<objects />
+	<emitters />
 </scene>

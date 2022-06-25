@@ -1,9 +1,9 @@
 <SplineRoad>
-	<mtr road="roadJDark" wall="road_wall_JDark" col="road_col_Dark" />
+	<mtr river="0" road="roadJDark" pipe="pipeGlass" wall="road_wall_JDark" col="road_col_Dark" />
 	<dim tcMul="0.08" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="6" heightOfs="0.06" />
-	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
+	<mrg loop="1" skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" visDist="1000" visBehind="800" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5.56 19.968" iDir="-1" iChk1="6" />
-	<stats length="2772.52" width="7" height="75.9887" onTer="6.01048" pipes="0" bnkAvg="2.3815" bnkMax="8.78127" />
+	<stats length="2772.51" width="7" height="75.9886" onTer="6.01048" pipes="0" bnkAvg="2.38147" bnkMax="8.78123" />
 	<txt desc="A long, dark track around an old dusty volcano in a dark jungle." />
 	<adv ice="Tricky and very bumpy, only for skilled drivers and durable vehicles." />
 	<P pos="315.961 0 20.3547" w="7" aT="2" chkR="1.404" />
@@ -13,11 +13,11 @@
 	<P pos="270.583 0 292.383" w="7" aT="2" />
 	<P pos="233.71 0 311.92" w="7" aT="2" />
 	<P pos="196.813 0 315.203" w="7" a="0" ar="0" aT="2" chkR="1" />
-	<P pos="173.188 46.3232 315.784" w="7" onTer="0" a="0" ar="0" aT="2" />
+	<P pos="173.188 46.3232 315.784" w="7" onTer="0" a="0" ar="0" aT="2" col="0" />
 	<P pos="152.788 46.2618 316.557" w="7" onTer="0" a="0" ar="0" aT="2" />
 	<P pos="117.693 46.4703 319.084" w="7" onTer="0" a="0" ar="0" aT="2" />
 	<P pos="78.983 46.3451 322.675" w="7" onTer="0" a="0" ar="0" aT="2" />
-	<P pos="51.5467 46.1714 326.355" w="7" onTer="0" a="0" ar="0" aT="2" />
+	<P pos="51.5467 46.1714 326.355" w="7" onTer="0" a="0" ar="0" aT="2" col="0" />
 	<P pos="30.9078 0 328.899" w="7" a="0" ar="0" aT="2" />
 	<P pos="5.3647 0 331.728" w="7" aT="2" />
 	<P pos="-43.7798 0 337.052" w="7" aT="2" />

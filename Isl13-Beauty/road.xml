@@ -1,11 +1,11 @@
 <SplineRoad>
-	<mtr road="roadSand" pipe="pipeAsphalt" road2="roadJungle" road3="roadSavannah" road4="roadMud" col="road_col_Desert" />
+	<mtr river="0" road="roadSand" pipe="pipeAsphalt" road2="roadJungle" road3="roadSavannah" road4="roadMud" col="road_col_Desert" />
 	<dim tcMul="0.1" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.15" lenDim="2" widthSteps="6" heightOfs="0.06" />
-	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="1200" lodPntLen="40" />
+	<mrg loop="1" skirtLen="1" skirtH="0.12" merge="1" mergeLen="1200" lodPntLen="40" visDist="1000" visBehind="800" />
 	<geom colN="6" colR="2.5" wsPm="4" lsPm="1" stBox="1 6.14 19.26" iDir="-1" iChk1="70" />
 	<stats length="9038.7" width="8.70351" height="54.1454" onTer="38.9003" pipes="0" bnkAvg="3.75704" bnkMax="26.9812" />
 	<txt desc="Long, fast road in beautiful island scenery at sunset." />
-	<adv ice="Has few terrain jumps, long straights, circles, sharp and open turns, don't fall off." />
+	<adv ice="Has few terrain jumps, long straights, circles, sharp and open turns, don&apos;t fall off." />
 	<P pos="226.665 0 253.39" w="8.768" aT="2" col="0" mtr="1" chkR="1.796" />
 	<P pos="172.654 0 288.933" w="8.224" aT="2" col="0" />
 	<P pos="160.05 0 305.138" w="14.096" aT="2" col="0" chkR="1.664" />
@@ -36,10 +36,10 @@
 	<P pos="428.798 0 399.578" w="8.928" aT="2" />
 	<P pos="404.7 0 501.628" w="9.4" aT="2" chkR="1.776" />
 	<P pos="353.329 0 551.751" w="9.688" a="0" ar="7.8" aT="2" />
-	<P pos="282.608 8.93555 568.354" w="8.224" onTer="0" a="0" ar="0" aT="2" chkR="1.264" />
-	<P pos="179.985 4.0591 551.251" w="8.224" onTer="0" a="0" ar="0" aT="2" />
-	<P pos="82.8789 16.1516 528.435" w="8.224" onTer="0" a="0" ar="0" aT="2" mtr="1" />
-	<P pos="-21.1606 9.5247 501.625" w="8.752" onTer="0" a="0" ar="-3.96" aT="2" mtr="1" chkR="1.42" />
+	<P pos="282.608 8.93555 568.354" w="8.224" onTer="0" a="0" ar="0" aT="2" col="0" chkR="1.264" />
+	<P pos="179.985 4.0591 551.251" w="8.224" onTer="0" a="0" ar="0" aT="2" col="0" />
+	<P pos="82.8789 16.1516 528.435" w="8.224" onTer="0" a="0" ar="0" aT="2" col="0" mtr="1" />
+	<P pos="-21.1606 9.5247 501.625" w="8.752" onTer="0" a="0" ar="-3.96" aT="2" col="0" mtr="1" chkR="1.42" />
 	<P pos="-111.809 11.2219 510.828" w="8.224" onTer="0" a="0" ar="-5.22" aT="2" mtr="1" />
 	<P pos="-234.563 0 551.011" w="8.224" a="0" ar="0.93" aT="2" mtr="1" />
 	<P pos="-312.926 0 542.317" w="9.216" aT="2" mtr="1" chkR="1.936" />
@@ -51,7 +51,7 @@
 	<P pos="-503.743 0 219.33" w="8.152" aT="2" />
 	<P pos="-472.084 0 208.603" w="8.224" aT="2" chkR="1.988" />
 	<P pos="-442.741 0 195.414" w="9.904" aT="2" />
-	<P pos="-423.947 0 159.724" w="9.192" a="0" ar="-1.566" aT="2" chkR="1.06" />
+	<P pos="-423.947 0 159.724" w="9.192" a="0" ar="-1.566" aT="2" col="0" chkR="1.06" />
 	<P pos="-426.463 4.92664 75.4065" w="7.624" onTer="0" a="0" ar="0" aT="2" />
 	<P pos="-443.73 9.23967 -116.867" w="8.16" onTer="0" a="0" ar="0" aT="2" />
 	<P pos="-470.528 10.9063 -325.336" w="9.296" onTer="0" a="0" ar="6.42" aT="2" col="0" chkR="1.156" />

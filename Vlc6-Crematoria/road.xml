@@ -1,10 +1,10 @@
 <SplineRoad>
-	<mtr road="roadJDarkD" pipe="pipeAsphalt" road2="roadSandDark" pipe2="pipeGlass" road3="roadAdesert" road4="roadMud" wall="road_wall_Jungle" col="road_col_Blue" />
+	<mtr river="0" road="roadJDarkD" pipe="pipeAsphalt" road2="roadSandDark" pipe2="pipeGlass" road3="roadAdesert" road4="roadMud" wall="road_wall_Jungle" col="road_col_Blue" />
 	<dim tcMul="0.08" tcW="0.1" tcP="0.1" tcPW="0.3" tcC="0.1" lenDim="2" widthSteps="6" heightOfs="0.06" />
-	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="800" lodPntLen="60" visDist="1000" visBehind="800" />
+	<mrg loop="1" skirtLen="1" skirtH="0.12" merge="1" mergeLen="800" lodPntLen="60" visDist="1000" visBehind="800" />
 	<geom colN="4" colR="3" wsPm="4" lsPm="1" stBox="1 6.516 10.568" iDir="-1" iChk1="39" />
 	<stats length="9417.6" width="8.90607" height="181.982" onTer="90.0861" pipes="0" bnkAvg="25.0275" bnkMax="78.8399" />
-	<txt desc="A long, twisted and difficult road near hot lava. Virtual drives only, as teams can not afford rebuilding roads that don't last long." />
+	<txt desc="A long, twisted and difficult road near hot lava. Virtual drives only, as teams can not afford rebuilding roads that don&apos;t last long." />
 	<adv ice="With highly banked corners. Slow down in loops and turns to not damage car. Avoid hitting borders too." />
 	<P pos="-192.084 51.0793 258.691" w="8.904" onTer="0" a="0" ar="13.92" aT="2" />
 	<P pos="-239.228 70.7927 214.494" w="11.728" onTer="0" a="0" ar="0.779991" aT="2" col="0" chkR="1" />

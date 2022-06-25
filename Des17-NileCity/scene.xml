@@ -1,7 +1,7 @@
 <scene>
-	<ver num="2700" baseTrk="" secEd="282" />
+	<ver num="2700" baseTrk="" secEd="1742" />
 	<car tires="0" />
-	<start pos="310.779 -80.8186 50.884" rot="0.00493664 -0.00627337 -0.673457 -0.739216" />
+	<start pos="310.779 -80.8186 50.884" rot="0.00493664 -0.00627337 -0.673457 -0.739216" pos2="0 0 0" rot2="0 0 0 1" />
 	<sound ambient="" reverbs="Rocky" />
 	<sky material="sky/day_blue" />
 	<fog color="0.570 0.221 0.860 1.000 0.000" color2="0.583 0.222 0.900 1.000 0.000" linStart="246.23" linEnd="951.038" />
@@ -48,14 +48,14 @@
 		<gchan amin="0" amax="30" asm="20" hmin="-100" hmax="100" hsm="20" ns="0" frq="52" oct="3" prs="0.3" pow="1.2" rd="0" />
 		<layer on="1" name="palm2.mesh" dens="0.125571" minScale="2.34226" maxScale="3.31033" ofsY="0" addTrRdDist="1" maxRdist="20" windFx="0.295773" windFy="0.114733" maxTerAng="21.5375" minTerH="1.2973" maxTerH="100" maxDepth="0" />
 		<layer on="1" name="palm.mesh" dens="0.0480094" minScale="1.78362" maxScale="2.40035" ofsY="0" addTrRdDist="1" maxRdist="20" windFx="0.599994" windFy="0.00999496" maxTerAng="14.2061" minTerH="2.5946" maxTerH="100" maxDepth="0" />
-		<layer on="1" name="rock_n2-GYel.mesh" dens="0.0403964" minScale="0.424913" maxScale="0.788201" ofsY="0" addTrRdDist="1" maxRdist="20" windFx="7.29999" windFy="0.0599931" maxTerAng="35.3716" minTerH="-100" maxTerH="100" maxDepth="1.81471" />
+		<layer on="1" name="rock_n2-GYel.mesh" dens="0.0403964" minScale="0.424913" maxScale="0.788201" ofsY="0" addTrRdDist="2" maxRdist="20" windFx="7.29999" windFy="0.0599931" maxTerAng="17.9832" minTerH="-100" maxTerH="100" maxDepth="2.97907" />
 		<layer on="1" name="treeD-34desTiny.mesh" dens="0.0646046" minScale="0.993711" maxScale="1.18624" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0.134303" windFy="0.0049742" maxTerAng="36.4144" minTerH="0.97297" maxTerH="100" maxDepth="0" />
 		<layer on="1" name="treeD-22desMed.mesh" dens="0.0135087" minScale="1.30169" maxScale="1.57545" ofsY="0" addTrRdDist="4" maxRdist="100" windFx="0.318349" windFy="0.0054261" maxTerAng="16.2046" minTerH="-100" maxTerH="100" maxDepth="0" />
 		<layer on="1" name="treeGC-32draUp.mesh" dens="0.00689124" minScale="1.04925" maxScale="1.28749" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0.0577775" windFy="0.00153982" maxTerAng="19.6757" minTerH="2.27027" maxTerH="14.9189" maxDepth="0" />
-		<layer on="0" name="tree.07.mesh" dens="0.0408248" minScale="0.849991" maxScale="1.15" ofsY="0" addTrRdDist="8" maxRdist="20" windFx="0.699996" windFy="0.00999529" maxTerAng="15.7209" minTerH="-10" maxTerH="3" maxDepth="0" />
-		<layer on="0" name="farn1.mesh" dens="0.0238965" minScale="0.142256" maxScale="0.217865" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="7.29999" windFy="0.0599931" maxTerAng="26.933" minTerH="-10" maxTerH="-3" maxDepth="0" />
-		<layer on="0" name="" dens="0.0999996" minScale="0.0999994" maxScale="0.249994" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-10" maxTerH="10" maxDepth="5" />
-		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
+		<layer on="1" name="rock03can1flat.mesh" dens="0.0408248" minScale="0.7" maxScale="1.2" ofsY="0" addTrRdDist="4" maxRdist="20" windFx="0" windFy="0" maxTerAng="37.729" minTerH="-10" maxTerH="3" maxDepth="1.5163" />
+		<layer on="0" name="rock05can3round.mesh" dens="0.0238965" minScale="0.7" maxScale="1.2" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0" windFy="0" maxTerAng="21.8822" minTerH="-10" maxTerH="100" maxDepth="1.86416" />
+		<layer on="1" name="rock12orange.mesh" dens="0.0999996" minScale="0.7" maxScale="1.2" ofsY="0" addTrRdDist="7" maxRdist="100" windFx="0" windFy="0" maxTerAng="26.1634" minTerH="-10" maxTerH="100" maxDepth="1.86416" />
+		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="1.86416" />
 	</paged>
 	<cam pos="-62.8575 38.725 -160.408" dir="0.752944 -0.125699 0.645969" />
 	<objects>

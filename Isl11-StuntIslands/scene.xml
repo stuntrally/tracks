@@ -1,7 +1,7 @@
 <scene>
-	<ver num="2500" baseTrk="W13-MtFog" secEd="18" />
+	<ver num="2700" baseTrk="W13-MtFog" secEd="392" />
 	<car tires="0" damage="0.8" />
-	<start pos="-609.446 -310.427 20.9396" rot="0.005154 -0.005185 0.697392 0.71667" />
+	<start pos="-609.446 -310.427 20.9396" rot="0.005154 -0.005185 0.697392 0.71667" pos2="0 0 0" rot2="0 0 0 1" />
 	<sound ambient="" reverbs="Islands" />
 	<sky material="sky/night_blue" />
 	<fog color="0.611 0.429 0.350 0.900 0.000" color2="0.603 0.433 0.300 0.900 0.000" linStart="630.348" linEnd="1538.94" />
@@ -51,7 +51,7 @@
 		<layer on="1" name="treeD-22desMed.mesh" dens="0.030259" minScale="1.17759" maxScale="1.64109" ofsY="0" addTrRdDist="9" maxRdist="100" windFx="0.36237" windFy="0.00999528" maxTerAng="10.9423" minTerH="-10" maxTerH="30" maxDepth="0" />
 		<layer on="1" name="treeD-34desTiny.mesh" dens="0.0399543" minScale="0.907978" maxScale="1.34492" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0.101797" windFy="0.00641048" maxTerAng="17.4866" minTerH="-10" maxTerH="30" maxDepth="0" />
 		<layer on="1" name="cactus.mesh" dens="0.0399999" minScale="0.462021" maxScale="0.853076" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="17.1673" minTerH="-10" maxTerH="30" maxDepth="0" />
-		<layer on="1" name="rock_n2-GYel.mesh" dens="0.0444028" minScale="0.863874" maxScale="1.30169" ofsY="0" addTrRdDist="4" maxRdist="100" windFx="0" windFy="0" maxTerAng="34.2693" minTerH="-10" maxTerH="30" maxDepth="1" />
+		<layer on="1" name="rock14tall1cgr.mesh" dens="0.0444028" minScale="0.7" maxScale="1.2" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0" windFy="0" maxTerAng="34.34" minTerH="-10" maxTerH="30" maxDepth="1" />
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
@@ -64,4 +64,5 @@
 		<o name="concrete_bar" pos="-550.042 -361.39 20.3192" rot="0.708254 -0.705959 0 0" sc="3.1061 2.31168 3.1061" />
 		<o name="concrete_bar" pos="-558.333 -320.694 20.3345" rot="0.705419 -0.70879 0 0" sc="3.10903 2.30359 3.10903" />
 	</objects>
+	<emitters />
 </scene>

@@ -1,9 +1,9 @@
 <SplineRoad>
-	<mtr road="roadDesert" road2="roadSand2" road3="roadSandDark" wall="road_wall_Desert" col="road_col_Desert" />
+	<mtr river="0" road="roadDesert" pipe="pipeGlass" road2="roadSand2" road3="roadSandDark" wall="road_wall_Desert" col="road_col_Desert" />
 	<dim tcMul="0.0639309" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="2" widthSteps="6" heightOfs="0.06" />
-	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="608.284" lodPntLen="15.4655" />
+	<mrg loop="1" skirtLen="1" skirtH="0.12" merge="1" mergeLen="608.284" lodPntLen="15.4655" visDist="1000" visBehind="800" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 4.888 13.424" iDir="-1" iChk1="3" />
-	<stats length="3605.46" width="8.70498" height="70.9687" onTer="8.63118" pipes="0" bnkAvg="4.57795" bnkMax="19.2427" />
+	<stats length="3605.46" width="8.70498" height="70.9687" onTer="8.63118" pipes="0" bnkAvg="4.57796" bnkMax="19.2429" />
 	<txt desc="Fast road through a city placed on both sides of the big river." />
 	<adv ice="Has few bridges, sharp turns and terrain jumps on dunes." />
 	<P pos="251.208 0 -210.989" w="9.776" aT="2" />

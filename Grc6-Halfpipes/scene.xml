@@ -1,7 +1,7 @@
 <scene>
-	<ver num="2700" baseTrk="Isl10-Treasure" secEd="9122" />
+	<ver num="2700" baseTrk="Isl10-Treasure" secEd="9302" />
 	<car tires="0" />
-	<start pos="-101.894 -110.865 102.925" rot="0.011509 -0.0483 0.55186 0.832472" />
+	<start pos="-101.894 -110.865 102.925" rot="0.011509 -0.0483 0.55186 0.832472" pos2="0 0 0" rot2="0 0 0 1" />
 	<sound ambient="" reverbs="Canyon" />
 	<sky material="sky/day_blue2" />
 	<fog color="0.522 0.300 1.000 1.000 0.000" color2="0.522 0.300 1.000 1.000 0.000" linStart="282.662" linEnd="1184.03" />

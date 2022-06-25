@@ -1,30 +1,30 @@
 <SplineRoad>
-	<mtr road="roadMud" pipe="pipeGlassYellow" road2="roadSavannah" pipe2="pipeGlassGreen" wall="road_wall_Jungle" />
+	<mtr river="0" road="roadMud" pipe="pipeGlassYellow" road2="roadSavannah" pipe2="pipeGlassGreen" wall="road_wall_Jungle" col="road_col_Dark" />
 	<dim tcMul="0.12" tcW="0.12" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="6" heightOfs="0.06" />
-	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
-	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 9.1 20.192" iDir="-1" iChk1="26" />
-	<stats length="2310.33" width="9.92135" height="77.1835" onTer="61.1761" pipes="51.9421" bnkAvg="13.0172" bnkMax="38.4543" />
+	<mrg loop="1" skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" visDist="1000" visBehind="800" />
+	<geom colN="4" colR="2.59968" wsPm="4" lsPm="1" stBox="1 9.1 20.192" iDir="-1" iChk1="26" />
+	<stats length="2310.33" width="9.92135" height="77.1835" onTer="61.1761" pipes="51.9421" bnkAvg="13.0172" bnkMax="38.4542" />
 	<txt desc="Small track over a mud lake." />
 	<adv ice="With twisted pipes, banked bridges and sharp terrain turns. Slow down on pipe exits." />
-	<P pos="5.75581 47.8689 -93.8991" w="9.776" onTer="0" a="0" ar="17.52" aT="2" pipe="1" chkR="1.692" />
-	<P pos="41.864 42.3086 -103.631" w="9.776" onTer="0" a="0" ar="16.2" aT="2" pipe="1" />
+	<P pos="5.75581 47.8689 -93.8991" w="9.776" onTer="0" a="0" ar="17.52" aT="2" col="0" pipe="1" chkR="1.692" />
+	<P pos="41.864 42.3086 -103.631" w="9.776" onTer="0" a="0" ar="16.2" aT="2" col="0" pipe="1" />
 	<P pos="89.0802 49.1944 -80.6606" w="9.776" onTer="0" a="0" ar="15.66" aT="2" pipe="1" />
 	<P pos="128.166 63.5994 -25.6335" w="9.776" onTer="0" a="0" ar="16.62" aT="2" pipe="1" chkR="1.892" />
 	<P pos="157.663 63.9143 46.0928" w="9.776" onTer="0" a="0" ar="9.72" aT="2" pipe="1" mtr="1" />
-	<P pos="133.125 47.5343 93.3846" w="9.776" onTer="0" a="0" ar="18.3" aT="2" pipe="1" mtr="1" chkR="1.688" />
-	<P pos="99.6652 42.3177 90.3282" w="9.776" onTer="0" a="0" ar="18.54" aT="2" pipe="1" mtr="1" />
+	<P pos="133.125 47.5343 93.3846" w="9.776" onTer="0" a="0" ar="18.3" aT="2" col="0" pipe="1" mtr="1" chkR="1.688" />
+	<P pos="99.6652 42.3177 90.3282" w="9.776" onTer="0" a="0" ar="18.54" aT="2" col="0" pipe="1" mtr="1" />
 	<P pos="90.6675 58.4858 65.887" w="9.776" onTer="0" a="0" ar="18.96" aT="2" pipe="1" mtr="1" />
 	<P pos="116.847 86.4739 57.2194" w="9.776" onTer="0" a="0" ar="24.12" aT="2" pipe="1" mtr="1" />
-	<P pos="169.567 101.056 82.2763" w="9.776" onTer="0" a="0" ar="16.56" aT="2" pipe="1" mtr="1" chkR="1.664" />
+	<P pos="169.567 101.056 82.2763" w="9.776" onTer="0" a="0" ar="16.56" aT="2" col="0" pipe="1" mtr="1" chkR="1.664" />
 	<P pos="233.675 0 135.075" w="9.776" a="0" ar="3.195" aT="2" />
 	<P pos="249.501 0 157.198" w="9.776" aT="2" />
 	<P pos="249.167 0 190.69" w="9.776" aT="2" chkR="1.784" />
 	<P pos="231.681 0 207.032" w="9.776" aT="2" />
 	<P pos="209.03 0 204.379" w="9.776" aT="2" />
 	<P pos="191.116 0 190.358" w="9.776" aT="2" />
-	<P pos="176.313 0 172.961" w="9.912" a="0" ar="0" aT="2" />
+	<P pos="176.313 0 172.961" w="9.912" a="0" ar="0" aT="2" col="0" />
 	<P pos="150.691 79.0381 147.328" w="9.776" onTer="0" a="0" ar="-9.66" aT="2" pipe="1" chkR="1.748" />
-	<P pos="87.2929 48.728 127.157" w="9.776" onTer="0" a="0" ar="-22.5" aT="2" pipe="1" />
+	<P pos="87.2929 48.728 127.157" w="9.776" onTer="0" a="0" ar="-22.5" aT="2" col="0" pipe="1" />
 	<P pos="25.9782 43.8593 118.963" w="9.776" onTer="0" a="0" ar="-19.68" aT="2" pipe="1" />
 	<P pos="-40.5463 71.0774 115.111" w="9.776" onTer="0" a="0" ar="-29.34" aT="2" col="0" pipe="1" chkR="1.696" />
 	<P pos="-71.4625 91.9955 149.824" w="9.776" onTer="0" a="0" ar="0" aT="2" pipe="1" />
@@ -38,26 +38,26 @@
 	<P pos="110.773 0 215.71" w="9.776" aT="2" chkR="1.716" />
 	<P pos="101.342 0 203.563" w="9.776" aT="2" />
 	<P pos="80.971 0 198.619" w="9.776" aT="2" />
-	<P pos="63.0649 0 197.552" w="9.776" a="5.1" ar="0.48" aT="2" mtr="1" />
+	<P pos="63.0649 0 197.552" w="9.776" a="5.1" ar="0.48" aT="2" col="0" mtr="1" />
 	<P pos="4.40235 84.3888 198.97" w="9.776" onTer="0" a="0" ar="21.72" aT="2" pipe="1" mtr="1" />
-	<P pos="-34.5799 83.1812 181.565" w="9.776" onTer="0" a="0" ar="23.46" aT="2" pipe="1" mtr="1" chkR="1.688" />
+	<P pos="-34.5799 83.1812 181.565" w="9.776" onTer="0" a="0" ar="23.46" aT="2" col="0" pipe="1" mtr="1" chkR="1.688" />
 	<P pos="-58.1112 72.5458 146.452" w="9.776" onTer="0" a="0" ar="14.52" aT="2" pipe="1" mtr="1" />
-	<P pos="-68.3244 65.1951 111.779" w="9.776" onTer="0" a="0" ar="14.94" aT="2" pipe="1" mtr="1" />
+	<P pos="-68.3244 65.1951 111.779" w="9.776" onTer="0" a="0" ar="14.94" aT="2" col="0" pipe="1" mtr="1" />
 	<P pos="-74.0216 0 69.9964" w="9.776" a="3.6" ar="-1.92" aT="2" mtr="1" />
 	<P pos="-81.9391 0 47.4445" w="9.776" aT="2" col="0" mtr="1" chkR="1.708" />
 	<P pos="-90.2033 0 28.3932" w="9.776" aT="2" col="0" mtr="1" />
 	<P pos="-101.824 0 2.8458" w="9.776" aT="2" col="0" mtr="1" />
-	<P pos="-123.953 0 -18.8758" w="9.776" a="0" ar="-3.6" aT="2" />
-	<P pos="-164.332 80.9674 -44.6797" w="9.776" onTer="0" a="0" ar="-8.7" aT="2" chkR="1.18" />
+	<P pos="-123.953 0 -18.8758" w="9.776" a="0" ar="-3.6" aT="2" col="0" />
+	<P pos="-164.332 80.9674 -44.6797" w="9.776" onTer="0" a="0" ar="-8.7" aT="2" col="0" chkR="1.18" />
 	<P pos="-206.841 0 -65.9383" w="12.992" a="0" ar="-25.446" aT="2" />
 	<P pos="-247.382 0 -69.4156" w="9.776" aT="2" />
 	<P pos="-281.164 0 -29.0566" w="9.776" aT="2" chkR="1.752" />
 	<P pos="-273.238 0 17.4103" w="9.776" aT="2" />
 	<P pos="-241.956 0 40.8468" w="9.776" a="1.08" ar="-9.89999" aT="2" col="0" />
-	<P pos="-190.018 86.326 52.4574" w="10.344" onTer="0" a="0" ar="-20.46" aT="2" />
+	<P pos="-190.018 86.326 52.4574" w="10.344" onTer="0" a="0" ar="-20.46" aT="2" col="0" />
 	<P pos="-139.444 0 41.7987" w="12.256" a="0" ar="0" aT="2" mtr="1" />
 	<P pos="-96.4361 0 20.7406" w="10.712" aT="2" mtr="1" />
 	<P pos="-67.4452 0 -9.9014" w="9.776" aT="2" mtr="1" chkR="1.908" />
-	<P pos="-41.0941 0 -38.2434" w="9.776" a="0" ar="0.0600005" aT="2" />
+	<P pos="-41.0941 0 -38.2434" w="9.776" a="0" ar="0.0600005" aT="2" col="0" />
 	<P pos="-17.7932 51.59 -71.7542" w="9.776" onTer="0" a="0" ar="16.56" aT="2" pipe="1" />
 </SplineRoad>
