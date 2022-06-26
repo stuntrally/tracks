@@ -1,7 +1,7 @@
 <scene>
-	<ver num="2700" baseTrk="Vlc2-Volcanic" secEd="43003" />
+	<ver num="2700" baseTrk="Vlc2-Volcanic" secEd="43479" />
 	<car tires="0" damage="0.447236" road1mtr="0" />
-	<start pos="450.808 -614.728 -32.5231" rot="0.00212491 0.00662932 -0.0398707 0.999193" />
+	<start pos="450.808 -614.728 -32.5231" rot="0.00212491 0.00662932 -0.0398707 0.999193" pos2="0 0 0" rot2="0 0 0 1" />
 	<sound ambient="" reverbs="Mountains" />
 	<sky material="sky/dust" skyYaw="-135.789" />
 	<fog color="0.198 0.114 0.565 0.891 0.492" color2="0.211 0.277 0.457 0.789 0.465" linStart="0" linEnd="600" />
@@ -59,7 +59,7 @@
 		<layer on="0" name="" dens="0.0999996" minScale="0.0999983" maxScale="0.249999" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="30" minTerH="-0.5" maxTerH="100" maxDepth="5" />
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="30" minTerH="-0.5" maxTerH="100" maxDepth="5" />
 	</paged>
-	<cam pos="-368.672 914.955 -274.325" dir="0.681997 -0.620438 0.387216" />
+	<cam pos="-369.721 915.237 -272.023" dir="0.681997 -0.620438 0.387216" />
 	<objects>
 		<o name="skyscraper2" pos="428.092 -592.595 -33.1231" rot="0 -1 0 0" />
 		<o name="skyscraper2" pos="418.552 -637.81 -33.1273" rot="0 -1 0 0" />
@@ -99,5 +99,9 @@
 		<o name="well" pos="58.1264 741.042 7.95819" rot="-0.593534 -0.804809 0 0" sc="1.49601 1.49601 1.49601" />
 		<o name="cave_B04" pos="-39.7289 30.3537 467.585" rot="-0.417338 -0.889347 0.0633727 0.175704" sc="1.78902 1.15766 1.78902" />
 	</objects>
-	<emitters />
+	<emitters>
+		<e name="FireOrangeRed" pos="369.864 486.83 -132.482" sc="82.1421 33.6492 90.3042" up="0 1 0" rot="0" rate="91.0765" st="0" />
+		<e name="SmokeGray" pos="-206.371 584.389 -100.117" sc="115.418 112.704 143.127" up="0 1 0" rot="0" rate="188.001" st="0" />
+		<e name="SmokeBrown" pos="367.279 601.792 -108.251" sc="96.6665 115.916 97.1034" up="0 1 0" rot="0" rate="219.993" st="0" />
+	</emitters>
 </scene>

@@ -1,7 +1,7 @@
 <SplineRoad>
-	<mtr road="roadNdirt" pipe="pipeAsphalt" road2="roadJDarkD" pipe2="pipeGlass" road3="roadAsphalt" wall="road_wall_JDark" col="road_col_Dark" />
+	<mtr river="0" road="roadNdirt" pipe="pipeAsphalt" road2="roadJDarkD" pipe2="pipeGlass" road3="roadAsphalt" wall="road_wall_JDark" col="road_col_Dark" />
 	<dim tcMul="0.1" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="2" widthSteps="6" heightOfs="0.06" />
-	<mrg skirtLen="0" skirtH="0.02" merge="1" mergeLen="1259.63" lodPntLen="99.9245" visDist="1000" visBehind="800" />
+	<mrg loop="1" skirtLen="0" skirtH="0.02" merge="1" mergeLen="1259.63" lodPntLen="99.9245" visDist="1000" visBehind="800" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5 19.968" iDir="1" iChk1="31" />
 	<stats length="9519.16" width="8.00965" height="819.628" onTer="69.9786" pipes="19.6781" bnkAvg="11.2986" bnkMax="87.4797" />
 	<txt desc="Dark, dusty area, after recent volcanic eruption. Two panoramic, road connected volcanos, under which occasionally airplanes pass. Has also a small city, which is the base for tourism in the area." />

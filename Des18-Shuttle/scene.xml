@@ -1,7 +1,7 @@
 <scene>
-	<ver num="2600" baseTrk="D3-Passage" secEd="746" />
+	<ver num="2700" baseTrk="D3-Passage" secEd="5748" />
 	<car tires="0" damage="0.650888" />
-	<start pos="189.207 109.149 4.697" rot="0.204361 0.00769682 -0.958063 -0.20081" />
+	<start pos="189.207 109.149 4.697" rot="0.204361 0.00769682 -0.958063 -0.20081" pos2="0 0 0" rot2="0 0 0 1" />
 	<sound ambient="" reverbs="Rocky" />
 	<sky material="sky/morning_gen" />
 	<fog color="0.101 0.258 0.846 1.000 0.000" color2="0.099 0.070 0.813 1.000 0.000" linStart="301.129" linEnd="1070.79" />
@@ -48,12 +48,12 @@
 		<layer on="1" name="tree.07.mesh" dens="0.0249996" minScale="0.66043" maxScale="0.943165" ofsY="0" addTrRdDist="4" maxRdist="100" windFx="0.699996" windFy="0.00999503" maxTerAng="11.8045" minTerH="-30" maxTerH="0" maxDepth="5" />
 		<layer on="1" name="palm.mesh" dens="0.0249996" minScale="1.78362" maxScale="2.74175" ofsY="0" addTrRdDist="3" maxRdist="100" windFx="0.599989" windFy="0.00999503" maxTerAng="13.8221" minTerH="-30" maxTerH="2.27027" maxDepth="5" />
 		<layer on="0" name="farn1.mesh" dens="0.10167" minScale="0.149996" maxScale="0.24999" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="7.29999" windFy="0.0599931" maxTerAng="26.9329" minTerH="-30" maxTerH="10" maxDepth="5" />
-		<layer on="1" name="cactus.mesh" dens="0.0918879" minScale="0.4" maxScale="0.72" ofsY="0" addTrRdDist="1" maxRdist="100" windFx="0" windFy="0" maxTerAng="10.1084" minTerH="-60" maxTerH="0" maxDepth="0" />
-		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
-		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
-		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
-		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
-		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
+		<layer on="1" name="cactus.mesh" dens="0.0918879" minScale="0.4" maxScale="0.72" ofsY="0" addTrRdDist="1" maxRdist="100" windFx="0" windFy="0" maxTerAng="22.2931" minTerH="-60" maxTerH="0" maxDepth="0" />
+		<layer on="0" name="rock03can1flat.mesh" dens="0.1" minScale="0.865221" maxScale="1.89573" ofsY="0" addTrRdDist="3" maxRdist="100" windFx="0" windFy="0" maxTerAng="13.486" minTerH="-100" maxTerH="100" maxDepth="1" />
+		<layer on="1" name="rock12orange.mesh" dens="0.144357" minScale="0.74873" maxScale="1.59395" ofsY="0" addTrRdDist="3" maxRdist="100" windFx="0" windFy="0" maxTerAng="13.486" minTerH="-100" maxTerH="100" maxDepth="1" />
+		<layer on="0" name="rock04can2flat.mesh" dens="0.0838381" minScale="0.7" maxScale="1.2" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0" windFy="0" maxTerAng="34.34" minTerH="-100" maxTerH="100" maxDepth="1" />
+		<layer on="1" name="rock14tall1cgr.mesh" dens="0.0668091" minScale="0.7" maxScale="1.2" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0" windFy="0" maxTerAng="34.34" minTerH="-100" maxTerH="100" maxDepth="1" />
+		<layer on="0" name="rock44red4rndWh.mesh" dens="0.037992" minScale="0.7" maxScale="1.2" ofsY="0" addTrRdDist="3" maxRdist="100" windFx="0" windFy="0" maxTerAng="13.647" minTerH="-100" maxTerH="100" maxDepth="1" />
 	</paged>
 	<cam pos="367.84 136.106 -233.593" dir="-0.856253 -0.302575 0.418664" />
 	<objects>
@@ -85,4 +85,5 @@
 		<o name="big_tire" pos="-117.754 113.97 -44.5806" rot="-0.0351062 0.995862 0.0721838 -0.042605" />
 		<o name="big_tire" pos="-98.6267 115.7 -44.6475" rot="-0.0270615 0.994014 0.103268 0.0232378" />
 	</objects>
+	<emitters />
 </scene>
