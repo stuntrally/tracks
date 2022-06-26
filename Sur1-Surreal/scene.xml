@@ -1,7 +1,7 @@
 <scene>
-	<ver num="2700" baseTrk="V8-Uncertain" secEd="2822" />
+	<ver num="2700" baseTrk="V8-Uncertain" secEd="7068" />
 	<car tires="0" />
-	<start pos="-266.681 -86.4864 36.409" rot="0.134034 0.0569446 0.368599 0.918124" />
+	<start pos="-266.681 -86.4864 36.409" rot="0.134034 0.0569446 0.368599 0.918124" pos2="0 0 0" rot2="0 0 0 1" />
 	<sound ambient="" reverbs="Forest" />
 	<sky material="sky/offworld_gen" rainName="Snow" rainEmit="31" rain2Name="SnowFine" rain2Emit="53" />
 	<fog color="0.523 0.463 0.840 0.362 0.000" color2="0.413 0.665 1.560 0.163 0.000" linStart="158.593" linEnd="879.062" />
@@ -48,16 +48,16 @@
 		<gchan amin="0" amax="30" asm="20" hmin="-100" hmax="100" hsm="20" ns="0" frq="43" oct="3" prs="0.3" pow="1.2" rd="0" />
 		<layer on="1" name="gum_tree.mesh" dens="0.165594" minScale="1.45" maxScale="2.54393" ofsY="0" addTrRdDist="7" maxRdist="100" windFx="0.3" windFy="0.004" maxTerAng="20.48" minTerH="-100" maxTerH="29.1483" maxDepth="0" />
 		<layer on="1" name="palm.mesh" dens="0.449997" minScale="0.905939" maxScale="2.74" ofsY="0" addTrRdDist="1" maxRdist="100" windFx="0.6" windFy="0.01" maxTerAng="15.07" minTerH="-100" maxTerH="46" maxDepth="0" />
-		<layer on="1" name="rock.07w.mesh" dens="0.105331" minScale="0.0603626" maxScale="0.180242" ofsY="0" addTrRdDist="1" maxRdist="100" windFx="0" windFy="0" maxTerAng="44.88" minTerH="-20.1843" maxTerH="69.9539" maxDepth="2" />
+		<layer on="1" name="rock20liGrayTall.mesh" dens="0.045487" minScale="0.7" maxScale="1.2" ofsY="0" addTrRdDist="4" maxRdist="100" windFx="0" windFy="0" maxTerAng="61.2391" minTerH="-20.1843" maxTerH="69.9539" maxDepth="3.08673" />
 		<layer on="1" name="pine3_fat_half.mesh" dens="0.546191" minScale="1.07734" maxScale="2.35472" ofsY="0" addTrRdDist="4" maxRdist="100" windFx="0.07" windFy="0.017" maxTerAng="7.09421" minTerH="-7.76025" maxTerH="68.5173" maxDepth="0" />
-		<layer on="0" name="rock.mesh" dens="0.110297" minScale="0.628886" maxScale="0.810782" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
-		<layer on="0" name="rock_n3r.mesh" dens="0.0999996" minScale="0.0999983" maxScale="0.249999" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
+		<layer on="1" name="rock23dark1block.mesh" dens="0.0301817" minScale="1.16273" maxScale="1.94772" ofsY="0" addTrRdDist="5" maxRdist="100" windFx="0" windFy="0" maxTerAng="90" minTerH="-11.3364" maxTerH="58.341" maxDepth="3.08673" />
+		<layer on="1" name="rock21triEdgeSpeck.mesh" dens="0.0617958" minScale="1.75512" maxScale="3.98307" ofsY="0" addTrRdDist="8" maxRdist="100" windFx="0" windFy="0" maxTerAng="38.5389" minTerH="-100" maxTerH="39.2627" maxDepth="3.57538" />
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 	</paged>
-	<cam pos="-565.606 161.573 -47.5733" dir="0.977562 -0.20327 0.0563039" />
+	<cam pos="-565.606 161.573 -47.5733" dir="0.977505 -0.203258 0.0563004" />
 	<objects>
 		<o name="city_shop" pos="-106.173 -93.6507 59.176" rot="-0.0699739 -0.992251 -0.00119216 0.10267" sc="1 1.00021 1" />
 		<o name="obelisk" pos="-84.4306 -94.0094 57.5177" rot="0.00938628 -0.789148 0.0321693 -0.613288" sc="1.5542 1.5542 1.5542" />
@@ -96,8 +96,8 @@
 		<o name="obelisk" pos="235.739 276.673 29.4378" rot="0 -1 0 0" sc="4.23498 4.29932 4.23498" />
 		<o name="kart_mausoleum" pos="-271.814 -145.151 57.0329" rot="0.197793 -0.979184 -0.00902433 -0.0446753" sc="1.33352 1.33352 1.33352" />
 		<o name="cave_Y06" pos="23.9234 134.349 28.9187" rot="0.304438 -0.383911 -0.0255096 0.871366" sc="1.12664 1.12664 1.12664" />
-		<o name="skyscraper4" pos="-278.685 0.199123 17.685" rot="0.0447064 -0.999 0 0" />
-		<o name="skyscraper4" pos="-328.54 -5.04799 12.8415" rot="0.141988 -0.989868 0 0" />
+		<o name="skyscraper4" pos="-284.273 -1.65394 21.9653" rot="0.0281086 -0.962876 -0.00279052 -0.268463" sc="1 0.828053 1.13783" />
+		<o name="skyscraper4" pos="-328.54 -5.04799 14.2549" rot="0.136557 -0.941919 0.0391626 0.304314" sc="1 1.1476 1" />
 		<o name="watchtower" pos="181.848 -270.601 112.471" rot="0.674458 0.0171124 -0.0828295 0.733453" sc="1.53047 2.83487 1.53047" />
 		<o name="pyramid_big" pos="246.494 -255.259 101.045" rot="0.729918 0.00480031 0.0179967 0.683281" />
 		<o name="container_big" pos="-365.723 -103.928 31.5379" rot="-0.591339 -0.806423 0 0" sc="4.91518 5.28934 4.91518" />
@@ -128,9 +128,15 @@
 		<o name="obelisk_cry" pos="164.612 -338.49 144.252" rot="-0.0156628 -0.909896 0.393838 0.129361" sc="3.08613 5.02683 2.40247" />
 	</objects>
 	<emitters>
-		<e name="SmokeBlack" pos="100.094 31.5792 335.397" sc="27.2914 22.893 24.7448" up="0 1 0" rot="0" rate="10" st="0" />
+		<e name="SmokeBlack" pos="91.4742 36.02 339.173" sc="75.29 22.893 48.5275" up="0 1 0" rot="0" rate="80.2096" st="0" />
 		<e name="FireOrange" pos="-190.364 -20.5233 390.872" sc="21.3824 1 21.8449" up="0 1 0" rot="0" rate="29.7935" st="0" />
 		<e name="Cloud5" pos="231.501 89.5765 -353.792" sc="156.394 118.775 151.288" up="0 1 0" rot="0" rate="20.1241" st="0" />
-		<e name="AlienGlow" pos="-145.565 54.9282 142.671" sc="40.3038 12.9688 42.2361" up="0 1 0" rot="0" rate="28.3032" st="0" />
+		<e name="Electricity" pos="-145.565 59.0415 142.671" sc="66.5784 12.4817 68.1732" up="0 1 0" rot="0" rate="345.856" st="0" />
+		<e name="AcidVapor1" pos="-251.045 7.81734 -135.391" sc="9.01485 1 13.9867" up="0 1 0" rot="0" rate="9.62313" st="0" />
+		<e name="AlienGlow" pos="301.033 24.5352 -167.911" sc="42.4864 1.2881 60.5349" up="0 1 0" rot="0" rate="42.9589" st="0" />
+		<e name="CraterLava1" pos="-90.1925 47.7796 2.4786" sc="7.92286 0.746526 7.04053" up="0 1 0" rot="0" rate="26.5278" st="0" />
+		<e name="AlienGlow" pos="-334.408 -10.1945 -179.23" sc="5.46202 3.89149 5.45097" up="0 1 0" rot="0" rate="9.85896" st="0" />
+		<e name="Waterfall1High" pos="182.736 41.6839 226.431" sc="3.511 2.30329 3.2828" up="0 1 0" rot="0" rate="44.5536" st="0" />
+		<e name="FireYellowRed" pos="222.87 23.1435 78.2576" sc="55.781 7.60277 74.7192" up="0 1 0" rot="0" rate="208.226" st="0" />
 	</emitters>
 </scene>

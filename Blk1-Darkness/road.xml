@@ -1,9 +1,9 @@
 <SplineRoad>
-	<mtr road="roadDesertBlack" pipe="pipeGlassAlien" road2="roadNdirt" pipe2="pipeGlassViolet" pipe3="pipeGlassWhiteB" pipe4="pipeGlassWhiteV" wall="road_wall_JDark" pipeW="pipe_wall_JDark" col="road_col_Dark" />
+	<mtr river="0" road="roadDesertBlack" pipe="pipeGlassAlien" road2="roadNdirt" pipe2="pipeGlassViolet" pipe3="pipeGlassWhiteB" pipe4="pipeGlassWhiteV" wall="road_wall_JDark" pipeW="pipe_wall_JDark" col="road_col_Dark" />
 	<dim tcMul="0.0696336" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="2" widthSteps="9" heightOfs="0.06" />
-	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="417.297" lodPntLen="12.6895" />
+	<mrg loop="1" skirtLen="1" skirtH="0.12" merge="1" mergeLen="417.297" lodPntLen="12.6895" visDist="1000" visBehind="800" />
 	<geom colN="4" colR="2.56777" wsPm="4" lsPm="1" stBox="1 6.96 18.7404" iDir="1" iChk1="100" />
-	<stats length="2283.29" width="9.23062" height="26.6411" onTer="11.3544" pipes="23.6757" bnkAvg="10.8907" bnkMax="28.9909" />
+	<stats length="2283.29" width="9.21958" height="26.6411" onTer="11.3544" pipes="23.6757" bnkAvg="10.8914" bnkMax="28.9908" />
 	<txt desc="Extremely dark black desert, but vegetation adds some light." />
 	<adv ice="Short and very curly, banked road. Has few sharp pipe turns." />
 	<P pos="132.701 0 13.0422" w="9.408" aT="2" />

@@ -1,9 +1,9 @@
 <SplineRoad>
-	<mtr road="roadAsphalt" pipe="pipeAsphalt" road2="roadStone" pipe2="pipeGlassCyan" road3="roadAlienStone" road4="roadSandMagic" col="road_col_Blue" />
-	<dim tcMul="0.05" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="2" widthSteps="6" heightOfs="0.06" />
-	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
+	<mtr river="0" road="roadAsphalt" pipe="pipeAsphalt" road2="roadStone" pipe2="pipeGlassCyan" road3="roadAlienStone" road4="roadSandMagic" wall="road_univ_space_diam" col="road_univ_space_x" />
+	<dim tcMul="0.05" tcW="0.257833" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="2" widthSteps="6" heightOfs="0.06" />
+	<mrg loop="1" skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" visDist="1000" visBehind="800" />
 	<geom colN="6" colR="3.43052" wsPm="4" lsPm="1" stBox="1 5.33599 13.1521" iDir="-1" iChk1="23" />
-	<stats length="3711.08" width="8.18156" height="48.7869" onTer="31.6374" pipes="0" bnkAvg="1.67287" bnkMax="16.38" />
+	<stats length="3711.08" width="8.18156" height="48.7869" onTer="31.6374" pipes="0" bnkAvg="1.67286" bnkMax="16.38" />
 	<txt desc="An Alien space station platform, processing crystals and large mineral rocks." />
 	<adv ice="A curly asphalt road, slippy because low gravity. Many square turns and few jumps." />
 	<P pos="95.9622 0 217.369" w="7.792" aT="2" chkR="1.968" />

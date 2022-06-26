@@ -1,9 +1,9 @@
 <SplineRoad>
-	<mtr road="roadCrystal" pipe="pipeGlassBlueD" road2="roadSandMagic" pipe2="pipeGlassViolet" pipe3="pipeGlassCrystal" pipe4="pipeGlassAlienBlue" wall="road_wall_JDark" pipeW="pipe_wall_JDark" col="road_col_Blue" />
+	<mtr river="0" road="roadCrystal" pipe="pipeGlassBlueD" road2="roadSandMagic" pipe2="pipeGlassViolet" pipe3="pipeGlassCrystal" pipe4="pipeGlassAlienBlue" wall="road_wall_JDark" pipeW="pipe_wall_JDark" col="road_col_Blue" />
 	<dim tcMul="0.0588188" tcW="0.144536" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="6" heightOfs="0.06" />
-	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="120" lodPntLen="15" />
+	<mrg loop="1" skirtLen="1" skirtH="0.12" merge="1" mergeLen="120" lodPntLen="15" visDist="1000" visBehind="800" />
 	<geom colN="6" colR="3.26446" wsPm="4" lsPm="1" stBox="1 6.93199 19.3761" iDir="1" iChk1="0" />
-	<stats length="2985.71" width="11.9469" height="61.1769" onTer="72.4872" pipes="60.7335" bnkAvg="17.6116" bnkMax="53.7147" />
+	<stats length="2985.71" width="11.9469" height="61.1769" onTer="72.4872" pipes="60.7336" bnkAvg="17.6117" bnkMax="53.7147" />
 	<txt desc="Winding road on dark crystal moon in mysteriously colored fog." />
 	<adv ice="Partly half-pipe, with few obstacles, U-turns, surprise jumps and twists." />
 	<P pos="162.023 0 -26.0452" w="8.63757" aT="2" chkR="1.404" />

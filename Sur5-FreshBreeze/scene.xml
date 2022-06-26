@@ -1,7 +1,7 @@
 <scene>
-	<ver num="2700" baseTrk="Grc2-Coast" secEd="44847" />
+	<ver num="2700" baseTrk="Grc2-Coast" secEd="45133" />
 	<car tires="0" road1mtr="0" />
-	<start pos="150.413 329.965 41.4267" rot="-0.0351682 0.0140579 -0.979875 -0.196082" />
+	<start pos="150.413 329.965 41.4267" rot="-0.0351682 0.0140579 -0.979875 -0.196082" pos2="0 0 0" rot2="0 0 0 1" />
 	<sound ambient="" reverbs="Savanna" />
 	<sky material="sky/morning_gen" />
 	<fog color="0.236 0.583 1.542 1.156 0.000" color2="0.048 0.773 3.000 1.162 1.000" linStart="336.527" linEnd="2000" />
@@ -70,5 +70,8 @@
 		<o name="alien_tower" pos="504.721 512.921 178.178" rot="0.605264 -0.399603 0.409305 -0.553556" sc="1.06323 0.53411 1.06323" />
 		<o name="alien_tower" pos="500.82 512.273 163.101" rot="-0.310091 -0.949468 0.0364529 0.0319307" sc="0.671285 1.06063 0.671285" />
 	</objects>
-	<emitters />
+	<emitters>
+		<e name="ElectricSparks" pos="479.996 174.057 -503.712" sc="5.02991 3.43213 6.4408" up="0 1 0" rot="0" rate="151.992" st="0" />
+		<e name="Electricity" pos="480.714 173.494 -503.569" sc="2.64345 2.01118 2.82928" up="0 1 0" rot="0" rate="109.67" st="0" />
+	</emitters>
 </scene>

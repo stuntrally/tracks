@@ -1,7 +1,7 @@
 <scene>
-	<ver num="2700" baseTrk="W13-MtFog" secEd="838" />
+	<ver num="2700" baseTrk="W13-MtFog" secEd="1456" />
 	<car tires="1" damage="0.60355" gravity="7.6" />
-	<start pos="245.509 -84.1783 4.65402" rot="-5.44649e-07 7.86032e-07 1.00005 0.000675445" />
+	<start pos="245.509 -84.1783 4.65402" rot="-5.44649e-07 7.86032e-07 1.00005 0.000675445" pos2="0 0 0" rot2="0 0 0 1" />
 	<sound ambient="" reverbs="Space" />
 	<sky material="sky/magic" skyYaw="-152.86" />
 	<fog color="0.500 0.171 0.353 1.000 0.000" color2="0.558 0.510 0.383 1.000 0.000" linStart="287.521" linEnd="1557.55" />
@@ -55,7 +55,7 @@
 		<layer on="1" name="crystal1.mesh" dens="0.670402" minScale="1.83329" maxScale="1.96562" ofsY="0" addTrRdDist="4" maxRdist="100" windFx="0" windFy="0" maxTerAng="38.5008" minTerH="-31.5" maxTerH="-31" maxDepth="5" />
 		<layer on="0" name="crystal_cube4.mesh" dens="0.00791426" minScale="1.10226" maxScale="2.30339" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="10.7711" minTerH="0" maxTerH="27.5676" maxDepth="5" />
 	</paged>
-	<cam pos="577.833 245.375 -20.4326" dir="-0.899639 -0.436635 0.000621438" />
+	<cam pos="577.833 245.375 -20.4326" dir="-0.899639 -0.436635 0.000621557" />
 	<objects>
 		<o name="alien_base1" pos="17.795 131.667 -8.29991" rot="-0.000115966 -1 0 0" sc="0.933104 0.933104 0.933104" />
 		<o name="alien_base10" pos="135.611 84.2993 -7.98372" rot="0 -1 0 0" />
@@ -135,5 +135,9 @@
 		<o name="satellite2" pos="-130.541 -217.346 12.134" rot="0.450749 -0.89265 0 0" />
 		<o name="satellite3" pos="-265.729 59.4513 38.3109" rot="-0.400545 -0.916275 0 0" sc="1.94377 1.94377 1.94377" />
 	</objects>
-	<emitters />
+	<emitters>
+		<e name="Electricity" pos="-6.25327 -28.7513 77.6745" sc="79.1949 6.75833 92.2523" up="0 1 0" rot="0" rate="183.797" st="0" />
+		<e name="AcidVapor2" pos="252.697 -26.7108 -226.726" sc="154.285 3.94247 146.391" up="0 1 0" rot="0" rate="196.766" st="0" />
+		<e name="AlienGlow" pos="90.5941 -29.3288 -24.6574" sc="41.0853 3.26364 42.4468" up="0 1 0" rot="0" rate="25.8717" st="0" />
+	</emitters>
 </scene>

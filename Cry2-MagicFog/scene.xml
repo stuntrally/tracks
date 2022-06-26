@@ -1,7 +1,7 @@
 <scene>
-	<ver num="2401" baseTrk="Industrypark-edit" />
+	<ver num="2700" baseTrk="Industrypark-edit" secEd="111" />
 	<car tires="0" damage="1.19831" gravity="8.9084" />
-	<start pos="151.504 45.7788 57.9677" rot="-0.0442504 -0.0555951 -0.516426 0.853431" />
+	<start pos="151.504 45.7788 57.9677" rot="-0.0442504 -0.0555951 -0.516426 0.853431" pos2="0 0 0" rot2="0 0 0 1" />
 	<sound ambient="" reverbs="Crystals" />
 	<sky material="sky/magicdark" skyYaw="-19.125" />
 	<fog color="0.857 0.465 2.090 2.000 2.000" color2="0.967 0.494 0.340 0.919 0.169" linStart="0" linEnd="315.053" />
@@ -30,11 +30,8 @@
 			<noise frq0="42.2" oct0="3" prs0="0.3" pow0="1.5" frq1="43.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
 		<texture road="1" surf="roadForest" dust="0" dustS="0.228956" mud="0" smoke="0" tclr="0.552 0.667 0.300 0.700 0.000" />
-		<par dust="SnowDust" mud="SnowMud" smoke="WetDust" />
 		<texture road="2" surf="roadGravel" dust="0" dustS="0.2" mud="0" smoke="0" tclr="0.646 0.348 0.460 0.800 0.000" />
-		<par dust="SnowDust" mud="SnowMud" smoke="WetDust" />
 		<texture road="3" surf="roadDesert" dust="0" dustS="0" mud="0" smoke="0" tclr="0.583 1.000 0.200 0.500 0.000" />
-		<par dust="SnowDust" mud="SnowMud" smoke="WetDust" />
 		<texture road="4" surf="Default" dust="0" dustS="0.2" mud="0" smoke="0" tclr="0.160 0.500 0.200 0.700 0.000" />
 		<par dust="SnowDust" mud="SnowMud" smoke="WetDust" />
 	</terrain>
@@ -72,4 +69,7 @@
 		<o name="cave_G05" pos="114.64 252.632 84.4539" rot="0.00404701 -0.994122 0.100516 0.0400255" sc="0.40886 0.40886 0.40886" />
 		<o name="obstacle2" pos="-43.3223 134.211 55.0857" rot="-0.382724 -0.740571 0.490684 0.253585" sc="1.45565 1.45565 1.45565" />
 	</objects>
+	<emitters>
+		<e name="Electricity" pos="126.43 40.2528 6.97221e-05" sc="69.501 0.681601 85.5874" up="0 1 0" rot="0" rate="64.1009" st="0" />
+	</emitters>
 </scene>

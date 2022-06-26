@@ -1,7 +1,7 @@
 <scene>
-	<ver num="2440" baseTrk="" />
+	<ver num="2700" baseTrk="" secEd="375" />
 	<car tires="0" />
-	<start pos="75.876 -129.326 0.6" rot="-0.00978801 0.00920403 0.69469 0.719198" />
+	<start pos="75.876 -129.326 0.6" rot="-0.00978801 0.00920403 0.69469 0.719198" pos2="0 0 0" rot2="0 0 0 1" />
 	<sound ambient="" reverbs="Desert" />
 	<sky material="sky/magicdark" />
 	<fog color="0.667 0.680 0.312 0.919 0.256" color2="0.917 1.000 0.158 0.964 0.120" linStart="0" linEnd="920.703" />
@@ -59,4 +59,8 @@
 	<objects>
 		<o name="pyramid_big_black" pos="39.9644 -1.595 0" rot="-0.379083 -0.925362 0 0" />
 	</objects>
+	<emitters>
+		<e name="Electricity" pos="52.1826 -1.29944 -74.6733" sc="36.5958 1.37464 107.308" up="0 1 0" rot="0" rate="25.4763" st="0" />
+		<e name="SmokeBlack" pos="69.7607 -7.45672 80.9184" sc="99.3154 2.87637 22.1501" up="0 1 0" rot="0" rate="16.2371" st="0" />
+	</emitters>
 </scene>

@@ -1,5 +1,5 @@
 <scene>
-	<ver num="2700" baseTrk="Uni6-Wild" secEd="91859" />
+	<ver num="2700" baseTrk="Uni6-Wild" secEd="92129" />
 	<car tires="0" damage="0.351759" road1mtr="0" />
 	<start pos="17.4937 74.5564 225.335" rot="-5.38304e-07 -2.82569e-07 -0.99989 -0.0156819" pos2="0 0 0" rot2="0 0 0 1" />
 	<sound ambient="" reverbs="Unidentified" />
@@ -73,5 +73,8 @@
 		<o name="obstacle4" pos="-72.8181 -54.3529 153.414" rot="-0.780559 -0.572517 -0.0391284 -0.247825" sc="1.06378 1.06378 1.06378" />
 		<o name="obstacle4" pos="-38.2093 211.656 94.0247" rot="0.694243 -0.588654 0.131492 0.39271" sc="1.09926 1.09635 1.09926" />
 	</objects>
-	<emitters />
+	<emitters>
+		<e name="Electricity" pos="-155.048 308.142 118.116" sc="9.8801 8.22747 10.1718" up="0 1 0" rot="0" rate="115.745" st="0" />
+		<e name="Electricity" pos="-209.467 293.124 -22.1699" sc="7.46144 7.06862 7.57466" up="0 1 0" rot="0" rate="113.652" st="0" />
+	</emitters>
 </scene>

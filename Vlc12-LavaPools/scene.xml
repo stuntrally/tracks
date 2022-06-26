@@ -1,7 +1,7 @@
 <scene>
-	<ver num="2700" baseTrk="Vlc9-Craters" secEd="10911" />
+	<ver num="2700" baseTrk="Vlc9-Craters" secEd="11189" />
 	<car tires="0" />
-	<start pos="53.0448 -29.584 9.67354" rot="0.0137246 -0.00210251 0.717416 -0.696559" />
+	<start pos="53.0448 -29.584 9.67354" rot="0.0137246 -0.00210251 0.717416 -0.696559" pos2="0 0 0" rot2="0 0 0 1" />
 	<sound ambient="" reverbs="Rocky" />
 	<sky material="sky/duskred" />
 	<fog color="0.023 0.800 0.316 0.847 0.000" color2="0.085 1.000 0.392 0.810 0.000" linStart="0" linEnd="634.372" />
@@ -65,9 +65,9 @@
 	<objects />
 	<emitters>
 		<e name="SmokeBrown" pos="104.136 8.13533 104.544" sc="79.9269 4.11148 79.4716" up="0 1 0" rot="0" rate="127.93" st="0" />
-		<e name="CraterLava1" pos="236.597 17.4702 8.21492" sc="165.116 0.372167 385.065" up="0 1 0" rot="0" rate="1071.83" st="0" />
+		<e name="CraterLava2" pos="236.597 17.4702 8.21492" sc="165.116 0.372167 385.065" up="0 1 0" rot="0" rate="98.1761" st="0" />
 		<e name="FireOrange" pos="69.5289 9.21336 -150.184" sc="39.705 3.59981 21.3055" up="0 1 0" rot="0" rate="39.0123" st="0" />
 		<e name="SmokeBrown" pos="-116.119 3.66467 -9.41182" sc="319.582 1 589.977" up="0 1 0" rot="0" rate="640.371" st="0" />
-		<e name="FireYellowRed" pos="78.2691 8.66563 15.856" sc="39.1925 1 68.6454" up="0 1 0" rot="0" rate="35.2168" st="0" />
+		<e name="CraterLava1" pos="78.2691 8.66563 15.856" sc="39.1925 1 68.6454" up="0 1 0" rot="0" rate="55.186" st="0" />
 	</emitters>
 </scene>
