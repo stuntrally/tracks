@@ -1,7 +1,7 @@
 <scene>
-	<ver num="2700" baseTrk="Isl10-Treasure" secEd="33070" />
+	<ver num="2700" baseTrk="Isl10-Treasure" secEd="33361" />
 	<car tires="0" road1mtr="0" />
-	<start pos="46.6542 158.677 4.89214" rot="0.0048693 -0.0348666 0.999134 0.0223408" />
+	<start pos="46.6542 158.677 4.89214" rot="0.0048693 -0.0348666 0.999134 0.0223408" pos2="0 0 0" rot2="0 0 0 1" />
 	<sound ambient="" reverbs="Forest" />
 	<sky material="sky/morning2_gen" />
 	<fog color="0.569 0.191 0.846 0.708 0.000" color2="0.576 0.306 0.769 0.689 0.000" linStart="112.094" linEnd="893.947" />
@@ -51,13 +51,13 @@
 		<layer on="1" name="tree.09.mesh" dens="0.122098" minScale="0.586023" maxScale="1.30169" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0" windFy="0" maxTerAng="18.0125" minTerH="5.5" maxTerH="100" maxDepth="1.64209" />
 		<layer on="1" name="farn1.mesh" dens="0.299173" minScale="0.0623137" maxScale="0.289727" ofsY="0" addTrRdDist="1" maxRdist="8" windFx="7.29999" windFy="0.0599931" maxTerAng="31.0873" minTerH="5.5" maxTerH="100" maxDepth="2" />
 		<layer on="0" name="farn2.mesh" dens="0.233764" minScale="0.107346" maxScale="0.333236" ofsY="0" addTrRdDist="1" maxRdist="100" windFx="7.29999" windFy="0.0599962" maxTerAng="29.4845" minTerH="7.15596" maxTerH="100" maxDepth="2" />
-		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
-		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
+		<layer on="1" name="rock11red2.mesh" dens="0.0720179" minScale="0.7" maxScale="1.2" ofsY="0" addTrRdDist="2" maxRdist="18" windFx="0" windFy="0" maxTerAng="29.1512" minTerH="9.67741" maxTerH="100" maxDepth="0" />
+		<layer on="0" name="rock40red3flat.mesh" dens="0.072778" minScale="0.7" maxScale="1.2" ofsY="0" addTrRdDist="2" maxRdist="17" windFx="0" windFy="0" maxTerAng="28.6811" minTerH="12.7189" maxTerH="100" maxDepth="0" />
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 	</paged>
-	<cam pos="-264.552 95.997 -463.735" dir="0.576736 -0.225375 0.785681" />
+	<cam pos="-264.552 95.997 -463.735" dir="0.576531 -0.225295 0.785401" />
 	<objects>
 		<o name="skyscraper11" pos="62.2633 219.617 9.21848" rot="0 -1 0 0" />
 		<o name="skyscraper11" pos="44.5194 217.252 8.67612" rot="0 -1 0 0" />

@@ -1,9 +1,9 @@
 <SplineRoad>
-	<mtr road="roadAsphalt" pipe="pipeAsphalt" road2="roadAdesert" wall="road_wall_Red" pipeW="pipe_wall_Orange" col="road_col_Red" />
+	<mtr river="0" road="roadAsphalt" pipe="pipeAsphalt" road2="roadAdesert" wall="road_wall_Red" pipeW="pipe_wall_Orange" col="road_col_Red" />
 	<dim tcMul="0.0761217" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="2" widthSteps="6" heightOfs="0.06" />
-	<mrg skirtLen="0.4" skirtH="0.1" merge="1" mergeLen="400" lodPntLen="20" />
+	<mrg loop="1" skirtLen="0.4" skirtH="0.1" merge="1" mergeLen="400" lodPntLen="20" visDist="1000" visBehind="800" />
 	<geom colN="6" colR="2" wsPm="4" lsPm="1" stBox="1 5.98 13.3" iDir="-1" iChk1="106" />
-	<stats length="3938.69" width="7.57122" height="49.1384" onTer="0" pipes="0" bnkAvg="3.34132" bnkMax="31.6747" />
+	<stats length="3938.69" width="7.57122" height="49.1383" onTer="0" pipes="0" bnkAvg="3.34132" bnkMax="31.6746" />
 	<txt desc="A track in a city built close to a mine." />
 	<adv ice="Has both asphalt and gravel road. Also few U-turns." />
 	<P pos="15.1134 0 -84.1715" w="9.096" aT="2" col="0" mtr="1" chkR="1.444" />

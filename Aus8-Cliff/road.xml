@@ -1,7 +1,7 @@
 <SplineRoad>
-	<mtr road="roadCanyon1" pipe="pipeAsphalt" road2="roadAdesertDark" pipe2="pipeGlass" road3="roadSandShore" road4="roadMars" wall="road_wall_Red" col="road_col_Red" />
+	<mtr river="0" road="roadCanyon1" pipe="pipeAsphalt" road2="roadAdesertDark" pipe2="pipeGlass" road3="roadSandShore" road4="roadMars" wall="road_wall_Red" col="road_col_Red" />
 	<dim tcMul="0.05" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="2.02804" widthSteps="6" heightOfs="0.1" />
-	<mrg skirtLen="0.4" skirtH="0.12" merge="1" mergeLen="356.286" lodPntLen="19.8619" />
+	<mrg loop="1" skirtLen="0.4" skirtH="0.12" merge="1" mergeLen="356.286" lodPntLen="19.8619" visDist="1000" visBehind="800" />
 	<geom colN="5" colR="2.5" wsPm="4" lsPm="1" stBox="1 5 20.748" iDir="-1" iChk1="47" />
 	<stats length="3040.85" width="8.03143" height="233.068" onTer="41.0649" pipes="0" bnkAvg="35.3864" bnkMax="83.0399" />
 	<txt desc="Heavily banked road on a red cliff." />

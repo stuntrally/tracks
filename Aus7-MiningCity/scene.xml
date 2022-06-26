@@ -1,7 +1,7 @@
 <scene>
-	<ver num="2401" baseTrk="" />
+	<ver num="2700" baseTrk="" secEd="271" />
 	<car tires="0" road1mtr="0" />
-	<start pos="44.1587 -93.5911 0.604154" rot="0.000853896 -0.000238386 0.919546 0.393023" />
+	<start pos="44.1587 -93.5911 0.604154" rot="0.000853896 -0.000238386 0.919546 0.393023" pos2="0 0 0" rot2="0 0 0 1" />
 	<sound ambient="" reverbs="Rocky" />
 	<sky material="sky/day_blue2" skyYaw="-34.7228" />
 	<fog color="0.586 0.240 0.744 1.000 0.000" color2="0.583 0.275 0.846 1.000 0.000" linStart="417.264" linEnd="1070.79" />
@@ -28,15 +28,12 @@
 			<noise frq0="42.2" oct0="3" prs0="0.3" pow0="1.5" frq1="43.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
 		<texture road="1" surf="Asphalt" dust="0" dustS="0.8" mud="0" smoke="1" tclr="0.071 0.700 0.200 0.700 0.000" />
-		<par dust="Adust" mud="Mud" smoke="Smoke" />
 		<texture road="2" surf="roadDesert" dust="0.6" dustS="0.8" mud="0.2" smoke="0" tclr="0.071 0.700 0.200 0.700 0.000" />
-		<par dust="Adust" mud="Mud" smoke="Smoke" />
 		<texture road="3" surf="Default" dust="0" dustS="0.2" mud="0" smoke="0" tclr="0.160 0.500 0.200 0.700 0.000" />
-		<par dust="Adust" mud="Mud" smoke="Smoke" />
 		<texture road="4" surf="Default" dust="0" dustS="0.2" mud="0" smoke="0" tclr="0.160 0.500 0.200 0.700 0.000" />
 		<par dust="Adust" mud="Mud" smoke="Smoke" />
 	</terrain>
-	<paged densGrass="0.101097" densTrees="0.297566" grPage="120" grDist="120" grDensSmooth="6" trPage="120" trDist="120" trDistImp="600" trRdDist="5">
+	<paged densGrass="0.101097" densTrees="0.297566" grPage="100" grDist="100" grDensSmooth="6" trPage="120" trDist="120" trDistImp="600" trRdDist="5">
 		<grass on="1" mtr="grass17r" clr="grClrAustralia.png" dens="0.222471" chan="0" minSx="1.34143" maxSx="1.6606" minSy="1.09737" maxSy="1.29512" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
 		<grass on="1" mtr="grass20p" clr="grClrAustralia.png" dens="0.0379134" chan="0" minSx="1.19053" maxSx="1.43037" minSy="1.22024" maxSy="1.40452" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
 		<grass on="1" mtr="grass6r" clr="grClrAustralia.png" dens="0.118814" chan="0" minSx="1.133" maxSx="1.40585" minSy="1.05586" maxSy="1.19783" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
@@ -51,10 +48,10 @@
 		<layer on="1" name="treeAOR-13oakWBig.mesh" dens="0.150937" minScale="0.913305" maxScale="1.48" ofsY="0" addTrRdDist="1" maxRdist="100" windFx="0.6" windFy="0.01" maxTerAng="17.26" minTerH="-1.2973" maxTerH="24.3243" maxDepth="0" />
 		<layer on="1" name="treeGG-37acaTall.mesh" dens="0.190778" minScale="0.608316" maxScale="0.841425" ofsY="0" addTrRdDist="1" maxRdist="100" windFx="0.33" windFy="0.04" maxTerAng="40" minTerH="-1.2973" maxTerH="23.6757" maxDepth="0" />
 		<layer on="1" name="treeAW-14LLHuge7k.mesh" dens="0.0199999" minScale="1.28758" maxScale="1.67364" ofsY="0" addTrRdDist="1" maxRdist="100" windFx="0.274248" windFy="0.01" maxTerAng="19.27" minTerH="-0.324326" maxTerH="2.59459" maxDepth="0" />
-		<layer on="0" name="farn2.mesh" dens="0.0199999" minScale="0.149999" maxScale="0.249999" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="7.29999" windFy="0.0599962" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
-		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
-		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
-		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
+		<layer on="1" name="rock10red1round.mesh" dens="0.0199999" minScale="0.7" maxScale="1.2" ofsY="0" addTrRdDist="1" maxRdist="100" windFx="0" windFy="0" maxTerAng="34.34" minTerH="-100" maxTerH="100" maxDepth="1" />
+		<layer on="1" name="rock11red2.mesh" dens="0.1" minScale="0.7" maxScale="1.2" ofsY="0" addTrRdDist="1" maxRdist="100" windFx="0" windFy="0" maxTerAng="34.34" minTerH="-100" maxTerH="100" maxDepth="1" />
+		<layer on="1" name="rock32red2block.mesh" dens="0.1" minScale="0.7" maxScale="1.2" ofsY="0" addTrRdDist="1" maxRdist="100" windFx="0" windFy="0" maxTerAng="34.34" minTerH="-29.0323" maxTerH="32.3502" maxDepth="1" />
+		<layer on="0" name="rock40red3flat.mesh" dens="0.1" minScale="0.7" maxScale="1.2" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0" windFy="0" maxTerAng="34.34" minTerH="-100" maxTerH="100" maxDepth="1" />
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 	</paged>
@@ -120,7 +117,7 @@
 		<o name="city_house4" pos="-17.2937 -168.237 -0.0932412" rot="0.784766 0.619766 0 0" sc="1.61649 1.61649 1.61649" />
 		<o name="city_house4" pos="-12.3082 -169.38 -0.0932412" rot="0.784441 0.62018 0 0" sc="1.61859 1.61859 1.61859" />
 		<o name="city_house4" pos="-7.41606 -170.538 -0.0932412" rot="0.784441 0.62018 0 0" sc="1.61859 1.61859 1.61859" />
-		<o name="city_house1" pos="-35.8931 -140.904 -0.0778551" rot="0.635667 -0.771939 7.15525e-005 0.00531209" sc="1.19965 1.19965 1.19965" />
+		<o name="city_house1" pos="-35.8931 -140.904 -0.0778551" rot="0.635667 -0.771939 7.15525e-05 0.00531209" sc="1.19965 1.19965 1.19965" />
 		<o name="city_house1" pos="-14.5915 -145.257 0.0312867" rot="-0.627303 0.77877 0.000118039 0.000356407" sc="1.201 1.201 1.201" />
 		<o name="city_house4" pos="12.1596 -150.527 -0.0781737" rot="0.594526 -0.80405 0 0" sc="1.61649 1.61649 1.61649" />
 		<o name="city_house4" pos="7.25778 -149.072 -0.0781737" rot="0.594948 -0.803737 0 0" sc="1.61859 1.61859 1.61859" />
@@ -170,4 +167,5 @@
 		<o name="wood_block" pos="239.694 -168.183 0.735203" rot="-0.658186 0.750551 -0.049434 -0.0319542" />
 		<o name="wood_block" pos="257.258 -161.546 0.813677" rot="-0.0500375 -0.0105614 0.940064 0.33714" />
 	</objects>
+	<emitters />
 </scene>

@@ -1,7 +1,7 @@
 <scene>
-	<ver num="2500" baseTrk="Aus5-TopTwist" secEd="1263" />
+	<ver num="2700" baseTrk="Aus5-TopTwist" secEd="1582" />
 	<car tires="0" damage="0.698225" />
-	<start pos="91.2807 -232.74 90.3403" rot="0.0125344 -0.00579249 0.89534 0.445233" />
+	<start pos="91.2807 -232.74 90.3403" rot="0.0125344 -0.00579249 0.89534 0.445233" pos2="0 0 0" rot2="0 0 0 1" />
 	<sound ambient="" reverbs="Canyon" />
 	<sky material="sky/morning_gen" skyYaw="29.25" />
 	<fog color="0.075 0.458 0.830 0.900 0.000" color2="0.083 0.274 0.730 0.900 0.000" linStart="295.488" linEnd="735.078" />
@@ -35,7 +35,7 @@
 		<texture road="4" surf="roadForest" dust="0.2" dustS="0.4" mud="0" smoke="0" tclr="0.042 0.593 0.540 0.700 0.000" />
 		<par dust="Adust" mud="Mud" smoke="Smoke" />
 	</terrain>
-	<paged densGrass="0.175051" densTrees="2.5" grPage="100" grDist="100" grDensSmooth="2" trPage="120" trDist="120" trDistImp="600" trRdDist="2">
+	<paged densGrass="0.175051" densTrees="2.5" grPage="100" grDist="100" grDensSmooth="2" trPage="150" trDist="150" trDistImp="600" trRdDist="2">
 		<grass on="1" mtr="grass6s" clr="grClrAustralia.png" dens="0.348358" chan="0" minSx="1.48959" maxSx="1.75063" minSy="1.39749" maxSy="1.87097" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
 		<grass on="1" mtr="grass16r" clr="grClrWinter.png" dens="0.203161" chan="0" minSx="1.99746" maxSx="2.3799" minSy="1.56875" maxSy="1.92518" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
 		<grass on="1" mtr="grass17r" clr="grClrJungle.png" dens="0.49349" chan="0" minSx="1.55274" maxSx="1.73366" minSy="1.0868" maxSy="1.251" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
@@ -51,11 +51,11 @@
 		<layer on="0" name="tree.09.mesh" dens="0.0126886" minScale="0.849996" maxScale="1.15" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0.599999" windFy="0.00999978" maxTerAng="14.4" minTerH="-1" maxTerH="1" maxDepth="0" />
 		<layer on="1" name="treeD-22desMed.mesh" dens="0.0281622" minScale="1.07413" maxScale="1.62451" ofsY="0" addTrRdDist="1" maxRdist="100" windFx="0.271679" windFy="0.0115325" maxTerAng="25.7232" minTerH="-2" maxTerH="600" maxDepth="0" />
 		<layer on="1" name="treeGC-32draUp.mesh" dens="0.0372889" minScale="1.03695" maxScale="1.4959" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0.229809" windFy="0.0148893" maxTerAng="29.1621" minTerH="-2" maxTerH="460" maxDepth="0" />
-		<layer on="1" name="rock.mesh" dens="0.0466957" minScale="0.74" maxScale="1.1" ofsY="0" addTrRdDist="1" maxRdist="100" windFx="0" windFy="0" maxTerAng="34.34" minTerH="-33" maxTerH="700" maxDepth="2" />
-		<layer on="1" name="treeD-34desTiny.mesh" dens="0.059191" minScale="1.01265" maxScale="1.4959" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0.271679" windFy="0.0107806" maxTerAng="20.7587" minTerH="10" maxTerH="33" maxDepth="0" />
-		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
-		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
-		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
+		<layer on="1" name="rock10red1round.mesh" dens="0.0466957" minScale="0.7" maxScale="1.2" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0" windFy="0" maxTerAng="57.5337" minTerH="-33" maxTerH="350" maxDepth="1" />
+		<layer on="0" name="treeD-34desTiny.mesh" dens="0.059191" minScale="1.01265" maxScale="1.4959" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0.271679" windFy="0.0107806" maxTerAng="20.7587" minTerH="10" maxTerH="33" maxDepth="0" />
+		<layer on="1" name="rock11red2.mesh" dens="0.1" minScale="0.7" maxScale="1.2" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0" windFy="0" maxTerAng="52.0344" minTerH="-100" maxTerH="330" maxDepth="1" />
+		<layer on="1" name="rock35red1edgy.mesh" dens="0.1" minScale="0.7" maxScale="1.2" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0" windFy="0" maxTerAng="61.2391" minTerH="-100" maxTerH="300" maxDepth="1" />
+		<layer on="0" name="rock40red3flat.mesh" dens="0.1" minScale="0.7" maxScale="1.2" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0" windFy="0" maxTerAng="34.34" minTerH="-100" maxTerH="300" maxDepth="1" />
 	</paged>
 	<cam pos="-304.139 288.956 20.8022" dir="0.834959 -0.378039 0.399913" />
 	<objects>
@@ -71,4 +71,5 @@
 		<o name="crate2s" pos="-98.4011 261.286 232.212" rot="-0.452149 0.863885 -0.19288 0.109824" />
 		<o name="wood_block" pos="-96.9453 262.002 232.435" rot="0.10356 0.9712 -0.12968 0.170967" />
 	</objects>
+	<emitters />
 </scene>

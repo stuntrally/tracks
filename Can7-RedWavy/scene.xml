@@ -1,12 +1,12 @@
 <scene>
-	<ver num="2440" baseTrk="O5-Factory" />
+	<ver num="2700" baseTrk="O5-Factory" secEd="368" />
 	<car tires="0" damage="0.75" />
-	<start pos="170.186 -24.0583 36.9925" rot="0.00378841 0.063087 0.985863 0.155424" />
+	<start pos="170.186 -24.0583 36.9925" rot="0.00378841 0.063087 0.985863 0.155424" pos2="0 0 0" rot2="0 0 0 1" />
 	<sound ambient="" reverbs="Rocky" />
 	<sky material="sky/sunset_rays_gen" skyYaw="-28.125" />
 	<fog color="0.075 0.599 0.830 0.847 0.000" color2="0.054 0.360 0.477 0.831 0.000" linStart="321.606" linEnd="1123.34" />
 	<fogH color="0.070 0.209 0.144 0.733 0.000" height="2.21729" dens="98.1863" linStart="0" linEnd="27.7511" />
-	<light pitch="37.6875" yaw="-3.375" ambient="0.000 0.221 0.379 0.000 0.000" diffuse="0.048 0.254 0.700 1.000 0.000" specular="0.000 0.240 0.800 0.000 0.000" />
+	<light pitch="37.6875" yaw="-3.375" ambient="0.000 0.062 0.379 0.000 0.000" diffuse="0.097 0.254 0.781 0.000 0.000" specular="0.099 0.240 0.800 0.000 0.000" />
 	<fluids>
 		<fluid name="water sunset cyan" pos="536.689 25.5728 -71.9476" rot="0 0 0" size="387.28 133.614 720.892" tile="0.01 0.01" />
 	</fluids>
@@ -49,22 +49,22 @@
 		<layer on="1" name="cactus.mesh" dens="0.18916" minScale="0.297814" maxScale="0.884015" ofsY="0" addTrRdDist="1" maxRdist="100" windFx="0" windFy="0" maxTerAng="26.93" minTerH="-100" maxTerH="51.2432" maxDepth="0" />
 		<layer on="1" name="fir05.mesh" dens="0.306409" minScale="0.04" maxScale="0.107822" ofsY="0" addTrRdDist="1" maxRdist="100" windFx="2.8" windFy="0.1" maxTerAng="30.72" minTerH="-100" maxTerH="61.2973" maxDepth="0" />
 		<layer on="1" name="pine2_tall_norm.mesh" dens="0.18916" minScale="0.46" maxScale="0.68" ofsY="0" addTrRdDist="1" maxRdist="100" windFx="1.8" windFy="0.1" maxTerAng="18.62" minTerH="-100" maxTerH="57.4054" maxDepth="0" />
-		<layer on="1" name="rock_B02.mesh" dens="0.211389" minScale="0.51" maxScale="1.07" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0" windFy="0" maxTerAng="24.2349" minTerH="-100" maxTerH="100" maxDepth="1.61066" />
-		<layer on="1" name="rock_B03.mesh" dens="0.16" minScale="0.599002" maxScale="0.73229" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0" windFy="0" maxTerAng="32.6925" minTerH="-100" maxTerH="100" maxDepth="1.59536" />
-		<layer on="1" name="rock.mesh" dens="0.146083" minScale="0.628886" maxScale="0.862577" ofsY="0" addTrRdDist="1" maxRdist="100" windFx="0" windFy="0" maxTerAng="26.5602" minTerH="-100" maxTerH="150" maxDepth="1.47557" />
-		<layer on="0" name="rock_n3r.mesh" dens="0.0999996" minScale="0.0999983" maxScale="0.249999" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
-		<layer on="0" name="" dens="0.0999996" minScale="0.0999983" maxScale="0.249999" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
-		<layer on="0" name="" dens="0.0999996" minScale="0.0999983" maxScale="0.249999" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
-		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
+		<layer on="1" name="rock10red1round.mesh" dens="0.211389" minScale="0.7" maxScale="1.2" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0" windFy="0" maxTerAng="34.34" minTerH="-100" maxTerH="100" maxDepth="1" />
+		<layer on="1" name="rock11red2.mesh" dens="0.16" minScale="0.7" maxScale="1.2" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0" windFy="0" maxTerAng="34.34" minTerH="-100" maxTerH="100" maxDepth="1" />
+		<layer on="1" name="rock12orange.mesh" dens="0.146083" minScale="0.7" maxScale="1.2" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0" windFy="0" maxTerAng="34.34" minTerH="-100" maxTerH="150" maxDepth="1" />
+		<layer on="1" name="rock13orange2.mesh" dens="0.0999996" minScale="0.7" maxScale="1.2" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0" windFy="0" maxTerAng="34.34" minTerH="-100" maxTerH="100" maxDepth="1" />
+		<layer on="1" name="rock32red2block.mesh" dens="0.0999996" minScale="0.7" maxScale="1.2" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0" windFy="0" maxTerAng="34.34" minTerH="-100" maxTerH="100" maxDepth="1" />
+		<layer on="1" name="rock35red1edgy.mesh" dens="0.0999996" minScale="0.7" maxScale="1.2" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0" windFy="0" maxTerAng="34.34" minTerH="-100" maxTerH="100" maxDepth="1" />
+		<layer on="1" name="rock40red3flat.mesh" dens="0.1" minScale="0.7" maxScale="1.2" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0" windFy="0" maxTerAng="34.34" minTerH="-100" maxTerH="100" maxDepth="1" />
 	</paged>
 	<cam pos="592.812 219.778 -119.833" dir="-0.910262 -0.307309 0.277459" />
 	<objects>
 		<o name="ptol_house_a" pos="391.547 -57.2326 29.0396" rot="0.999992 -0.00397245 0 0" sc="1.39487 1.39487 1.39487" />
 		<o name="ptol_house_e" pos="284.844 -73.5761 38.9241" rot="0.000689382 -0.999999 0 0" sc="2.14735 2.14735 2.14735" />
-		<o name="ptol_temple" pos="382.848 -142.852 39.6774" rot="-0.0229615 -0.999739 -2.6283e-005 0.00114438" sc="4.5609 4.70746 5.49777" />
+		<o name="ptol_temple" pos="382.848 -142.852 39.6774" rot="-0.0229615 -0.999739 -2.6283e-05 0.00114438" sc="4.5609 4.70746 5.49777" />
 		<o name="ptol_lighthouse" pos="292.994 22.7157 60.1222" rot="0 -1 0 0" sc="1.72797 1.72797 1.72797" />
 		<o name="ptol_farmstead" pos="243.356 -7.15379 40.8261" rot="-0.699275 -0.714854 0 0" sc="3.46085 3.46085 3.46085" />
-		<o name="ptol_tower" pos="422.17 -117.393 46.2158" rot="-0.013661 -0.999908 -1.20417e-005 0.000881392" sc="4.53564 4.57652 4.53564" />
+		<o name="ptol_tower" pos="422.17 -117.393 46.2158" rot="-0.013661 -0.999908 -1.20417e-05 0.000881392" sc="4.53564 4.57652 4.53564" />
 		<o name="ptol_tower" pos="418.863 -174.073 46.7649" rot="-0.0115444 -0.999934 0 0" sc="4.57834 4.57834 4.57834" />
 		<o name="ptol_tower" pos="346.53 -171.189 52.4201" rot="0.694337 -0.719649 0 0" sc="3.99497 3.99497 3.99497" />
 		<o name="ptol_tower" pos="348.515 -112.886 48.3516" rot="0.00781727 -0.999969 0 0" sc="4.50152 4.50152 4.50152" />
@@ -117,8 +117,9 @@
 		<o name="ptol_house_e" pos="370.572 -57.7769 30.1931" rot="-0.00284802 -0.999996 0 0" sc="1.62724 1.62724 1.62724" />
 		<o name="ptol_house_c" pos="324.144 -111.423 40.3231" rot="0 -1 0 0" sc="1.7588 1.7588 1.7588" />
 		<o name="ptol_fortress" pos="340.53 -68.154 35.2184" rot="0 -1 0 0" sc="1.80825 1.80825 1.80825" />
-		<o name="ptol_dock" pos="372.138 2.37474 27.06" rot="1 -6.24232e-005 0 0" sc="2.01833 2.01833 2.01833" />
+		<o name="ptol_dock" pos="372.138 2.37474 27.06" rot="1 -6.24232e-05 0 0" sc="2.01833 2.01833 2.01833" />
 		<o name="ptol_fortress" pos="388.352 -82.8914 29.8909" rot="0 -1 0 0" sc="1.76673 1.76673 1.76673" />
 		<o name="ptol_house_c" pos="288.246 -58.3407 39.4486" rot="-0.709596 -0.704608 0 0" sc="1.21017 1.21017 1.21017" />
 	</objects>
+	<emitters />
 </scene>
