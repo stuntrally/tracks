@@ -1,5 +1,5 @@
 <scene>
-	<ver num="2700" baseTrk="Isl10-Treasure" secEd="9302" />
+	<ver num="2700" baseTrk="Isl10-Treasure" secEd="10352" />
 	<car tires="0" />
 	<start pos="-101.894 -110.865 102.925" rot="0.011509 -0.0483 0.55186 0.832472" pos2="0 0 0" rot2="0 0 0 1" />
 	<sound ambient="" reverbs="Canyon" />
@@ -64,5 +64,16 @@
 		<o name="cave_Y05" pos="-42.4799 -91.0052 59.3354" rot="0.226924 0.896374 -0.113348 -0.363554" />
 		<o name="cave_Y06" pos="-19.1398 -106.291 58.6767" rot="0.048556 -0.834897 -0.211051 0.506006" sc="0.844513 0.840204 0.844513" />
 	</objects>
-	<emitters />
+	<emitters>
+		<e name="WaterfallLow" pos="-41.3763 20.6031 -57.1549" sc="6.73873 0.828521 9.37475" up="0 1 0" rot="0" rate="43.0256" st="0" />
+		<e name="WaterfallLow" pos="-84.8193 -12.6822 -60.5488" sc="7.55338 0.996136 12.3204" up="0 1 0" rot="0" rate="104.888" st="0" />
+		<e name="WaterfallLow" pos="-58.7961 -12.8384 -138.258" sc="14.6681 1 13.4055" up="0 1 0" rot="0" rate="109.257" st="0" />
+		<e name="WaterfallLow" pos="130.259 -13.1697 92.5842" sc="11.5148 1 6.90026" up="0 1 0" rot="0" rate="104.547" st="0" />
+		<e name="WaterfallLow" pos="109.537 6.41869 145.775" sc="7.32817 3.90204 4.71661" up="0 1 0" rot="0" rate="69.1186" st="0" />
+		<e name="Waterfall1High" pos="107.699 31.3856 161.149" sc="5.06884 1 5.03212" up="0 1 0" rot="0" rate="23.1266" st="0" />
+		<e name="Waterfall1High" pos="128.925 6.55217 101.722" sc="6.62453 1 6.88249" up="0 1 0" rot="0" rate="58.5559" st="0" />
+		<e name="Waterfall1HighTall" pos="-40.9216 51.9578 -125.395" sc="7.02893 3.61439 13.8169" up="0 1 0" rot="0" rate="133.377" st="0" />
+		<e name="Waterfall1High" pos="-78.3781 8.20797 -62.1479" sc="4.19508 29.0965 6.43397" up="0 1 0" rot="0" rate="76.5593" st="0" />
+		<e name="Waterfall1HighTall" pos="-33.0553 49.4001 -62.8769" sc="4.44917 36.4176 2.45349" up="0 1 0" rot="0" rate="112.926" st="0" />
+	</emitters>
 </scene>

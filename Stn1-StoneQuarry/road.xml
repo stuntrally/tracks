@@ -1,7 +1,7 @@
 <SplineRoad>
-	<mtr road="roadNgravel" pipe="pipeAsphalt" road2="roadNdirt" pipe2="pipeGlassCyan" road3="roadAsphalt" road4="roadStone" col="road_col_Dark" />
+	<mtr river="0" road="roadNgravel" pipe="pipeAsphalt" road2="roadNdirt" pipe2="pipeGlassCyan" road3="roadAsphalt" road4="roadStone" col="road_col_Dark" />
 	<dim tcMul="0.05" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="2" widthSteps="6" heightOfs="0.06" />
-	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
+	<mrg loop="1" skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" visDist="1000" visBehind="800" />
 	<geom colN="6" colR="4" wsPm="4" lsPm="1" stBox="1 5.58799 22.2081" iDir="-1" iChk1="113" />
 	<stats length="2908.05" width="10.3226" height="63.0717" onTer="9.69071" pipes="0" bnkAvg="4.71989" bnkMax="20.2887" />
 	<txt desc="Track inside a stone quarry." />

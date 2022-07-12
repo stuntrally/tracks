@@ -1,7 +1,7 @@
 <SplineRoad>
-	<mtr road="roadSnowGrn" pipe="pipeGlassCyan" road2="roadSnow" pipe2="pipeGlass" road3="roadIce" wall="road_wall_Winter" pipeW="pipe_wall_Winter" />
+	<mtr river="0" road="roadSnowGrn" pipe="pipeGlassCyan" road2="roadSnow" pipe2="pipeGlass" road3="roadIce" wall="road_wall_Winter" pipeW="pipe_wall_Winter" />
 	<dim tcMul="0.0834984" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="6" heightOfs="0.06" />
-	<mrg skirtLen="0.3" skirtH="0.05" merge="1" mergeLen="1500" lodPntLen="40" visDist="1000" visBehind="800" />
+	<mrg loop="1" skirtLen="0.3" skirtH="0.05" merge="1" mergeLen="1500" lodPntLen="40" visDist="1000" visBehind="800" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 6.20801 16.324" iDir="-1" iChk1="201" />
 	<stats length="6192.93" width="7.65136" height="304.302" onTer="45.8176" pipes="18.1725" bnkAvg="5.9707" bnkMax="84.7799" />
 	<txt desc="Curly track through snow covered, high mountains." />

@@ -1,7 +1,7 @@
 <SplineRoad>
-	<mtr road="roadSandWhite" pipe="pipeGlassCyan" road2="roadSandShore" pipe2="pipeGlassYellow" road3="roadStone" pipe3="pipeGlassAlienLime" road4="roadMoss" pipe4="pipeGlassGreen" wall="road_wall_Desert" />
+	<mtr river="0" road="roadSandWhite" pipe="pipeGlassCyan" road2="roadSandShore" pipe2="pipeGlassYellow" road3="roadStone" pipe3="pipeGlassAlienLime" road4="roadMoss" pipe4="pipeGlassGreen" wall="road_wall_Desert" />
 	<dim tcMul="0.0658105" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1.42931" widthSteps="6" heightOfs="0.1" />
-	<mrg skirtLen="0.4" skirtH="0.12" merge="1" mergeLen="809.994" lodPntLen="20" visDist="1000" visBehind="800" />
+	<mrg loop="1" skirtLen="0.4" skirtH="0.12" merge="1" mergeLen="809.994" lodPntLen="20" visDist="1000" visBehind="800" />
 	<geom colN="4" colR="2.39684" wsPm="4" lsPm="1" stBox="1 5.552 20.748" iDir="1" iChk1="3" />
 	<stats length="6077.93" width="9.70881" height="115.425" onTer="77.4425" pipes="44.6516" bnkAvg="12.1069" bnkMax="89.5684" />
 	<txt desc="Pickled landscape with a cave including a hidden village behind a waterlock. Enjoy." />

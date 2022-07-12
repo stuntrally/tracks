@@ -60,7 +60,7 @@
 		<layer on="1" name="rock17black2wh.mesh" dens="0.244382" minScale="0.7" maxScale="1.03393" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0" windFy="0" maxTerAng="34.34" minTerH="-4.58716" maxTerH="86.2673" maxDepth="1" />
 		<layer on="1" name="rock19harshWhite.mesh" dens="0.056978" minScale="0.653271" maxScale="0.947071" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0" windFy="0" maxTerAng="34.34" minTerH="-4.58716" maxTerH="84.6083" maxDepth="1" />
 		<layer on="0" name="jungle_tree.mesh" dens="0.0145428" minScale="1.49207" maxScale="1.90608" ofsY="0" addTrRdDist="3" maxRdist="100" windFx="0.393863" windFy="0.00277818" maxTerAng="17.6963" minTerH="-4.58716" maxTerH="88.0734" maxDepth="2" />
-		<layer on="0" name="tree55sitebig.mesh" dens="0.142305" minScale="0.988728" maxScale="1.74292" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0.599999" windFy="0.00999948" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
+		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 	</paged>
 	<cam pos="276.933 161.924 -73.4948" dir="-0.887774 -0.314853 0.335745" />

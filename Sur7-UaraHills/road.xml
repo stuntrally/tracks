@@ -1,9 +1,9 @@
 <SplineRoad>
-	<mtr river="0" road="roadSandShore" pipe="pipeGlassAlienLime" road2="roadAlien" road3="roadSandMagic" wall="road_wall_Red" pipeW="pipe_wall_Orange" col="road_col_Dark" />
-	<dim tcMul="0.0658105" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="8" heightOfs="0.06" />
+	<mtr river="0" road="roadSandShore" pipe="pipeGlassAlienLime" road2="roadAlien" road3="roadSandMagic" wall="wall_space_metal" pipeW="pipe_wall_Orange" col="road_col_Dark" />
+	<dim tcMul="0.0658105" tcW="0.258049" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="8" heightOfs="0.06" />
 	<mrg loop="1" skirtLen="0" skirtH="0.06" merge="1" mergeLen="767.46" lodPntLen="32.6223" visDist="1000" visBehind="800" />
 	<geom colN="6" colR="3.09914" wsPm="4" lsPm="1" stBox="1 5.552 17.656" iDir="1" iChk1="19" />
-	<stats length="3294.06" width="9.06216" height="45.629" onTer="4.91194" pipes="0" bnkAvg="7.30991" bnkMax="31.1503" />
+	<stats length="3294.06" width="9.06216" height="45.629" onTer="4.91194" pipes="0" bnkAvg="7.30997" bnkMax="31.1503" />
 	<txt desc="Rolling grassland hills, receiving some fresh rain." />
 	<adv ice="Widing road, but rather fast. With banked turns and 2 slow, short jumps." />
 	<P pos="-226.735 0 -162.071" w="9.368" aT="2" />

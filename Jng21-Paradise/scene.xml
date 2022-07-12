@@ -6,7 +6,7 @@
 	<sky material="sky/blue_clouds" rainName="RainFine" rainEmit="210" />
 	<fog color="0.535 0.151 0.941 1.000 0.000" color2="0.581 0.083 0.947 0.900 0.000" linStart="288.8" linEnd="1602.05" />
 	<fogH color="0.586 0.270 1.000 1.000 0.000" height="-300" dens="100" linStart="0" linEnd="400" />
-	<light pitch="57" yaw="62" ambient="0.165 0.122 0.500 3.000 0.000" diffuse="0.165 0.101 0.700 3.000 0.000" specular="0.167 0.020 0.990 1.000 0.000" />
+	<light pitch="57" yaw="62" ambient="0.165 0.122 0.500 1.000 0.000" diffuse="0.165 0.101 0.700 1.000 0.000" specular="0.167 0.020 0.990 1.000 0.000" />
 	<fluids>
 		<fluid name="water cyan" pos="421.821 -31.4561 274.553" rot="0 0 0" size="14400 160 14400" tile="0.004 0.004" />
 	</fluids>

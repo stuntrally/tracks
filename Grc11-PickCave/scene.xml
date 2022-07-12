@@ -1,7 +1,7 @@
 <scene>
-	<ver num="2700" baseTrk="Grc8-SlopeCity" secEd="81024" />
+	<ver num="2700" baseTrk="Grc8-SlopeCity" secEd="82358" />
 	<car tires="0" damage="0.502959" />
-	<start pos="228.184 -275.985 0.647167" rot="5.96046e-08 5.91559e-07 0.258365 0.966048" />
+	<start pos="228.184 -275.985 0.647167" rot="5.96046e-08 5.91559e-07 0.258365 0.966048" pos2="0 0 0" rot2="0 0 0 1" />
 	<sound ambient="" reverbs="Rocky" />
 	<sky material="sky/day_blue2" />
 	<fog color="0.568 0.281 0.775 1.000 0.000" color2="0.560 0.207 0.756 1.000 0.000" linStart="245.466" linEnd="1019.5" />
@@ -50,14 +50,14 @@
 		<layer on="1" name="palm.mesh" dens="0.200951" minScale="1.59741" maxScale="2.14306" ofsY="0" addTrRdDist="0" maxRdist="20" windFx="0.599994" windFy="0.00999496" maxTerAng="19.4489" minTerH="-4.15385" maxTerH="6.92308" maxDepth="0" />
 		<layer on="0" name="treeGG-37acaTall.mesh" dens="0.013299" minScale="0.9" maxScale="1.33" ofsY="0" addTrRdDist="0" maxRdist="20" windFx="0.33" windFy="0.04" maxTerAng="40" minTerH="-4.2" maxTerH="4" maxDepth="0" />
 		<layer on="0" name="treeD-34desTiny.mesh" dens="0.0618837" minScale="0.905939" maxScale="1.06093" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0.134303" windFy="0.0049742" maxTerAng="19.4489" minTerH="-3.56757" maxTerH="1.62162" maxDepth="0" />
-		<layer on="1" name="treeD-22desMed.mesh" dens="0.0210178" minScale="1.19694" maxScale="1.49258" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0.318349" windFy="0.0054261" maxTerAng="17.0408" minTerH="5.18919" maxTerH="120" maxDepth="0" />
-		<layer on="1" name="treeGC-32draUp.mesh" dens="0.026066" minScale="0.965983" maxScale="1.14465" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0.0577775" windFy="0.00153982" maxTerAng="19.6757" minTerH="-3.56757" maxTerH="6.16216" maxDepth="0" />
-		<layer on="0" name="tree.07.mesh" dens="0.0408248" minScale="0.849991" maxScale="1.15" ofsY="0" addTrRdDist="8" maxRdist="20" windFx="0.699996" windFy="0.00999529" maxTerAng="15.7209" minTerH="-10" maxTerH="3" maxDepth="0" />
-		<layer on="0" name="farn1.mesh" dens="0.0238965" minScale="0.142256" maxScale="0.217865" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="7.29999" windFy="0.0599931" maxTerAng="26.933" minTerH="-10" maxTerH="-3" maxDepth="0" />
-		<layer on="0" name="" dens="0.0999996" minScale="0.0999994" maxScale="0.249994" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-10" maxTerH="10" maxDepth="5" />
+		<layer on="1" name="treeD-22desMed.mesh" dens="0.0298302" minScale="1.19694" maxScale="1.49258" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0.318349" windFy="0.0054261" maxTerAng="17.0408" minTerH="5.18919" maxTerH="120" maxDepth="0" />
+		<layer on="1" name="treeGC-32draUp.mesh" dens="0.0288359" minScale="0.965983" maxScale="1.14465" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0.0577775" windFy="0.00153982" maxTerAng="19.6757" minTerH="-3.56757" maxTerH="6.16216" maxDepth="0" />
+		<layer on="1" name="rock19harshWhite.mesh" dens="0.0893914" minScale="1.08494" maxScale="2.03465" ofsY="0" addTrRdDist="3" maxRdist="20" windFx="0" windFy="0" maxTerAng="34" minTerH="-100" maxTerH="100" maxDepth="3.67928" />
+		<layer on="1" name="rock46grayWhite2.mesh" dens="0.0885257" minScale="0.912533" maxScale="1.75953" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0" windFy="0" maxTerAng="34" minTerH="-100" maxTerH="100" maxDepth="3.67928" />
+		<layer on="1" name="rock20liGrayTall.mesh" dens="0.0885257" minScale="0.912533" maxScale="1.40382" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0" windFy="0" maxTerAng="34" minTerH="-100" maxTerH="100" maxDepth="3.65898" />
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 	</paged>
-	<cam pos="447.734 84.1883 188.708" dir="-0.951765 -0.302793 -0.0503606" />
+	<cam pos="447.734 84.1883 188.708" dir="-0.951729 -0.302781 -0.0503585" />
 	<objects>
 		<o name="cave_W04" pos="-219.249 34.0103 61.4742" rot="0 -1 0 0" sc="10.0102 10.0102 10.0102" />
 		<o name="cave_W04" pos="28.8398 55.0967 72.8471" rot="-0.724084 0.68971 0 0" sc="9.22906 4.53316 9.22906" />

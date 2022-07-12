@@ -1,7 +1,7 @@
 <scene>
-	<ver num="2600" baseTrk="" secEd="76034" />
+	<ver num="2700" baseTrk="" secEd="76365" />
 	<car tires="0" road1mtr="0" />
-	<start pos="-417.01 -376.006 19.8207" rot="0.00219232 0.00771886 -0.316508 0.948577" />
+	<start pos="-417.01 -376.006 19.8207" rot="0.00219232 0.00771886 -0.316508 0.948577" pos2="0 0 0" rot2="0 0 0 1" />
 	<sound ambient="" reverbs="MountainsClose" />
 	<sky material="sky/white2" rainName="Snow" rainEmit="523" />
 	<fog color="0.593 0.106 0.826 0.900 0.000" color2="0.583 0.082 0.807 0.896 0.000" linStart="325.478" linEnd="1338.84" />
@@ -52,8 +52,8 @@
 		<layer on="1" name="pine2_tall_half.mesh" dens="0.392647" minScale="0.497222" maxScale="0.926355" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0.432324" windFy="0.0287762" maxTerAng="31.0702" minTerH="-80" maxTerH="-10" maxDepth="0" />
 		<layer on="1" name="pine3_fat_full.mesh" dens="0.435078" minScale="0.580215" maxScale="0.927744" ofsY="0" addTrRdDist="1" maxRdist="100" windFx="0.21" windFy="0.022" maxTerAng="28.59" minTerH="-60" maxTerH="21.8433" maxDepth="0" />
 		<layer on="1" name="pine3_fat_half.mesh" dens="0.115869" minScale="0.871343" maxScale="1.30181" ofsY="0" addTrRdDist="1" maxRdist="100" windFx="0.07" windFy="0.017" maxTerAng="7.54" minTerH="-100" maxTerH="-72" maxDepth="0" />
-		<layer on="0" name="farn1.mesh" dens="0.446413" minScale="0.119999" maxScale="0.199993" ofsY="0" addTrRdDist="1" maxRdist="100" windFx="9.29975" windFy="0.119996" maxTerAng="50" minTerH="-200" maxTerH="55.4128" maxDepth="0" />
-		<layer on="1" name="rock_W02.mesh" dens="0.360339" minScale="0.75429" maxScale="2.0654" ofsY="0" addTrRdDist="2" maxRdist="16" windFx="0" windFy="0" maxTerAng="33.302" minTerH="60" maxTerH="175" maxDepth="0" />
+		<layer on="1" name="rock_W03.mesh" dens="0.140217" minScale="1.31893" maxScale="2.00154" ofsY="0" addTrRdDist="1" maxRdist="19" windFx="0" windFy="0" maxTerAng="20.0135" minTerH="-56.5877" maxTerH="220" maxDepth="2" />
+		<layer on="1" name="rock_W02.mesh" dens="0.140217" minScale="0.75429" maxScale="2.0654" ofsY="0" addTrRdDist="2" maxRdist="16" windFx="0" windFy="0" maxTerAng="33.302" minTerH="-42.9384" maxTerH="225" maxDepth="2.07722" />
 		<layer on="0" name="pine2_tall_half.mesh" dens="0.0999996" minScale="0.0999971" maxScale="0.249988" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-200" maxTerH="100" maxDepth="0" />
 		<layer on="0" name="" dens="0.0999996" minScale="0.0999971" maxScale="0.249988" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="0" />
 		<layer on="0" name="" dens="0.0999996" minScale="0.0999971" maxScale="0.249988" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="0" />
@@ -69,4 +69,5 @@
 		<o name="wood_block" pos="153.884 413.889 104.727" rot="0.629312 0.773584 -0.0742135 -0.00513958" />
 		<o name="wood_block" pos="273.875 388.822 135.438" rot="0.736018 -0.646981 -0.0768163 -0.183827" />
 	</objects>
+	<emitters />
 </scene>

@@ -1,7 +1,7 @@
 <SplineRoad>
-	<mtr road="roadJungle" />
-	<dim tcMul="0.1" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="16" heightOfs="0.06" />
-	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
+	<mtr river="0" road="wall_metal_29_inst" pipe="roadDesertOrn" pipe3="pipeGlassAlien" pipe4="pipeGlassAlienGreen" wall="wall_space_x" col="wall_metal_04_x" />
+	<dim tcMul="0.0457273" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="16" heightOfs="0.06" />
+	<mrg loop="1" skirtLen="1" skirtH="0.12" merge="1" mergeLen="890.801" lodPntLen="17.3656" visDist="1000" visBehind="800" />
 	<geom colN="12" colR="5" wsPm="4" lsPm="1" stBox="1 7.472 14.776" iDir="-1" iChk1="5" />
 	<stats length="568.65" width="12" height="3.30765" onTer="100" pipes="0" bnkAvg="16" bnkMax="16" />
 	<txt desc="Short circle track. Good for practice." />

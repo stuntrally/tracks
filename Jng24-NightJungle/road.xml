@@ -1,7 +1,7 @@
 <SplineRoad>
-	<mtr road="roadJDark" pipe="pipeGlassGreen" wall="road_wall_JDark" pipeW="pipe_wall_Jungle" col="road_col_Dark" />
+	<mtr river="0" road="roadJDark" pipe="pipeGlassGreen" wall="road_wall_JDark" pipeW="pipe_wall_Jungle" col="road_col_Dark" />
 	<dim tcMul="0.08" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="6" heightOfs="0.06" />
-	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" visDist="1000" visBehind="800" />
+	<mrg loop="1" skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" visDist="1000" visBehind="800" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5.064 16.352" iDir="-1" iChk1="50" />
 	<stats length="2688.55" width="8.20844" height="98.7741" onTer="78.4766" pipes="72.5255" bnkAvg="26.0319" bnkMax="88.5686" />
 	<txt desc="Jungle forest drive at almost night." />

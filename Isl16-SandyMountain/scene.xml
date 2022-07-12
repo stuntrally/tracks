@@ -59,7 +59,7 @@
 		<layer on="1" name="rock.mesh" dens="0.267161" minScale="0.318976" maxScale="0.837035" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0" windFy="0" maxTerAng="34.0047" minTerH="6.78899" maxTerH="100" maxDepth="20" />
 		<layer on="1" name="rock_n3r.mesh" dens="0.264822" minScale="0.525467" maxScale="0.917985" ofsY="0" addTrRdDist="3" maxRdist="100" windFx="0" windFy="0" maxTerAng="25.1906" minTerH="0.550461" maxTerH="100" maxDepth="20" />
 		<layer on="1" name="rock_Y02.mesh" dens="0.305672" minScale="0.47537" maxScale="1.78643" ofsY="0" addTrRdDist="3" maxRdist="100" windFx="0" windFy="0" maxTerAng="28.4959" minTerH="-18.1651" maxTerH="9.90826" maxDepth="0" />
-		<layer on="1" name="crystal_cube4.mesh" dens="0.04" minScale="0.0298434" maxScale="0.157535" ofsY="0" addTrRdDist="1" maxRdist="5" windFx="0" windFy="0" maxTerAng="77.9698" minTerH="100" maxTerH="150" maxDepth="0" />
+		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 	</paged>
 	<cam pos="554.006 54.303 -52.9185" dir="-0.246033 -0.0295618 -0.96881" />
 	<objects>

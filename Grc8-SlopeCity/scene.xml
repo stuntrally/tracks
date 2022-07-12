@@ -1,5 +1,5 @@
 <scene>
-	<ver num="2700" baseTrk="TestC4-ow" secEd="2224" />
+	<ver num="2700" baseTrk="TestC4-ow" secEd="2234" />
 	<car tires="0" />
 	<start pos="-88.4286 -163.073 0.819972" rot="0.000386685 0.0153651 0.105387 -0.99433" pos2="0 0 0" rot2="0 0 0 1" />
 	<sound ambient="" reverbs="Canyon" />
@@ -36,7 +36,7 @@
 		<texture road="4" surf="Default" dust="0" dustS="0.2" mud="0" smoke="0" tclr="0.160 0.500 0.200 0.700 0.000" />
 		<par dust="DustW" mud="MudDark" smoke="Smoke" />
 	</terrain>
-	<paged densGrass="0.0686147" densTrees="0.957926" grPage="400" grDist="400" grDensSmooth="2" trPage="400" trDist="400" trDistImp="800" trRdDist="1">
+	<paged densGrass="0.0686147" densTrees="0.957926" grPage="400" grDist="400" grDensSmooth="2" trPage="300" trDist="300" trDistImp="800" trRdDist="1">
 		<grass on="1" mtr="grass12y-" clr="grClrJungle2.png" dens="0.350178" chan="0" minSx="1.36477" maxSx="2.02105" minSy="0.783512" maxSy="0.999327" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
 		<grass on="1" mtr="grass5" clr="grClrJungle.png" dens="0.0542012" chan="0" minSx="1.29733" maxSx="1.68347" minSy="1.09393" maxSy="1.37848" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
 		<grass on="0" mtr="grassSavanna" clr="grClrJungle.png" dens="0.0788306" chan="0" minSx="1.18059" maxSx="1.6682" minSy="1.79237" maxSy="2.28213" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />

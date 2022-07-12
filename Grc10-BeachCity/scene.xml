@@ -1,14 +1,14 @@
 <scene>
-	<ver num="2600" baseTrk="Grc8-SlopeCity" secEd="33774" />
+	<ver num="2700" baseTrk="Grc8-SlopeCity" secEd="34529" />
 	<car tires="0" damage="0.852321" road1mtr="0" />
-	<start pos="34.3482 232.552 50.8232" rot="0.0162731 0.0304504 0.809395 -0.586285" />
+	<start pos="34.3482 232.552 50.8232" rot="0.0162731 0.0304504 0.809395 -0.586285" pos2="0 0 0" rot2="0 0 0 1" />
 	<sound ambient="" reverbs="Canyon" />
 	<sky material="sky/day_blue2" />
-	<fog color="0.586 0.270 1.000 1.000 0.000" color2="0.586 0.270 1.000 1.000 0.000" linStart="297.698" linEnd="1677.17" />
+	<fog color="0.558 0.221 0.660 1.000 0.000" color2="0.568 0.324 0.719 1.000 0.000" linStart="174.9" linEnd="1546.61" />
 	<fogH color="0.586 0.270 1.000 1.000 0.000" height="-300" dens="100" linStart="0" linEnd="400" />
 	<light pitch="60" yaw="-40" ambient="0.000 0.000 0.450 1.000 0.000" diffuse="0.000 0.000 0.800 1.000 0.000" specular="0.000 0.000 0.800 1.000 0.000" />
 	<fluids>
-		<fluid name="water blue" pos="54.4924 0.130912 16.319" rot="0 0 0" size="647.102 23.1061 950.924" tile="0.01 0.01" />
+		<fluid name="water blue" pos="29.3908 0.130912 143.857" rot="0 0 0" size="6176.05 23.1061 6855.55" tile="0.01 0.01" />
 	</fluids>
 	<terrain size="513" triangle="1.45291" errNorm="13.72">
 		<texture on="1" file="island_sand2w_d.jpg" fnorm="desert_sand2_n.jpg" scale="8.36448" surf="DesertFast" dust="0.6" dustS="0.8" mud="0" smoke="0" tclr="0.167 0.038 0.520 0.700 0.000" angMin="0" angMax="27.8289" angSm="6.93696" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
@@ -51,7 +51,7 @@
 		<layer on="1" name="tree.09.mesh" dens="0.1" minScale="0.586023" maxScale="1.30169" ofsY="0" addTrRdDist="3" maxRdist="100" windFx="0" windFy="0" maxTerAng="18.0125" minTerH="6" maxTerH="100" maxDepth="1" />
 		<layer on="0" name="farn1.mesh" dens="0.299173" minScale="0.0623137" maxScale="0.289727" ofsY="0" addTrRdDist="1" maxRdist="100" windFx="7.29999" windFy="0.0599931" maxTerAng="31.0873" minTerH="6.42202" maxTerH="100" maxDepth="2" />
 		<layer on="0" name="farn2.mesh" dens="0.233764" minScale="0.107346" maxScale="0.333236" ofsY="0" addTrRdDist="1" maxRdist="100" windFx="7.29999" windFy="0.0599962" maxTerAng="29.4845" minTerH="7.15596" maxTerH="100" maxDepth="2" />
-		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
+		<layer on="1" name="rock41grayWh.mesh" dens="0.1" minScale="0.7" maxScale="1.2" ofsY="0" addTrRdDist="2" maxRdist="18" windFx="0" windFy="0" maxTerAng="37.1156" minTerH="4.54977" maxTerH="100" maxDepth="0" />
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
@@ -195,4 +195,5 @@
 		<o name="rome_farmstead" pos="-54.2093 100.945 39.9783" rot="-0.01432 -0.999897 0 0" />
 		<o name="rome_farmstead" pos="13.7871 105.5 39.9783" rot="0.00596704 -0.999982 0 0" />
 	</objects>
+	<emitters />
 </scene>

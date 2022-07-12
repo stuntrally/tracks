@@ -1,7 +1,7 @@
 <SplineRoad>
-	<mtr road="roadMoss" pipe="pipeAsphalt" road2="roadStone" />
+	<mtr river="0" road="roadMoss" pipe="pipeAsphalt" road2="roadStone" />
 	<dim tcMul="0.06" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="2" widthSteps="6" heightOfs="0.06" />
-	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="300" lodPntLen="20" />
+	<mrg loop="1" skirtLen="1" skirtH="0.12" merge="1" mergeLen="300" lodPntLen="20" visDist="1000" visBehind="800" />
 	<geom colN="4" colR="2.4" wsPm="4" lsPm="1" stBox="1 5.248 16.904" iDir="-1" iChk1="57" />
 	<stats length="2740.75" width="8.04988" height="69.2933" onTer="24.5333" pipes="0" bnkAvg="5.25626" bnkMax="32.6933" />
 	<txt desc="Easy, curly road in mossy mountains. Many rocks and few trees." />

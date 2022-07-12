@@ -3,7 +3,7 @@
 	<dim tcMul="0.08" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="6" heightOfs="0.06" />
 	<mrg loop="1" skirtLen="0.1" skirtH="0.12" merge="1" mergeLen="800" lodPntLen="40" visDist="608.518" visBehind="605.72" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5.6 19.296" iDir="1" iChk1="152" />
-	<stats length="4855.33" width="8.62123" height="85.2889" onTer="21.6634" pipes="11.8636" bnkAvg="11.2536" bnkMax="79.8" />
+	<stats length="4855.33" width="8.62352" height="85.2889" onTer="21.6634" pipes="11.8636" bnkAvg="11.2536" bnkMax="79.8" />
 	<txt desc="Rally at a colorful foggy sunrise." />
 	<adv ice="Basic, banked, and quite fast, yet curly. With few U-turns, short pipes and bridges." />
 	<P pos="432.905 0 286.264" w="9.688" aT="2" mtr="2" />

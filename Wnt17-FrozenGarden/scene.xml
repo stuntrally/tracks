@@ -1,7 +1,7 @@
 <scene>
-	<ver num="2500" baseTrk="W14-DangerRoad" secEd="1436" />
+	<ver num="2700" baseTrk="W14-DangerRoad" secEd="1893" />
 	<car tires="0" damage="0.597633" road1mtr="0" />
-	<start pos="-55.5671 -127.827 7.34887" rot="-0.181872 0.0849673 0.422454 0.883897" />
+	<start pos="-55.5671 -127.827 7.34887" rot="-0.181872 0.0849673 0.422454 0.883897" pos2="0 0 0" rot2="0 0 0 1" />
 	<sound ambient="" reverbs="Rocky" />
 	<sky material="sky/white2" rainName="SnowStorm" rainEmit="3000" rain2Name="SnowStormFine" rain2Emit="4556" windAmt="0.4125" skyYaw="63" />
 	<fog color="0.545 0.097 1.033 1.000 0.000" color2="0.541 0.066 0.983 0.975 0.000" linStart="0" linEnd="294.286" />
@@ -49,7 +49,7 @@
 		<layer on="1" name="pine1_full.mesh" dens="0.249998" minScale="0.561265" maxScale="1.13609" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="1.79431" windFy="0.0201351" maxTerAng="26.8251" minTerH="-100" maxTerH="100" maxDepth="0" />
 		<layer on="1" name="pine3_fat_full.mesh" dens="0.472459" minScale="0.602926" maxScale="1.16191" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="2.39768" windFy="0.0466177" maxTerAng="27.0914" minTerH="-33.4054" maxTerH="100" maxDepth="0" />
 		<layer on="1" name="fir05w.mesh" dens="0.262804" minScale="0.0705448" maxScale="0.136739" ofsY="0" addTrRdDist="4" maxRdist="100" windFx="3.41389" windFy="0.0783557" maxTerAng="28.4424" minTerH="16.5405" maxTerH="100" maxDepth="0" />
-		<layer on="1" name="rock.05w.mesh" dens="0.0865848" minScale="0.0299976" maxScale="0.149999" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0" windFy="0" maxTerAng="39.7373" minTerH="-100" maxTerH="100" maxDepth="5" />
+		<layer on="1" name="rock_W02.mesh" dens="0.0865848" minScale="1.11" maxScale="2.03" ofsY="0" addTrRdDist="1" maxRdist="100" windFx="0" windFy="0" maxTerAng="25.19" minTerH="-100" maxTerH="100" maxDepth="2" />
 		<layer on="1" name="rock_n4r-W.mesh" dens="0.0686801" minScale="0.898614" maxScale="1.422" ofsY="0" addTrRdDist="1" maxRdist="100" windFx="0" windFy="0" maxTerAng="26.2966" minTerH="1.94595" maxTerH="17.8378" maxDepth="2" />
 		<layer on="1" name="rock_n5v-W.mesh" dens="0.0571595" minScale="0.780049" maxScale="1.69585" ofsY="0" addTrRdDist="1" maxRdist="100" windFx="0" windFy="0" maxTerAng="17.0408" minTerH="20.1081" maxTerH="100" maxDepth="2" />
 		<layer on="0" name="pine2_tall_half.mesh" dens="0.0662915" minScale="0.648601" maxScale="0.891328" ofsY="0" addTrRdDist="1" maxRdist="100" windFx="1.03838" windFy="0.0864" maxTerAng="12.8" minTerH="-100" maxTerH="15.8919" maxDepth="0" />
@@ -77,8 +77,9 @@
 		<o name="ring_blue" pos="26.5368 -13.1388 25.3468" rot="-0.361166 -0.932502 0 0" sc="1.01731 1.01731 1.01731" />
 		<o name="ring_blue" pos="19.917 -7.34382 26.6601" rot="-0.334361 -0.942445 0 0" sc="1.01731 1.01731 1.01731" />
 		<o name="ring_blue" pos="11.8505 -0.26313 25.6205" rot="-0.390936 -0.920417 0 0" sc="1.01731 1.01731 1.01731" />
-		<o name="ring_blue_stick" pos="26.5705 -13.052 0.890431" rot="0 -1 0 4.65954e-005" sc="1.01731 1.01731 1.01731" />
+		<o name="ring_blue_stick" pos="26.5705 -13.052 0.890431" rot="0 -1 0 4.65954e-05" sc="1.01731 1.01731 1.01731" />
 		<o name="ring_blue_stick" pos="19.6642 -7.62553 1.87279" rot="0 -1 0 0" sc="1.01731 1.01731 1.01731" />
 		<o name="ring_blue_stick" pos="11.9557 -0.21531 0.865969" rot="0 -1 0 0" sc="1.01731 1.01731 1.01731" />
 	</objects>
+	<emitters />
 </scene>

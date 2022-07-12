@@ -1,7 +1,7 @@
 <scene>
-	<ver num="2700" baseTrk="EXP220422" secEd="110207" />
+	<ver num="2700" baseTrk="EXP220422" secEd="110448" />
 	<car tires="0" damage="0.3" gravity="9.21724" />
-	<start pos="294.474 -557.074 48.0478" rot="0.00352889 -0.0873205 -0.0712604 0.993629" />
+	<start pos="294.474 -557.074 48.0478" rot="0.00352889 -0.0873205 -0.0712604 0.993629" pos2="0 0 0" rot2="0 0 0 1" />
 	<sound ambient="" reverbs="MountainsClose" />
 	<sky material="sky/magicdark" skyYaw="-16.875" />
 	<fog color="0.163 0.671 0.700 0.774 0.593" color2="0.134 0.576 0.700 0.763 0.595" linStart="422.051" linEnd="804.863" />

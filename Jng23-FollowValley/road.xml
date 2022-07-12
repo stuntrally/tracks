@@ -1,7 +1,7 @@
 <SplineRoad>
-	<mtr road="roadJDark" pipe="pipeGlassGreen" road2="roadJDarkD" wall="road_wall_JDark" pipeW="pipe_wall_Jungle" col="road_col_Dark" />
+	<mtr river="0" road="roadJDark" pipe="pipeGlassGreen" road2="roadJDarkD" wall="road_wall_JDark" pipeW="pipe_wall_Jungle" col="road_col_Dark" />
 	<dim tcMul="0.08" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="6" heightOfs="0.06" />
-	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="499.769" lodPntLen="14.8323" />
+	<mrg loop="1" skirtLen="1" skirtH="0.12" merge="1" mergeLen="499.769" lodPntLen="14.8323" visDist="1000" visBehind="800" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5.064 16.352" iDir="-1" iChk1="98" />
 	<stats length="3630.14" width="7.01738" height="146.459" onTer="34.0616" pipes="14.4921" bnkAvg="4.66509" bnkMax="53.76" />
 	<txt desc="Cliff road following a valley through dark jungle near water." />

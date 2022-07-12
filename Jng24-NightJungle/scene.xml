@@ -1,7 +1,7 @@
 <scene>
-	<ver num="2600" baseTrk="Jng3-Rocky" secEd="12364" />
+	<ver num="2700" baseTrk="Jng3-Rocky" secEd="12584" />
 	<car tires="0" />
-	<start pos="-193.387 -91.0067 -5.63881" rot="1.78814e-07 -1.19221e-07 -0.692032 -0.721879" />
+	<start pos="-193.387 -91.0067 -5.63881" rot="1.78814e-07 -1.19221e-07 -0.692032 -0.721879" pos2="0 0 0" rot2="0 0 0 1" />
 	<sound ambient="" reverbs="Rocky" />
 	<sky material="sky/dark_clouds" />
 	<fog color="0.500 0.097 0.220 1.000 0.000" color2="0.120 0.000 0.230 0.794 0.000" linStart="31.9467" linEnd="233.195" />
@@ -49,19 +49,20 @@
 		<layer on="1" name="tree.07.mesh" dens="0.0499994" minScale="2.44998" maxScale="4" ofsY="0" addTrRdDist="4" maxRdist="100" windFx="0.299995" windFy="0.00399929" maxTerAng="49.5919" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="1" name="tree.07.mesh" dens="0.124998" minScale="0.849994" maxScale="2.58319" ofsY="0" addTrRdDist="1" maxRdist="100" windFx="0.699989" windFy="0.00999894" maxTerAng="48.0621" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="1" name="tree.09.mesh" dens="0.124998" minScale="0.849994" maxScale="1.73053" ofsY="0" addTrRdDist="1" maxRdist="100" windFx="0.599996" windFy="0.00999895" maxTerAng="43.6167" minTerH="-100" maxTerH="100" maxDepth="5" />
-		<layer on="1" name="farn1.mesh" dens="0.34" minScale="0.0999978" maxScale="0.322898" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="7.29998" windFy="0.0599988" maxTerAng="49.0793" minTerH="-100" maxTerH="100" maxDepth="5" />
-		<layer on="1" name="farn2.mesh" dens="0.34" minScale="0.0999978" maxScale="0.292959" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="7.29998" windFy="0.0599988" maxTerAng="41.0596" minTerH="-100" maxTerH="100" maxDepth="5" />
-		<layer on="1" name="rock.05.mesh" dens="0.0149999" minScale="0.0299986" maxScale="0.307686" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0" windFy="0" maxTerAng="39.2144" minTerH="-100" maxTerH="100" maxDepth="5" />
-		<layer on="1" name="rock.07.mesh" dens="0.0149999" minScale="0.0299986" maxScale="0.269471" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0" windFy="0" maxTerAng="40.7934" minTerH="-100" maxTerH="100" maxDepth="5" />
-		<layer on="0" name="" dens="0.0999996" minScale="0.0999978" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
-		<layer on="0" name="" dens="0.0999996" minScale="0.0999978" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
+		<layer on="0" name="farn1.mesh" dens="0.34" minScale="0.0999978" maxScale="0.322898" ofsY="0" addTrRdDist="0" maxRdist="18" windFx="7.29998" windFy="0.0599988" maxTerAng="49.0793" minTerH="-100" maxTerH="100" maxDepth="5" />
+		<layer on="1" name="farn2.mesh" dens="0.34" minScale="0.0999978" maxScale="0.292959" ofsY="0" addTrRdDist="0" maxRdist="17" windFx="7.29998" windFy="0.0599988" maxTerAng="41.0596" minTerH="-100" maxTerH="100" maxDepth="5" />
+		<layer on="1" name="rock_B01.mesh" dens="0.0532544" minScale="0.708819" maxScale="1.08494" ofsY="0" addTrRdDist="1" maxRdist="100" windFx="0" windFy="0" maxTerAng="31.334" minTerH="-100" maxTerH="100" maxDepth="2" />
+		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
+		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
+		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 	</paged>
-	<cam pos="71.5424 17.9096 -149.03" dir="-0.327637 -0.134234 0.935344" />
+	<cam pos="71.5424 17.9096 -149.03" dir="-0.327599 -0.134218 0.935235" />
 	<objects>
 		<o name="cave_B06" pos="-114.725 205.908 3.81096" rot="-0.455507 -0.890231 0 0" sc="0.355999 0.355999 0.355999" />
 		<o name="cave_B06" pos="-123.598 203.789 -1.17902" rot="-0.383038 -0.923733 0 0" sc="0.374101 0.374101 0.374101" />
 		<o name="cave_B06" pos="-98.4505 211.376 0.606722" rot="-0.48448 -0.874803 0 0" sc="1.24434 1.24434 1.24434" />
 		<o name="cave_B06" pos="-60.7102 211.213 0.54829" rot="-0.63059 -0.776115 0 0" sc="0.547823 0.547823 0.547823" />
 	</objects>
+	<emitters />
 </scene>
