@@ -1,8 +1,8 @@
 <SplineRoad>
-	<mtr road="roadDesert" pipe="pipeGlassYellow" road2="roadDesertOrn" pipe2="pipeGlassCyan" road3="roadCdesert" pipe3="pipeGlassAlienLime" wall="road_wall_Desert" pipeW="pipe_wall_Yellow" col="road_col_Desert" />
-	<dim tcMul="0.0650965" tcW="0.1" tcP="0.2" tcPW="0.4" tcC="0.1" lenDim="1" widthSteps="6" heightOfs="0.06" />
-	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="400" lodPntLen="20" />
-	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 10.028 23.8201" iDir="1" iChk1="29" />
+	<mtr river="0" road="roadDesert" pipe="pipeGlassYellow" road2="roadDesertOrn" pipe2="pipeGlassCyan" road3="roadCdesert" pipe3="pipeGlassAlienLime" wall="wall_metal_12_cyan" pipeW="wallP_space_grayblue" col="wall_space_x" />
+	<dim tcMul="0.0650965" tcW="0.219228" tcP="0.2" tcPW="0.217202" tcC="0.164421" lenDim="1" widthSteps="6" heightOfs="0.06" />
+	<mrg loop="1" skirtLen="1" skirtH="0.12" merge="1" mergeLen="400" lodPntLen="20" visDist="1000" visBehind="800" />
+	<geom colN="6" colR="2.32758" wsPm="4" lsPm="1" stBox="1 10.028 23.8201" iDir="1" iChk1="29" />
 	<stats length="3872.88" width="7.40845" height="117.045" onTer="66.8768" pipes="21.7302" bnkAvg="21.5977" bnkMax="90" />
 	<txt desc="Tricky track in interesting desert terrain." />
 	<adv ice="With 90° banked turns, one narrow with no side walls (yellow). Has a couple of stunts." />
@@ -57,7 +57,7 @@
 	<P pos="-49.2138 0 78.5625" w="7" aT="2" chkR="2.096" />
 	<P pos="-77.3969 0 67.7161" w="7" aT="2" />
 	<P pos="-118.756 0 67.5826" w="7" aT="2" mtr="1" />
-	<P pos="-173.993 0 70.5302" w="9.624" a="0" ar="0" aT="2" chkR="1" />
+	<P pos="-173.993 0 70.5302" w="9.624" a="0" ar="0" aT="2" col="0" chkR="1" />
 	<P pos="-218.943 -16.2936 81.1844" w="7" onTer="0" a="0" ar="-22.32" aT="2" />
 	<P pos="-289.271 1.65149 100.531" w="7" onTer="0" a="0" ar="-75" aT="2" mtr="1" chkR="1" />
 	<P pos="-299.586 4.89976 142.297" w="7" onTer="0" a="0" ar="-90" aT="2" col="0" mtr="1" />

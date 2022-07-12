@@ -1,7 +1,7 @@
 <scene>
-	<ver num="2600" baseTrk="" secEd="531" />
+	<ver num="2700" baseTrk="" secEd="937" />
 	<car tires="0" />
-	<start pos="237.215 -50.6029 32.1041" rot="0.063689 -0.010281 -0.748136 0.660414" />
+	<start pos="237.215 -50.6029 32.1041" rot="0.063689 -0.010281 -0.748136 0.660414" pos2="0 0 0" rot2="0 0 0 1" />
 	<sound ambient="" reverbs="UnidentMntn" />
 	<sky material="sky/magic" />
 	<fog color="0.867 0.625 0.400 1.000 0.000" color2="0.709 0.565 0.345 1.000 0.000" linStart="137.812" linEnd="649.8" />
@@ -32,7 +32,7 @@
 		<texture road="1" surf="roadJungleWet" dust="0" dustS="0.2" mud="0" smoke="0" tclr="0.583 0.333 0.300 0.800 0.000" />
 		<texture road="2" surf="roadAdesert" dust="0" dustS="0.570406" mud="0" smoke="0" tclr="0.160 0.500 0.200 0.700 0.000" />
 		<texture road="3" surf="roadForest" dust="0" dustS="0.2" mud="0" smoke="0.188544" tclr="0.160 0.500 0.200 0.700 0.000" />
-		<texture road="4" surf="roadForest" dust="0" dustS="0.2" mud="0" smoke="0" tclr="0.160 0.500 0.200 0.700 0.000" />
+		<texture road="4" surf="roadDesert" dust="0" dustS="0.5" mud="0" smoke="0" tclr="0.000 0.000 0.100 0.700 0.000" />
 		<par dust="Dust" mud="Mud" smoke="Smoke" />
 	</terrain>
 	<paged densGrass="0.05" densTrees="0.8" grPage="80" grDist="80" grDensSmooth="6" trPage="70" trDist="140" trDistImp="1200" trRdDist="3">
@@ -59,4 +59,5 @@
 	</paged>
 	<cam pos="-218.726 120.788 345.85" dir="0.300967 -0.219205 -0.928099" />
 	<objects />
+	<emitters />
 </scene>

@@ -1,6 +1,6 @@
 <SplineRoad>
-	<mtr river="0" road="roadDesertOrn" pipe="pipeGlassCyan" road2="roadCrystal" pipe2="pipeGlassYellow" road3="roadMud" pipe3="pipeGlassWhiteV" road4="roadSavannah" wall="road_wall_JDark" pipeW="pipe_wall_Red" col="road_col_Blue" />
-	<dim tcMul="0.1" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="8" heightOfs="0.06" />
+	<mtr river="0" road="roadDesertOrn" pipe="pipeGlassCyan" road2="roadCrystal" pipe2="pipeGlassYellow" road3="roadMud" pipe3="pipeGlassWhiteV" road4="roadSavannah" wall="wall_metal_212_paint" pipeW="wallP_metal_29_inst" col="wall_space_diam" />
+	<dim tcMul="0.1" tcW="0.2" tcP="0.1" tcPW="0.157915" tcC="0.2" lenDim="1" widthSteps="8" heightOfs="0.06" />
 	<mrg loop="1" skirtLen="1" skirtH="0.12" merge="1" mergeLen="393.195" lodPntLen="20.9109" visDist="520.263" visBehind="512.657" />
 	<geom colN="3" colR="3" wsPm="4" lsPm="1" stBox="1 5.33599 19.7161" iDir="-1" iChk1="41" />
 	<stats length="5135.58" width="9.53487" height="155.713" onTer="60.3507" pipes="44.324" bnkAvg="8.40633" bnkMax="79.8" />

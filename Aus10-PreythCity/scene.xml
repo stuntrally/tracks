@@ -1,5 +1,5 @@
 <scene>
-	<ver num="2700" baseTrk="Isl10-Treasure" secEd="33361" />
+	<ver num="2700" baseTrk="Isl10-Treasure" secEd="33782" />
 	<car tires="0" road1mtr="0" />
 	<start pos="46.6542 158.677 4.89214" rot="0.0048693 -0.0348666 0.999134 0.0223408" pos2="0 0 0" rot2="0 0 0 1" />
 	<sound ambient="" reverbs="Forest" />
