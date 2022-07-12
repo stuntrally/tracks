@@ -1,5 +1,5 @@
 <scene>
-	<ver num="2700" baseTrk="SigmaVal7" secEd="179306" />
+	<ver num="2700" baseTrk="SigmaVal7" secEd="181800" />
 	<car tires="0" damage="0.278107" road1mtr="0" />
 	<start pos="-718.669 -351.314 -59.6239" rot="3.57628e-07 -2.34615e-07 0.834293 0.551323" />
 	<sound ambient="" reverbs="MountainsClose" />
@@ -10,7 +10,7 @@
 	<fluids>
 		<fluid name="water white" pos="-80.3979 -74.0613 -15.9197" rot="0 0 0" size="784.2 118.424 1022.01" tile="0.00832574 0.00832574" />
 		<fluid name="ice solid" pos="522.405 133.69 -195.742" rot="0 0 0" size="318.362 120.077 427.623" tile="0.01 0.01" />
-		<fluid name="water shore" pos="497.611 18.8503 174.182" rot="0 0 0" size="164.345 120 212.101" tile="0.01 0.01" />
+		<fluid name="water shore" pos="497.636 18.8503 173.328" rot="0 0 0" size="164.345 120 212.101" tile="0.01 0.01" />
 		<fluid name="water white" pos="467.661 -53.6268 412.8" rot="0 0 0" size="313.437 120 252.048" tile="0.00889136 0.00889136" />
 		<fluid name="water blue" pos="-769.478 -123.171 6.92281" rot="0 0 0" size="573.469 120.319 1905.2" tile="0.01 0.01" />
 	</fluids>
@@ -34,7 +34,7 @@
 			<noise frq0="42.2" oct0="3" prs0="0.3" pow0="1.5" frq1="43.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
 		<texture road="1" surf="roadDesert" dust="0" dustS="0.5" mud="0" smoke="0" tclr="0.000 0.000 0.100 0.700 0.000" />
-		<texture road="2" surf="roadDesert" dust="0" dustS="0.2" mud="0" smoke="0.0381862" tclr="0.083 0.089 0.233 0.700 0.000" />
+		<texture road="2" surf="roadDesert" dust="0" dustS="0.5" mud="0" smoke="0.0381862" tclr="0.000 0.000 0.100 0.700 0.000" />
 		<texture road="3" surf="roadAdesert" dust="0.4" dustS="0.632458" mud="0" smoke="0" tclr="0.139 0.480 0.500 0.700 0.000" />
 		<texture road="4" surf="roadDesert" dust="0" dustS="0.9" mud="0" smoke="0.097852" tclr="0.000 0.000 0.000 0.000 0.000" />
 		<par dust="Dust" mud="Mud" smoke="Smoke" />
@@ -54,14 +54,14 @@
 		<layer on="0" name="pine3_fat_half.mesh" dens="0.392647" minScale="0.436202" maxScale="0.95073" ofsY="0" addTrRdDist="1" maxRdist="20" windFx="0.07" windFy="0.017" maxTerAng="38.1833" minTerH="300" maxTerH="500" maxDepth="0" />
 		<layer on="0" name="pine1_full.mesh" dens="0.607824" minScale="0.537058" maxScale="0.710594" ofsY="0" addTrRdDist="2" maxRdist="20" windFx="0.521953" windFy="0.0409724" maxTerAng="15.3894" minTerH="350" maxTerH="800" maxDepth="0" />
 		<layer on="1" name="pine3_fat_norm.mesh" dens="0.34" minScale="0.44529" maxScale="0.996974" ofsY="0" addTrRdDist="2" maxRdist="20" windFx="0.807408" windFy="0.0178563" maxTerAng="31.8188" minTerH="-60" maxTerH="350" maxDepth="0" />
-		<layer on="0" name="farn1.mesh" dens="0.446413" minScale="0.119999" maxScale="0.199993" ofsY="0" addTrRdDist="1" maxRdist="20" windFx="9.29975" windFy="0.119996" maxTerAng="50" minTerH="-50" maxTerH="300" maxDepth="0" />
+		<layer on="1" name="rock22jng1Harsh.mesh" dens="0.0946746" minScale="0.794476" maxScale="1.50131" ofsY="0" addTrRdDist="3" maxRdist="20" windFx="0" windFy="0" maxTerAng="46.0926" minTerH="30.9953" maxTerH="420" maxDepth="1" />
 		<layer on="0" name="rock_W02.mesh" dens="0.149156" minScale="0.525467" maxScale="1.41276" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0" windFy="0" maxTerAng="49.2921" minTerH="50" maxTerH="800" maxDepth="0" />
 		<layer on="0" name="pine2_tall_half.mesh" dens="0.0999996" minScale="0.0999971" maxScale="0.249988" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="300" maxTerH="500" maxDepth="0" />
 		<layer on="0" name="" dens="0.0999996" minScale="0.0999971" maxScale="0.249988" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="0" />
 		<layer on="0" name="" dens="0.0999996" minScale="0.0999971" maxScale="0.249988" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="0" />
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="0" />
 	</paged>
-	<cam pos="148.863 575.751 905.836" dir="0.0470729 -0.388443 -0.92027" />
+	<cam pos="335.647 527.09 794.917" dir="-0.115357 -0.484767 -0.867024" />
 	<objects>
 		<o name="cave_B04" pos="197.175 -357.993 88.7059" rot="0.660008 -0.750464 0.0344715 -0.00212114" sc="1.62779 1.62779 1.62779" />
 		<o name="cave_B04" pos="214.866 -390.289 83.2848" rot="0.513603 -0.858028 0 0" sc="1.53378 1.53378 1.53378" />
@@ -134,5 +134,7 @@
 		<e name="Cloud1" pos="563.326 633.261 -602.818" sc="512 151 512" up="0 1 0" rot="0" rate="50.7245" st="1" />
 		<e name="Cloud1" pos="726.523 1060.4 -752.249" sc="125.785 46.4892 160.827" up="0 1 0" rot="0" rate="24.6882" st="1" />
 		<e name="Cloud2" pos="837.708 545.994 -83.5452" sc="457.887 123.4 845.493" up="0 1 0" rot="0" rate="151.766" st="1" />
+		<e name="WaterfallLow" pos="482.714 -50.4841 306.722" sc="30.933 7.03721 10.6899" up="0 1 0" rot="0" rate="116.034" st="0" />
+		<e name="WaterfallLow" pos="506.39 21.4661 76.7935" sc="23.43 3.96838 6.12003" up="0 1 0" rot="0" rate="105.335" st="0" />
 	</emitters>
 </scene>

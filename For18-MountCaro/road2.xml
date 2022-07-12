@@ -1,0 +1,14 @@
+<SplineRoad>
+	<mtr river="1" road="River_shore" pipe="pipeGlass" road2="River_white" />
+	<dim tcMul="0.0111351" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="8" heightOfs="0.1" />
+	<mrg loop="0" skirtLen="1" skirtH="0.12" merge="1" mergeLen="180" lodPntLen="10" visDist="1000" visBehind="800" />
+	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1.5 5 12" iDir="-1" iChk1="0" />
+	<stats length="101.19" width="29.0443" height="74.4712" onTer="100" pipes="0" bnkAvg="5.364" bnkMax="24.96" />
+	<txt desc="" />
+	<adv ice="" />
+	<P pos="484.078 -55.3533 302.263" w="27.24" onTer="0" a="8.196" ar="1.2" aT="2" mtr="1" />
+	<P pos="485.872 -17.4088 294.632" w="28.008" onTer="0" a="4.464" ar="24.96" aT="2" mtr="1" />
+	<P pos="486.89 15.0002 284.776" w="26.888" onTer="0" a="-0.0599999" ar="0.513" aT="2" mtr="1" />
+	<P pos="486.687 18.4209 275.212" w="36.52" onTer="0" a="10.98" ar="0.146999" aT="2" mtr="1" />
+	<P pos="491.007 18.7769 261.388" w="36.52" onTer="0" a="10.98" ar="-0.0240004" aT="2" mtr="1" />
+</SplineRoad>
