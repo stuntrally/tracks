@@ -1,12 +1,12 @@
 <scene>
-	<ver num="2700" baseTrk="Mos3-Air" secEd="38188" />
+	<ver num="2700" baseTrk="Mos3-Air" secEd="40394" />
 	<car tires="0" damage="0.49789" gravity="7.49034" />
 	<start pos="221.777 62.4511 0.603079" rot="-0.00712693 -0.00756803 -0.68534 0.728196" pos2="0 0 0" rot2="0 0 0 1" />
 	<sound ambient="" reverbs="Jungle" />
 	<sky material="sky/gray_clouded" />
 	<fog color="0.562 0.194 0.689 0.362 0.000" color2="0.707 0.202 0.620 0.428 0.000" linStart="48.8281" linEnd="654.082" />
 	<fogH color="0.723 0.221 1.000 1.000 0.000" height="-200" dens="200" linStart="0" linEnd="2000" />
-	<light pitch="40" yaw="105" ambient="0.568 0.705 0.820 3.000 0.000" diffuse="0.066 0.000 0.800 0.000 0.000" specular="0.209 0.000 0.941 3.000 0.012" />
+	<light pitch="40" yaw="105" ambient="0.568 0.705 0.820 1.000 0.000" diffuse="0.066 0.000 0.800 1.000 0.000" specular="0.209 0.000 0.941 1.000 0.012" />
 	<fluids>
 		<fluid name="water sunset cyan" pos="4.89207 -0.664609 1.95474" rot="0 0 0" size="917.779 20 910.086" tile="0.01 0.01" />
 	</fluids>
@@ -29,8 +29,8 @@
 		<texture on="0" file="" fnorm="" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.167 1.000 0.200 1.000 0.000" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
 			<noise frq0="42.2" oct0="3" prs0="0.3" pow0="1.5" frq1="43.5" oct1="3" prs1="0.4" pow1="1.2" />
 		</texture>
-		<texture road="1" surf="roadForest" dust="0" dustS="0.2" mud="0" smoke="0" tclr="0.083 0.667 0.300 0.700 0.000" />
-		<texture road="2" surf="roadForest" dust="0" dustS="0.2" mud="0" smoke="0" tclr="0.083 0.667 0.300 0.700 0.000" />
+		<texture road="1" surf="roadDesert" dust="0" dustS="0.5" mud="0" smoke="0" tclr="0.000 0.000 0.100 0.700 0.000" />
+		<texture road="2" surf="roadDesert" dust="0" dustS="0.5" mud="0" smoke="0" tclr="0.000 0.000 0.100 0.700 0.000" />
 		<texture road="3" surf="roadGravel" dust="0" dustS="1" mud="0.6" smoke="0" tclr="0.000 0.000 0.130 0.800 0.000" />
 		<texture road="4" surf="roadForest" dust="0" dustS="0.2" mud="0" smoke="0" tclr="0.167 0.500 0.400 0.800 0.000" />
 		<par dust="Dust" mud="Mud" smoke="Smoke" />
@@ -51,13 +51,13 @@
 		<layer on="0" name="jungle_tree_alien.mesh" dens="0.272316" minScale="0.786962" maxScale="1.51888" ofsY="0" addTrRdDist="1" maxRdist="100" windFx="0.4" windFy="0.002" maxTerAng="29.26" minTerH="0" maxTerH="40" maxDepth="0" />
 		<layer on="1" name="gum_tree_black.mesh" dens="0.084658" minScale="0.388761" maxScale="0.531681" ofsY="0" addTrRdDist="1" maxRdist="100" windFx="0.3" windFy="0.004" maxTerAng="20.48" minTerH="-0.1" maxTerH="40" maxDepth="0" />
 		<layer on="1" name="gum_tree.mesh" dens="0.335352" minScale="0.79633" maxScale="1.14878" ofsY="0" addTrRdDist="1" maxRdist="100" windFx="0.3" windFy="0.004" maxTerAng="20.48" minTerH="-0.1" maxTerH="40" maxDepth="0" />
-		<layer on="0" name="cactus.mesh" dens="0.163819" minScale="0.4" maxScale="0.72" ofsY="0" addTrRdDist="1" maxRdist="6" windFx="0" windFy="0" maxTerAng="26.93" minTerH="0" maxTerH="40" maxDepth="0" />
-		<layer on="0" name="plant_tropical.mesh" dens="0.117972" minScale="1.12691" maxScale="1.46484" ofsY="0" addTrRdDist="2" maxRdist="6" windFx="0.223468" windFy="0.00999975" maxTerAng="21.6941" minTerH="0" maxTerH="40" maxDepth="5" />
 		<layer on="0" name="jungle_tree.mesh" dens="0.0989547" minScale="1.65778" maxScale="2.21259" ofsY="0" addTrRdDist="4" maxRdist="100" windFx="0.393863" windFy="0.00277818" maxTerAng="25.5579" minTerH="-100" maxTerH="21" maxDepth="0" />
-		<layer on="0" name="tree55sitebig.mesh" dens="0.142305" minScale="0.988728" maxScale="1.74292" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0.599999" windFy="0.00999947" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
+		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
+		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
+		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
 	</paged>
-	<cam pos="261.437 186.374 -160.018" dir="-0.65611 -0.431208 0.619365" />
+	<cam pos="-145.126 180.261 -102.545" dir="0.663449 -0.476042 0.577554" />
 	<objects>
 		<o name="alien_base4" pos="-0.435044 -3.67143 0.691666" rot="0 -1 0 0" />
 		<o name="alien_base4" pos="30.3723 -16.5657 0.635376" rot="0.925801 -0.378012 0 0" />
