@@ -1,0 +1,25 @@
+<SplineRoad>
+	<mtr river="0" road="roadSavannah" pipe="pipeGlass" pipe2="pipeGlassYellow" pipe3="pipeMetalBlue" pipe4="pipeGlassAlienGreen" />
+	<dim tcMul="0.1" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="16" heightOfs="0.06" />
+	<mrg loop="1" skirtLen="1" skirtH="0.12" merge="1" mergeLen="2400" lodPntLen="50.1768" visDist="1000" visBehind="800" />
+	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 23.3041 15.024" iDir="-1" iChk1="11" />
+	<stats length="1130.12" width="12.0005" height="12.1308" onTer="100" pipes="100" bnkAvg="0" bnkMax="0" />
+	<txt desc="Big full-pipe circle track." />
+	<adv ice="For testing acceleration on suspension, at high velocity." />
+	<P pos="0 0 180" w="12" onTer="0" a="89.958" ar="0" aT="0" col="0" pipe="1" wall="-1" />
+	<P pos="68.8991 0 165.555" w="12" onTer="0" a="112.638" ar="0" aT="0" col="0" pipe="1" wall="-1" chkR="1" />
+	<P pos="118.408 0 131.566" w="12" onTer="0" a="135.021" ar="0" aT="0" pipe="1" />
+	<P pos="159.484 0 77.7171" w="12.0012" onTer="0" a="157.488" ar="0" aT="0" col="0" pipe="1" wall="-1" chkR="1" />
+	<P pos="180.932 0 2.28315" w="11.996" onTer="0" a="-180.345" ar="0" aT="0" pipe="1" />
+	<P pos="167.941 0 -70.4373" w="12.0108" onTer="0" a="-157.16" ar="0" aT="0" col="0" pipe="1" wall="-1" chkR="1" />
+	<P pos="132.116 0 -127.093" w="12" onTer="0" a="-134.943" ar="0" aT="0" pipe="1" />
+	<P pos="74.4882 0 -165.654" w="12" onTer="0" a="-112.413" ar="0" aT="0" col="0" pipe="1" mtr="1" wall="-1" chkR="1" />
+	<P pos="0.0161978 0 -180" w="12" onTer="0" a="-90.021" ar="0" aT="0" col="0" pipe="1" mtr="1" wall="-1" />
+	<P pos="-76.8657 0 -162.273" w="12" onTer="0" a="-67.461" ar="0" aT="0" pipe="1" mtr="1" chkR="1" />
+	<P pos="-130.253 0 -124.222" w="12" onTer="0" a="-45.246" ar="0" aT="0" col="0" pipe="1" mtr="1" wall="-1" />
+	<P pos="-164.85 0 -66.8999" w="12" onTer="0" a="-22.641" ar="0" aT="0" col="0" pipe="1" wall="-1" chkR="1" />
+	<P pos="-179.715 0 6.58081" w="12" onTer="0" a="0.0689968" ar="0" aT="0" pipe="1" />
+	<P pos="-160.363 0 78.6674" w="12" onTer="0" a="22.92" ar="0" aT="0" col="0" pipe="1" wall="-1" chkR="1" />
+	<P pos="-124.035 0 130.43" w="12" onTer="0" a="45.24" ar="0" aT="0" col="0" pipe="1" wall="-1" />
+	<P pos="-71.8729 0 166.235" w="12" onTer="0" a="67.605" ar="0" aT="0" pipe="1" chkR="1" />
+</SplineRoad>

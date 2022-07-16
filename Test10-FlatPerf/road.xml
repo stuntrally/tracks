@@ -5,5 +5,5 @@
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5.24 18.104" iDir="-1" iChk1="0" />
 	<stats length="6000.0" width="11.0" height="0.0" onTer="0" pipes="0" bnkAvg="0" bnkMax="0" />
 	<txt desc="Vast, flat terrain." />
-	<adv ice="For automated car performance tests." />
+	<adv ice="For automated vehicle performance tests, Ctrl-F5." />
 </SplineRoad>

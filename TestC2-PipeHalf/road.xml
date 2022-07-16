@@ -1,0 +1,17 @@
+<SplineRoad>
+	<mtr river="0" road="roadJungle" pipe="pipeMetalBlue" pipe2="pipeGlassAlien" pipe3="pipeGlassYellow" />
+	<dim tcMul="0.1" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="24" heightOfs="0.06" />
+	<mrg loop="1" skirtLen="1" skirtH="0.12" merge="1" mergeLen="2400" lodPntLen="17.0777" visDist="1000" visBehind="800" />
+	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 17.756 13.404" iDir="-1" iChk1="5" />
+	<stats length="564.063" width="12" height="9.28107" onTer="100" pipes="100" bnkAvg="32" bnkMax="32" />
+	<txt desc="Short half-pipe circle." />
+	<adv ice="For testing acceleration on suspension. Should be possible to drive full speed." />
+	<P pos="0 -8 90" w="12" onTer="0" a="90" ar="-32" aT="0" col="0" pipe="0.5" mtr="1" />
+	<P pos="64 -8 64" w="12" onTer="0" a="135" ar="-32" aT="0" col="0" pipe="0.5" mtr="1" chkR="1" />
+	<P pos="90 -8 0" w="12" onTer="0" a="-180" ar="-32" aT="0" col="0" pipe="0.5" mtr="2" wall="-1" />
+	<P pos="64 -8 -64" w="12" onTer="0" a="-135" ar="-32" aT="0" col="0" pipe="0.5" mtr="2" chkR="1" />
+	<P pos="0 -8 -90" w="12" onTer="0" a="-90" ar="-32" aT="0" col="0" pipe="0.5" mtr="2" wall="-1" />
+	<P pos="-64 -8 -64" w="12" onTer="0" a="-45" ar="-32" aT="0" col="0" pipe="0.5" mtr="2" wall="3" chkR="1" />
+	<P pos="-90 -8 0" w="12" onTer="0" a="0" ar="-32" aT="0" col="0" pipe="0.5" mtr="1" />
+	<P pos="-64 -8 64" w="12" onTer="0" a="45" ar="-32" aT="0" col="0" pipe="0.5" mtr="1" wall="-1" chkR="1" />
+</SplineRoad>
