@@ -1,0 +1,21 @@
+<SplineRoad>
+	<mtr river="1" road="River_blue" pipe="pipeGlass" road2="River_cyan" road3="River_green" road4="River_moss" />
+	<dim tcMul="0.00574008" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="8" heightOfs="0.1" />
+	<mrg loop="0" skirtLen="1" skirtH="0.12" merge="1" mergeLen="180" lodPntLen="10" visDist="1000" visBehind="800" />
+	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5.728 14.976" iDir="-1" iChk1="0" />
+	<stats length="523.859" width="40.1148" height="68.1636" onTer="100" pipes="0" bnkAvg="0.103" bnkMax="1.236" />
+	<txt desc="Tiniest circle track with nice terrain." />
+	<adv ice="Don&apos;t steer too much and control spinning wheels." />
+	<P pos="-23.1462 -5.1791 82.0794" w="46.92" onTer="0" a="0" ar="0" aT="2" mtr="3" />
+	<P pos="39.5099 2.38038 61.8971" w="68.702" onTer="0" a="0" ar="0" aT="2" mtr="3" />
+	<P pos="63.4692 5.41805 13.0777" w="77.4256" onTer="0" a="0" ar="-1.236" aT="2" mtr="3" />
+	<P pos="63.9364 4.36757 -46.4649" w="41.424" onTer="0" a="0" ar="0" aT="2" mtr="3" />
+	<P pos="64.7895 50.776 -71.9353" w="26.616" onTer="0" a="0" ar="0" aT="2" mtr="3" wall="-1" />
+	<P pos="63.4749 52.1748 -103.836" w="24.2158" onTer="0" a="0" ar="0" aT="2" mtr="-1" wall="-1" />
+	<P pos="60.7881 54.6547 -112.322" w="24.3856" onTer="0" a="0" ar="0" aT="2" mtr="-1" wall="-1" />
+	<P pos="12.6635 14.3511 -63.4165" w="23.994" onTer="0" a="0" ar="0" aT="2" mtr="-1" wall="-1" />
+	<P pos="19.2866 -1.39874 -70.3327" w="23.896" onTer="0" a="0" ar="0" aT="2" mtr="3" wall="-1" />
+	<P pos="-21.8311 -13.0291 -58.6275" w="29.28" onTer="0" a="0" ar="0" aT="2" mtr="3" />
+	<P pos="-64.806 17.3387 -57.1025" w="22.16" onTer="0" a="0" ar="0" aT="2" mtr="3" />
+	<P pos="-94.4986 18.7542 -50.2909" w="13.6633" onTer="0" a="0" ar="0" aT="2" mtr="2" />
+</SplineRoad>
