@@ -1,9 +1,9 @@
 <SplineRoad>
-	<mtr road="roadIce" pipe="pipeAsphalt" road2="roadSandMagic" pipe2="pipeGlassCyan" road3="roadSnow" />
+	<mtr river="0" road="roadIce" pipe="pipeAsphalt" road2="roadSandMagic" pipe2="pipeGlassCyan" road3="roadSnow" wall="wall_metal_08_hex" />
 	<dim tcMul="0.0951994" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="2" widthSteps="12" heightOfs="0.06" />
-	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="100" lodPntLen="20" />
+	<mrg loop="1" skirtLen="1" skirtH="0.12" merge="1" mergeLen="100" lodPntLen="20" visDist="1000" visBehind="800" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 14.2 36.3283" iDir="-1" iChk1="51" />
-	<stats length="4839.72" width="24.5818" height="59.1104" onTer="1.72483" pipes="0" bnkAvg="8.96482" bnkMax="25.1461" />
+	<stats length="4839.72" width="24.5818" height="59.1108" onTer="1.72483" pipes="0" bnkAvg="8.96483" bnkMax="25.1459" />
 	<txt desc="Winding snow like road around hilly terrain, as close to driving on a cloud as it gets." />
 	<adv ice="Wide and fast but slippy. Below half-pipe, terrain road with little grip." />
 	<P pos="-7.10651 0 220.83" w="21.3865" aT="2" mtr="2" chkR="1.596" />
