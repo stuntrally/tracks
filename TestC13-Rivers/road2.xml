@@ -1,9 +1,9 @@
 <SplineRoad>
-	<mtr river="1" road="River_blue" pipe="pipeGlass" road2="River_cyan" road3="River_green" road4="River_moss" />
+	<mtr type="1" road="River_blue" pipe="pipeGlass" road2="River_cyan" road3="River_green" road4="River_moss" />
 	<dim tcMul="0.00574008" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="8" heightOfs="0.1" />
 	<mrg loop="0" skirtLen="1" skirtH="0.12" merge="1" mergeLen="180" lodPntLen="10" visDist="1000" visBehind="800" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5.728 14.976" iDir="-1" iChk1="0" />
-	<stats length="523.859" width="40.1148" height="68.1636" onTer="100" pipes="0" bnkAvg="0.103" bnkMax="1.236" />
+	<stats length="523.86" width="40.1148" height="68.1636" onTer="100" pipes="0" bnkAvg="0.103" bnkMax="1.236" />
 	<txt desc="Tiniest circle track with nice terrain." />
 	<adv ice="Don&apos;t steer too much and control spinning wheels." />
 	<P pos="-23.1462 -5.1791 82.0794" w="46.92" onTer="0" a="0" ar="0" aT="2" mtr="3" />

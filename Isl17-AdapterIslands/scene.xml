@@ -8,7 +8,7 @@
 	<fogH color="0.586 0.270 1.000 1.000 0.000" height="-300" dens="108.558" linStart="0" linEnd="400" />
 	<light pitch="60" yaw="-40" ambient="0.000 0.000 0.450 1.000 0.000" diffuse="0.000 0.000 0.800 1.000 0.000" specular="0.000 0.000 0.800 1.000 0.000" />
 	<fluids>
-		<fluid name="water blue" pos="21.8421 2.53215 -38.2546" rot="0 0 0" size="4168.51 33.1061 4143.12" tile="0.01 0.01" />
+		<fluid name="water blue" pos="21.8421 2.53215 -38.2546" rot="0 0 0" size="41168.51 33.1061 41143.12" tile="0.01 0.01" />
 	</fluids>
 	<terrain size="1025" triangle="2" errNorm="15.00">
 		<texture on="1" file="island_sand2w_d.jpg" fnorm="desert_sand2_n.jpg" scale="8.36448" surf="DesertFast" dust="0.6" dustS="0.8" mud="0" smoke="0" tclr="0.167 0.038 0.520 0.700 0.000" angMin="0" angMax="27.8289" angSm="6.93696" hMin="-46.2406" hMax="10" hSm="20" nOn="0" noise="0" n_1="0" n2="1">

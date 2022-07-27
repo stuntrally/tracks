@@ -40,7 +40,7 @@
 		<gchan amin="0" amax="30" asm="20" hmin="-100" hmax="100" hsm="20" ns="0" frq="49" oct="3" prs="0.3" pow="1.2" rd="0" />
 		<gchan amin="0" amax="30" asm="20" hmin="-100" hmax="100" hsm="20" ns="0" frq="73" oct="3" prs="0.3" pow="1.2" rd="0" />
 		<gchan amin="0" amax="30" asm="20" hmin="-100" hmax="100" hsm="20" ns="0" frq="97" oct="3" prs="0.3" pow="1.2" rd="0" />
-		<layer on="0" name="gum_tree.mesh" dens="0.0570942" minScale="5.19345" maxScale="6" ofsY="0" addTrRdDist="3" maxRdist="100" windFx="0.699996" windFy="0.00999088" maxTerAng="25.5807" minTerH="10.8257" maxTerH="96.8807" maxDepth="5" />
+		<layer on="0" name="gum_tree.mesh" dens="0.0570942" minScale="1.1345" maxScale="2" ofsY="0" addTrRdDist="3" maxRdist="100" windFx="0.699996" windFy="0.00999088" maxTerAng="25.5807" minTerH="10.8257" maxTerH="96.8807" maxDepth="5" />
 		<layer on="1" name="shroom1_3_unid.mesh" dens="0.195229" minScale="1.67458" maxScale="2.62111" ofsY="0" addTrRdDist="8" maxRdist="100" windFx="7.29999" windFy="0.0599931" maxTerAng="22.2297" minTerH="0.550461" maxTerH="100" maxDepth="5" />
 		<layer on="1" name="shroom1_2_unid.mesh" dens="0.11654" minScale="2.33469" maxScale="3.38352" ofsY="0" addTrRdDist="12" maxRdist="100" windFx="7.29999" windFy="0.0599931" maxTerAng="21.6941" minTerH="0.550461" maxTerH="100" maxDepth="5" />
 		<layer on="0" name="shroom2_2_unid.mesh" dens="0.138355" minScale="2.31564" maxScale="3.75362" ofsY="0" addTrRdDist="11" maxRdist="100" windFx="0" windFy="0" maxTerAng="21.6941" minTerH="0.550461" maxTerH="100" maxDepth="5" />
