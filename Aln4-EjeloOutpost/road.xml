@@ -4,7 +4,8 @@
 	<mrg skirtLen="0.3" skirtH="0.06" merge="1" mergeLen="1014.28" lodPntLen="50.4035" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5.288 18.344" iDir="1" iChk1="211" />
 	<stats length="8078.54" width="7.24805" height="335.149" onTer="30.3019" pipes="11.024" bnkAvg="4.30308" bnkMax="45.8553" />
-	<txt desc="Race track on alien world similar to earth. Great track for using the handbrake extensively. Enjoy." />
+	<txt desc="Race track on alien world similar to earth." />
+    <adv ice="Rather easy with some hill climbs. Keep speed (100 km/h / 60 mph) in middle lake water to jump. Good track for using handbrake in few sharp, harpin turns." />
 	<P pos="26.7069 0 436.189" w="7" aT="2" />
 	<P pos="-25.0232 0 446.821" w="7" aT="2" col="0" />
 	<P pos="-77.4225 0 460.907" w="7" a="0" ar="0" aT="2" col="0" />

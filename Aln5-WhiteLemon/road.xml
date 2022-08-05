@@ -4,7 +4,8 @@
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="521.66" lodPntLen="20" />
 	<geom colN="6" colR="3" wsPm="4" lsPm="1" stBox="1 11.476 20.192" iDir="1" iChk1="1" />
 	<stats length="3939.68" width="7.31333" height="162.284" onTer="73.9851" pipes="16.4607" bnkAvg="15.3955" bnkMax="84.8401" />
-	<txt desc="Outerworldly light snowy landscape with the lower parts submerged into a dense green fog above acid pools. Drive carefully and enjoy." />
+	<txt desc="Outerworldly light snowy landscape with the lower parts submerged in a dense green fog above acid pools. Drive carefully and enjoy." />
+    <adv ice="Slippery, snowy road with stunts. Fog below has short visibility, use driving aids or change camera for better view." />
 	<P pos="51.8388 0 -217.359" w="7" aT="2" />
 	<P pos="83.4295 0 -218.984" w="7" aT="2" chkR="1.276" />
 	<P pos="99.9583 0 -222.667" w="7" aT="2" />
