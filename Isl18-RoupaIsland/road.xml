@@ -4,7 +4,8 @@
 	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" />
 	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 6.96 18.7404" iDir="1" iChk1="1" />
 	<stats length="2953.45" width="7.28426" height="65.0754" onTer="84.0089" pipes="34.1267" bnkAvg="16.9738" bnkMax="87.44" />
-	<txt desc="Compact stunt area on Roupa island. Has a few challenging jumps. Enjoy." />
+	<txt desc="Compact stunt area on Roupa island." />
+	<adv ice="Has few challenging jumps and twisted bridges."/>
 	<P pos="-9.3355 0 -143.668" w="7" a="0" ar="0" aT="2" chkR="1.156" />
 	<P pos="19.1718 0 -212.781" w="7" aT="2" chkR="1" />
 	<P pos="93.1417 0 -214.493" w="7" a="0" ar="-0.360001" aT="2" col="0" />
