@@ -1,7 +1,7 @@
 <SplineRoad>
 	<mtr river="0" road="roadAlienD" pipe="pipeGlassAlienGreen" road2="roadAlien" pipe2="pipeGlassAlienLime" road3="roadAlienStone" wall="road_wall_Alien" pipeW="wallP_metal_03_green" col="road_col_Alien" />
 	<dim tcMul="0.0701582" tcW="0.2" tcP="0.10009" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="6" heightOfs="0.1" />
-	<mrg loop="0" skirtLen="1" skirtH="0.12" merge="1" mergeLen="427.16" lodPntLen="14.8323" visDist="1000" visBehind="800" />
+	<mrg loop="1" skirtLen="1" skirtH="0.12" merge="1" mergeLen="427.16" lodPntLen="14.8323" visDist="1000" visBehind="800" />
 	<geom colN="6" colR="2.35514" wsPm="6.01414" lsPm="1" stBox="1 6.712 19.92" iDir="-1" iChk1="47" />
 	<stats length="5595.41" width="12.8455" height="69.376" onTer="34.7637" pipes="31.6139" onPipe="18.9683" bnkAvg="6.28808" bnkMax="40.101" />
 	<txt desc="Tricky track inside and around an Alien base. Keep out of Alien spaceships." />
@@ -56,7 +56,7 @@
 	<P pos="-111.848 0 72.3063" w="10.624" aT="2" col="0" mtr="1" chkR="2.136" />
 	<P pos="-102.598 0 30.8495" w="8.608" aT="2" col="0" />
 	<P pos="-106.209 0 -24.8529" w="8.608" aT="2" col="0" />
-	<P pos="-106.579 0 -79.9684" w="11.312" aT="2" col="0" chkR="1.832" />
+    <P pos="-106.579 0 -79.9684" w="11.312" aT="2" col="0" />
 	<P pos="-84.9679 0 -118.324" w="12.592" aT="2" col="0" />
 	<P pos="-61.3092 0 -132.077" w="14.88" aT="2" col="0" mtr="1" chkR="1.84" />
 	<P pos="-17.5389 0 -137.064" w="26.016" aT="2" col="0" mtr="1" />
