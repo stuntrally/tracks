@@ -1,28 +1,28 @@
 <SplineRoad>
-	<mtr river="0" road="roadSandDark" pipe="pipeAsphalt" pipe2="pipeGlassCyan" />
-	<dim tcMul="0.08" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="2" widthSteps="6" heightOfs="0.06" />
-	<mrg loop="1" skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" visDist="1000" visBehind="800" />
-	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 4.76 12.6324" iDir="1" iChk1="18" />
-	<stats length="1139.21" width="6.776" height="8.47401" onTer="0" pipes="0" bnkAvg="4.25122" bnkMax="26.7413" />
-	<txt desc="A black volcanic terrain in a very dark clouded dusk, horrifying." />
-	<adv ice="Bumpy at places, shortly through water and slightly banked." />
-	<P pos="150.208 0 147.598" w="6.776" aT="2" />
-	<P pos="123.506 0 182.683" w="6.776" aT="2" />
-	<P pos="85.854 0 202.977" w="6.776" aT="2" chkR="1.996" />
-	<P pos="15.5626 0 216.189" w="6.776" aT="2" />
-	<P pos="-72.7445 0 220.071" w="6.776" aT="2" />
-	<P pos="-123.264 0 205.107" w="6.776" aT="2" chkR="2" />
-	<P pos="-151.829 0 156.749" w="6.776" aT="2" />
-	<P pos="-148.993 0 86.8914" w="6.776" aT="2" />
-	<P pos="-142.346 0 36.2994" w="6.776" aT="2" />
-	<P pos="-128.156 0 -25.2772" w="6.776" aT="2" />
-	<P pos="-105.398 0 -84.6863" w="6.776" aT="2" chkR="2.004" />
-	<P pos="-52.2863 0 -125.416" w="6.776" aT="2" />
-	<P pos="4.69676 0 -140.634" w="6.776" aT="2" />
-	<P pos="72.5616 0 -139.941" w="6.776" aT="2" chkR="2.072" />
-	<P pos="126.142 0 -104.317" w="6.776" aT="2" />
-	<P pos="164.026 0 -54.4206" w="6.776" aT="2" chkR="2.068" />
-	<P pos="179.282 0 8.98472" w="6.776" aT="2" />
-	<P pos="177.122 0 60.3692" w="6.776" aT="2" />
-	<P pos="167.303 0 107.706" w="6.776" aT="2" chkR="2.004" />
+    <mtr type="0" road="roadSandDark" pipe="pipeAsphalt" pipe2="pipeGlassCyan" />
+    <dim tcMul="0.08" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="2" widthSteps="6" heightOfs="0.06" />
+    <mrg loop="1" skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" visDist="1000" visBehind="800" />
+    <geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 4.76 12.6324" iDir="1" iChk1="18" />
+    <stats length="1139.21" width="6.776" height="8.47401" onTer="0" pipes="0" bnkAvg="4.38281" bnkMax="26.7414" />
+    <txt desc="A black volcanic terrain in a very dark clouded dusk, horrifying." />
+    <adv ice="Bumpy at places, shortly through water and slightly banked." />
+    <P pos="150.208 0 147.598" w="6.776" aT="2" />
+    <P pos="123.506 0 182.683" w="6.776" aT="2" />
+    <P pos="85.854 0 202.977" w="6.776" aT="2" chkR="1.996" />
+    <P pos="15.5626 0 216.189" w="6.776" aT="2" />
+    <P pos="-72.7445 0 220.071" w="6.776" aT="2" />
+    <P pos="-123.264 0 205.107" w="6.776" aT="2" chkR="2" />
+    <P pos="-151.829 0 156.749" w="6.776" aT="2" />
+    <P pos="-148.993 0 86.8914" w="6.776" aT="2" />
+    <P pos="-142.346 0 36.2994" w="6.776" aT="2" />
+    <P pos="-128.156 0 -25.2772" w="6.776" aT="2" />
+    <P pos="-105.398 0 -84.6863" w="6.776" aT="2" chkR="2.004" />
+    <P pos="-52.2863 0 -125.416" w="6.776" aT="2" />
+    <P pos="4.69676 0 -140.634" w="6.776" aT="2" />
+    <P pos="72.5616 0 -139.941" w="6.776" aT="2" chkR="2.072" />
+    <P pos="126.142 0 -104.317" w="6.776" aT="2" />
+    <P pos="164.026 0 -54.4206" w="6.776" aT="2" chkR="2.068" />
+    <P pos="179.282 0 8.98472" w="6.776" aT="2" />
+    <P pos="177.122 0 60.3692" w="6.776" aT="2" />
+    <P pos="167.303 0 107.706" w="6.776" aT="2" chkR="2.004" />
 </SplineRoad>

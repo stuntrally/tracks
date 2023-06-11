@@ -1,183 +1,259 @@
 <scene>
-	<ver num="2700" baseTrk="Spc1-Minerals2" secEd="3598" />
-	<car tires="1" damage="0.502959" gravity="7.6" />
-	<start pos="-137.836 -105.528 73.9666" rot="0.00952507 -0.0049371 0.887814 0.460094" />
-	<sound ambient="" reverbs="Space" />
-	<sky material="sky/magicdark" skyYaw="-152.86" />
-	<fog color="0.149 0.306 0.353 0.542 0.188" color2="0.539 0.510 0.383 0.713 0.126" linStart="46.8945" linEnd="475.907" />
-	<fogH color="0.000 0.494 0.738 0.402 0.060" height="140" dens="31.502" linStart="151.189" linEnd="37.7973" />
-	<light pitch="31" yaw="-2.25" ambient="0.585 0.607 0.631 0.000 0.000" diffuse="0.663 0.399 1.587 0.000 0.355" specular="0.700 0.459 0.833 0.000 0.000" />
-	<fluids />
-	<terrain size="513" triangle="1.91892" errNorm="10.34" specPow="14.2648">
-		<texture on="1" file="space_dots_d.jpg" fnorm="space_dots_n.jpg" scale="12" surf="Metal" dust="0" dustS="1" mud="0" smoke="0" tclr="0.000 0.000 0.460 0.700 0.000" angMin="0" angMax="29.9272" angSm="4.44444" hMin="-111.654" hMax="93.9024" hSm="0" nOn="0" noise="0" n_1="1" n2="0">
-			<noise frq0="6.50205" oct0="3" prs0="0.296602" pow0="4.70183" frq1="10.7814" oct1="3" prs1="0.4" pow1="3.17314" />
-		</texture>
-		<texture on="1" file="space_diam_d.jpg" fnorm="space_diam_n.jpg" scale="12" surf="Metal" dust="0" dustS="1" mud="0" smoke="0" tclr="0.000 0.000 0.188 0.713 0.000" angMin="0" angMax="18.3495" angSm="0" hMin="95.3008" hMax="300" hSm="0.398247" nOn="0" noise="1" n_1="1" n2="0">
-			<noise frq0="11.9426" oct0="3" prs0="0.1" pow0="3.37754" frq1="35.3878" oct1="1" prs1="0.1" pow1="3.51758" />
-		</texture>
-		<texture on="1" file="space_octagons_d.jpg" fnorm="space_octagons_n.jpg" scale="18.3343" surf="Metal" dust="0" dustS="1" mud="0" smoke="0" tclr="0.000 0.000 0.460 0.700 0.000" angMin="0" angMax="17.687" angSm="0.294868" hMin="-31.5789" hMax="73.3083" hSm="0.460038" nOn="1" noise="0" n_1="0" n2="0">
-			<noise frq0="18.9688" oct0="3" prs0="0.324272" pow0="3.50042" frq1="31.2287" oct1="3" prs1="0.375243" pow1="8" />
-		</texture>
-		<texture on="1" file="space_metal_d.jpg" fnorm="space_metal_n.jpg" scale="12" surf="Metal" dust="0" dustS="1" mud="0" smoke="0" tclr="0.000 0.000 0.188 0.713 0.000" angMin="13.6174" angMax="90" angSm="0.401912" hMin="-300" hMax="300" hSm="20" nOn="0" triplanar="1" noise="0.763158" n_1="0" n2="0">
-			<noise frq0="22.2" oct0="3" prs0="0.3" pow0="8" frq1="28.5" oct1="3" prs1="0.4" pow1="1.2" />
-		</texture>
-		<texture on="0" file="" fnorm="" scale="12" surf="Metal" dust="0" dustS="1" mud="0" smoke="0" tclr="0.167 0.826 0.460 0.700 0.000" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
-			<noise frq0="38.2" oct0="3" prs0="0.3" pow0="1.5" frq1="40.5" oct1="3" prs1="0.4" pow1="1.2" />
-		</texture>
-		<texture on="0" file="" fnorm="" scale="4.5" surf="Metal" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.167 1.000 0.200 1.000 0.000" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
-			<noise frq0="42.2" oct0="3" prs0="0.3" pow0="1.5" frq1="43.5" oct1="3" prs1="0.4" pow1="1.2" />
-		</texture>
-		<texture road="1" surf="roadAsphalt" dust="0" dustS="0.2" mud="0" smoke="0.5" tclr="0.167 0.500 0.400 0.800 0.000" />
-		<texture road="2" surf="roadForest" dust="0" dustS="0.2" mud="0" smoke="0" tclr="0.167 0.500 0.400 0.800 0.000" />
-		<texture road="3" surf="roadAsphalt" dust="0" dustS="0.2" mud="0" smoke="0" tclr="0.167 0.500 0.400 0.800 0.000" />
-		<texture road="4" surf="roadAsphalt" dust="0" dustS="0.2" mud="0" smoke="0" tclr="0.167 0.500 0.400 0.800 0.000" />
-		<par dust="Smoke" mud="SnowMud" smoke="Smoke" />
-	</terrain>
-	<paged densGrass="0" densTrees="0.913763" grPage="120" grDist="120" grDensSmooth="1" trPage="200" trDist="320" trDistImp="800" trRdDist="3">
-		<grass on="1" mtr="grassXv" clr="grClrWinter.png" dens="0.297788" chan="0" minSx="1.13125" maxSx="1.53682" minSy="1.33784" maxSy="1.83667" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
-		<grass on="0" mtr="grassXc" clr="grClrWinter.png" dens="0.0763985" chan="0" minSx="1.29403" maxSx="1.65011" minSy="1.28406" maxSy="1.7297" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
-		<grass on="1" mtr="grassX13p" clr="grClrWinter.png" dens="0.0942336" chan="0" minSx="1.49082" maxSx="1.87238" minSy="1.35113" maxSy="1.74525" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
-		<grass on="0" mtr="grassX10b" clr="grClrJungle.png" dens="0.1" chan="0" minSx="1.6173" maxSx="1.99746" minSy="1.8719" maxSy="2.6473" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
-		<grass on="1" mtr="grassUnidentified" clr="grClrJungle.png" dens="0.0810294" chan="0" minSx="1.8194" maxSx="2.14623" minSy="1.71677" maxSy="2.14623" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
-		<grass on="0" mtr="grass6g-" clr="grClrJungle.png" dens="0.264331" chan="0" minSx="1.42784" maxSx="2.05259" minSy="1.47402" maxSy="1.97926" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
-		<gchan amin="0" amax="11" asm="11" hmin="-100" hmax="5" hsm="0" ns="0" frq="25" oct="3" prs="0.3" pow="1.2" rd="0" />
-		<gchan amin="0" amax="30" asm="20" hmin="-100" hmax="100" hsm="20" ns="0" frq="61" oct="3" prs="0.3" pow="1.2" rd="0" />
-		<gchan amin="0" amax="30" asm="20" hmin="-100" hmax="100" hsm="20" ns="0" frq="97" oct="3" prs="0.3" pow="1.2" rd="0" />
-		<gchan amin="0" amax="30" asm="20" hmin="-100" hmax="100" hsm="20" ns="0" frq="133" oct="3" prs="0.3" pow="1.2" rd="0" />
-		<layer on="1" name="crystal2.mesh" dens="0.0908918" minScale="1.4477" maxScale="2.44158" ofsY="0" addTrRdDist="1" maxRdist="20" windFx="0" windFy="0" maxTerAng="21.5375" minTerH="42" maxTerH="162" maxDepth="0" />
-		<layer on="1" name="crystal1.mesh" dens="1" minScale="0.376029" maxScale="0.760274" ofsY="0" addTrRdDist="1" maxRdist="4" windFx="0" windFy="0" maxTerAng="41.0884" minTerH="86" maxTerH="150" maxDepth="0" />
-		<layer on="0" name="rock_R01.mesh" dens="0.244267" minScale="0.996173" maxScale="1.36649" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0.13589" windFy="0.0538194" maxTerAng="7.26981" minTerH="-15.3" maxTerH="-13.3" maxDepth="0" />
-		<layer on="0" name="rock_L2.mesh" dens="0.398126" minScale="0.898614" maxScale="1.84507" ofsY="0" addTrRdDist="4" maxRdist="20" windFx="0.0862451" windFy="0.0148893" maxTerAng="51.1738" minTerH="-30" maxTerH="-25" maxDepth="0" />
-		<layer on="1" name="rock_L4.mesh" dens="0.357247" minScale="0.894137" maxScale="2.19251" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0.444444" windFy="0.0599931" maxTerAng="11.629" minTerH="170.6" maxTerH="270.3" maxDepth="0" />
-		<layer on="0" name="rock_L3.mesh" dens="0.0160918" minScale="0.51386" maxScale="0.988728" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="26.2966" minTerH="-22" maxTerH="-15" maxDepth="1" />
-		<layer on="1" name="crystal_form3.mesh" dens="0.114059" minScale="1.04469" maxScale="2.33087" ofsY="0" addTrRdDist="3" maxRdist="100" windFx="0.347273" windFy="0.0259922" maxTerAng="25.2552" minTerH="90" maxTerH="172" maxDepth="1" />
-		<layer on="1" name="crystal_form2.mesh" dens="0.377607" minScale="0.599002" maxScale="2.42179" ofsY="0" addTrRdDist="6" maxRdist="20" windFx="2.00128" windFy="0.0167879" maxTerAng="2.81716" minTerH="130" maxTerH="150" maxDepth="0" />
-		<layer on="1" name="crystal1.mesh" dens="0.290214" minScale="1.83329" maxScale="1.96562" ofsY="0" addTrRdDist="4" maxRdist="100" windFx="0" windFy="0" maxTerAng="14.4" minTerH="62" maxTerH="107.538" maxDepth="5" />
-		<layer on="0" name="crystal_cube4.mesh" dens="0.0497239" minScale="1.37877" maxScale="2.83849" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="48.0621" minTerH="120" maxTerH="160" maxDepth="5" />
-	</paged>
-	<cam pos="-382.82 272.17 63.3039" dir="0.729037 -0.277289 -0.625792" />
-	<objects>
-		<o name="alien_base7" pos="163.159 -308.635 165.791" rot="0.404568 -0.914508 0 0" />
-		<o name="alien_pipes_curly" pos="212.768 -188.027 140.159" rot="-0.136239 -0.885158 -0.442902 -0.0420131" sc="1 0.984729 1" />
-		<o name="alien_pipes_curly" pos="187.277 -238.156 147.664" rot="-0.154704 -0.507705 0.834444 0.148317" />
-		<o name="alien_pipes" pos="442.371 -98.926 142.399" rot="0 -1 0 0" />
-		<o name="alien_pipes" pos="442.878 -78.2031 131.388" rot="0 -1 0 0" />
-		<o name="alien_pipes" pos="443.936 -42.9857 140.207" rot="0 -1 0 0" />
-		<o name="alien_tower" pos="177.51 221.908 205.203" rot="-0.257158 0.966369 0 0" />
-		<o name="alien_base8" pos="-103.162 380.887 227.31" rot="0 1 0 0" />
-		<o name="alien_ufo_stand" pos="268.912 308.611 199.645" rot="-0.686074 0.727527 0 0" sc="1.20628 1.20628 1.20628" />
-		<o name="fuel_can" pos="-207.524 -220.332 118.146" rot="-0.00125322 0.999999 -9.08622e-06 -0.000212691" />
-		<o name="alien_base3" pos="-92.4891 32.9757 164.495" rot="0 -1 0 0" />
-		<o name="alien_base5" pos="-100.148 39.9601 165.117" rot="0.411207 -0.911539 0 0" sc="0.562496 0.562496 0.562496" />
-		<o name="alien_stand2" pos="-119.129 65.0775 167.321" rot="0 -1 0 0" />
-		<o name="alien_stand2" pos="-95.1361 65.0748 167.815" rot="0 -1 0 0" />
-		<o name="alien_pipes" pos="-119.699 65.0798 180.519" rot="0.00257188 -0.999999 0 0" sc="0.646454 0.715556 1.33588" />
-		<o name="alien_tower2" pos="-65.7933 66.4128 150.864" rot="0 -1 0 0" sc="1 1.16743 1" />
-		<o name="alien_base4" pos="-110.775 107.821 168.649" rot="0 -1 0 0" />
-		<o name="alien_base1" pos="-96.6884 139.753 168.959" rot="-0.555905 -0.831246 0 0" sc="0.848975 0.848975 0.848975" />
-		<o name="alien_base9" pos="-270.733 177.483 176.311" rot="-0.359958 -0.932966 0 0" sc="0.767999 0.767999 0.767999" />
-		<o name="alien_tunnel_connection" pos="203.838 -9.5346 167.138" rot="0 1 0 0" />
-		<o name="alien_base11" pos="-208.517 163.146 180.902" rot="0 -1 0 0" />
-		<o name="alien_base_big" pos="-266.405 117.661 197.17" rot="-0.0107484 -0.999943 0 0" sc="0.826007 0.826007 0.826007" />
-		<o name="alien_tunnel_1" pos="190.659 27.4823 189.209" rot="0.682005 -0.731349 0 0" sc="1.1608 1.21908 1.59627" />
-		<o name="alien_tunnel_connection" pos="189.691 13.8102 187.942" rot="-0.681406 0.731906 0 0" sc="1.21706 1.39849 1.40136" />
-		<o name="alien_tunnel_connection" pos="190.716 40.9928 188.643" rot="0.705033 0.708959 -0.0125283 -0.0124589" sc="1.40328 1.64593 3.2078" />
-		<o name="alien_tunnel_3" pos="186.036 59.7468 188.45" rot="0.389357 0.921082 0 0" sc="1.23233 1.23233 1.23233" />
-		<o name="alien_tunnel_connection" pos="174.655 71.7584 187.415" rot="0.400078 0.916384 0.00533536 -0.0122207" sc="1.39791 1.63869 1.74075" />
-		<o name="alien_mine_part" pos="126.149 -396.649 123.171" rot="-0.384515 0.923116 0 0" sc="1.26863 1.2732 1.26863" />
-		<o name="alien_mine_part" pos="116.743 -407.678 123.27" rot="-0.396951 0.917836 0 0" sc="1.26582 1.24944 1.23025" />
-		<o name="alien_mine_part" pos="104.871 -419.768 122.823" rot="-0.311303 0.950309 0 0" sc="1.26863 1.2732 1.26863" />
-		<o name="alien_mine_part" pos="90.83 -429.736 122.257" rot="-0.286023 0.958221 0 0" sc="1.26863 1.2732 1.26863" />
-		<o name="alien_mine_part" pos="45.3287 -420.467 124.032" rot="0.396603 0.917987 0 0" sc="1.26863 1.2732 1.26863" />
-		<o name="alien_mine_part" pos="35.5638 -407.383 123.239" rot="0.435205 0.900327 0 0" sc="1.26863 1.2732 1.26863" />
-		<o name="alien_mine_part" pos="25.909 -398.644 122.57" rot="0.27468 0.961533 0 0" sc="1.2729 1.27748 1.2729" />
-		<o name="alien_mine_part" pos="12.1901 -390.42 122.693" rot="0.23701 0.971504 0 0" sc="1.26863 1.2732 1.26863" />
-		<o name="alien_mine_part" pos="-2.95986 -382.444 122.161" rot="0.239434 0.97091 0 0" sc="1.26863 1.2732 1.26863" />
-		<o name="alien_mine_part" pos="-30.8896 -364.25 124.443" rot="0.271024 0.96257 0 0" sc="1.26863 1.2732 1.26863" />
-		<o name="alien_mine_part" pos="-43.9936 -352.514 125.799" rot="0.477519 0.878619 0 0" sc="1.26863 1.2732 1.26863" />
-		<o name="alien_mine_part" pos="-49.7759 -336.128 127.905" rot="0.70297 0.711216 0 0" sc="1.26863 1.2732 1.26863" />
-		<o name="alien_mine_part" pos="72.6512 -434.281 123.229" rot="0.058331 0.998295 0 0" sc="1.27458 1.27458 1.27458" />
-		<o name="alien_mine_part" pos="58.9023 -429.841 123.512" rot="0.22094 0.975285 0 0" sc="1.27458 1.27458 1.27458" />
-		<o name="alien_mine_part" pos="-17.1718 -373.402 123.91" rot="0.267637 0.963517 0 0" sc="1.27458 1.27458 1.27458" />
-		<o name="alien_generator" pos="-26.7195 143.328 171.153" rot="-0.702408 -0.711773 0 0" />
-		<o name="alien_gate" pos="-96.1317 225.45 163.714" rot="0.797795 -0.602929 0 0" sc="2.62713 2.5685 2.62713" />
-		<o name="alien_wall_long" pos="-209.536 221.346 161.193" rot="0.672966 -0.739672 0 0" sc="2.52862 2.52862 2.52862" />
-		<o name="alien_wall_short" pos="-31.5618 269.349 166.584" rot="0.92454 -0.38108 0 0" sc="2.06826 2.19754 3.94409" />
-		<o name="alien_wall_short" pos="-336.09 214.476 172.425" rot="0.80219 -0.596843 0.013128 0.0094327" sc="2.0256 2.37061 2.67523" />
-		<o name="alien_tower_wall" pos="-63.6173 235.356 167.733" rot="0.327526 -0.944841 0 0" sc="2.80699 3.00105 2.85747" />
-		<o name="alien_tower_wall" pos="-130.009 214.135 164.976" rot="0.0647185 -0.997902 0 0" sc="2.85288 3.05611 2.85288" />
-		<o name="alien_tower_wall" pos="-290.237 227.586 168.278" rot="0.0245211 -0.999699 0 0" sc="2.82731 3.03515 2.82731" />
-		<o name="alien_platform_1" pos="-124.204 331.876 169.051" rot="-0.706609 0.707604 -0.00103698 -0.00114203" sc="1.00244 1.00244 1.00244" />
-		<o name="alien_pipe_connector" pos="-111.764 322.88 175.123" rot="0 -1 0 0" sc="0.790261 0.790261 0.790261" />
-		<o name="alien_pipe_connector_wall" pos="-111.607 359.924 190.836" rot="-0.705954 0.708257 0 0" sc="0.579526 0.579526 0.579526" />
-		<o name="alien_pipes_up" pos="-111.864 326.109 166.905" rot="-0.705954 0.708257 0 0" />
-		<o name="alien_generator" pos="-140.077 326.179 170.542" rot="-0.000669197 0.999999 0 0" sc="0.616645 0.616645 0.616645" />
-		<o name="alien_pipes_curly" pos="-124.555 322.77 166.79" rot="-0.999961 -0.00885211 0 0" sc="0.666859 0.666859 0.666859" />
-		<o name="alien_pipes_curly_st" pos="-100.326 324.296 167.308" rot="0.0037825 0.999983 1.7592e-05 -0.00465083" sc="0.66843 0.58386 0.66843" />
-		<o name="alien_pipe_connector_wall" pos="-88.2741 324.038 172.279" rot="0.0391888 0.999231 0 0" sc="0.600451 0.600451 0.600451" />
-		<o name="alien_pipes_turn" pos="-100.87 306.397 167.001" rot="-0.999642 0.0267492 0 0" sc="0.925864 0.925864 0.925864" />
-		<o name="alien_pipes_st3" pos="-64.2684 305.01 165.599" rot="-0.999818 0.0190547 0 0" sc="1.02941 1.33729 1.02941" />
-		<o name="alien_platform_deco_3" pos="-117.522 346.218 169.29" rot="0 -1 0 0" />
-		<o name="alien_platform_deco_2" pos="-124.186 332.575 169.455" rot="0.705152 -0.709057 7.24952e-05 7.28596e-05" />
-		<o name="alien_platform_deco_1" pos="-137.166 336.104 170.357" rot="0.000202108 -1 0 0" sc="0.72166 0.72166 0.72166" />
-		<o name="alien_platform_deco_1" pos="-139.718 336.053 170.357" rot="0.000202108 -1 0 0" sc="0.72166 0.72166 0.72166" />
-		<o name="alien_platform_deco_1" pos="-142.364 336.002 170.357" rot="0.000202108 -1 0 0" sc="0.72166 0.72166 0.72166" />
-		<o name="alien_console_1" pos="-256.152 85.5638 180.74" rot="0.697077 -0.716996 0 0" sc="1.11466 1.11466 1.11466" />
-		<o name="alien_pipes_st3" pos="-242.284 84.5375 164.307" rot="0.70783 0.70638 0 0" />
-		<o name="alien_pipes_up" pos="-242.405 48.7772 164.434" rot="0.708953 0.705254 0 0" />
-		<o name="alien_stand2" pos="-242.277 13.314 159.04" rot="0.708953 0.705254 0 0" sc="1.70277 1.70277 1.70277" />
-		<o name="alien_stand2" pos="-243.677 -29.6358 150.822" rot="0.708953 0.705254 0 0" sc="2.13372 2.13372 2.13372" />
-		<o name="alien_pipes" pos="-243.139 13.8114 180.19" rot="0.708953 0.705254 0 0" sc="1.26999 1.26999 1.26999" />
-		<o name="alien_pipes" pos="-243.927 -28.2008 179.783" rot="0.708953 0.705254 0 0" sc="1.37833 1.40723 1.57273" />
-		<o name="alien_generator" pos="-251.879 -92.0329 190.062" rot="-0.930826 0.365458 0 0" />
-		<o name="alien_platform_deco_3" pos="-260.253 -10.0507 152.27" rot="-0.097183 0.995265 0 0" />
-		<o name="alien_tower2" pos="-163.408 200.516 181.212" rot="0 1 0 0" sc="0.785967 0.785967 0.785967" />
-		<o name="alien_base3" pos="-188.26 108.142 190.311" rot="0 1 0 0" sc="0.785967 0.785967 0.785967" />
-		<o name="alien_base1" pos="-231.369 176.513 176.628" rot="-0.999819 -0.0190366 0 0" sc="0.779006 0.779006 0.779006" />
-		<o name="alien_base5" pos="-205.694 104.979 191.361" rot="-0.382466 0.923969 0 0" sc="0.540794 0.540794 0.540794" />
-		<o name="alien_platform_deco_2" pos="-208.112 107.506 200.008" rot="-0.376731 0.926322 0 0" sc="0.785967 0.785967 0.785967" />
-		<o name="alien_platform_deco_1" pos="-263.165 108.741 177.209" rot="0 1 0 0" sc="0.785967 0.785967 0.785967" />
-		<o name="alien_platform_deco_1" pos="-274.261 109.672 177.218" rot="0 1 0 0" sc="0.785967 0.785967 0.785967" />
-		<o name="alien_base8" pos="-290.96 192.906 181.111" rot="-0.422185 0.906508 0 0" sc="0.500825 0.500825 0.500825" />
-		<o name="alien_corridor_end" pos="-294.727 166.208 176.47" rot="0.374644 0.927168 0 0" sc="0.667982 0.667982 0.667982" />
-		<o name="alien_mine_part" pos="-233.544 145.469 178.152" rot="0 1 0 0" sc="0.785967 0.785967 0.785967" />
-		<o name="alien_mine_part" pos="-237.111 145.599 178.152" rot="0 1 0 0" sc="0.785967 0.785967 0.785967" />
-		<o name="alien_pipes_curly_st" pos="-60.6412 186.035 169.181" rot="-0.71888 0.695134 0 0" sc="0.860383 1.30853 0.981964" />
-		<o name="alien_pipe_connector" pos="-61.5224 161.153 189.631" rot="0 1 0 0" sc="1.81608 1.81608 1.81608" />
-		<o name="alien_tower2" pos="-59.8336 210.701 161.937" rot="-0.0579192 0.998322 0 0" sc="0.737856 0.737856 0.737856" />
-		<o name="alien_corridor" pos="-129.723 178.349 194.567" rot="0 1 0 0" sc="1.32735 1.31103 1.3291" />
-		<o name="alien_base6" pos="-129.367 142.528 191.798" rot="0 1 0 0" sc="0.993397 1.03618 0.993397" />
-		<o name="alien_stand1" pos="-129.298 142.109 165.513" rot="0.70028 0.71387 0 0" sc="1.27236 2.92882 1.27236" />
-		<o name="alien_corridor2" pos="-179.17 127.649 173.596" rot="-0.714751 0.69938 0 0" sc="1.27236 1.27236 1.27236" />
-		<o name="alien_base6" pos="-144.401 128.827 191.66" rot="-0.709171 0.705035 0.00121106 0.00120399" sc="0.991754 1.04058 0.991754" />
-		<o name="alien_stand1" pos="-143.54 129.272 163.786" rot="0 1 0 0" sc="1.27236 3.15791 1.27236" />
-		<o name="alien_base5" pos="-131.676 129.169 190.47" rot="0 1 0 0" sc="0.835143 1.04358 1.30986" />
-		<o name="alien_platform_1" pos="-131.372 129.848 188.318" rot="0.000550035 8.82205e-07 -1 -0.00160412" sc="0.32525 0.382249 0.401292" />
-		<o name="alien_platform_deco_1" pos="-131.603 119.764 190.135" rot="-0.459266 0.440768 0.541484 0.549155" sc="1.67598 1.88123 1.65107" />
-		<o name="alien_platform_deco_1" pos="-122.818 129.951 190.645" rot="-0.618024 -0.00407239 0.78611 -0.00785861" sc="2.17153 1.81819 2.16406" />
-		<o name="alien_tower_wall" pos="-201.171 57.9141 172.271" rot="-0.373158 0.927768 0 0" sc="1.9141 1.9141 1.9141" />
-		<o name="alien_corridor_end" pos="-181.119 93.5628 170.662" rot="-0.934488 -0.35599 0 0" sc="1.70471 1.70471 1.70471" />
-		<o name="alien_base2" pos="-149.245 71.6371 166.165" rot="-0.658478 -0.752598 0 0" sc="1.03721 1.03721 1.03721" />
-		<o name="alien_pipe_connector" pos="-144.401 261.228 234.602" rot="-0.916788 -0.399369 0 0" sc="2.75749 2.75749 2.75749" />
-		<o name="alien_antenna" pos="-65.566 63.5084 194.587" rot="-0.916788 -0.399369 0 0" sc="3.26893 3.26893 3.26893" />
-		<o name="alien_pipe_connector_wall" pos="-61.8834 104.298 167.355" rot="-0.464 0.513188 -0.487352 -0.532759" sc="2.25798 2.25798 2.25798" />
-		<o name="alien_pipes" pos="-63.8667 109.613 162.901" rot="-0.70664 0.690367 0.110939 0.108385" sc="1.61689 1.61689 1.61689" />
-		<o name="alien_pipes_curly" pos="-49.9544 151.894 170.957" rot="0.213441 0.956268 0.0748431 -0.185447" sc="0.879839 0.879839 0.879839" />
-		<o name="alien_ufo_fly" pos="-302.434 -7.38235 174.079" rot="-0.0419885 0.988819 -0.00607052 -0.142959" />
-		<o name="alien_base8" pos="-276.894 46.5921 164.368" rot="0 1 0 0" sc="1 0.905952 1" />
-		<o name="alien_base7" pos="-233.945 1.48808 151.87" rot="-0.717307 0.696757 0 0" />
-		<o name="alien_ufo_big" pos="357.324 208.824 197.04" rot="0 1 0 0" />
-		<o name="alien_corridor" pos="324.541 246.409 210.302" rot="-0.709563 0.704642 0 0" sc="1.06876 1.06876 1.06876" />
-		<o name="alien_base2" pos="284.969 242.825 204.136" rot="0 1 0 0" sc="1.32695 1.6071 1.32695" />
-		<o name="alien_tower2" pos="113.48 260.877 233.653" rot="0 1 0 0" sc="0.859623 0.859623 0.859623" />
-		<o name="alien_ufo_fly" pos="67.2862 351.77 218.397" rot="-0.621837 0.755021 0.0301624 0.205788" />
-		<o name="atomic_barrel" pos="-87.8865 111.07 167.663" rot="-0.176271 -0.662419 -0.18206 0.704971" />
-		<o name="fuel_can" pos="-82.5802 117.218 167.879" rot="0.0458437 0.996381 0.0652437 -0.0294235" />
-		<o name="fuel_can" pos="-89.7123 105.426 167.847" rot="-0.010653 0.999203 0.0018598 -0.0384204" />
-		<o name="plastic_big" pos="123.069 172.89 182.713" rot="0.0148339 0.999874 0.000979114 -0.00556493" />
-		<o name="plastic_big_hvy" pos="-239.022 161.38 177.58" rot="2.73752e-05 1 1.92964e-09 -6.4056e-06" />
-		<o name="fuel_can" pos="191.777 183.764 207.731" rot="-0.0417701 0.99837 -0.000423606 0.0388961" />
-		<o name="satellite1" pos="77.8051 -70.21 205.092" rot="0 -1 0 0" />
-	</objects>
-	<emitters />
+    <ver num="2701" baseTrk="Spc1-Minerals2" secEd="7059" />
+    <car tires="1" damage="0.502959" gravity="7.6" />
+    <start pos="-137.836 -105.528 73.9666" rot="0.00952507 -0.0049371 0.887814 0.460094" pos2="0 0 0" rot2="0 0 0 1" />
+    <sound ambient="" reverbs="Space" />
+    <sky material="sky/magicdark" skyYaw="-152.86" />
+    <fog color="0.149 0.306 0.353 0.542 0.188" color2="0.539 0.510 0.383 0.713 0.126" linStart="46.8945" linEnd="475.907" />
+    <fogH color="0.000 0.494 0.738 0.402 0.060" height="140" dens="31.502" linStart="151.189" linEnd="37.7973" />
+    <light pitch="31" yaw="-2.25" ambient="0.585 0.607 0.631 0.000 0.000" diffuse="0.663 0.399 1.587 0.000 0.355" specular="0.700 0.459 0.833 0.000 0.000" />
+    <fluids />
+    <terrain size="513" triangle="1.91892" errNorm="10.34" specPow="14.2648">
+        <texture on="1" file="space_dots_d.jpg" fnorm="space_dots_n.jpg" scale="12" surf="Metal" dust="0" dustS="1" mud="0" smoke="0" tclr="0.000 0.000 0.460 0.700 0.000" angMin="0" angMax="29.9272" angSm="4.44444" hMin="-111.654" hMax="93.9024" hSm="0" nOn="0" noise="0" n_1="1" n2="0">
+            <noise frq0="6.50205" oct0="3" prs0="0.296602" pow0="4.70183" frq1="10.7814" oct1="3" prs1="0.4" pow1="3.17314" />
+        </texture>
+        <texture on="1" file="space_diam_d.jpg" fnorm="space_diam_n.jpg" scale="12" surf="Metal" dust="0" dustS="1" mud="0" smoke="0" tclr="0.000 0.000 0.188 0.713 0.000" angMin="0" angMax="18.3495" angSm="0" hMin="95.3008" hMax="300" hSm="0.398247" nOn="0" noise="1" n_1="1" n2="0">
+            <noise frq0="11.9426" oct0="3" prs0="0.1" pow0="3.37754" frq1="35.3878" oct1="1" prs1="0.1" pow1="3.51758" />
+        </texture>
+        <texture on="1" file="space_octagons_d.jpg" fnorm="space_octagons_n.jpg" scale="18.3343" surf="Metal" dust="0" dustS="1" mud="0" smoke="0" tclr="0.000 0.000 0.460 0.700 0.000" angMin="0" angMax="17.687" angSm="0.294868" hMin="-31.5789" hMax="73.3083" hSm="0.460038" nOn="1" noise="0" n_1="0" n2="0">
+            <noise frq0="18.9688" oct0="3" prs0="0.324272" pow0="3.50042" frq1="31.2287" oct1="3" prs1="0.375243" pow1="8" />
+        </texture>
+        <texture on="1" file="space_metal_d.jpg" fnorm="space_metal_n.jpg" scale="12" surf="Metal" dust="0" dustS="1" mud="0" smoke="0" tclr="0.000 0.000 0.188 0.713 0.000" angMin="13.6174" angMax="90" angSm="0.401912" hMin="-300" hMax="300" hSm="20" nOn="0" triplanar="1" noise="0.763158" n_1="0" n2="0">
+            <noise frq0="22.2" oct0="3" prs0="0.3" pow0="8" frq1="28.5" oct1="3" prs1="0.4" pow1="1.2" />
+        </texture>
+        <texture on="0" file="" fnorm="" scale="12" surf="Metal" dust="0" dustS="1" mud="0" smoke="0" tclr="0.167 0.826 0.460 0.700 0.000" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
+            <noise frq0="38.2" oct0="3" prs0="0.3" pow0="1.5" frq1="40.5" oct1="3" prs1="0.4" pow1="1.2" />
+        </texture>
+        <texture on="0" file="" fnorm="" scale="4.5" surf="Metal" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.167 1.000 0.200 1.000 0.000" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
+            <noise frq0="42.2" oct0="3" prs0="0.3" pow0="1.5" frq1="43.5" oct1="3" prs1="0.4" pow1="1.2" />
+        </texture>
+        <texture road="1" surf="roadAsphalt" dust="0" dustS="0.2" mud="0" smoke="0.5" tclr="0.167 0.500 0.400 0.800 0.000" />
+        <texture road="2" surf="roadForest" dust="0" dustS="0.2" mud="0" smoke="0" tclr="0.167 0.500 0.400 0.800 0.000" />
+        <texture road="3" surf="roadAsphalt" dust="0" dustS="0.2" mud="0" smoke="0" tclr="0.167 0.500 0.400 0.800 0.000" />
+        <texture road="4" surf="roadAsphalt" dust="0" dustS="0.2" mud="0" smoke="0" tclr="0.167 0.500 0.400 0.800 0.000" />
+        <par dust="Smoke" mud="SnowMud" smoke="Smoke" />
+    </terrain>
+    <paged densGrass="0" densTrees="0.913763" grPage="120" grDist="120" grDensSmooth="1" trPage="200" trDist="320" trDistImp="800" trRdDist="3">
+        <grass on="1" mtr="grassXv" clr="grClrWinter.png" dens="0.297788" chan="0" minSx="1.13125" maxSx="1.53682" minSy="1.33784" maxSy="1.83667" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
+        <grass on="0" mtr="grassXc" clr="grClrWinter.png" dens="0.0763985" chan="0" minSx="1.29403" maxSx="1.65011" minSy="1.28406" maxSy="1.7297" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
+        <grass on="1" mtr="grassX13p" clr="grClrWinter.png" dens="0.0942336" chan="0" minSx="1.49082" maxSx="1.87238" minSy="1.35113" maxSy="1.74525" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
+        <grass on="0" mtr="grassX10b" clr="grClrJungle.png" dens="0.1" chan="0" minSx="1.6173" maxSx="1.99746" minSy="1.8719" maxSy="2.6473" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
+        <grass on="1" mtr="grassUnidentified" clr="grClrJungle.png" dens="0.0810294" chan="0" minSx="1.8194" maxSx="2.14623" minSy="1.71677" maxSy="2.14623" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
+        <grass on="0" mtr="grass6g-" clr="grClrJungle.png" dens="0.264331" chan="0" minSx="1.42784" maxSx="2.05259" minSy="1.47402" maxSy="1.97926" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
+        <gchan amin="0" amax="11" asm="11" hmin="-100" hmax="5" hsm="0" ns="0" frq="25" oct="3" prs="0.3" pow="1.2" rd="0" />
+        <gchan amin="0" amax="30" asm="20" hmin="-100" hmax="100" hsm="20" ns="0" frq="61" oct="3" prs="0.3" pow="1.2" rd="0" />
+        <gchan amin="0" amax="30" asm="20" hmin="-100" hmax="100" hsm="20" ns="0" frq="97" oct="3" prs="0.3" pow="1.2" rd="0" />
+        <gchan amin="0" amax="30" asm="20" hmin="-100" hmax="100" hsm="20" ns="0" frq="133" oct="3" prs="0.3" pow="1.2" rd="0" />
+        <layer on="1" name="crystal2.mesh" dens="0.0908918" minScale="1.4477" maxScale="2.44158" ofsY="0" addTrRdDist="1" maxRdist="20" windFx="0" windFy="0" maxTerAng="21.5375" minTerH="42" maxTerH="162" maxDepth="0" />
+        <layer on="1" name="crystal1.mesh" dens="1" minScale="0.376029" maxScale="0.760274" ofsY="0" addTrRdDist="1" maxRdist="4" windFx="0" windFy="0" maxTerAng="41.0884" minTerH="86" maxTerH="150" maxDepth="0" />
+        <layer on="0" name="rock_R01.mesh" dens="0.244267" minScale="0.996173" maxScale="1.36649" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0.13589" windFy="0.0538194" maxTerAng="7.26981" minTerH="-15.3" maxTerH="-13.3" maxDepth="0" />
+        <layer on="0" name="rock_L2.mesh" dens="0.398126" minScale="0.898614" maxScale="1.84507" ofsY="0" addTrRdDist="4" maxRdist="20" windFx="0.0862451" windFy="0.0148893" maxTerAng="51.1738" minTerH="-30" maxTerH="-25" maxDepth="0" />
+        <layer on="1" name="rock_L4.mesh" dens="0.357247" minScale="0.894137" maxScale="2.19251" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0.444444" windFy="0.0599931" maxTerAng="11.629" minTerH="170.6" maxTerH="270.3" maxDepth="0" />
+        <layer on="0" name="rock_L3.mesh" dens="0.0160918" minScale="0.51386" maxScale="0.988728" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="26.2966" minTerH="-22" maxTerH="-15" maxDepth="1" />
+        <layer on="1" name="crystal_form3.mesh" dens="0.114059" minScale="1.04469" maxScale="2.33087" ofsY="0" addTrRdDist="3" maxRdist="100" windFx="0.347273" windFy="0.0259922" maxTerAng="25.2552" minTerH="90" maxTerH="172" maxDepth="1" />
+        <layer on="1" name="crystal_form2.mesh" dens="0.377607" minScale="0.599002" maxScale="2.42179" ofsY="0" addTrRdDist="6" maxRdist="20" windFx="2.00128" windFy="0.0167879" maxTerAng="2.81716" minTerH="130" maxTerH="150" maxDepth="0" />
+        <layer on="1" name="crystal1.mesh" dens="0.290214" minScale="1.83329" maxScale="1.96562" ofsY="0" addTrRdDist="4" maxRdist="100" windFx="0" windFy="0" maxTerAng="14.4" minTerH="62" maxTerH="107.538" maxDepth="5" />
+        <layer on="0" name="crystal_cube4.mesh" dens="0.0497239" minScale="1.37877" maxScale="2.83849" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="48.0621" minTerH="120" maxTerH="160" maxDepth="5" />
+    </paged>
+    <cam pos="-382.82 272.17 63.3039" dir="0.729037 -0.277289 -0.625792" />
+    <objects>
+        <o name="alien_base7" pos="163.159 -308.635 165.791" rot="0.404568 -0.914508 0 0" />
+        <o name="alien_pipes_curly" pos="212.768 -188.027 140.159" rot="-0.136239 -0.885158 -0.442902 -0.0420131" sc="1 0.984729 1" />
+        <o name="alien_pipes_curly" pos="187.277 -238.156 147.664" rot="-0.154704 -0.507705 0.834444 0.148317" />
+        <o name="alien_pipes" pos="442.371 -98.926 142.399" rot="0 -1 0 0" />
+        <o name="alien_pipes" pos="442.878 -78.2031 131.388" rot="0 -1 0 0" />
+        <o name="alien_pipes" pos="443.936 -42.9857 140.207" rot="0 -1 0 0" />
+        <o name="alien_tower" pos="177.51 221.908 205.203" rot="-0.257158 0.966369 0 0" />
+        <o name="alien_base8" pos="-103.162 380.887 227.31" rot="0 1 0 0" />
+        <o name="alien_ufo_stand" pos="268.912 308.611 199.645" rot="-0.686074 0.727527 0 0" sc="1.20628 1.20628 1.20628" />
+        <o name="fuel_can" pos="-207.524 -220.332 118.146" rot="-0.00114689 0.999999 8.15325e-06 2.83565e-06" />
+        <o name="alien_base3" pos="-92.4891 32.9757 164.495" rot="0 -1 0 0" />
+        <o name="alien_base5" pos="-100.148 39.9601 165.117" rot="0.411207 -0.911539 0 0" sc="0.562496 0.562496 0.562496" />
+        <o name="alien_stand2" pos="-119.129 65.0775 167.321" rot="0 -1 0 0" />
+        <o name="alien_stand2" pos="-95.1361 65.0748 167.815" rot="0 -1 0 0" />
+        <o name="alien_pipes" pos="-119.699 65.0798 180.519" rot="0.00257188 -0.999999 0 0" sc="0.646454 0.715556 1.33588" />
+        <o name="alien_tower2" pos="-65.7933 66.4128 150.864" rot="0 -1 0 0" sc="1 1.16743 1" />
+        <o name="alien_base4" pos="-110.775 107.821 168.649" rot="0 -1 0 0" />
+        <o name="alien_base1" pos="-96.6884 139.753 168.959" rot="-0.555905 -0.831246 0 0" sc="0.848975 0.848975 0.848975" />
+        <o name="alien_base9" pos="-270.733 177.483 176.311" rot="-0.359958 -0.932966 0 0" sc="0.767999 0.767999 0.767999" />
+        <o name="alien_tunnel_connection" pos="203.838 -9.5346 167.138" rot="0 1 0 0" />
+        <o name="alien_base11" pos="-208.517 163.146 180.902" rot="0 -1 0 0" />
+        <o name="alien_base_big" pos="-266.405 117.661 197.17" rot="-0.0107484 -0.999943 0 0" sc="0.826007 0.826007 0.826007" />
+        <o name="alien_tunnel_1" pos="190.659 27.4823 189.209" rot="0.682005 -0.731349 0 0" sc="1.1608 1.21908 1.59627" />
+        <o name="alien_tunnel_connection" pos="189.691 13.8102 187.942" rot="-0.681406 0.731906 0 0" sc="1.21706 1.39849 1.40136" />
+        <o name="alien_tunnel_connection" pos="190.716 40.9928 188.643" rot="0.705033 0.708959 -0.0125283 -0.0124589" sc="1.40328 1.64593 3.2078" />
+        <o name="alien_tunnel_3" pos="186.036 59.7468 188.45" rot="0.389357 0.921082 0 0" sc="1.23233 1.23233 1.23233" />
+        <o name="alien_tunnel_connection" pos="174.655 71.7584 187.415" rot="0.400078 0.916384 0.00533536 -0.0122207" sc="1.39791 1.63869 1.74075" />
+        <o name="alien_mine_part" pos="126.149 -396.649 123.171" rot="-0.384515 0.923116 0 0" sc="1.26863 1.2732 1.26863" />
+        <o name="alien_mine_part" pos="116.743 -407.678 123.27" rot="-0.396951 0.917836 0 0" sc="1.26582 1.24944 1.23025" />
+        <o name="alien_mine_part" pos="104.871 -419.768 122.823" rot="-0.311303 0.950309 0 0" sc="1.26863 1.2732 1.26863" />
+        <o name="alien_mine_part" pos="90.83 -429.736 122.257" rot="-0.286023 0.958221 0 0" sc="1.26863 1.2732 1.26863" />
+        <o name="alien_mine_part" pos="45.3287 -420.467 124.032" rot="0.396603 0.917987 0 0" sc="1.26863 1.2732 1.26863" />
+        <o name="alien_mine_part" pos="35.5638 -407.383 123.239" rot="0.435205 0.900327 0 0" sc="1.26863 1.2732 1.26863" />
+        <o name="alien_mine_part" pos="25.909 -398.644 122.57" rot="0.27468 0.961533 0 0" sc="1.2729 1.27748 1.2729" />
+        <o name="alien_mine_part" pos="12.1901 -390.42 122.693" rot="0.23701 0.971504 0 0" sc="1.26863 1.2732 1.26863" />
+        <o name="alien_mine_part" pos="-2.95986 -382.444 122.161" rot="0.239434 0.97091 0 0" sc="1.26863 1.2732 1.26863" />
+        <o name="alien_mine_part" pos="-30.8896 -364.25 124.443" rot="0.271024 0.96257 0 0" sc="1.26863 1.2732 1.26863" />
+        <o name="alien_mine_part" pos="-43.9936 -352.514 125.799" rot="0.477519 0.878619 0 0" sc="1.26863 1.2732 1.26863" />
+        <o name="alien_mine_part" pos="-49.7759 -336.128 127.905" rot="0.70297 0.711216 0 0" sc="1.26863 1.2732 1.26863" />
+        <o name="alien_mine_part" pos="72.6512 -434.281 123.229" rot="0.058331 0.998295 0 0" sc="1.27458 1.27458 1.27458" />
+        <o name="alien_mine_part" pos="58.9023 -429.841 123.512" rot="0.22094 0.975285 0 0" sc="1.27458 1.27458 1.27458" />
+        <o name="alien_mine_part" pos="-17.1718 -373.402 123.91" rot="0.267637 0.963517 0 0" sc="1.27458 1.27458 1.27458" />
+        <o name="alien_generator" pos="-26.7195 143.328 171.153" rot="-0.702408 -0.711773 0 0" />
+        <o name="alien_gate" pos="-96.1317 225.45 163.714" rot="0.797795 -0.602929 0 0" sc="2.62713 2.5685 2.62713" />
+        <o name="alien_wall_long" pos="-209.536 221.346 161.193" rot="0.672966 -0.739672 0 0" sc="2.52862 2.52862 2.52862" />
+        <o name="alien_wall_short" pos="-31.5618 269.349 166.584" rot="0.92454 -0.38108 0 0" sc="2.06826 2.19754 3.94409" />
+        <o name="alien_wall_short" pos="-336.09 214.476 172.425" rot="0.80219 -0.596843 0.013128 0.0094327" sc="2.0256 2.37061 2.67523" />
+        <o name="alien_tower_wall" pos="-63.6173 235.356 167.733" rot="0.327526 -0.944841 0 0" sc="2.80699 3.00105 2.85747" />
+        <o name="alien_tower_wall" pos="-130.009 214.135 164.976" rot="0.0647185 -0.997902 0 0" sc="2.85288 3.05611 2.85288" />
+        <o name="alien_tower_wall" pos="-290.237 227.586 168.278" rot="0.0245211 -0.999699 0 0" sc="2.82731 3.03515 2.82731" />
+        <o name="alien_platform_1" pos="-124.204 331.876 169.051" rot="-0.706609 0.707604 -0.00103698 -0.00114203" sc="1.00244 1.00244 1.00244" />
+        <o name="alien_pipe_connector" pos="-111.764 322.88 175.123" rot="0 -1 0 0" sc="0.790261 0.790261 0.790261" />
+        <o name="alien_pipe_connector_wall" pos="-111.607 359.924 190.836" rot="-0.705954 0.708257 0 0" sc="0.579526 0.579526 0.579526" />
+        <o name="alien_pipes_up" pos="-111.864 326.109 166.905" rot="-0.705954 0.708257 0 0" />
+        <o name="alien_generator" pos="-140.077 326.179 170.542" rot="-0.000669197 0.999999 0 0" sc="0.616645 0.616645 0.616645" />
+        <o name="alien_pipes_curly" pos="-124.555 322.77 166.79" rot="-0.999961 -0.00885211 0 0" sc="0.666859 0.666859 0.666859" />
+        <o name="alien_pipes_curly_st" pos="-100.326 324.296 167.308" rot="0.0037825 0.999983 1.7592e-05 -0.00465083" sc="0.66843 0.58386 0.66843" />
+        <o name="alien_pipe_connector_wall" pos="-88.2741 324.038 172.279" rot="0.0391888 0.999231 0 0" sc="0.600451 0.600451 0.600451" />
+        <o name="alien_pipes_turn" pos="-100.87 306.397 167.001" rot="-0.999642 0.0267492 0 0" sc="0.925864 0.925864 0.925864" />
+        <o name="alien_pipes_st3" pos="-64.2684 305.01 165.599" rot="-0.999818 0.0190547 0 0" sc="1.02941 1.33729 1.02941" />
+        <o name="alien_platform_deco_3" pos="-117.522 346.218 169.29" rot="0 -1 0 0" />
+        <o name="alien_platform_deco_2" pos="-124.186 332.575 169.455" rot="0.705152 -0.709057 7.24952e-05 7.28596e-05" />
+        <o name="alien_platform_deco_1" pos="-137.166 336.104 170.357" rot="0.000202108 -1 0 0" sc="0.72166 0.72166 0.72166" />
+        <o name="alien_platform_deco_1" pos="-139.718 336.053 170.357" rot="0.000202108 -1 0 0" sc="0.72166 0.72166 0.72166" />
+        <o name="alien_platform_deco_1" pos="-142.364 336.002 170.357" rot="0.000202108 -1 0 0" sc="0.72166 0.72166 0.72166" />
+        <o name="alien_console_1" pos="-256.152 85.5638 180.74" rot="0.697077 -0.716996 0 0" sc="1.11466 1.11466 1.11466" />
+        <o name="alien_pipes_st3" pos="-242.284 84.5375 164.307" rot="0.70783 0.70638 0 0" />
+        <o name="alien_pipes_up" pos="-242.405 48.7772 164.434" rot="0.708953 0.705254 0 0" />
+        <o name="alien_stand2" pos="-242.277 13.314 159.04" rot="0.708953 0.705254 0 0" sc="1.70277 1.70277 1.70277" />
+        <o name="alien_stand2" pos="-243.677 -29.6358 150.822" rot="0.708953 0.705254 0 0" sc="2.13372 2.13372 2.13372" />
+        <o name="alien_pipes" pos="-243.139 13.8114 180.19" rot="0.708953 0.705254 0 0" sc="1.26999 1.26999 1.26999" />
+        <o name="alien_pipes" pos="-243.927 -28.2008 179.783" rot="0.708953 0.705254 0 0" sc="1.37833 1.40723 1.57273" />
+        <o name="alien_generator" pos="-251.879 -92.0329 190.062" rot="-0.930826 0.365458 0 0" />
+        <o name="alien_platform_deco_3" pos="-260.253 -10.0507 152.27" rot="-0.097183 0.995265 0 0" />
+        <o name="alien_tower2" pos="-163.408 200.516 181.212" rot="0 1 0 0" sc="0.785967 0.785967 0.785967" />
+        <o name="alien_base3" pos="-188.26 108.142 190.311" rot="0 1 0 0" sc="0.785967 0.785967 0.785967" />
+        <o name="alien_base1" pos="-231.369 176.513 176.628" rot="-0.999819 -0.0190366 0 0" sc="0.779006 0.779006 0.779006" />
+        <o name="alien_base5" pos="-205.694 104.979 191.361" rot="-0.382466 0.923969 0 0" sc="0.540794 0.540794 0.540794" />
+        <o name="alien_platform_deco_2" pos="-208.112 107.506 200.008" rot="-0.376731 0.926322 0 0" sc="0.785967 0.785967 0.785967" />
+        <o name="alien_platform_deco_1" pos="-263.165 108.741 177.209" rot="0 1 0 0" sc="0.785967 0.785967 0.785967" />
+        <o name="alien_platform_deco_1" pos="-274.261 109.672 177.218" rot="0 1 0 0" sc="0.785967 0.785967 0.785967" />
+        <o name="alien_base8" pos="-290.96 192.906 181.111" rot="-0.422185 0.906508 0 0" sc="0.500825 0.500825 0.500825" />
+        <o name="alien_corridor_end" pos="-294.727 166.208 176.47" rot="0.374644 0.927168 0 0" sc="0.667982 0.667982 0.667982" />
+        <o name="alien_mine_part" pos="-233.544 145.469 178.152" rot="0 1 0 0" sc="0.785967 0.785967 0.785967" />
+        <o name="alien_mine_part" pos="-237.111 145.599 178.152" rot="0 1 0 0" sc="0.785967 0.785967 0.785967" />
+        <o name="alien_pipes_curly_st" pos="-60.6412 186.035 169.181" rot="-0.71888 0.695134 0 0" sc="0.860383 1.30853 0.981964" />
+        <o name="alien_pipe_connector" pos="-61.5224 161.153 189.631" rot="0 1 0 0" sc="1.81608 1.81608 1.81608" />
+        <o name="alien_tower2" pos="-59.8336 210.701 161.937" rot="-0.0579192 0.998322 0 0" sc="0.737856 0.737856 0.737856" />
+        <o name="alien_corridor" pos="-129.723 178.349 194.567" rot="0 1 0 0" sc="1.32735 1.31103 1.3291" />
+        <o name="alien_base6" pos="-129.367 142.528 191.798" rot="0 1 0 0" sc="0.993397 1.03618 0.993397" />
+        <o name="alien_stand1" pos="-129.298 142.109 165.513" rot="0.70028 0.71387 0 0" sc="1.27236 2.92882 1.27236" />
+        <o name="alien_corridor2" pos="-179.17 127.649 173.596" rot="-0.714751 0.69938 0 0" sc="1.27236 1.27236 1.27236" />
+        <o name="alien_base6" pos="-144.401 128.827 191.66" rot="-0.709171 0.705035 0.00121106 0.00120399" sc="0.991754 1.04058 0.991754" />
+        <o name="alien_stand1" pos="-143.54 129.272 163.786" rot="0 1 0 0" sc="1.27236 3.15791 1.27236" />
+        <o name="alien_base5" pos="-131.676 129.169 190.47" rot="0 1 0 0" sc="0.835143 1.04358 1.30986" />
+        <o name="alien_platform_1" pos="-131.372 129.848 188.318" rot="0.000550035 8.82205e-07 -1 -0.00160412" sc="0.32525 0.382249 0.401292" />
+        <o name="alien_platform_deco_1" pos="-131.603 119.764 190.135" rot="-0.459266 0.440768 0.541484 0.549155" sc="1.67598 1.88123 1.65107" />
+        <o name="alien_platform_deco_1" pos="-122.818 129.951 190.645" rot="-0.618024 -0.00407239 0.78611 -0.00785861" sc="2.17153 1.81819 2.16406" />
+        <o name="alien_tower_wall" pos="-201.171 57.9141 172.271" rot="-0.373158 0.927768 0 0" sc="1.9141 1.9141 1.9141" />
+        <o name="alien_corridor_end" pos="-181.119 93.5628 170.662" rot="-0.934488 -0.35599 0 0" sc="1.70471 1.70471 1.70471" />
+        <o name="alien_base2" pos="-149.245 71.6371 166.165" rot="-0.658478 -0.752598 0 0" sc="1.03721 1.03721 1.03721" />
+        <o name="alien_pipe_connector" pos="-144.401 261.228 234.602" rot="-0.916788 -0.399369 0 0" sc="2.75749 2.75749 2.75749" />
+        <o name="alien_antenna" pos="-65.566 63.5084 194.587" rot="-0.916788 -0.399369 0 0" sc="3.26893 3.26893 3.26893" />
+        <o name="alien_pipe_connector_wall" pos="-61.8834 104.298 167.355" rot="-0.464 0.513188 -0.487352 -0.532759" sc="2.25798 2.25798 2.25798" />
+        <o name="alien_pipes" pos="-63.8667 109.613 162.901" rot="-0.70664 0.690367 0.110939 0.108385" sc="1.61689 1.61689 1.61689" />
+        <o name="alien_pipes_curly" pos="-49.9544 151.894 170.957" rot="0.213441 0.956268 0.0748431 -0.185447" sc="0.879839 0.879839 0.879839" />
+        <o name="alien_ufo_fly" pos="-302.434 -7.38235 174.079" rot="-0.0419885 0.988819 -0.00607052 -0.142959" />
+        <o name="alien_base8" pos="-276.894 46.5921 164.368" rot="0 1 0 0" sc="1 0.905952 1" />
+        <o name="alien_base7" pos="-233.945 1.48808 151.87" rot="-0.717307 0.696757 0 0" />
+        <o name="alien_ufo_big" pos="357.324 208.824 197.04" rot="0 1 0 0" />
+        <o name="alien_corridor" pos="324.541 246.409 210.302" rot="-0.709563 0.704642 0 0" sc="1.06876 1.06876 1.06876" />
+        <o name="alien_base2" pos="284.969 242.825 204.136" rot="0 1 0 0" sc="1.32695 1.6071 1.32695" />
+        <o name="alien_tower2" pos="113.48 260.877 233.653" rot="0 1 0 0" sc="0.859623 0.859623 0.859623" />
+        <o name="alien_ufo_fly" pos="126.864 318.083 245.63" rot="0.0123156 0.998999 -0.00108161 -0.0429852" />
+        <o name="atomic_barrel" pos="-87.8677 111.094 167.662" rot="-0.202866 -0.654626 -0.152958 0.711979" />
+        <o name="fuel_can" pos="-82.5799 117.217 167.879" rot="0.0459193 0.996394 0.0649269 -0.029572" />
+        <o name="fuel_can" pos="-89.7109 105.426 167.847" rot="-0.0107784 0.999202 0.00185715 -0.0384116" />
+        <o name="plastic_big" pos="123.521 172.804 182.719" rot="-0.476903 0.878798 -0.00309535 -0.0163508" />
+        <o name="plastic_big_hvy" pos="-239.022 161.38 177.58" rot="2.43367e-05 1 -7.47829e-06 3.58152e-06" />
+        <o name="fuel_can" pos="191.772 183.86 206.977" rot="0.252437 0.967472 -0.0112386 0.0121213" />
+        <o name="satellite1" pos="77.8051 -70.21 205.092" rot="0 -1 0 0" />
+        <o name="hexrockmetal_large_02" pos="118.117 349.921 189.461" rot="0 -1 0 0" />
+        <o name="hexrockmetal_medium_01" pos="185.074 266.421 203.325" rot="-0.674048 -0.738688 0 0" />
+        <o name="hexrockmetal_small_01" pos="157.487 187.414 206.549" rot="-0.672047 -0.736496 0.051898 -0.0568749" />
+        <o name="hexrockmetal_small_01" pos="325.52 39.8279 171.715" rot="-0.674048 -0.738688 0.000153544 -0.000168268" />
+        <o name="hexrockmetal_small_01" pos="122.618 -274.877 130.689" rot="-0.0794778 -0.996837 0.00022447 -3.87647e-05" sc="1.29449 1.29449 1.29449" />
+        <o name="hexrockmetal_small_01" pos="-342.768 -244.231 167.126" rot="-0.982146 0.188109 0.000442638 0.00221073" sc="1 1.21507 1" />
+        <o name="hexrockmetal_small_01" pos="-263.88 -287.178 175.427" rot="-0.98174 0.188093 -0.0282531 -0.00328624" sc="1 1.21507 1" />
+        <o name="hexrockmetal_small_01" pos="-60.2389 -95.2015 190.922" rot="-0.980772 0.187734 0.0519338 0.0120698" sc="1 1.13298 1" />
+        <o name="hexrockmetal_small_01" pos="183.841 -53.7198 185.688" rot="0 0.999214 0 0.0396354" sc="1 1.08542 1" />
+        <o name="hexrockmetal_small_01" pos="211.615 -93.1942 97.8442" rot="0 1 0 0" />
+        <o name="hexrockmetal_small_01" pos="189.934 -359.52 113.726" rot="0.0703316 0.993441 -0.00351893 0.0900877" sc="1.20942 1.20942 1.20942" />
+        <o name="hexrockmetal_cliff_02" pos="235.79 -372.513 115.324" rot="-0.834337 0.551254 0 0" sc="1 1.20109 1" />
+        <o name="hexrockmetal_cliff_02" pos="261.818 -345.862 113.727" rot="-0.946559 0.32253 0 0" sc="1 1.20109 1" />
+        <o name="hexrockmetal_cliff_01" pos="191.101 -389.83 116.236" rot="-0.315988 -0.948763 0 0" sc="1 1.20109 1" />
+        <o name="hexrockmetal_cliff_01" pos="-148.495 -325.616 120.901" rot="-0.315988 -0.948763 0 0" sc="1 1.20109 1" />
+        <o name="hexrockmetal_bridge_02" pos="-44.9672 8.04572 165.159" rot="0.972804 0.231221 -0.0133829 -0.00298279" sc="1.06765 1.39244 1.06765" />
+        <o name="hexrockmetal_cliff_02" pos="-84.0664 5.42606 138.862" rot="-0.588877 -0.808217 -0.00181796 0.00237711" sc="1 1.30422 1" />
+        <o name="hexrockmetal_cliff_01" pos="-50.7307 19.3012 142.011" rot="0.226102 -0.974099 -0.00298718 0.000179917" sc="1 1.30422 1" />
+        <o name="hexrockmetal_cliff_03" pos="-4.29828 32.287 129.146" rot="0.762524 -0.646952 -0.00250487 -0.00163746" sc="1 1.30422 1" />
+        <o name="hexrockmetal_cliff_02" pos="-22.0211 21.1316 144.895" rot="-0.955392 0.285755 0.0688443 0.0288531" />
+        <o name="hexrockmetal_cliff_01" pos="-54.8551 -13.6556 144.828" rot="0.146472 0.989215 0 0" />
+        <o name="hexrockmetal_small_03" pos="11.2449 109.021 170.962" rot="-0.941111 0.33688 -0.0270011 -0.00966532" />
+        <o name="hexrockmetal_small_02" pos="155.427 68.7794 179.323" rot="-0.698422 0.711285 -0.0725181 -0.0319719" />
+        <o name="hexrockmetal_small_02" pos="245.133 -40.179 166.58" rot="-0.999876 0.0157988 0 0" />
+        <o name="hexrockmetal_small_03" pos="312.004 142.449 177.344" rot="-0.0856981 0.0013541 0.996196 0.0157406" sc="1.26213 1.26213 1.26213" />
+        <o name="hexcavemetal_06" pos="192.8 146.467 172.581" rot="0.184655 0.982526 0.00683085 -0.0223105" />
+        <o name="hexcavemetal_04" pos="151.943 162.277 180.971" rot="-0.264968 0.964257 0 0" />
+        <o name="hexrockmetal_cliff_01" pos="119.049 154.571 183.157" rot="0.469275 0.883052 0 0" />
+        <o name="hexrockmetal_small_01" pos="-23.5929 170.113 171.788" rot="-0.234589 0.972095 0 0" />
+        <o name="hexrockmetal_small_02" pos="-105.595 221.638 168.599" rot="-0.234589 0.972095 0 0" />
+        <o name="hexrockmetal_medium_02" pos="-96.0274 166.309 168.836" rot="-0.306847 -0.951758 0 0" />
+        <o name="hexrockmetal_cliff_01" pos="173.715 235.465 193.389" rot="0.505883 -0.861647 0.0205435 0.0349908" />
+        <o name="hexrockmetal_cliff_03" pos="222.836 66.2942 167.373" rot="0.543096 -0.835832 0.0436878 0.0672361" sc="1 0.985987 1" />
+        <o name="hexrockmetal_small_02" pos="272.44 94.7647 176.213" rot="0.5063 -0.862357 0 0" />
+        <o name="hexrockmetal_small_01" pos="243.567 93.6133 181.011" rot="0.986374 -0.164516 0 0" />
+        <o name="hexrockmetal_cliff_01" pos="455.318 -10.8554 134.338" rot="0.88466 0.466235 0 0" sc="1.14068 1.39328 1.14068" />
+        <o name="hexcavemetal_01" pos="388.124 -105.834 123.226" rot="0.969999 0.243106 0 0" />
+        <o name="hexrockmetal_small_02" pos="62.7571 -262.219 142.204" rot="0.159056 0.079862 -0.598298 0.781256" sc="1.14068 1.39328 1.14068" />
+        <o name="hexrockmetal_medium_01" pos="-92.4609 -202.208 82.8737" rot="0.0866878 -0.0137271 -0.61298 0.785208" sc="1.14068 1.39328 1.14068" />
+        <o name="hexrockmetal_small_01" pos="-236.157 -66.2929 89.8995" rot="-0.997869 0.0558059 0.0285253 0.0181254" />
+        <o name="hexrockmetal_small_03" pos="-340.531 -20.652 104.459" rot="-0.403356 0.912775 0.0186118 -0.061632" sc="1.06985 1.06985 1.06985" />
+        <o name="hexrockmetal_small_02" pos="-274.979 10.5736 157.235" rot="0.785614 0.618715 0.0014442 0.00113739" />
+        <o name="hexrockmetal_single_01" pos="-307.543 -255.768 167.298" rot="0 0.999998 0 0.00183831" />
+        <o name="hexrockmetal_single_01" pos="-309.119 -258.105 170.073" rot="-0.323837 0.946111 -0.000595314 0.00173925" />
+        <o name="hexrockmetal_medium_01" pos="-386.481 -272.751 167.293" rot="-0.322458 0.942397 -0.0298571 -0.0837652" />
+        <o name="hexrockmetal_cliff_03" pos="-309.194 -201.436 108.231" rot="-0.941867 0.335413 -0.0115201 0.0159187" sc="1.26613 1.63741 1.26613" />
+        <o name="hexcavemetal_05" pos="-333.449 -287.367 165.791" rot="0.0524708 0.998429 0.0119659 0.0155864" />
+        <o name="hexrockmetal_medium_02" pos="-308.898 -328.488 176.442" rot="-0.323795 0.945923 0.00528734 0.0189252" />
+        <o name="hexrockmetal_cliff_01" pos="-350.165 -373.059 186.375" rot="-0.747424 0.656156 0.0690752 0.0777282" sc="1.25598 1.25598 1.25598" />
+        <o name="hexrockmetal_cliff_03" pos="-223.261 -295.755 126.361" rot="-0.521073 0.85328 0.00119666 0.0198437" sc="1.36409 1.52488 1.36409" />
+        <o name="hexrockmetal_cliff_02" pos="-226.571 -275.741 116.874" rot="-0.134267 0.990749 0.00885601 0.0175411" sc="1.25598 1.55864 1.25598" />
+        <o name="hexrockmetal_cliff_01" pos="-227.887 -239.528 120.16" rot="-0.974629 0.22296 -0.0133028 0.0144622" sc="1.25598 1.25598 1.25598" />
+        <o name="hexrockmetal_medium_01" pos="132.832 -57.9841 170.542" rot="-0.76195 0.647337 -0.00513339 0.0189675" sc="1.25598 1.25598 1.25598" />
+        <o name="hexrockmetal_medium_01" pos="-4.99891 -140.35 185.9" rot="-0.904176 0.420324 -0.0690288 -0.0320894" sc="0.937464 0.937464 0.937464" />
+        <o name="hexrockmetal_small_02" pos="99.9774 149.953 207.523" rot="-0.0169688 -0.0693336 0.487765 0.870051" />
+        <o name="hexrockmetal_small_01" pos="-46.0708 38.7318 148.742" rot="-0.0220633 -0.0602407 0.487561 0.870728" />
+        <o name="hexrockmetal_small_01" pos="-97.5503 14.4586 168.28" rot="-0.0220633 -0.0602407 0.487561 0.870728" />
+        <o name="hexrockmetal_small_01" pos="40.0507 -211.12 200.114" rot="0.104299 -0.0597302 0.443098 0.888378" />
+        <o name="hexrockmetal_large_01" pos="193.598 -315.454 166.486" rot="0 1 0 0" />
+        <o name="hexrockmetal_cliff_01" pos="-72.7686 -392.453 169.268" rot="0.957871 0.287197 0 0" sc="1.32983 1.32983 1.32983" />
+        <o name="hexrockmetal_cliff_01" pos="-238.35 -389.262 201.419" rot="0.756909 0.65352 0 0" sc="1.32983 1.32983 1.32983" />
+        <o name="hexrockmetal_medium_01" pos="-180.233 -372.156 202.24" rot="0.756909 0.65352 0 0" sc="1.32983 1.32983 1.32983" />
+        <o name="hexrockmetal_cliff_03" pos="154.119 284.024 162.837" rot="-0.795747 -0.605624 0.00207664 -0.00158048" />
+        <o name="hexrockmetal_cliff_01" pos="163.674 403.823 240.552" rot="-0.718905 -0.691545 0.0506078 -0.0487977" sc="1 0.948033 1" />
+        <o name="hexrockmetal_cliff_02" pos="156.346 394.833 216.69" rot="-0.792824 -0.603399 0.0681744 -0.0518859" sc="1 1.07014 1" />
+        <o name="hexrockmetal_small_01" pos="195.914 92.3845 199.063" rot="-0.126479 0.990683 0.00639404 0.0500833" />
+        <o name="hexrockmetal_large_01" pos="79.4833 -220.107 142.848" rot="-0.129411 0.990304 0.00624573 0.050102" />
+        <o name="alien_ufo_fly" pos="-224.353 -294.469 219.431" rot="-0.0155629 -0.999539 -0.000405946 -0.0260722" />
+        <o name="hexrockmetal_small_02" pos="164.035 -27.3028 180.034" rot="-0.29757 -0.9547 0 0" />
+        <o name="hexrockmetal_cliff_01" pos="-73.7926 -128.877 161.515" rot="0.512289 -0.858813 0 0" />
+        <o name="hexrockmetal_small_02" pos="154.566 154.41 180.051" rot="0.564329 -0.82555 0 0" />
+    </objects>
+    <emitters>
+        <e name="AlienBeamUp" pos="126.511 190.936 -317.029" sc="6.52396 104.719 4.36477" up="0 1 0" rot="0" rate="588.188" st="0" />
+        <e name="ElectricSparks" pos="183.908 144.661 228.081" sc="2 1 2" up="0 1 0" rot="0" rate="20.4558" st="0" />
+        <e name="ElectricSparks" pos="-112.344 190.455 -358.183" sc="4.82878 2.13147 2.96822" up="0 1 0" rot="0" rate="43.4798" st="0" />
+        <e name="AlienBeamUp" pos="-224.587 184.433 294.169" sc="3.52262 62.6085 4.24085" up="0 1 0" rot="0" rate="567.762" st="0" />
+    </emitters>
 </scene>

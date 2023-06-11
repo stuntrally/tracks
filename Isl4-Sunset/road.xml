@@ -3,7 +3,7 @@
     <dim tcMul="0.1" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="2" widthSteps="6" heightOfs="0.06" />
     <mrg loop="1" skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" visDist="1000" visBehind="800" />
     <geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5.232 14.1524" iDir="1" iChk1="37" />
-    <stats length="1675.24" width="7.336" height="11.4669" onTer="0" pipes="0" bnkAvg="4.14364" bnkMax="12.6727" />
+    <stats length="1675.78" width="7.33434" height="11.4669" onTer="0" pipes="0" bnkAvg="4.08304" bnkMax="12.6727" />
     <txt desc="A curly track at sunset." />
     <adv ice="One turn is flooded. Has few long U-turns and circles." />
     <P pos="-125.299 0 -57.9111" w="7.336" aT="2" mtr="2" chkR="1.728" />
@@ -45,11 +45,13 @@
     <P pos="-58.5093 0 -61.8678" w="7.336" aT="2" />
     <P pos="-53.9578 0 -107.685" w="7.336" aT="2" mtr="2" chkR="1.52" />
     <P pos="-30.5387 0 -138.924" w="7.336" aT="2" mtr="2" />
-    <P pos="2.06427 0 -145.865" w="7.336" aT="2" mtr="2" chkR="1.728" />
-    <P pos="32.9208 0 -133.896" w="7.336" aT="2" mtr="2" />
-    <P pos="48.4867 0 -109.32" w="7.336" aT="2" mtr="2" chkR="1.72" />
-    <P pos="47.9285 0 -81.5956" w="7.336" aT="2" mtr="2" />
-    <P pos="33.236 0 -60.9667" w="7.336" aT="2" mtr="2" />
+    <P pos="2.35367 0 -146.456" w="7.336" aT="2" mtr="2" chkR="1.728" />
+    <P pos="22.5027 0 -142.546" w="7.44" aT="2" mtr="2" />
+    <P pos="35.1934 0 -129.347" w="7.336" aT="2" mtr="2" />
+    <P pos="46.9291 0 -108.334" w="7.336" aT="2" mtr="2" chkR="1.72" />
+    <P pos="48.4205 0 -81.5989" w="7.336" aT="2" mtr="2" />
+    <P pos="43.6513 0 -70.7111" w="7" aT="2" mtr="2" chkR="1.272" />
+    <P pos="34.037 0 -60.7936" w="7.336" aT="2" mtr="2" />
     <P pos="7.60632 0 -51.9552" w="7.336" aT="2" chkR="1.668" />
     <P pos="-23.113 0 -50.9703" w="7.336" aT="2" />
     <P pos="-57.4604 0 -50.6995" w="7.336" aT="2" />
