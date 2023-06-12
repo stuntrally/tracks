@@ -1,5 +1,5 @@
 <scene>
-    <ver num="2701" baseTrk="Uni6-Wild" secEd="1596" />
+    <ver num="2701" baseTrk="Uni6-Wild" secEd="1668" />
     <car tires="0" />
     <start pos="179.332 -40.8464 0.650158" rot="0.019095 0.003621 0.745096 -0.666697" pos2="0 0 0" rot2="0 0 0 1" />
     <sound ambient="" reverbs="Islands" />
@@ -57,7 +57,7 @@
         <layer on="0" name="" dens="0.0999996" minScale="0.0999994" maxScale="0.249999" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="30" minTerH="-100" maxTerH="100" maxDepth="5" />
         <layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="30" minTerH="-100" maxTerH="100" maxDepth="5" />
     </paged>
-    <cam pos="121.795 11.9926 -113.989" dir="0.375109 -0.0331791 0.926387" />
+    <cam pos="304.32 38.1624 34.5891" dir="-0.877043 -0.143274 0.45855" />
     <objects>
         <o name="ptol_lighthouse" pos="273.828 -68.3767 19.7925" rot="0.140299 -0.990098 -0.00169566 -0.00428578" sc="1.29808 1.29808 1.29808" />
         <o name="hexrockgrey_cliff_01" pos="-165.788 -161.651 -3.69087" rot="0.91782 0.396996 0 0" />

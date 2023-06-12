@@ -1,5 +1,5 @@
 <scene>
-    <ver num="2701" baseTrk="X3-Cloud" secEd="2882" />
+    <ver num="2701" baseTrk="X3-Cloud" secEd="3022" />
     <car tires="0" />
     <start pos="102.307 8.20158 -3.25542" rot="0 1.77636e-15 -0.999981 -0.00681084" pos2="0 0 0" rot2="0 0 0 1" />
     <sound ambient="" reverbs="Forest" />
@@ -35,7 +35,7 @@
         <texture road="4" surf="roadDesert" dust="0" dustS="0.9" mud="0" smoke="0.357995" tclr="0.160 0.500 0.200 0.700 0.000" />
         <par dust="SnowDust" mud="SnowMud" smoke="Smoke" />
     </terrain>
-    <paged densGrass="0.0912329" densTrees="0.613505" grPage="80" grDist="80" grDensSmooth="6" trPage="100" trDist="200" trDistImp="800" trRdDist="1">
+    <paged densGrass="0.0912329" densTrees="0.613505" grPage="80" grDist="80" grDensSmooth="6" trPage="120" trDist="120" trDistImp="800" trRdDist="1">
         <grass on="1" mtr="grassWinter" clr="grClrWinter.png" dens="0.0749458" chan="0" minSx="0.785277" maxSx="1.06066" minSy="0.431959" maxSy="0.650151" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
         <grass on="1" mtr="grass18w" clr="grClrWinter.png" dens="0.104921" chan="0" minSx="1.11329" maxSx="1.65011" minSy="1.11329" maxSy="1.6173" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
         <grass on="1" mtr="grass7wg" clr="grClrJungle.png" dens="0.0357463" chan="0" minSx="1.2796" maxSx="1.6173" minSy="1.83681" maxSy="2.08978" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
