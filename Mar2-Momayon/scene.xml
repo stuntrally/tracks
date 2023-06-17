@@ -1,5 +1,5 @@
 <scene>
-    <ver num="2701" baseTrk="Mos0-Momayon" secEd="122525" />
+    <ver num="2701" baseTrk="Mos0-Momayon" secEd="123556" />
     <car tires="0" damage="0.325153" road1mtr="0" denyRev="1" />
     <start pos="257.507 -476.938 -24.0175" rot="0.0072212 0.0107722 0.995807 -0.0929691" pos2="0 0 0" rot2="0 0 0 1" />
     <sound ambient="" reverbs="JungleDense" />
@@ -38,7 +38,7 @@
         <texture road="4" surf="roadGravel" dust="0" dustS="0.2" mud="0" smoke="0" tclr="0.958 0.375 0.640 0.600 0.000" />
         <par dust="Dust" mud="Mud" smoke="Smoke" />
     </terrain>
-    <paged densGrass="0.597587" densTrees="1.22854" grPage="100" grDist="150" grDensSmooth="6" trPage="150" trDist="150" trDistImp="800" trRdDist="0">
+    <paged densGrass="0.597587" densTrees="1.22854" grPage="140" grDist="140" grDensSmooth="6" trPage="150" trDist="150" trDistImp="800" trRdDist="0">
         <grass on="1" mtr="grass3o" clr="grClrForest.png" dens="0.251869" chan="0" minSx="0.7" maxSx="1.97083" minSy="0.7" maxSy="2.03793" swayDistr="0.2" swayLen="0.3" swaySpeed="0.4" />
         <grass on="1" mtr="grass4v" clr="grClrSavanna.png" dens="0.0115795" chan="1" minSx="1.2" maxSx="3.2" minSy="1.2" maxSy="3.2" swayDistr="3" swayLen="0.3" swaySpeed="0.4" />
         <grass on="1" mtr="grass20p" clr="grClrAustralia.png" dens="0.145493" chan="2" minSx="1.22" maxSx="1.44" minSy="2.15" maxSy="2.5" swayDistr="3" swayLen="0.3" swaySpeed="0.4" />
