@@ -1,0 +1,22 @@
+<SplineRoad>
+    <mtr type="1" road="roadNgravel" pipe="pipeGlass" />
+    <dim tcMul="0.1" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="8" heightOfs="0.1" />
+    <mrg loop="0" skirtLen="1" skirtH="0.12" merge="1" mergeLen="180" lodPntLen="10" visDist="1000" visBehind="800" />
+    <geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1.5 5 12" iDir="-1" iChk1="0" />
+    <stats length="284.736" width="6.48838" height="52.6997" onTer="88.1744" pipes="0" bnkAvg="9.53808" bnkMax="68.2865" />
+    <txt desc="" />
+    <adv ice="" />
+    <P pos="-84.9803 0 -96.1841" w="7" aT="2" />
+    <P pos="-103.358 0 -100.92" w="7" a="0" ar="0" aT="2" />
+    <P pos="-77.6358 -0.986672 -72.0144" w="6.3132" onTer="0" a="-132.506" ar="3.78" aT="0" col="0" />
+    <P pos="-103.856 1.39086 -100.333" w="6.3132" onTer="0" a="-127.223" ar="-2.16" aT="0" col="0" />
+    <P pos="-113.462 5.82665 -115.462" w="6.3132" onTer="0" a="-127.703" ar="-5.28" aT="0" col="0" />
+    <P pos="-117.678 24.1729 -119.331" w="6.3132" onTer="0" a="-134.423" ar="-11.52" aT="0" col="0" />
+    <P pos="-114.927 39.6643 -116.079" w="6.3132" onTer="0" a="-148.703" ar="-8.88" aT="0" col="0" />
+    <P pos="-105.94 47.8135 -104.249" w="6.3132" onTer="0" a="-137.243" ar="0.480002" aT="0" col="0" />
+    <P pos="-97.0069 42.5148 -90.992" w="6.3132" onTer="0" a="-135.083" ar="8.04" aT="0" col="0" />
+    <P pos="-94.642 26.7218 -83.8642" w="6.3132" onTer="0" a="-140.663" ar="1.32" aT="0" col="0" />
+    <P pos="-101.022 12.0582 -88.963" w="6.3132" onTer="0" a="-139.943" ar="2.04" aT="0" col="0" />
+    <P pos="-112.869 4.93767 -101.53" w="6.3132" onTer="0" a="-143.123" ar="0.840002" aT="0" col="0" />
+    <P pos="-130.28 0 -124.482" w="7" a="0" ar="0" aT="2" />
+</SplineRoad>
