@@ -1,0 +1,61 @@
+<SplineRoad>
+    <mtr type="0" road="roadAlien" pipe="pipeAsphalt" road2="roadAlienTransp" road3="roadInvisibleJungle" road4="roadInvisibleSnow" />
+    <dim tcMul="0.06" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="2" widthSteps="6" heightOfs="0.06" />
+    <mrg loop="1" skirtLen="1" skirtH="0.12" merge="1" mergeLen="80" lodPntLen="10" visDist="800" visBehind="800" />
+    <geom colN="4" colR="1" wsPm="4" lsPm="1" stBox="1 5.152 16.568" iDir="1" iChk1="51" />
+    <stats length="899.13" width="7.67964" height="23.0779" onTer="0" pipes="0" bnkAvg="4.74263" bnkMax="21.1035" />
+    <txt desc="Short, Fun Track in a dark alien jungle with bioluminent plants." />
+    <adv ice="the road is partly really narrow, hidden or weakly visible. Overgrown by grasses and filled with some pools of gases. " />
+    <P pos="-3.02547 0 6.3312" w="4.52" aT="2" mtr="1" />
+    <P pos="-11.3978 0 7.38847" w="8.336" aT="2" mtr="1" />
+    <P pos="-21.0196 0 -2.79423" w="4.152" aT="2" mtr="2" />
+    <P pos="-39.7309 0 -11.2477" w="5.52" aT="2" mtr="2" chkR="2.06" />
+    <P pos="-46.8693 0 -3.46244" w="6.544" aT="2" mtr="1" />
+    <P pos="-63.666 0 -7.45765" w="13.704" aT="2" mtr="2" />
+    <P pos="-68.5098 0 2.6656" w="12.256" aT="2" mtr="2" />
+    <P pos="-67.8733 0 14.7065" w="6.536" aT="2" mtr="2" />
+    <P pos="-59.6033 0 27.3922" w="7.384" aT="2" mtr="1" />
+    <P pos="-50.2731 0 42.7511" w="5.296" aT="2" mtr="1" />
+    <P pos="-40.5775 0 45.4513" w="5.856" aT="2" mtr="1" chkR="2.332" />
+    <P pos="-27.3148 0 48.3304" w="6.256" aT="2" mtr="2" />
+    <P pos="-15.0591 0 43.8829" w="8.352" aT="2" mtr="3" />
+    <P pos="-14.5611 0 28.9648" w="5.432" aT="2" mtr="3" />
+    <P pos="-29.4406 0 15.0515" w="4.432" aT="2" mtr="1" />
+    <P pos="-54.0617 0 24.4711" w="4.424" aT="2" mtr="1" />
+    <P pos="-74.2545 0 32.2337" w="7" aT="2" mtr="1" />
+    <P pos="-84.5389 0 37.7855" w="9.36" aT="2" mtr="1" chkR="2.068" />
+    <P pos="-80.2567 0 50.5403" w="6.528" aT="2" />
+    <P pos="-62.8355 0 61.5473" w="9.768" aT="2" mtr="1" />
+    <P pos="-47.8234 0 65.9521" w="9.736" aT="2" mtr="2" />
+    <P pos="-41.962 0 77.9878" w="10.232" aT="2" mtr="1" />
+    <P pos="-23.4464 0 82.8049" w="10.52" aT="2" mtr="2" chkR="2.2" />
+    <P pos="-16.9548 0 89.4352" w="7.936" aT="2" mtr="2" />
+    <P pos="-11.5939 0 106.484" w="5.576" aT="2" mtr="3" />
+    <P pos="0.767496 0 108.088" w="3.512" aT="2" mtr="2" chkR="2.076" />
+    <P pos="3.6056 0 88.4703" w="5.856" aT="2" mtr="1" />
+    <P pos="13.2722 0 82.7419" w="5.04" aT="2" />
+    <P pos="23.9131 0 85.3397" w="3.824" aT="2" mtr="1" />
+    <P pos="32.5947 0 101.186" w="7.624" aT="2" mtr="2" />
+    <P pos="34.9082 0 117.335" w="5.392" aT="2" mtr="1" chkR="2.276" />
+    <P pos="39.8047 0 131.425" w="8.088" aT="2" mtr="2" />
+    <P pos="49.8049 0 140.112" w="5.624" aT="2" mtr="2" />
+    <P pos="60.2242 0 144.363" w="5.88" aT="2" mtr="1" />
+    <P pos="68.8513 0 157.822" w="9.592" aT="2" chkR="2.336" />
+    <P pos="80.6916 0 165.038" w="10.144" aT="2" />
+    <P pos="94.1448 0 154.874" w="12.64" aT="2" mtr="1" />
+    <P pos="92.7679 0 137.457" w="10.832" aT="2" mtr="3" />
+    <P pos="76.423 0 121.083" w="10.816" aT="2" mtr="2" />
+    <P pos="77.0565 0 93.537" w="10.936" aT="2" mtr="2" chkR="2.5" />
+    <P pos="77.7476 0 73.09" w="10.136" aT="2" mtr="1" />
+    <P pos="88.034 0 50.2287" w="9.032" aT="2" mtr="1" />
+    <P pos="77.7281 0 28.1278" w="9.536" aT="2" mtr="2" />
+    <P pos="54.5361 0 16.8359" w="9.68" aT="2" mtr="2" chkR="2.328" />
+    <P pos="36.7942 0 3.52112" w="5.024" aT="2" mtr="2" />
+    <P pos="35.0548 0 -8.39119" w="5.264" aT="2" mtr="2" />
+    <P pos="46.7104 0 -41.6201" w="6.656" aT="2" mtr="2" chkR="2.204" />
+    <P pos="39.0798 0 -55.0305" w="8.888" aT="2" mtr="2" />
+    <P pos="25.4915 0 -55.8208" w="9.856" aT="2" mtr="1" />
+    <P pos="16.4759 0 -44.957" w="9.048" aT="2" />
+    <P pos="11.8059 0 -27.469" w="8.784" aT="2" />
+    <P pos="12.5956 0 -11.3384" w="5.144" aT="2" mtr="1" chkR="1.472" />
+</SplineRoad>
