@@ -1,7 +1,7 @@
 <SplineRoad>
     <mtr type="0" road="pipeAsphaltSpaceBlue" pipe="pipeGlassWhiteB" road2="pipeAsphaltSpace" pipe2="pipeGlassCyan" road3="pipeGlassCyan" pipe3="pipeAsphaltSpaceBlue" road4="wall_space_grayblue" pipe4="pipeGlassAlienBlue" wall="wall_metal_08_hex" pipeW="wallP_metal_08_hex" col="wall_metal_212_white" />
     <dim tcMul="0.1" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="2" widthSteps="6" heightOfs="0.06" />
-    <mrg loop="1" skirtLen="1" skirtH="0.12" merge="1" mergeLen="911.111" lodPntLen="19.8619" visDist="1000" visBehind="800" />
+    <mrg loop="1" skirtLen="1" skirtH="0.12" merge="1" mergeLen="1275.57" lodPntLen="40.643" visDist="600" visBehind="368.632" />
     <geom colN="6" colR="3.43052" wsPm="4" lsPm="1" stBox="1 6.67199 37.4241" iDir="-1" iChk1="6" />
     <stats length="24071.3" width="13.4918" height="505.836" onTer="91.163" pipes="35.2285" onPipe="9.86624" bnkAvg="20.3928" bnkMax="90" />
     <txt desc="Crazy, very long and extremely difficult track with many loops in space. Only for professional stunt drivers!" />
