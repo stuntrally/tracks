@@ -1,5 +1,5 @@
 <scene>
-    <ver num="2701" baseTrk="Sav12-Infinity" secEd="6213" />
+    <ver num="2801" baseTrk="Sav12-Infinity" secEd="7121" />
     <car tires="0" gravity="11.7473" />
     <start pos="-16.0587 -54.1099 51.7721" rot="0.00625701 -0.071909 0.160603 0.984391" pos2="0 0 0" rot2="0 0 0 1" />
     <sound ambient="" reverbs="Rocky" />
@@ -57,7 +57,7 @@
     </paged>
     <cam pos="-372.375 196.875 -184.775" dir="0.885527 -0.287005 0.365336" />
     <objects>
-        <o name="hexrockpink_small_01" pos="42.9987 40.7644 75.5636" rot="0 -1 0 0" />
+        <o name="hexrockpink_small_01" pos="42.9987 40.7644 75.5636" rot="0 -0.99994 -0.0109259 0" />
         <o name="hexrockpink_small_01" pos="-92.6051 115.597 57.119" rot="0 -1 0 0" />
         <o name="hexrockpink_small_01" pos="-23.192 187.345 51.9918" rot="0.605238 -0.796044 0 0" />
         <o name="hexrockpink_small_01" pos="-45.017 161.455 45.4588" rot="0.605238 -0.796044 0 0" />
@@ -78,6 +78,8 @@
         <o name="hexrockpink_small_01" pos="60.564 -15.2029 15.347" rot="-0.903827 0.427897 -0.000115224 5.45502e-05" />
         <o name="hexrockpink_small_01" pos="154.95 35.553 113.378" rot="-0.903827 0.427897 -0.000115224 5.45502e-05" />
         <o name="hexrockpink_small_03" pos="112.062 -238.77 111.903" rot="-0.961773 -0.273845 -0.000122611 -3.49109e-05" />
+        <o name="obstacle_twistedMarble3L" pos="6.68392 -23.299 53.0126" rot="0.449304 0.576907 0.600982 0.322677" sc="0.952763 0.921599 0.936223" />
+        <o name="obstacle_twistedWhite2R" pos="-44.6378 -41.3121 73.887" rot="0.268055 -0.914796 0.0999603 0.285121" sc="0.972769 0.944242 1.01201" />
     </objects>
     <emitters />
 </scene>
