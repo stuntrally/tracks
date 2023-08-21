@@ -1,0 +1,46 @@
+<SplineRoad>
+    <mtr type="0" road="roadJungle" pipe="pipeAsphalt" road2="roadSnow" />
+    <dim tcMul="0.12" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="6" heightOfs="0.06" />
+    <mrg loop="1" skirtLen="0" skirtH="0.05" merge="1" mergeLen="475.814" lodPntLen="26.4098" visDist="1000" visBehind="800" />
+    <geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 13.7961 14.408" iDir="-1" iChk1="4" />
+    <stats length="1544.9" width="10.247" height="117.492" onTer="36.1775" pipes="9.71974" onPipe="9.71974" bnkAvg="8.74139" bnkMax="53.8539" />
+    <txt desc="A small forest track in a mountain region with a short and easy on-pipe part and a few other stunt elements." />
+    <adv ice="While the stunt elements aren&apos;t that difficult, be careful of the trees which are close to the road." />
+    <P pos="92.5708 0 -2.74612" w="9.976" a="0" ar="0" aT="2" mtr="1" chkR="1" ckL="2" />
+    <P pos="125.361 0 -2.58635" w="7" aT="2" mtr="1" chkR="2.5" />
+    <P pos="172.307 0 -17.2239" w="7" aT="2" mtr="1" />
+    <P pos="186.042 0 -61.0879" w="7" aT="2" mtr="1" />
+    <P pos="186.625 0 -90.7183" w="7" aT="2" mtr="1" chkR="2.328" />
+    <P pos="171.881 0 -131.628" w="7" aT="2" mtr="1" />
+    <P pos="131.919 0 -170.972" w="8.688" aT="2" mtr="1" chkR="2.5" />
+    <P pos="51.9775 0 -196.728" w="23.9956" aT="2" mtr="1" />
+    <P pos="-6.38314 0 -196.918" w="26.2011" aT="2" mtr="1" />
+    <P pos="-45.7252 0 -176.684" w="12.7111" aT="2" mtr="1" />
+    <P pos="-75.6298 0 -115.377" w="11.6478" aT="2" mtr="1" chkR="1.688" />
+    <P pos="-78.7313 0 -75.7151" w="11.423" a="0" ar="1.581" aT="2" mtr="1" />
+    <P pos="-72.2737 25.545 -43.9888" w="16.937" onTer="0" a="11.64" ar="5.22" aT="2" mtr="-1" />
+    <P pos="-79.3895 32.8828 -33.9425" w="7" onTer="0" a="0" ar="0" aT="2" mtr="-1" />
+    <P pos="-62.667 27.8987 -22.0762" w="9.19999" onTer="0" a="-9.24" ar="0" aT="2" />
+    <P pos="-45.3991 0 22.8549" w="7" a="0" ar="7.01101" aT="2" />
+    <P pos="-28.3983 0 65.7703" w="7" aT="2" />
+    <P pos="-18.1918 0 150.142" w="7" aT="2" chkR="2.5" />
+    <P pos="-38.2741 0 178.778" w="7" aT="2" />
+    <P pos="-65.4752 0 190.667" w="12.785" a="0" ar="0" aT="2" col="0" wall="-1" chkR="1" onP="2" />
+    <P pos="-114.48 -17.0598 179.823" w="12.728" onTer="0" a="0" ar="0" aT="2" col="0" pipe="1" wall="-1" onP="2" />
+    <P pos="-151.602 -17.0598 156.109" w="12.728" onTer="0" a="0" ar="0" aT="2" col="0" pipe="1" wall="-1" onP="2" />
+    <P pos="-182.719 0 113.54" w="9.416" a="0" ar="0" aT="2" chkR="1" />
+    <P pos="-169.826 0 41.232" w="7.736" aT="2" />
+    <P pos="-159.992 0 -13.6101" w="7.92" a="0" ar="5.76" aT="2" chkR="1" />
+    <P pos="-130.481 8.21528 -35.7843" w="8.23022" onTer="0" a="-23.4745" ar="9.07947" aT="2" />
+    <P pos="-98.4988 0 -46.2904" w="7" a="0" ar="0" aT="2" />
+    <P pos="-69.292 0 -53.5613" w="7" aT="2" chkR="1.712" />
+    <P pos="-7.68198 0 -68.3614" w="10.296" a="0" ar="6.312" aT="2" mtr="1" chkR="1" ckL="2" />
+    <P pos="33.6387 33.8221 -70.1311" w="10.472" onTer="0" a="-351.949" ar="17.6191" aT="2" col="0" mtr="1" />
+    <P pos="61.8133 47.44 -67.3317" w="10.472" onTer="0" a="-344.449" ar="32.3791" aT="2" col="0" mtr="1" />
+    <P pos="79.2381 62.5638 -60.363" w="10.472" onTer="0" a="70.695" ar="388.506" aT="2" col="0" mtr="1" />
+    <P pos="79.979 79.657 -47.2159" w="10.472" onTer="0" a="-217.168" ar="-8.47521" aT="2" col="0" mtr="1" />
+    <P pos="69.1453 84.8878 -34.7933" w="10.472" onTer="0" a="-212.008" ar="-13.8752" aT="2" col="0" mtr="1" />
+    <P pos="58.1339 72.3208 -20.5046" w="10.472" onTer="0" a="-254.19" ar="-16.0867" aT="2" col="0" mtr="1" />
+    <P pos="60.0064 59.2439 -10.0421" w="10.472" onTer="0" a="40.1826" ar="-22.5913" aT="2" col="0" mtr="1" />
+    <P pos="71.2333 47.238 -5.61857" w="10.472" onTer="0" a="6.4026" ar="-24.8113" aT="2" mtr="1" />
+</SplineRoad>
