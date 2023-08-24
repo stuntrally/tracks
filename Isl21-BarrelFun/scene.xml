@@ -1,7 +1,7 @@
 <scene>
-    <ver num="2801" baseTrk="AdapterIslands2" secEd="155526" />
+    <ver num="2801" baseTrk="AdapterIslands2" secEd="155729" />
     <car tires="0" damage="0.311828" road1mtr="0" />
-    <start pos="710.351 173.109 91.3654" rot="-0.0186272 0.00483936 -0.862518 -0.50583" pos2="0 0 0" rot2="0 0 0 1" />
+    <start pos="710.351 173.109 91.4581" rot="-0.00278962 -0.00322098 -0.882212 -0.471021" pos2="0 0 0" rot2="0 0 0 1" />
     <sound ambient="" reverbs="Canyon" />
     <sky material="sky/dust" />
     <fog color="0.166 0.419 0.846 0.815 0.000" color2="0.166 0.432 0.846 0.789 0.000" linStart="314.839" linEnd="1418.28" />
@@ -60,7 +60,7 @@
         <layer on="0" name="rock46grayWhite2.mesh" dens="0.027527" minScale="0.7" maxScale="1.2" ofsY="0" addTrRdDist="4" maxRdist="20" windFx="0" windFy="0" maxTerAng="41.5822" minTerH="40.6452" maxTerH="150" maxDepth="3.14129" />
         <layer on="1" name="rock04can2flat.mesh" dens="0.0396388" minScale="0.7" maxScale="1.2" ofsY="0" addTrRdDist="2" maxRdist="20" windFx="0" windFy="0" maxTerAng="34" minTerH="-100" maxTerH="150" maxDepth="1" />
     </paged>
-    <cam pos="221.028 -23.6892 -255.868" dir="0.908782 0.37689 0.179079" />
+    <cam pos="771.046 163.383 -385.03" dir="-0.778174 -0.17562 0.602995" />
     <objects>
         <o name="wooden_barrel_big" pos="654.453 233.635 89.6706" rot="0.989284 -0.143605 0.0204574 0.0166365" />
         <o name="wooden_barrel_big" pos="656.014 234.459 89.6936" rot="0.96699 -0.247304 0.043576 0.0432677" />
