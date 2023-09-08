@@ -1,0 +1,131 @@
+<scene>
+	<ver num="2600" baseTrk="Des16-AsphaltJumps" secEd="4723" />
+	<car tires="0" />
+	<start pos="-95.0068 -168.957 14.4924" rot="-0.0282109 -0.050448 0.158888 -0.985641" />
+	<sound ambient="" reverbs="Desert" />
+	<sky material="sky/light_blue" />
+	<fog color="0.556 0.120 1.000 1.000 0.000" color2="0.556 0.120 1.000 1.000 0.000" linStart="177.013" linEnd="1044.01" />
+	<fogH color="0.586 0.270 1.000 1.000 0.000" height="-300" dens="100" linStart="0" linEnd="400" />
+	<light pitch="18.7218" yaw="66.6" ambient="0.167 0.083 0.600 1.000 0.000" diffuse="0.167 0.167 1.200 1.000 0.000" specular="0.167 0.020 0.990 1.000 0.000" />
+	<fluids />
+	<terrain size="513" triangle="2" errNorm="1.70">
+		<texture on="1" file="desert_sand_d.jpg" fnorm="desert_sand_n.jpg" scale="25.9194" surf="DesertFast" dust="0.6" dustS="1" mud="0.1" smoke="0" tclr="0.167 0.826 0.460 0.700 0.000" angMin="0" angMax="17.4757" angSm="7.34694" hMin="-36.0902" hMax="300" hSm="20" nOn="0" noise="0.565854" n_1="0" n2="0">
+			<noise frq0="22.2" oct0="3" prs0="0.3" pow0="1.5" frq1="28.5" oct1="3" prs1="0.4" pow1="1.2" />
+		</texture>
+		<texture on="1" file="desert_sand_big_d.jpg" fnorm="desert_sand_big_n.jpg" scale="9.51866" surf="DesertFast" dust="0.9" dustS="1" mud="0.1" smoke="0" tclr="0.158 0.833 0.480 0.700 0.000" angMin="22.2816" angMax="90" angSm="7.34694" hMin="-147.704" hMax="280.263" hSm="20.8861" nOn="0" noise="0.526829" n_1="0.209756" n2="0">
+			<noise frq0="26.2" oct0="3" prs0="0.3" pow0="1.5" frq1="31.5" oct1="3" prs1="0.4" pow1="1.2" />
+		</texture>
+		<texture on="1" file="mntn_black_d.jpg" fnorm="mntn_black_n.jpg" scale="30.02" surf="Rocks" dust="0.3" dustS="0.2" mud="0.5" smoke="0" tclr="0.000 0.000 0.320 0.400 0.000" angMin="13.9806" angMax="16.3796" angSm="20" hMin="-150" hMax="-14.0977" hSm="6.61938" nOn="0" triplanar="1" noise="0.065644" n_1="0.273171" n2="0">
+			<noise frq0="30.2" oct0="3" prs0="0.3" pow0="1.5" frq1="34.5" oct1="3" prs1="0.4" pow1="1.2" />
+		</texture>
+		<texture on="0" file="" fnorm="" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.167 1.000 0.200 1.000 0.000" angMin="31.7647" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
+			<noise frq0="34.2" oct0="3" prs0="0.3" pow0="1.5" frq1="37.5" oct1="3" prs1="0.4" pow1="1.2" />
+		</texture>
+		<texture on="0" file="" fnorm="" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.167 1.000 0.200 1.000 0.000" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
+			<noise frq0="38.2" oct0="3" prs0="0.3" pow0="1.5" frq1="40.5" oct1="3" prs1="0.4" pow1="1.2" />
+		</texture>
+		<texture on="0" file="" fnorm="" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.167 1.000 0.200 1.000 0.000" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
+			<noise frq0="42.2" oct0="3" prs0="0.3" pow0="1.5" frq1="43.5" oct1="3" prs1="0.4" pow1="1.2" />
+		</texture>
+		<texture road="1" surf="roadDesert" dust="0.4" dustS="0.9" mud="0" smoke="0" tclr="0.147 0.486 0.700 0.700 0.000" />
+		<texture road="2" surf="roadDesert" dust="0.4" dustS="0.9" mud="0" smoke="0" tclr="0.147 0.486 0.700 0.700 0.000" />
+		<texture road="3" surf="Asphalt" dust="0" dustS="0.9" mud="0" smoke="0" tclr="0.000 0.000 0.000 0.000 0.000" />
+		<texture road="4" surf="Default" dust="0" dustS="0.2" mud="0" smoke="0" tclr="0.160 0.500 0.200 0.700 0.000" />
+		<par dust="Dust" mud="Mud" smoke="Smoke" />
+	</terrain>
+	<paged densGrass="0.0249307" densTrees="0.3" grPage="160" grDist="160" grDensSmooth="4" trPage="200" trDist="200" trDistImp="1200" trRdDist="2">
+		<grass on="1" mtr="grass4v" clr="grClrDesert.png" dens="0.00951219" chan="0" minSx="1.8194" maxSx="2.79743" minSy="1.22276" maxSy="2.26148" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
+		<grass on="1" mtr="grass19" clr="grClrJungle.png" dens="0.0761433" chan="0" minSx="1.68347" maxSx="2.21088" minSy="1.8886" maxSy="2.28213" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
+		<grass on="1" mtr="grassDesert" clr="grClrDesert.png" dens="0.115442" chan="0" minSx="1.45854" maxSx="1.6173" minSy="0.773497" maxSy="1.03425" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
+		<grass on="0" mtr="grass12y-" clr="grClrDark3.png" dens="0.0788306" chan="0" minSx="1.48959" maxSx="1.73366" minSy="1.32315" maxSy="1.53682" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
+		<grass on="0" mtr="grass17r" clr="grClrJungle.png" dens="0.0763985" chan="0" minSx="2.22858" maxSx="3.05965" minSy="1.56344" maxSy="1.9049" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
+		<grass on="0" mtr="grass20p" clr="grClrJungle.png" dens="0.0531927" chan="0" minSx="1.14301" maxSx="1.36477" minSy="1.46229" maxSy="2.02105" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
+		<gchan amin="0" amax="6.54987" asm="3.2098" hmin="-200" hmax="39.3443" hsm="6.8112" ns="0" frq="25" oct="3" prs="0.3" pow="1.2" rd="2.78167" />
+		<gchan amin="0" amax="30" asm="20" hmin="-100" hmax="100" hsm="20" ns="0" frq="37" oct="3" prs="0.3" pow="1.2" rd="0" />
+		<gchan amin="0" amax="30" asm="20" hmin="-100" hmax="100" hsm="20" ns="0" frq="49" oct="3" prs="0.3" pow="1.2" rd="0" />
+		<gchan amin="0" amax="30" asm="20" hmin="-100" hmax="100" hsm="20" ns="0" frq="61" oct="3" prs="0.3" pow="1.2" rd="0" />
+		<layer on="0" name="palm2.mesh" dens="0.0333369" minScale="2.34226" maxScale="3.31033" ofsY="0" addTrRdDist="3" maxRdist="20" windFx="0.295773" windFy="0.114733" maxTerAng="30.0341" minTerH="-10" maxTerH="3" maxDepth="0" />
+		<layer on="0" name="palm.mesh" dens="0.0382422" minScale="1.78362" maxScale="2.40035" ofsY="0" addTrRdDist="3" maxRdist="20" windFx="0.599994" windFy="0.00999496" maxTerAng="15.0691" minTerH="-10" maxTerH="3" maxDepth="0" />
+		<layer on="1" name="rock_Y01.mesh" dens="0.0416493" minScale="0.813714" maxScale="1.27303" ofsY="0" addTrRdDist="5" maxRdist="100" windFx="7.29999" windFy="0.0599931" maxTerAng="19.1911" minTerH="-11.9266" maxTerH="29.3578" maxDepth="0" />
+		<layer on="1" name="rock_Y02.mesh" dens="0.0317223" minScale="0.57285" maxScale="1.51526" ofsY="0" addTrRdDist="5" maxRdist="100" windFx="0" windFy="0" maxTerAng="34.6848" minTerH="-22.2018" maxTerH="31.5596" maxDepth="5" />
+		<layer on="1" name="cactus.mesh" dens="0.0372297" minScale="0.423559" maxScale="0.591328" ofsY="0" addTrRdDist="0" maxRdist="20" windFx="0" windFy="0" maxTerAng="26.369" minTerH="-22" maxTerH="17.2477" maxDepth="0" />
+		<layer on="0" name="treeD-34desTiny.mesh" dens="0.0150235" minScale="1.21804" maxScale="1.51159" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0.134303" windFy="0.0049742" maxTerAng="25.7687" minTerH="-22" maxTerH="3" maxDepth="0" />
+		<layer on="1" name="treeD-22desMed.mesh" dens="0.0135087" minScale="1.30169" maxScale="1.57545" ofsY="0" addTrRdDist="4" maxRdist="100" windFx="0.318349" windFy="0.0054261" maxTerAng="26.8356" minTerH="-22" maxTerH="3" maxDepth="0" />
+		<layer on="0" name="tree.07.mesh" dens="0.0408248" minScale="0.849991" maxScale="1.15" ofsY="0" addTrRdDist="8" maxRdist="20" windFx="0.699996" windFy="0.0099953" maxTerAng="15.7209" minTerH="-10" maxTerH="3" maxDepth="0" />
+		<layer on="0" name="" dens="0.0999996" minScale="0.0999994" maxScale="0.249994" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-10" maxTerH="10" maxDepth="5" />
+		<layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5" />
+	</paged>
+	<cam pos="182.324 15.6917 312.038" dir="-0.925375 -0.0485375 -0.376068" />
+	<objects>
+		<o name="big_tire" pos="-22.3928 -224.98 -2.44511" rot="9.64535e-006 0.999579 0.0137156 -0.0255725" />
+		<o name="big_tire" pos="-27.5934 -223.088 -2.15741" rot="0.00503472 0.999674 0.00866832 -0.0234807" />
+		<o name="big_tire" pos="-32.4723 -219.98 -1.87671" rot="-0.00823189 0.999621 0.0121546 -0.0233003" />
+		<o name="big_tire" pos="30.6939 -232.929 -5.90602" rot="0.0198052 0.998284 -0.0550497 -0.00268386" />
+		<o name="big_tire" pos="21.4368 -228.864 -6.15918" rot="-0.0505834 0.995114 -0.0787176 -0.0315091" />
+		<o name="big_tire" pos="13.2371 -226.399 -5.98924" rot="-0.0889199 0.99058 -0.088988 -0.0540853" />
+		<o name="big_tire" pos="141.74 -308.094 9.65928" rot="-0.0639898 0.992589 -0.0582211 -0.0853438" />
+		<o name="big_tire" pos="135.058 -304.631 9.90685" rot="0.0015436 0.997689 -0.0641559 -0.0223442" />
+		<o name="big_tire" pos="149.36 -302.069 6.52023" rot="-0.196925 0.961569 -0.0715917 -0.177424" />
+		<o name="big_tire" pos="195.774 -336.315 -1.40788" rot="-0.0461821 0.984128 -0.134383 -0.106302" />
+		<o name="big_tire" pos="242.244 -223.088 0.064953" rot="-0.00764085 0.999692 0.00842727 -0.0220416" />
+		<o name="big_tire" pos="245.163 -237.474 -0.134769" rot="0.00649116 0.999895 -0.00428204 -0.0122499" />
+		<o name="big_tire" pos="243.346 -230.451 -0.061556" rot="0.00390254 0.999714 0.00492579 -0.0230934" />
+		<o name="big_tire" pos="247.74 -186.42 1.13668" rot="-0.132629 0.991136 0.00636738 -0.00430822" />
+		<o name="big_tire" pos="251.001 -182.456 1.05197" rot="-0.00315455 0.99971 -0.0202757 -0.0125698" />
+		<o name="big_tire" pos="253.845 -179.263 0.799342" rot="-0.0206546 0.998773 -0.0415243 -0.0173633" />
+		<o name="big_tire" pos="287.929 -98.34 -2.73767" rot="-0.0251354 0.990185 0.0520112 -0.127268" />
+		<o name="big_tire" pos="289.121 -102.756 -3.5215" rot="-0.0466442 0.989877 0.0669521 -0.116126" />
+		<o name="big_tire" pos="289.487 -134.916 -6.74876" rot="-0.00333105 0.999866 -0.0153301 -0.00464917" />
+		<o name="big_tire" pos="288.218 -142.078 -6.28105" rot="-0.018569 0.998759 -0.0456834 0.00692142" />
+		<o name="big_tire" pos="219.049 -40.7045 6.84399" rot="0.0125687 0.99797 0.0615803 -0.0102856" />
+		<o name="big_tire" pos="224.141 -46.2877 5.7988" rot="0.0217176 0.995395 0.0896191 -0.0261773" />
+		<o name="big_tire" pos="130.041 66.7133 10.114" rot="-0.0137931 0.994913 -0.0901084 0.0428791" />
+		<o name="big_tire" pos="122.48 75.4385 8.23294" rot="-0.0408026 0.997301 -0.0512732 0.0331177" />
+		<o name="big_tire" pos="117.421 83.9524 7.33628" rot="0.0126039 0.998947 -0.00668139 0.0436015" />
+		<o name="big_tire" pos="-91.1522 27.7551 17.5041" rot="-0.0262756 0.995339 -0.0903435 0.0211712" />
+		<o name="big_tire" pos="-86.1253 -6.51612 19.5008" rot="0.0379941 0.999175 -0.00392163 0.0137614" />
+		<o name="big_tire" pos="-70.5856 -30.0323 18.9369" rot="-0.0343274 0.995388 0.0895323 0.0027611" />
+		<o name="big_tire" pos="-38.7596 -34.4957 13.2347" rot="0.0544138 0.986028 0.0513714 -0.148824" />
+		<o name="big_tire" pos="-42.1944 -23.9551 14.1995" rot="-0.0584584 0.988388 -0.0588276 -0.127326" />
+		<o name="big_tire" pos="3.65435 -25.191 3.86633" rot="0.0200634 0.990565 0.0957419 -0.0959778" />
+		<o name="big_tire" pos="-4.79396 -21.6593 6.09878" rot="-0.071371 0.99036 0.0863768 -0.0814341" />
+		<o name="big_tire" pos="27.638 -52.8489 0.854563" rot="0.002714 0.99277 -0.117099 0.026239" />
+		<o name="big_tire" pos="-19.0889 -99.0894 -2.37601" rot="0.00197886 0.997697 0.0466191 0.0492265" />
+		<o name="big_tire" pos="-22.0914 -90.0728 -1.82026" rot="0.000534702 0.999708 0.0236686 -0.00483185" />
+		<o name="big_tire" pos="-74.4638 -102.431 -0.633735" rot="0.128638 0.990578 -0.00316891 -0.0468769" />
+		<o name="big_tire" pos="-78.9122 -100.951 -0.22421" rot="0.0133713 0.99887 -0.00686098 -0.0450809" />
+		<o name="big_tire" pos="-84.3367 -98.4338 0.0636297" rot="0.0570411 0.99778 -0.0276632 -0.0204161" />
+		<o name="big_tire" pos="-211.883 -87.6661 -8.69238" rot="0.00487532 0.998386 -0.0483704 -0.0293612" />
+		<o name="big_tire" pos="-213.004 -94.8346 -7.75194" rot="-0.0271152 0.996493 -0.0715226 -0.0339204" />
+		<o name="big_tire" pos="-211.737 -100.874 -6.85459" rot="-0.0240699 0.996216 -0.0831147 -0.00817044" />
+		<o name="big_tire" pos="-187.199 -124.748 0.439776" rot="-0.00464642 0.989978 -0.127012 0.0615633" />
+		<o name="big_tire" pos="-196.151 -131.933 0.302528" rot="-0.00344519 0.990949 -0.0702154 0.114355" />
+		<o name="big_tire" pos="-157.157 -162.578 9.89538" rot="-0.0231211 0.993807 -0.104774 0.0289075" />
+		<o name="big_tire" pos="-164.026 -158.333 8.58924" rot="-0.0225363 0.995378 -0.0855159 0.0374468" />
+		<o name="big_tire" pos="-93.8806 -174.17 13.401" rot="-0.105338 0.989957 0.0926315 -0.0175697" />
+		<o name="big_tire" pos="-96.1068 -164.247 14.0442" rot="-0.116836 0.991653 -0.0340008 -0.042634" />
+		<o name="big_tire" pos="-98.4213 -173.209 13.7657" rot="0.0538533 0.995273 0.0788016 -0.0179276" />
+		<o name="big_tire" pos="-89.3985 -177.585 12.4331" rot="-0.0863309 0.990582 0.101472 -0.0315907" />
+		<o name="big_tire" pos="-84.4469 -167.273 12.5339" rot="0.480524 0.870955 -0.0740783 -0.0710415" />
+		<o name="big_tire" pos="-93.2958 -165.216 13.8262" rot="0.00614529 0.997384 -0.0372339 -0.0616582" />
+		<o name="big_tire" pos="-90.6969 -166.391 13.5615" rot="-0.0407567 0.995938 -0.0307419 -0.0741677" />
+		<o name="big_tire" pos="-87.772 -167.268 13.1524" rot="-0.00672473 0.995308 -0.031456 -0.0912594" />
+		<o name="big_tire" pos="-95.9363 -173.773 13.5798" rot="0.146124 0.985351 0.0793941 -0.0377769" />
+		<o name="big_tire" pos="-95.4992 -161.951 13.8021" rot="-0.0277021 0.996663 -0.0565471 -0.0519431" />
+		<o name="big_tire" pos="-98.9951 -175.576 13.3553" rot="-0.0400737 0.99465 0.0948349 -0.00843894" />
+		<o name="big_tire" pos="-91.3405 -175.563 12.981" rot="0.0267918 0.994985 0.0872679 -0.0408709" />
+		<o name="big_tire" pos="83.7469 163.598 16.9023" rot="0.0788684 0.996829 -0.00953521 0.00448862" />
+		<o name="big_tire" pos="88.2686 160.627 16.9853" rot="0.00162257 0.999938 -0.0108323 -0.00190591" />
+		<o name="big_tire" pos="92.859 156.912 17.0127" rot="-0.00298672 0.999937 -0.0050922 -0.00955487" />
+		<o name="big_tire" pos="-95.2502 147.495 10.5536" rot="-0.0184134 0.996174 0.046393 0.0717371" />
+		<o name="big_tire" pos="-88.2417 155.306 12.2353" rot="0.0050552 0.996064 0.0380246 0.0799122" />
+		<o name="big_tire" pos="-77.8976 161.757 14.6489" rot="0.0112315 0.994207 0.0384687 0.0997314" />
+		<o name="big_tire" pos="-84.1212 158.413 13.1839" rot="0.000476212 0.995292 0.0367126 0.089696" />
+		<o name="big_tire" pos="-92.0069 151.197 11.3368" rot="0.00394286 0.996546 0.0396567 0.072852" />
+		<o name="big_tire" pos="-98.2217 142.536 9.57097" rot="0.0204622 0.99491 0.0655999 0.0737057" />
+		<o name="big_tire" pos="-169.232 -43.3354 1.27899" rot="0.00055846 0.996344 0.0664418 0.0537015" />
+		<o name="big_tire" pos="-174.58 -45.1049 0.264298" rot="0.0261056 0.993215 0.0752532 0.0847303" />
+		<o name="big_tire" pos="-163.351 -43.144 1.75514" rot="0.0205212 0.996704 0.0761123 0.0191818" />
+		<o name="big_tire" pos="-158.101 -43.9914 1.68628" rot="-0.00259529 0.996251 0.086436 -0.0024211" />
+	</objects>
+</scene>
