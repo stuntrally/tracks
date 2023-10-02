@@ -1,0 +1,27 @@
+<SplineRoad>
+    <mtr type="1" road="River_milky_cyan" pipe="pipeGlass" road2="River_milky_white" />
+    <dim tcMul="0.0102716" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="8" heightOfs="0.1" />
+    <mrg loop="0" skirtLen="1" skirtH="0.12" merge="1" mergeLen="180" lodPntLen="10" visDist="1000" visBehind="800" />
+    <geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1.5 5 12" iDir="-1" iChk1="0" />
+    <stats length="667.279" width="10.208" height="34.7319" onTer="100" pipes="0" bnkAvg="0" bnkMax="0" />
+    <txt desc="" />
+    <adv ice="" />
+    <P pos="37.5014 -1.19371 -319.344" w="13.48" onTer="0" a="0" ar="0" aT="2" mtr="1" />
+    <P pos="23.4351 8.91047 -319.187" w="13.448" onTer="0" a="0" ar="0" aT="2" mtr="1" />
+    <P pos="-28.4668 13.2045 -328.362" w="10.76" onTer="0" a="0" ar="0" aT="2" mtr="1" />
+    <P pos="-28.3103 11.2303 -328.517" w="7" onTer="0" a="0" ar="0" aT="2" mtr="-1" />
+    <P pos="-107.152 6.1115 -295.242" w="7" onTer="0" a="0" ar="0" aT="2" mtr="1" />
+    <P pos="-109.572 14.3667 -292.917" w="10.48" onTer="0" a="0" ar="0" aT="2" mtr="1" />
+    <P pos="-118.382 32.7178 -281" w="21.144" onTer="0" a="0" ar="0" aT="2" mtr="1" />
+    <P pos="-150.942 30.7222 -237.127" w="19.344" onTer="0" a="0" ar="0" aT="2" mtr="-1" />
+    <P pos="-177.137 34.15 -193.681" w="7" onTer="0" a="0" ar="0" aT="2" mtr="-1" />
+    <P pos="-176.708 61.3235 -138.836" w="7" onTer="0" a="0" ar="0" aT="2" mtr="-1" />
+    <P pos="-164.439 47.7534 -82.1544" w="7" onTer="0" a="0" ar="0" aT="2" mtr="-1" />
+    <P pos="-245.453 39.9907 -35.91" w="7" onTer="0" a="0" ar="0" aT="2" mtr="-1" />
+    <P pos="-260.241 47.7047 -14.4184" w="7" onTer="0" a="0" ar="0" aT="2" mtr="-1" />
+    <P pos="-261.741 20.1034 11.7994" w="7" onTer="0" a="0" ar="0" aT="2" />
+    <P pos="-261.013 21.5971 24.22" w="9.504" onTer="0" a="0" ar="0" aT="2" />
+    <P pos="-257.514 27.273 40.7094" w="9.496" onTer="0" a="0" ar="0" aT="2" />
+    <P pos="-256.441 27.9657 56.5536" w="10.416" onTer="0" a="0" ar="0" aT="2" />
+    <P pos="-257.316 26.5673 71.4199" w="7" onTer="0" a="0" ar="0" aT="2" />
+</SplineRoad>
