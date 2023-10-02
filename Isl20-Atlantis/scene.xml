@@ -1,15 +1,16 @@
 <scene>
-    <ver num="2701" baseTrk="" secEd="36431" />
+    <ver num="2801" baseTrk="" secEd="41199" />
     <car tires="0" damage="0.497041" gravity="9.03215" />
-    <start pos="-26.1124 -133.116 3.39046" rot="-0.00100404 -0.0101626 -0.0983171 0.995105" pos2="0 0 0" rot2="0 0 0 1" />
+    <start pos="-26.1096 -133.194 -4.2368" rot="-0.00167197 -0.0100738 -0.032475 0.999424" pos2="0 0 0" rot2="0 0 0 1" />
     <sound ambient="" reverbs="Islands" />
     <sky material="sky/dayovercast" rainName="RainFast" rainEmit="2551" rain2Name="RainHeavy" rain2Emit="935" windAmt="0.340081" />
     <fog color="0.558 0.222 0.900 1.213 0.000" color2="0.583 0.400 0.500 0.789 0.000" linStart="26.6272" linEnd="545.526" />
     <fogH color="0.531 0.702 0.528 1.131 0.000" height="-12.1458" dens="7.0883" linStart="0" linEnd="93.8304" />
     <light pitch="31.8316" yaw="132.366" ambient="0.598 0.657 0.700 1.000 0.000" diffuse="0.617 0.250 0.800 1.000 0.000" specular="0.567 0.100 1.000 1.000 0.000" />
     <fluids>
-        <fluid name="water blue" pos="-39.9663 -1.3538 -6.53192" rot="0 0 0" size="1469.09 72.4644 1214.95" tile="0.01 0.01" />
+        <fluid name="water clear green" pos="-35.163 -1.3538 -13.953" rot="0 0 0" size="2126.69 72.4644 1949.46" tile="0.01 0.01" />
         <fluid name="water moss" pos="113.661 -18.0288 95.3729" rot="0 0 0" size="1354.39 20 917.116" tile="0.01 0.0113015" />
+        <fluid name="mud cyan soft" pos="158.357 11.7992 304.36" rot="0 0 0" size="56.1644 20.0644 49.7799" tile="0.01 0.01" />
     </fluids>
     <terrain size="513" triangle="1.44075" errNorm="10.13">
         <texture on="1" file="island_sand_d.jpg" fnorm="desert_sand_n.jpg" scale="8.90945" surf="DesertFast" dust="0.05" dustS="0.0217391" mud="0" smoke="0" tclr="0.238 0.360 0.781 0.508 0.000" angMin="0" angMax="21.2857" angSm="8.57637" hMin="-300" hMax="300" hSm="20.7531" nOn="0" noise="0.66358" n_1="0" n2="0">
@@ -36,15 +37,15 @@
         <texture road="4" surf="roadGravel" dust="0" dustS="0.2" mud="0" smoke="0" tclr="0.646 0.348 0.460 0.800 0.000" />
         <par dust="DustSmall" mud="DustW" smoke="Smoke" />
     </terrain>
-    <paged densGrass="1.2" densTrees="0.553689" grPage="100" grDist="100" grDensSmooth="6" trPage="150" trDist="150" trDistImp="800" trRdDist="1">
-        <grass on="1" mtr="grassDesert" clr="grClrAustralia.png" dens="0.0207653" chan="1" minSx="1.33757" maxSx="2.21088" minSy="0.987834" maxSy="1.44814" swayDistr="0.23" swayLen="1" swaySpeed="0.4" />
-        <grass on="0" mtr="grass18gw" clr="grClrUnidentified.png" dens="0.112111" chan="0" minSx="1.63366" maxSx="2.08978" minSy="1.80207" maxSy="2.08978" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
-        <grass on="1" mtr="grass3g" clr="grClrUnidentified.png" dens="0.235885" chan="0" minSx="1.18105" maxSx="1.53682" minSy="1.47402" maxSy="1.78484" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
-        <grass on="1" mtr="grass5" clr="grClrJungle.png" dens="0.143275" chan="0" minSx="0.875799" maxSx="1.38244" minSy="0.947375" maxSy="1.18105" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
-        <grass on="1" mtr="grass15g" clr="grClrUnidentified.png" dens="0.391625" chan="0" minSx="1.07368" maxSx="1.33784" minSy="0.996847" maxSy="1.35262" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
+    <paged densGrass="0.91155" densTrees="0.364182" grPage="100" grDist="100" grDensSmooth="6" trPage="150" trDist="150" trDistImp="800" trRdDist="1">
+        <grass on="1" mtr="seaweedTall03" clr="grClrJungle.png" dens="0.201263" chan="1" minSx="2.6" maxSx="4.6" minSy="3.4" maxSy="6" swayDistr="0.23" swayLen="1" swaySpeed="0.4" />
+        <grass on="0" mtr="grass12s" clr="grClrUnidentified.png" dens="0.112111" chan="1" minSx="1.07" maxSx="2.69" minSy="1.03" maxSy="1.67" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
+        <grass on="1" mtr="grass3g" clr="grClrUnidentified.png" dens="0.196005" chan="0" minSx="1.18105" maxSx="1.53682" minSy="1.47402" maxSy="1.78484" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
+        <grass on="1" mtr="seaweed02" clr="grClrJungle.png" dens="0.247803" chan="1" minSx="1.8" maxSx="2.1" minSy="1.78238" maxSy="2.27013" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
+        <grass on="1" mtr="grass15g" clr="grClrUnidentified.png" dens="0.232382" chan="0" minSx="1.07368" maxSx="1.33784" minSy="0.996847" maxSy="1.35262" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
         <grass on="0" mtr="grass16g" clr="grClrJungle.png" dens="0.1" chan="0" minSx="1.6173" maxSx="1.99746" minSy="2.20346" maxSy="2.52204" swayDistr="4" swayLen="0.2" swaySpeed="0.5" />
         <gchan amin="0" amax="30" asm="8" hmin="6" hmax="200" hsm="3" ns="0" frq="25" oct="3" prs="0.3" pow="1.2" rd="1.01348" />
-        <gchan amin="0" amax="30" asm="20" hmin="-100" hmax="100" hsm="20" ns="0" frq="31" oct="3" prs="0.3" pow="1.2" rd="0" />
+        <gchan amin="0" amax="20.9348" asm="6.59003" hmin="-100" hmax="-7.4" hsm="0" ns="1.34921" frq="9.95041" oct="3" prs="0.309524" pow="0.585185" rd="0" />
         <gchan amin="0" amax="30" asm="20" hmin="-100" hmax="100" hsm="20" ns="0" frq="37" oct="3" prs="0.3" pow="1.2" rd="0" />
         <gchan amin="0" amax="30" asm="20" hmin="-100" hmax="100" hsm="20" ns="0" frq="43" oct="3" prs="0.3" pow="1.2" rd="0" />
         <layer on="1" name="tree.07.mesh" dens="1" minScale="0.511398" maxScale="1.41592" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="2.06896" windFy="0.0363386" maxTerAng="30.1527" minTerH="-23.3498" maxTerH="5.6872" maxDepth="0" />
@@ -105,7 +106,7 @@
         <o name="maur_boat" pos="-162.562 203.091 -5.80376" rot="0.0510527 -0.689405 -0.721923 0.0293447" sc="1.12712 1.12712 1.12712" />
         <o name="maur_boat" pos="-159.307 204.595 -6.87304" rot="-0.128319 -0.955932 0.0116873 -0.263665" />
         <o name="kart_fortress2" pos="-153.061 207.72 -5.28618" rot="-0.643961 -0.764011 -0.0394994 0.000417321" />
-        <o name="maur_ship" pos="-117.399 193.765 -3.69999" rot="-0.465188 -0.541494 -0.539608 -0.446262" />
+        <o name="maur_ship" pos="-117.491 193.667 -3.82792" rot="-0.488967 -0.520068 -0.561606 -0.418306" />
         <o name="wooden_barrel_big" pos="-147.188 207.88 -3.39192" rot="-0.0277545 0.997593 0.0417644 0.0478907" />
         <o name="wooden_barrel_big" pos="-146.993 209.101 -3.33458" rot="0.727491 0.102381 -0.645404 -0.209112" />
         <o name="wooden_barrel_big" pos="-142.286 210.594 -2.80716" rot="0.00303696 0.999451 0.0255683 0.020838" />
@@ -139,7 +140,7 @@
         <o name="kart_wall_long" pos="-58.915 86.4961 -14.3213" rot="-0.829105 0.553078 -0.0772551 -0.0248562" sc="1.07508 1.07508 0.99891" />
         <o name="kart_wall_long" pos="-69.2629 82.1327 -15.0464" rot="-0.829105 0.553078 -0.0772551 -0.0248562" sc="1.07508 1.07508 0.99891" />
         <o name="kart_dock2" pos="-26.6128 127.562 -9.31649" rot="-0.85428 0.518791 -0.00704658 0.0297346" sc="1.07508 1.07508 0.99891" />
-        <o name="kart_dock" pos="-107.87 193.778 -6.75346" rot="-0.968683 0.238945 -0.0540868 -0.0387568" sc="1.07508 1.07508 0.99891" />
+        <o name="kart_dock" pos="-107.793 194.155 -6.95406" rot="-0.969959 0.24012 -0.0212525 -0.030643" sc="1.08409 1.08409 1.00728" />
         <o name="rock_G02" pos="-28.0928 -257.378 15.653" rot="0.00250303 -0.987142 -0.00149584 -0.159787" sc="5.36949 3.54737 5.10124" />
         <o name="rock_G03" pos="-25.1207 -236.023 10.0914" rot="-0.703869 -0.684135 -0.0720898 -0.176905" sc="1.65057 1.65057 1.90763" />
         <o name="rock_G02" pos="24.9607 -275.138 16.5873" rot="0.101162 -0.0212709 -0.050006 -0.993371" sc="5.63897 2.65898 9.54328" />
@@ -156,18 +157,25 @@
         <o name="rock_G03" pos="20.5098 27.6556 -1.5533" rot="0 -0.999573 0 0.0291965" sc="1 1 1.00307" />
         <o name="rock07white2rnd" pos="-28.1229 25.701 0.0344676" rot="-0.0332879 -0.998013 -0.00167865 0.0533285" sc="0.857984 1.13284 0.857984" />
         <o name="rock09tallHarshWh" pos="158.679 177.162 -0.717964" rot="0.0148996 -0.904087 -0.0316283 -0.425903" sc="1.03692 1.08775 1.07553" />
-        <o name="rock08white3tall" pos="123.679 169.984 5.86169" rot="0 -1 0 0" />
+        <o name="rock08white3tall" pos="133.969 160.165 4.38491" rot="0 -1 0 0" />
         <o name="rock06white1flat" pos="-36.5192 -12.1285 3.76394" rot="0 -1 0 0" sc="1 1 1.26602" />
-        <o name="rock_G01" pos="121.552 164.153 5.20652" rot="0.0134359 -0.39171 0.029085 -0.919521" sc="0.976239 0.774784 1.24613" />
+        <o name="rock_G01" pos="121.492 164.047 6.04018" rot="0.0192701 -0.188882 0.0255954 -0.981468" sc="0.976239 0.774784 1.24613" />
         <o name="rock_G01" pos="-9.30278 -261.28 27.3448" rot="0 -1 0 0.000528295" sc="4.2669 4.2669 4.2669" />
         <o name="rock_G01" pos="6.85686 -269.731 17.1262" rot="0.0724109 -0.724936 0.0680822 -0.6816" sc="6.53481 6.53481 6.53481" />
+        <o name="ancient_ruins_white_01" pos="-120.108 -188.557 -3.07271" rot="0.997595 0.0655372 -0.0225569 0.00148188" />
+        <o name="ancient_ruins_white_03" pos="-138.14 -189.267 -2.64092" rot="-0.665014 -0.74683 0 0" />
+        <o name="ancient_ruins_white_04" pos="-73.8819 162.385 -1.88548" rot="0.0971631 -0.995268 0 0" />
+        <o name="ancient_ruins_white_05" pos="-71.879 152.755 -5.40797" rot="-0.790686 -0.397594 0.415922 -0.209145" />
+        <o name="ancient_ruins_white_03" pos="-20.4664 -219.914 -3.70055" rot="0.560849 0.815624 0.0805454 -0.117134" sc="1.66966 1.66966 1.66966" />
+        <o name="ancient_ruins_white_01" pos="194.575 -218.704 -10.8748" rot="-0.997333 -0.0647587 0.0165742 -0.0293156" sc="1.39797 1.39797 1.39797" />
+        <o name="ancient_ruins_white_03" pos="168.715 -216.33 -7.57523" rot="-0.119056 0.9896 -0.0681799 0.0432516" sc="1.39797 1.39797 1.39797" />
     </objects>
     <emitters>
-        <e name="WaterfallLow" pos="19.2507 -20.9731 -48.6383" sc="416.273 44.2593 416.631" up="0 1 0" rot="0.283415" rate="454.489" st="0" />
-        <e name="Electricity" pos="97.8759 22.6411 -192.789" sc="5.06608 4.79171 4.54618" up="0 1 0" rot="0" rate="12.6663" st="0" />
-        <e name="WaterfallLow" pos="-151.849 -5.34527 -121.909" sc="171.605 14.3535 238.107" up="0 1 0" rot="2.58335" rate="184.279" st="0" />
-        <e name="WaterfallLow" pos="60.0298 -18.129 167.702" sc="147.396 43.882 118.153" up="0 1 0" rot="0" rate="58.3183" st="0" />
-        <e name="WaterfallLow" pos="-153.607 -2.07543 -210.801" sc="36.1565 2.0597 28.3384" up="0 1 0" rot="0" rate="10" st="0" />
-        <e name="Waterfall1High" pos="3.98563 -0.316264 268.561" sc="7.15432 3.5969 6.44267" up="0 1 0" rot="0" rate="30.3969" st="0" />
+        <e name="BubblesLarge" pos="19.2507 -31.815 -48.6383" sc="416.273 44.2593 416.631" up="0 1 0" rot="0.283415" rate="454.489" st="0" psc="1" />
+        <e name="Electricity" pos="97.8759 22.6411 -192.789" sc="5.06608 4.79171 4.54618" up="0 1 0" rot="0" rate="12.6663" st="0" psc="1" />
+        <e name="BubblesLarge" pos="-151.849 -8.85991 -121.909" sc="171.605 14.3535 238.107" up="0 1 0" rot="2.58335" rate="184.279" st="0" psc="1" />
+        <e name="BubblesLarge" pos="60.0298 -24.1616 167.702" sc="147.396 43.882 118.153" up="0 1 0" rot="0" rate="58.3183" st="0" psc="1" />
+        <e name="BubblesLarge" pos="-153.607 -2.74479 -210.801" sc="36.1565 2.0597 28.3384" up="0 1 0" rot="0" rate="10" st="0" psc="1" />
+        <e name="Waterfall1High" pos="3.98563 -0.316264 268.561" sc="7.15432 3.5969 6.44267" up="0 1 0" rot="0" rate="30.3969" st="0" psc="1" />
     </emitters>
 </scene>
