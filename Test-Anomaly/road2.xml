@@ -1,0 +1,30 @@
+<SplineRoad>
+    <mtr type="0" road="River_Anomaly_jelly_2" pipe="pipeGlassAnomalySpace" road2="wallP_space_x_anomaly" pipe2="pipeGlassAnomalySpaceDark" road3="wall_mining_truck_anomaly" pipe3="pipeAsphaltAnomalySpaceStreaks" road4="roadMetal2Anomaly" pipe4="pipeAsphaltAnomalyStreaks" wall="pipe_wall_wheel_anomaly" pipeW="wallP_mining_truck_anomaly" col="road_col_wheel_anomaly"/>
+    <dim tcMul="0.1" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="1" widthSteps="8" heightOfs="0.1"/>
+    <mrg loop="1" skirtLen="1" skirtH="0.12" merge="1" mergeLen="180" lodPntLen="10" visDist="1000" visBehind="800"/>
+    <geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1.5 5 12" iDir="-1" iChk1="0"/>
+    <stats length="647.18" width="7" height="27.3331" onTer="76.8558" pipes="39.3662" bnkAvg="5.21367" bnkMax="23.5935"/>
+    <txt desc=""/>
+    <adv ice=""/>
+    <P pos="-37.147 0 -125.728" w="7" aT="2" mtr="2"/>
+    <P pos="-20.335 0 -123.67" w="7" a="0" ar="0" aT="2" mtr="2"/>
+    <P pos="5.87854 10.7001 -111.485" w="7" onTer="0" a="0" ar="0" aT="2" mtr="1"/>
+    <P pos="26.1732 9.35629 -99.1445" w="7" onTer="0" a="0" ar="0" aT="2" mtr="1"/>
+    <P pos="48.7515 9.16034 -76.1831" w="7" onTer="0" a="0" ar="0" aT="2" mtr="1"/>
+    <P pos="65.5537 0 -45.187" w="7" a="0" ar="0" aT="2" mtr="2"/>
+    <P pos="70.5517 0 -2.36469" w="7" aT="2" mtr="3"/>
+    <P pos="57.2583 0 38.9508" w="7" a="0" ar="0" aT="2" mtr="1"/>
+    <P pos="34.6894 17.9317 54.3847" w="7" onTer="0" a="0" ar="0" aT="2" pipe="1" mtr="1"/>
+    <P pos="17.5953 18.8808 66.3679" w="7" onTer="0" a="0" ar="0" aT="2" pipe="1"/>
+    <P pos="-18.3936 21.3651 79.5246" w="7" onTer="0" a="0" ar="0" aT="2" pipe="1"/>
+    <P pos="-54.4635 15.9008 78.0803" w="7" onTer="0" a="0" ar="0" aT="2"/>
+    <P pos="-81.6587 12.6077 82.4616" w="7" onTer="0" a="0" ar="0" aT="2"/>
+    <P pos="-105.679 12.5448 82.752" w="7" onTer="0" a="0" ar="0" aT="2"/>
+    <P pos="-116.24 9.46128 56.1654" w="7" onTer="0" a="0" ar="0" aT="2"/>
+    <P pos="-110.038 1.21525 17.8322" w="7" onTer="0" a="0" ar="0" aT="2" mtr="2"/>
+    <P pos="-104.684 4.6716 -13.4966" w="7" onTer="0" a="0" ar="0" aT="2" pipe="1" mtr="2"/>
+    <P pos="-99.635 5.973 -40.6773" w="7" onTer="0" a="0" ar="0" aT="2" pipe="1" mtr="3"/>
+    <P pos="-86.9344 13.1447 -77.2941" w="7" onTer="0" a="0" ar="0" aT="2" pipe="1" mtr="3"/>
+    <P pos="-74.1523 0 -103.626" w="7" a="0" ar="0" aT="2" mtr="3"/>
+    <P pos="-56.6847 0 -121.787" w="7" aT="2" mtr="2"/>
+</SplineRoad>
