@@ -1,0 +1,389 @@
+<scene>
+    <ver num="2801" baseTrk="W13-MtFog" secEd="67926"/>
+    <car tires="0" damage="0.166667"/>
+    <start pos="10.6489 -300.008 4.70866" rot="-5.96046e-08 7.79401e-08 0.321523 0.946902" pos2="0 0 0" rot2="0 0 0 1"/>
+    <sound ambient="" reverbs="Alien"/>
+    <sky material="sky/newsky011" rainName="CloudsMistToxicThin" rainEmit="49" rain2Name="CrystalSnowGreen" rain2Emit="85" skyYaw="103.37"/>
+    <fog color="0.138 0.432 0.277 1.616 0.200" color2="0.198 0.690 0.312 0.738 0.314" linStart="236.233" linEnd="732.828"/>
+    <fogH color="0.570 0.050 0.035 0.810 0.669" height="0.809723" dens="7.87097" linStart="0" linEnd="0.819551"/>
+    <light pitch="25" yaw="0" ambient="0.254 0.267 0.200 0.000 0.000" diffuse="0.186 0.233 1.303 0.000 0.000" specular="0.163 0.167 1.107 3.000 0.000"/>
+    <fluids>
+        <fluid name="oil hard" pos="-83.9878 -0.772225 -47.9238" rot="0 0 0" size="971.442 20 959.017" tile="0.01 0.01"/>
+    </fluids>
+    <terrain size="513" triangle="1.81327" errNorm="8.21">
+        <texture on="1" file="ground_mud3_oil_d.jpg" fnorm="ground_mud3_n.jpg" scale="8.53" surf="GrassJungleWet" dust="0" dustS="0.2" mud="0.6" smoke="0" tclr="0.133 0.667 0.300 0.700 0.000" angMin="0" angMax="24.1429" angSm="16.5067" hMin="-300" hMax="11" hSm="4.258" nOn="0" noise="0.762346" n_1="0" n2="0.095679">
+            <noise frq0="25.6801" oct0="5" prs0="0.532094" pow0="3.4714" frq1="38.7995" oct1="3" prs1="0.4" pow1="1.43812"/>
+        </texture>
+        <texture on="1" file="ground_dirty_toxic_d.jpg" fnorm="ground_dirty_n.jpg" scale="6.67" surf="DesertMud" dust="0" dustS="0" mud="0.1" smoke="0" tclr="0.091 0.440 0.250 0.600 0.000" angMin="7.71429" angMax="53.2857" angSm="16.1732" hMin="11" hMax="33" hSm="18.6405" nOn="0" noise="0.811728" n_1="0.320988" n2="0.0493827">
+            <noise frq0="15.3466" oct0="3" prs0="0.282857" pow0="1.18607" frq1="39.1378" oct1="3" prs1="0.378095" pow1="3.32867"/>
+        </texture>
+        <texture on="1" file="lava_black_d.jpg" fnorm="lava_black_n.jpg" scale="5.87" surf="DesertMud" dust="0" dustS="0" mud="0" smoke="0" tclr="0.091 0.440 0.250 0.600 0.000" angMin="6.28571" angMax="75.1429" angSm="7.63724" hMin="5" hMax="300" hSm="20" nOn="1" triplanar="1" noise="0" n_1="0" n2="1">
+            <noise frq0="28.4825" oct0="4" prs0="0.504762" pow0="3.008" frq1="23.0284" oct1="3" prs1="0.455238" pow1="3.42347"/>
+        </texture>
+        <texture on="1" file="mntn_dark2_d.jpg" fnorm="mntn_dark2_n.jpg" scale="30.02" surf="Rocks" dust="0.3" dustS="0.2" mud="0.5" smoke="0" tclr="0.000 0.000 0.320 0.400 0.000" angMin="23.8571" angMax="90" angSm="22.1104" hMin="-300" hMax="300" hSm="20" nOn="0" triplanar="1" noise="0" n_1="0.876543" n2="0">
+            <noise frq0="42.2498" oct0="3" prs0="0.3" pow0="1.5" frq1="37.1309" oct1="3" prs1="0.4" pow1="1.2"/>
+        </texture>
+        <texture on="0" file="" fnorm="" scale="4.5" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.167 1.000 0.200 0.100 0.000" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
+            <noise frq0="38.2" oct0="3" prs0="0.3" pow0="1.5" frq1="40.5" oct1="3" prs1="0.4" pow1="1.2"/>
+        </texture>
+        <texture on="0" file="" fnorm="" scale="5.55224" surf="Default" dust="0" dustS="0.2" mud="1" smoke="0" tclr="0.167 1.000 0.200 0.100 0.000" angMin="0" angMax="90" angSm="20" hMin="-300" hMax="300" hSm="20" nOn="0" noise="1" n_1="0" n2="0">
+            <noise frq0="42.2" oct0="3" prs0="0.3" pow0="1.5" frq1="43.5" oct1="3" prs1="0.4" pow1="1.2"/>
+        </texture>
+        <texture road="1" surf="roadJungle" dust="0" dustS="0.2" mud="0.2" smoke="0" tclr="0.139 0.600 0.400 0.800 0.000"/>
+        <texture road="2" surf="roadGravel" dust="0" dustS="0.2" mud="0" smoke="0" tclr="0.097 0.444 0.540 0.100 0.000"/>
+        <texture road="3" surf="roadJungle" dust="0" dustS="0.2" mud="0.2" smoke="0" tclr="0.139 0.600 0.400 0.800 0.000"/>
+        <texture road="4" surf="roadDesert" dust="0.6" dustS="0.6" mud="0" smoke="0" tclr="0.000 0.000 0.700 0.700 0.000"/>
+        <par dust="DustBlack" mud="MudDark" smoke="Smoke"/>
+    </terrain>
+    <paged densGrass="0.1" densTrees="0.395295" grPage="100" grDist="100" grDensSmooth="6" trPage="200" trDist="200" trDistImp="800" trRdDist="3">
+        <grass on="0" mtr="grassSavanna" clr="grClrSavanna.png" dens="1" chan="0" minSx="0.7" maxSx="1.25" minSy="0.7" maxSy="1.3" swayDistr="3" swayLen="0.3" swaySpeed="0.4"/>
+        <grass on="1" mtr="grass3y" clr="grClrJungle.png" dens="0.102113" chan="0" minSx="0.6" maxSx="0.85" minSy="0.6" maxSy="0.9" swayDistr="4" swayLen="0.2" swaySpeed="0.5"/>
+        <grass on="1" mtr="grass17" clr="grClrJungle.png" dens="0.174611" chan="0" minSx="0.887509" maxSx="1.03487" minSy="0.935227" maxSy="1.1" swayDistr="4" swayLen="0.2" swaySpeed="0.5"/>
+        <grass on="0" mtr="grassJungle" clr="grClrJungle.png" dens="0.148281" chan="0" minSx="0.6" maxSx="0.85" minSy="0.6" maxSy="0.9" swayDistr="4" swayLen="0.2" swaySpeed="0.5"/>
+        <grass on="0" mtr="grassJungle" clr="grClrJungle.png" dens="0.107768" chan="0" minSx="0.6" maxSx="0.85" minSy="0.6" maxSy="0.9" swayDistr="4" swayLen="0.2" swaySpeed="0.5"/>
+        <grass on="0" mtr="grassJungle" clr="grClrJungle.png" dens="0.1" chan="0" minSx="0.6" maxSx="0.85" minSy="0.6" maxSy="0.9" swayDistr="4" swayLen="0.2" swaySpeed="0.5"/>
+        <gchan amin="0" amax="23.7736" asm="8.17344" hmin="-200" hmax="200" hsm="2" ns="0" frq="25" oct="3" prs="0.3" pow="1.2" rd="0"/>
+        <gchan amin="0" amax="30" asm="20" hmin="-100" hmax="100" hsm="20" ns="0" frq="43" oct="3" prs="0.3" pow="1.2" rd="0"/>
+        <gchan amin="0" amax="30" asm="20" hmin="-100" hmax="100" hsm="20" ns="0" frq="61" oct="3" prs="0.3" pow="1.2" rd="0"/>
+        <gchan amin="0" amax="30" asm="20" hmin="-100" hmax="100" hsm="20" ns="0" frq="79" oct="3" prs="0.3" pow="1.2" rd="0"/>
+        <layer on="0" name="rock.mesh" dens="0.193339" minScale="0.416" maxScale="0.986157" ofsY="0" addTrRdDist="5" maxRdist="100" windFx="0.699969" windFy="0.00999471" maxTerAng="30" minTerH="-2" maxTerH="100" maxDepth="5"/>
+        <layer on="1" name="rock_n2.mesh" dens="0.163582" minScale="1.11953" maxScale="1.42766" ofsY="0" addTrRdDist="3" maxRdist="100" windFx="2.19643e-05" windFy="0" maxTerAng="17.2493" minTerH="-2" maxTerH="100" maxDepth="5"/>
+        <layer on="1" name="rock_G02.mesh" dens="0.127695" minScale="0.915298" maxScale="1.40217" ofsY="0" addTrRdDist="3" maxRdist="100" windFx="7.29999" windFy="0.0599931" maxTerAng="51.0927" minTerH="-1.65899" maxTerH="100" maxDepth="5"/>
+        <layer on="1" name="rock_G03.mesh" dens="0.154178" minScale="0.136625" maxScale="0.406432" ofsY="0" addTrRdDist="3" maxRdist="100" windFx="7.29999" windFy="0.0599931" maxTerAng="51.0927" minTerH="-1.65899" maxTerH="100" maxDepth="5"/>
+        <layer on="1" name="rock_n2-GYel.mesh" dens="0.206612" minScale="0.754182" maxScale="1.23216" ofsY="0" addTrRdDist="3" maxRdist="100" windFx="0" windFy="0" maxTerAng="51.0927" minTerH="-1.65899" maxTerH="100" maxDepth="5"/>
+        <layer on="0" name="treeD-34desTiny.mesh" dens="0.0999996" minScale="0.386141" maxScale="0.665709" ofsY="0" addTrRdDist="2" maxRdist="100" windFx="0" windFy="0" maxTerAng="30" minTerH="0.550461" maxTerH="66.422" maxDepth="5"/>
+        <layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5"/>
+        <layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5"/>
+        <layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="50" minTerH="-100" maxTerH="100" maxDepth="5"/>
+        <layer on="0" name="" dens="0.1" minScale="0.1" maxScale="0.25" ofsY="0" addTrRdDist="0" maxRdist="100" windFx="0" windFy="0" maxTerAng="30" minTerH="-100" maxTerH="100" maxDepth="5"/>
+    </paged>
+    <cam pos="-42.0535 198.987 -331.649" dir="0.266109 -0.470623 0.841249"/>
+    <objects>
+        <o name="storage_tank" pos="156.93 -250.844 -2.0629" rot="0.867611 -0.497243 0 0"/>
+        <o name="storage_tank" pos="176.465 -230.124 -4.90873" rot="0 -0.999969 0 -0.0078813"/>
+        <o name="storage_tank" pos="204.779 -237.62 -3.90648" rot="0.486097 -0.873905 0 0"/>
+        <o name="obstacleBlack1" pos="-138.473 96.5866 2.24515" rot="0.510687 0.510157 0.499837 0.47864" sc="1.30579 1.30579 1.30579"/>
+        <o name="plastic_big_hvy" pos="148.555 -66.2693 0.908524" rot="0.00189458 0.998297 0.0572194 0.0112153"/>
+        <o name="obstacleBlack4" pos="-88.6829 129.439 -1.79093" rot="0.676718 -0.736242 0 0" sc="3.09429 3.09429 3.09429"/>
+        <o name="obstacleBlack3" pos="-101.423 207.977 -1.52103" rot="0.962441 -0.271489 0 0" sc="3.09429 3.09429 3.09429"/>
+        <o name="container_big" pos="316.266 143.992 -0.898655" rot="0.151919 -0.98816 0.013558 -0.016637" sc="1.15882 1.15882 1.15882"/>
+        <o name="storage_tank_2" pos="267.867 160.891 -2.55391" rot="0.914371 -0.404878 0 0"/>
+        <o name="storage_tank_2" pos="300.862 178.015 -4.27224" rot="0.0538021 -0.998552 0 0"/>
+        <o name="obstacleBlack2" pos="70.1084 58.7849 0" rot="0.27683 -0.590286 -0.739942 0.165568" sc="1.36107 1.36107 1.36107"/>
+        <o name="obstacleBlack4" pos="-291.565 139.83 4.16993" rot="0.57128 -0.541553 -0.409438 0.461216" sc="1.63069 1.63069 1.63069"/>
+        <o name="storage_tank_2" pos="124.301 -183.303 2.20799" rot="0 1 0 0" sc="1.36107 1.36107 1.36107"/>
+        <o name="gas_tank_02_green" pos="146.44 188.716 24.8161" rot="0 1 0 0" sc="1.36107 1.36107 1.36107"/>
+        <o name="gas_tank_02_green" pos="148.766 188.818 24.7847" rot="0 1 0 0" sc="1.36107 1.36107 1.36107"/>
+        <o name="atomic_barrel" pos="268.4 -66.9628 3.00381" rot="0.647906 -0.0996878 0.748666 0.0988916"/>
+        <o name="branch_02" pos="262.491 -67.5071 2.31547" rot="-0.110707 0.99292 0.0275896 0.0330532"/>
+        <o name="plastic_big" pos="-216.893 229.477 1.03451" rot="-0.313913 0.94912 0.0217649 -0.0125258"/>
+        <o name="plastic_barrel" pos="-105.288 259.056 0.485432" rot="-0.301974 0.953065 -0.0144589 0.0164041"/>
+        <o name="plastic_big_hvy" pos="-114.761 254.99 0.579383" rot="-0.706748 0.707466 -8.12757e-08 -4.30832e-08"/>
+        <o name="atomic_barrel" pos="99.9033 -36.135 0.693" rot="-0.311035 0.950399 -7.7835e-07 -3.73419e-08"/>
+        <o name="big_tire" pos="-186.012 -16.5529 -2.78535" rot="-0.58059 0.811583 -0.0312482 0.0571957"/>
+        <o name="big_tire" pos="-178.599 -16.4021 -1.63354" rot="0.0861573 0.99267 -0.0372423 0.0761355"/>
+        <o name="branch_03" pos="-21.1908 -129.254 -0.0658823" rot="0.0705548 0.993242 -0.0730969 0.0561178"/>
+        <o name="branch_03" pos="192.764 -160.503 0.475498" rot="0.0645639 0.997553 0.0242057 -0.0115397"/>
+        <o name="atomic_barrel_static" pos="58.7926 214.537 1.28332" rot="0.0947943 0.728267 -0.0877011 0.673015"/>
+        <o name="garbage_bag_01" pos="79.2912 90.1998 -3.97683" rot="-0.177172 0.97697 -0.0482081 -0.1087"/>
+        <o name="garbage_bag_02" pos="77.7468 79.1511 -0.0317251" rot="0.00991326 -0.637656 0.768654 0.0496694"/>
+        <o name="branch_01" pos="124.598 234.719 9.29726" rot="-0.0436695 0.995996 -0.0344778 0.0699779"/>
+        <o name="branch_02" pos="142.788 209.094 24.2186" rot="0.088137 -0.697951 0.704967 -0.0900993"/>
+        <o name="crate_2" pos="-195.021 380.603 3.97602" rot="0.00261661 0.998731 -0.0423866 0.0270727"/>
+        <o name="branch_03" pos="-147.195 362.845 2.60845" rot="0.0770252 0.991331 0.103628 0.0243201"/>
+        <o name="branch_01" pos="-378.241 360.425 3.02569" rot="0.381414 0.913527 -0.0989752 -0.100975"/>
+        <o name="garbage_bin_green" pos="81.4384 89.885 -3.37731" rot="-0.0419938 0.992233 -0.04596 -0.107692"/>
+        <o name="branch_01" pos="245.102 -245.329 2.25757" rot="0.851924 -0.516992 0.0775933 0.0303998"/>
+        <o name="plastic_big_hvy" pos="-196.769 -140.684 -0.49764" rot="-0.0568966 0.99772 -0.0207553 0.0297622"/>
+        <o name="garbage_bin_green" pos="-96.5984 151.674 -1.86496" rot="-0.0347482 0.999178 -0.0208627 -0.000894825"/>
+        <o name="garbage_bin_green" pos="-85.1261 177.564 -2.05785" rot="-0.104126 0.994564 8.99018e-06 4.83825e-06"/>
+        <o name="garbage_bin_green" pos="-93.8263 -220.853 -2.58435" rot="0.0467764 0.998799 -0.0137302 -0.00488666"/>
+        <o name="big_tire" pos="43.1569 -269.831 -1.03383" rot="-0.0219401 0.997632 -0.0539373 -0.0366074"/>
+        <o name="big_tire" pos="376.734 -250.589 -1.81672" rot="-0.188055 0.982074 0.0108069 0.00700619"/>
+        <o name="container_big" pos="216.928 -95.9867 -4.21992" rot="0.138265 0.98266 -0.0172127 0.122332"/>
+        <o name="container_big" pos="286.264 73.4382 -5.95186" rot="-0.0400943 0.955315 0.249752 0.152938"/>
+        <o name="garbage_bag_01" pos="-180.429 143.487 -3.12847" rot="0.503023 0.855547 0.0536523 -0.110128"/>
+        <o name="garbage_bag_01" pos="-184.217 142.933 -2.59242" rot="-0.163948 0.980723 0.0648375 -0.0842615"/>
+        <o name="garbage_bag_01" pos="-179.749 141.129 -3.57041" rot="0.940104 0.327885 -0.0894854 -0.0262362"/>
+        <o name="garbage_bag_01" pos="-180.291 141.781 -3.43324" rot="0.120666 -0.0342986 0.891466 0.435376"/>
+        <o name="garbage_bag_02" pos="-181.577 147.9 -2.00474" rot="-0.359401 -0.50036 -0.47489 0.62845"/>
+        <o name="garbage_bag_02" pos="-185.149 143.721 -2.19427" rot="0.0260074 0.995123 0.0408342 -0.08594"/>
+        <o name="garbage_bag_02" pos="-184.435 145.126 -2.13691" rot="0.482281 0.869095 0.0198588 -0.108099"/>
+        <o name="concrete_bar" pos="260.693 34.7848 0.0249121" rot="0.160666 -0.987009 0 0" sc="1.50303 1.50303 1.50303"/>
+        <o name="gas_tank_02_green" pos="243.241 -22.7634 1.69271" rot="0.0802911 -0.996407 0.0263955 0.00532141" sc="1.0227 1.0227 1.0227"/>
+        <o name="obstacleBlack6" pos="-87.4765 170.443 -4.59646" rot="0.955081 -0.296344 0 0"/>
+        <o name="obstacleBlack6" pos="-118.638 301.217 -7.26113" rot="0.97252 0.232818 0 0" sc="1.67964 1.67964 1.67964"/>
+        <o name="obstacleBlack5" pos="-112.789 313.753 -5.4387" rot="0.535724 -0.844393 0.000364404 0.000574364" sc="1.67964 1.67964 1.67964"/>
+        <o name="obstacleBlack5" pos="-111.592 -4.35471 -4.14747" rot="0 -1 0 0"/>
+        <o name="alien_ufo_fly" pos="-102.926 -103.263 -9.21531" rot="0.0676767 -0.989168 0.00889119 -0.129954"/>
+        <o name="obstacleBlack8" pos="24.3883 -113.825 -4.2324" rot="0 -1 0 0"/>
+        <o name="obstacleBlack8" pos="-25.3705 -22.287 -4.90594" rot="0 -1 0 0"/>
+        <o name="obstacleBlack5" pos="286.246 210.283 -3.75693" rot="0 -1 0 0"/>
+        <o name="obstacleBlack5" pos="-93.061 165.486 -4.22451" rot="0 -1 0 0"/>
+        <o name="obstacleBlack5" pos="-85.9826 145.29 -4.05683" rot="0 -1 0 0"/>
+        <o name="obstacleBlack5" pos="-95.5056 183.826 -4.0555" rot="0 -1 0 0"/>
+        <o name="obstacleBlack7" pos="209.329 -4.09724 -3.64715" rot="-0.227894 -0.973686 -0.000132755 0.000567201"/>
+        <o name="obstacleBlack7" pos="217.225 0.0433034 -3.71078" rot="-0.227894 -0.973686 -0.000132755 0.000567201"/>
+        <o name="obstacleBlack7" pos="-4.62296 135.946 -3.76808" rot="-0.227894 -0.973686 -0.000132755 0.000567201"/>
+        <o name="obstacleBlack7" pos="295.956 4.24784 -3.67126" rot="-0.227894 -0.973686 -0.000132755 0.000567201"/>
+        <o name="obstacleBlack7" pos="2.59566 -12.357 -3.1633" rot="-0.227894 -0.973686 -0.000132755 0.000567201"/>
+        <o name="big_tire" pos="-199.785 -29.9593 -1.54605" rot="0.0121419 0.999867 -0.0089258 -0.00615892"/>
+        <o name="plastic_big" pos="-150.279 -139.269 -1.15853" rot="0.0594501 0.997649 -0.00327842 -0.0339222"/>
+        <o name="garbage_bag_02" pos="-62.6079 -231.325 -3.67182" rot="0.384922 0.681467 -0.472374 -0.40534"/>
+        <o name="garbage_bag_02" pos="-61.114 -232.579 -3.76386" rot="0.331882 0.500661 0.716435 0.354843"/>
+        <o name="garbage_bag_02" pos="-63.8167 -231.093 -3.74986" rot="-0.476599 -0.534281 0.41706 0.559873"/>
+        <o name="garbage_bag_02" pos="-70.5468 -228.65 -5.3352" rot="0.685109 -0.126633 0.690028 0.196089"/>
+        <o name="atomic_barrel" pos="148.242 78.5622 -8.42253" rot="0.380367 0.605367 0.665398 0.214702"/>
+        <o name="garbage_bin_green" pos="23.9197 260.704 -2.91942" rot="0.957897 -0.268528 -0.0418067 -0.0926164"/>
+        <o name="garbage_bin_green" pos="124.422 288.931 -2.38807" rot="-0.0304094 0.995857 -0.0246495 0.0820817"/>
+        <o name="radio_tower" pos="242.559 -350.411 0.636287" rot="0 -1 0 0"/>
+        <o name="gas_tank_02_green" pos="237.09 -349.805 9.16523" rot="0 -1 0 0"/>
+        <o name="gas_tank_02_green" pos="239.29 -350.258 8.868" rot="0 -1 0 0"/>
+        <o name="gas_tank_02_green" pos="241.299 -350.381 8.80308" rot="0 -1 0 0"/>
+        <o name="gas_tank_02_green" pos="99.1439 50.0792 0.795157" rot="0 -1 0 0"/>
+        <o name="gas_tank_02_green" pos="101.521 50.4852 0.786944" rot="0 -1 0 0"/>
+        <o name="storage_tank" pos="-248.168 -31.5394 3.68604" rot="0 -1 0 0"/>
+        <o name="storage_tank_2" pos="-291.755 296.07 -0.911793" rot="0 -1 0 0"/>
+        <o name="storage_tank" pos="-42.1546 -336.085 -5.09855" rot="0.0412297 -0.977833 0.163979 -0.123496"/>
+        <o name="storage_tank_2" pos="403.725 -233.374 44.1032" rot="0 1 0 0"/>
+        <o name="mining_truck" pos="157.655 274.504 -4.85031" rot="0.513571 -0.704833 0.478886 0.100605"/>
+        <o name="oil_pump" pos="194.498 274.83 1.829" rot="0.168756 -0.985658 0 0"/>
+        <o name="oil_pump" pos="-146.709 265.96 -0.139073" rot="0.0129022 -0.999916 0 0"/>
+        <o name="oil_pump" pos="-134.371 265.431 0.113034" rot="0.999946 0.0103213 0 0"/>
+        <o name="oil_pump" pos="-168.662 396.404 2.54559" rot="0.999946 0.0103213 0 0"/>
+        <o name="oil_pump" pos="-181.152 369.334 4.10732" rot="0.43271 0.901533 0 0"/>
+        <o name="oil_pump" pos="-242.02 -149.214 0.291127" rot="0.786868 0.58744 -0.151519 0.113118"/>
+        <o name="oil_pump" pos="118.966 -273.333 -1.59822" rot="-0.411865 0.911245 0 0"/>
+        <o name="oil_pump" pos="363.028 -216.967 2.51231" rot="-0.411865 0.911245 0 0"/>
+        <o name="oil_pump" pos="344.738 24.3712 0.0920579" rot="-0.411865 0.911245 0 0"/>
+        <o name="oil_pump" pos="322.137 113.29 -0.375106" rot="-0.804847 0.591829 0.0329133 0.0296239"/>
+        <o name="oil_pump" pos="188.319 125.05 0.126011" rot="0 1 0 0"/>
+        <o name="oil_pump" pos="195.927 130.003 -0.12236" rot="0.0367429 0.999325 0 0"/>
+        <o name="oil_pump" pos="-177.027 198.737 -0.187305" rot="0.112351 -0.993668 0 0"/>
+        <o name="oil_pump" pos="119.767 110.954 -0.636113" rot="-0.296416 -0.955059 0 0"/>
+        <o name="oil_pump" pos="18.4507 93.8047 -0.0654278" rot="-0.278867 -0.960329 0 0"/>
+        <o name="oil_pump" pos="-52.1782 11.4726 1.27584" rot="-0.499987 -0.866033 0 0"/>
+        <o name="oil_pump" pos="273.028 -58.1812 2.01221" rot="0.13162 -0.9913 0 0"/>
+        <o name="tree_dead_03_dark" pos="259.078 -73.865 0.724828" rot="0.131459 -0.990084 0.00651632 0.0490778"/>
+        <o name="oil_pump" pos="94.6628 -3.71899 0.215066" rot="0.131459 -0.990084 0.00651632 0.0490778"/>
+        <o name="oil_pump" pos="-146.175 -200.584 -0.157591" rot="0.131459 -0.990084 0.00651632 0.0490778"/>
+        <o name="oil_pump" pos="144.164 176.484 23.3586" rot="0.699457 -0.712957 -0.0242482 0.0431639"/>
+        <o name="tree_dead_02_dark" pos="-85.1684 -8.53738 12.4848" rot="0 1 0 0"/>
+        <o name="tree_dead_02_dark" pos="-278.343 275.94 -0.53709" rot="0 1 0 0"/>
+        <o name="tree_dead_04_dark" pos="-264.525 269.568 -0.811907" rot="0 1 0 0"/>
+        <o name="tree_dead_01_dark" pos="-209.737 205.085 2.26641" rot="0 1 0 0" sc="1.29987 1.29987 1.29987"/>
+        <o name="tree_dead_04_dark" pos="-153.607 368.22 2.48246" rot="-0.196082 0.980588 0 0" sc="1.10728 1.10728 1.10728"/>
+        <o name="tree_dead_02_dark" pos="243.765 -240.283 -1.12786" rot="-0.196082 0.980588 0 0" sc="0.872733 0.872733 0.872733"/>
+        <o name="tree_dead_04_dark" pos="235.487 -256.869 0.997278" rot="-0.196082 0.980588 0 0" sc="0.872733 0.872733 0.872733"/>
+        <o name="tree_dead_03_burned" pos="151.055 212.658 21.2975" rot="-0.196082 0.980588 0 0" sc="0.872733 0.872733 0.872733"/>
+        <o name="tree_dead_01_burned" pos="151.146 185.107 23.2877" rot="-0.196082 0.980588 0 0"/>
+        <o name="tree_dead_04_dark" pos="-385.321 377.429 1.59856" rot="-0.212016 0.977266 0 0"/>
+        <o name="tree_dead_03_dark" pos="-16.7253 -137.187 -0.863394" rot="0 1 0 0"/>
+        <o name="tree_dead_02_dark" pos="-35.7062 -280.879 7.1545" rot="-0.102815 0.9947 0 0" sc="1.26659 1.26659 1.26659"/>
+        <o name="tree_dead_02_dark" pos="237.849 135.378 -1.93541" rot="-0.102606 0.992684 -0.0632885 0.00654165" sc="1.26659 1.26659 1.26659"/>
+        <o name="tree_dead_01_dark" pos="134.283 285.188 -3.7359" rot="-0.50094 0.865481 0 0" sc="1.41493 1.41493 1.41493"/>
+        <o name="tree_dead_01_dark" pos="-182.869 132.75 -3.14812" rot="-0.875685 0.482882 0 0" sc="1.41493 1.41493 1.41493"/>
+        <o name="tree_dead_01_dark" pos="-127.199 -25.6516 -0.0224131" rot="-0.870566 0.480058 -0.0945495 -0.0521377" sc="1.41493 1.41493 1.41493"/>
+        <o name="tree_dead_01_dark" pos="-136.914 -261.974 6.48596" rot="-0.875685 0.482882 0 0" sc="1.41493 1.41493 1.41493"/>
+        <o name="tree_dead_01_dark" pos="11.3519 -244.633 0.775469" rot="-0.875685 0.482882 0 0" sc="1.2334 1.2334 1.2334"/>
+        <o name="tree_dead_01_dark" pos="261.919 -191.301 0.15145" rot="-0.957398 0.28877 0 0"/>
+        <o name="tree_dead_01_dark" pos="330.408 193.213 -0.614986" rot="-0.957398 0.28877 0 0"/>
+        <o name="tree_dead_01_dark" pos="218.327 316.778 0.750868" rot="-0.862805 -0.505536 0 0" sc="1.45078 1.45078 1.45078"/>
+        <o name="tree_dead_01_dark" pos="-118.209 283.839 -0.340696" rot="-0.862805 -0.505536 0 0" sc="1.45078 1.45078 1.45078"/>
+        <o name="tree_dead_01_dark" pos="-343.364 273.79 8.1806" rot="-0.589974 -0.807422 0 0"/>
+        <o name="tree_dead_02_dark" pos="-382.151 263.677 14.5861" rot="-0.589974 -0.807422 1.21683e-05 -1.66532e-05"/>
+        <o name="tree_dead_02_dark" pos="-115.557 72.0919 3.53315" rot="-0.263692 -0.964606 1.73018e-05 -1.12269e-05" sc="1.25208 1.25208 1.25208"/>
+        <o name="tree_dead_02_dark" pos="308.09 -73.306 12.5539" rot="-0.263692 -0.964606 1.73018e-05 -1.12269e-05" sc="1.25208 1.25208 1.25208"/>
+        <o name="tree_dead_02_dark" pos="84.3734 -245.458 -4.91435" rot="-0.263692 -0.964606 1.73018e-05 -1.12269e-05"/>
+        <o name="tree_dead_02_dark" pos="186.23 -31.2081 -0.453599" rot="0.0451716 -0.998979 1.99129e-05 -5.37314e-06" sc="1.21234 1.21234 1.21234"/>
+        <o name="tree_dead_02_dark" pos="181.813 149.79 4.80262" rot="0.278358 -0.960477 2.06178e-05 -5.49765e-07" sc="1.33653 1.33653 1.33653"/>
+        <o name="tree_dead_02_dark" pos="176.431 312.489 -0.354796" rot="0.278358 -0.960477 2.06178e-05 -5.49765e-07" sc="1.33653 1.33653 1.33653"/>
+        <o name="tree_dead_02_dark" pos="-182.484 318.1 -0.545163" rot="0.278358 -0.960477 2.06178e-05 -5.49765e-07" sc="1.33653 1.33653 1.33653"/>
+        <o name="tree_dead_02_dark" pos="-311.9 344.424 5.75992" rot="0.490416 -0.871488 2.01981e-05 4.17486e-06"/>
+        <o name="tree_dead_02_dark" pos="-325.825 67.8528 -5.49712" rot="0.490416 -0.871488 2.01981e-05 4.17486e-06" sc="1.97414 1.97414 1.97414"/>
+        <o name="tree_dead_02_dark" pos="-219.216 -153.194 -1.26149" rot="0.708692 -0.70113 -0.0558382 -0.055251" sc="1.77161 1.77161 1.77161"/>
+        <o name="tree_dead_02_dark" pos="-191.691 -297.442 11.324" rot="0 1 0 0"/>
+        <o name="tree_dead_03_dark" pos="80.864 -316.507 1.87053" rot="0 1 0 0"/>
+        <o name="tree_dead_03_dark" pos="300.606 -263.861 32.3938" rot="-0.213025 0.97437 0.0154372 0.070609"/>
+        <o name="tree_dead_03_dark" pos="308.88 22.3308 -8.82977" rot="-0.211438 0.96711 0.0302 0.138134"/>
+        <o name="tree_dead_01_dark" pos="265.541 197.623 -7.09303" rot="0 0.983873 0 0.17887" sc="1.46172 1.46172 1.46172"/>
+        <o name="tree_dead_02_dark" pos="21.6569 252.726 -6.68962" rot="-0.111163 0.951426 -0.0829249 -0.274872" sc="1.16264 1.16264 1.16264"/>
+        <o name="tree_dead_02_dark" pos="-245.456 228.74 1.3773" rot="-0.108245 0.98321 -0.0160757 -0.146019" sc="1.16264 1.16264 1.16264"/>
+        <o name="tree_dead_03_dark" pos="-59.8803 -370.434 8.08176" rot="0 1 0 0" sc="1.24994 1.27187 1.24994"/>
+        <o name="tree_dead_03_dark" pos="276.713 -115.142 8.71559" rot="-0.41808 0.90841 0 0" sc="1.24994 1.27187 1.24994"/>
+        <o name="tree_dead_03_dark" pos="387.331 175.477 17.5687" rot="-0.417246 0.9066 -0.0263837 -0.0573269" sc="1.07428 1.09312 1.07428"/>
+        <o name="tree_dead_03_dark" pos="267.557 123.02 -1.87318" rot="-0.798965 0.591936 0.0964763 0.0442468" sc="0.789024 0.802863 0.789024"/>
+        <o name="tree_dead_04_dark" pos="276.475 -88.187 3.31057" rot="-0.417246 0.9066 -0.0263837 -0.0573269"/>
+        <o name="tree_dead_04_dark" pos="-282.215 38.4009 -7.46902" rot="-0.417246 0.9066 -0.0263837 -0.0573269"/>
+        <o name="tree_dead_04_dark" pos="99.5398 -185.954 10.0708" rot="0 1 0 0"/>
+        <o name="tree_dead_04_dark" pos="303.695 -352.987 16.6049" rot="-0.471381 0.881589 0.0115534 0.0216075"/>
+        <o name="tree_dead_04_dark" pos="200.852 146.676 -0.229616" rot="-0.471381 0.881589 0.0115534 0.0216075"/>
+        <o name="tree_dead_03_burned" pos="115.449 162.814 22.4456" rot="-0.735076 0.671502 -0.0901689 -0.0248444" sc="0.795737 0.795737 0.795737"/>
+        <o name="tree_dead_01_burned" pos="117.064 210.461 23.7539" rot="-0.709495 0.694468 -0.0948916 -0.0729876" sc="0.795737 0.795737 0.795737"/>
+        <o name="tree_dead_04_burned" pos="227.773 -349.62 8.73152" rot="-0.709495 0.694468 -0.0948916 -0.0729876" sc="0.795737 0.795737 0.795737"/>
+        <o name="tree_dead_04_dark" pos="82.7737 207.812 28.4268" rot="-0.709495 0.694468 -0.0948916 -0.0729876" sc="0.795737 0.795737 0.795737"/>
+        <o name="tree_dead_04_dark" pos="47.4629 -22.9493 0.0104328" rot="-0.790894 0.610662 0.0211634 0.0336434" sc="0.795737 0.795737 0.795737"/>
+        <o name="tree_dead_03_dark" pos="18.0742 2.81128 -1.89747" rot="-0.818457 0.531733 0.171024 0.134683" sc="0.795737 0.795737 0.795737"/>
+        <o name="tree_dead_03_dark" pos="17.3114 -141.819 -3.61922" rot="0 1 0 0" sc="0.795737 0.795737 0.795737"/>
+        <o name="tree_dead_03_dark" pos="-203.87 -111.839 -9.15245" rot="0 1 0 0" sc="0.795737 0.795737 0.795737"/>
+        <o name="tree_dead_02_dark" pos="-171.353 -21.2295 -4.86407" rot="0 1 0 0" sc="1.06342 1.06342 1.06342"/>
+        <o name="tree_dead_04_dark" pos="-124.16 145.049 -6.43157" rot="0 1 0 0" sc="1.06342 1.06342 1.06342"/>
+        <o name="barrel_oil_green_heavy" pos="-206.238 86.8086 -2.15226" rot="0.389404 0.568579 0.243678 0.682424"/>
+        <o name="barrel_oil_green_heavy" pos="-207.667 86.0396 -2.21973" rot="0.374821 0.579316 0.337987 0.640052"/>
+        <o name="barrel_oil_green" pos="-12.1006 -133.929 0.827935" rot="-0.108065 0.993928 0.0206974 0.000174273"/>
+        <o name="barrel_oil_green" pos="129.337 -218.53 0.354815" rot="0.684795 0.185613 0.497629 -0.498968"/>
+        <o name="barrel_oil_green_heavy" pos="131.696 -217 0.667454" rot="0.714127 -0.699536 -0.0255946 0.00411609"/>
+        <o name="barrel_oil_green_static" pos="130.624 -219.712 -0.251401" rot="0.692428 -0.387995 -0.60284 0.0811621"/>
+        <o name="barrel_oil_red" pos="336.844 34.6418 0.541548" rot="0.177559 0.671103 -0.00797657 0.719743"/>
+        <o name="barrel_oil_red" pos="270.869 213.846 -18.2845" rot="0.490561 0.618737 -0.381118 -0.480899"/>
+        <o name="barrel_oil_red" pos="267.858 217.485 -9.2701" rot="0.471134 0.318165 0.785838 0.243438"/>
+        <o name="barrel_oil_green_heavy" pos="266.621 216.807 -9.67442" rot="0.546136 0.331155 -0.404396 0.654626"/>
+        <o name="barrel_oil_green_heavy" pos="141.416 189.244 24.6184" rot="-0.696838 0.717192 0.00625944 0.00372433"/>
+        <o name="barrel_oil_green_heavy" pos="99.6892 128.106 35.7749" rot="0.708019 -0.706193 3.0486e-06 -0.000300055"/>
+        <o name="barrel_oil_green" pos="17.8221 13.7554 -1.50454" rot="-0.607625 0.792409 -0.0517521 -0.0141983"/>
+        <o name="barrel_oil_green" pos="19.5496 16.328 -1.78297" rot="-0.410535 0.504142 -0.470322 0.59674"/>
+        <o name="barrel_oil_green" pos="14.9485 14.4876 -1.39949" rot="-0.562536 0.825456 -0.00212098 -0.0466073"/>
+        <o name="barrel_oil_green" pos="124.287 -262.075 -0.687789" rot="0.711882 -0.701392 0.00696653 0.0349977"/>
+        <o name="barrel_oil_green" pos="137.716 -251.127 -1.68545" rot="-0.695853 0.717734 -0.00342999 -0.0251741"/>
+        <o name="barrel_oil_green_heavy" pos="246.533 -10.1934 0.737477" rot="-0.692287 0.720107 -0.0467063 0.00180576"/>
+        <o name="barrel_oil_red_heavy" pos="57.6023 128.202 0.636332" rot="-0.643918 0.764517 -0.0209826 0.0210369"/>
+        <o name="barrel_oil_red" pos="-269.461 314.032 -3.29834" rot="-0.285475 -0.630833 0.233245 0.682752"/>
+        <o name="barrel_oil_red" pos="-270.713 315.914 -3.31278" rot="0.68364 -0.114379 -0.563076 -0.449999"/>
+        <o name="barrel_oil_red" pos="-185.212 191.476 1.3069" rot="-0.691476 0.719733 0.0602573 0.0146234"/>
+        <o name="barrel_oil_green" pos="-203.118 -35.1756 -1.12434" rot="0.789942 0.613182 -6.58759e-08 2.891e-06"/>
+        <o name="barrel_oil_green_heavy" pos="-207.898 -41.3968 -1.42524" rot="0.701285 0.0904043 -0.690891 -0.150653"/>
+        <o name="barrel_oil_green" pos="-204.496 -37.4062 -1.42521" rot="-0.49366 0.506262 0.562202 0.428868"/>
+        <o name="barrel_oil_green" pos="-133.781 -169.82 -1.50774" rot="-0.516762 0.482713 0.538759 0.457913"/>
+        <o name="barrel_oil_red" pos="-173.829 -192.014 -0.708689" rot="-0.639967 -0.288142 -0.218717 0.677923"/>
+        <o name="barrel_oil_red_heavy" pos="-172.828 -188.304 -0.326398" rot="-0.362232 0.932069 0.00205801 0.00560251"/>
+        <o name="barrel_oil_red_heavy" pos="-272.464 -229.113 64.5026" rot="-0.241308 0.970097 -0.0126487 0.0228617"/>
+        <o name="barrel_oil_green" pos="-193.133 391.498 3.3523" rot="-0.287713 0.954882 -0.0645753 -0.0353752"/>
+        <o name="barrel_oil_green" pos="-195.707 391.747 3.14655" rot="-0.739956 0.151469 -0.258719 0.602151"/>
+        <o name="barrel_oil_green" pos="-181.072 142.257 -3.10919" rot="-0.0579827 0.712232 0.383755 0.584889"/>
+        <o name="barrel_oil_green" pos="266.026 218.795 -9.22904" rot="0.518107 -0.149596 -0.421691 0.728946"/>
+        <o name="barrel_oil_green" pos="267.017 218.268 -9.51075" rot="0.461757 0.225681 0.84642 0.139363"/>
+        <o name="barrel_oil_green" pos="272.21 212.895 -18.6921" rot="0.439074 0.266164 -0.596846 0.61656"/>
+        <o name="barrel_oil_green" pos="273.35 212.412 -18.9167" rot="0.365262 0.161419 0.659456 0.636903"/>
+        <o name="barrel_oil_green" pos="272.297 191.775 -0.89582" rot="0.12663 0.702338 0.686604 0.13878"/>
+        <o name="barrel_oil_green" pos="270.132 192.166 -0.863043" rot="0.00593605 0.711097 0.703011 0.00900444"/>
+        <o name="barrel_oil_green_heavy" pos="141.091 294.922 -1.62035" rot="-0.424562 0.561868 0.543124 0.457239"/>
+        <o name="barrel_oil_green_heavy" pos="142.293 296.683 -1.30969" rot="-0.280537 0.959674 0.0167964 -0.00655671"/>
+        <o name="barrel_oil_green" pos="198.541 256.161 2.24113" rot="0.902462 -0.430642 -0.000774565 0.0104584"/>
+        <o name="barrel_oil_green" pos="198.437 257.475 1.92577" rot="0.455608 0.547673 0.66556 0.222501"/>
+        <o name="barrel_oil_green" pos="196.556 258.17 2.3057" rot="-0.671704 0.740357 0.0150326 -0.0214203"/>
+        <o name="barrel_oil_green_heavy" pos="315.974 129.285 1.67747" rot="-0.65331 0.753065 -0.0614677 -0.047977"/>
+        <o name="barrel_oil_green_heavy" pos="54.45 220.785 1.23286" rot="-0.135113 0.988759 -0.0504162 0.0394774"/>
+        <o name="barrel_oil_red_static" pos="14.759 114.364 -0.571265" rot="-0.379175 0.72298 0.268233 0.511446"/>
+        <o name="plastic_canister" pos="155.23 -237.958 9.37336" rot="-0.0262959 0.99965 -0.00133095 -0.00258959"/>
+        <o name="plastic_canister" pos="101.083 53.2763 0.428881" rot="0.032653 0.999303 0.017409 -0.00492234"/>
+        <o name="plastic_canister" pos="-218.895 230.373 1.06694" rot="0.0240003 0.740801 -0.00636753 0.671265"/>
+        <o name="plastic_canister" pos="1.78084 -228.778 0.111877" rot="-0.183211 0.676199 0.168612 0.693367"/>
+        <o name="barrel_oil_green_static" pos="8.76769 -236.98 0.20941" rot="-0.45065 -0.600325 0.652396 -0.104424"/>
+        <o name="barrel_oil_green_static" pos="-89.5044 59.135 5.84853" rot="0 0.770807 0 0.637068"/>
+        <o name="barrel_oil_red_static" pos="-81.1174 57.0262 5.62153" rot="0 0.502148 0 0.864781"/>
+        <o name="post_apo_building_01" pos="-101.694 49.7491 3.57638" rot="0.0751422 -0.997146 -0.00727573 0.000548279"/>
+        <o name="post_apo_building_05" pos="-72.3339 53.4793 4.31426" rot="0.117398 -0.99306 -0.000819967 -0.00693606"/>
+        <o name="post_apo_building_04" pos="-75.379 88.1599 -2.65692" rot="0.998926 0.0458695 0.00642262 -0.000294919"/>
+        <o name="post_apo_building_02" pos="-312.502 -49.4568 15.1714" rot="0.998946 0.0458705 0 0"/>
+        <o name="post_apo_building_05" pos="-317.846 -24.8582 2.27929" rot="0.997497 0.0623709 -0.0327246 0.00602438"/>
+        <o name="post_apo_building_06" pos="-333.856 -48.4125 17.055" rot="0.741389 -0.671076 0 0"/>
+        <o name="post_apo_building_03" pos="290.995 101.381 -1.84534" rot="0.536217 -0.84408 0 0"/>
+        <o name="post_apo_building_01" pos="201.058 319.043 -1.30907" rot="0.541114 -0.84095 0 0"/>
+        <o name="post_apo_building_02" pos="331.874 -262.397 40.9276" rot="0.541114 -0.84095 0 0"/>
+        <o name="post_apo_building_04" pos="341.099 -289.745 39.9344" rot="0.541114 -0.84095 0 0"/>
+        <o name="post_apo_building_05" pos="217.199 -373.099 1.30613" rot="0.541114 -0.84095 0 0"/>
+        <o name="barrel_oil_green_heavy" pos="376.803 -249.047 -1.65807" rot="0.691344 0.0653554 0.714779 0.0828421"/>
+        <o name="barrel_oil_green_heavy" pos="376.925 -254.926 -1.57879" rot="0.580843 -0.454838 -0.472109 -0.482552"/>
+        <o name="barrel_oil_green_heavy" pos="379.884 -254.899 -1.69462" rot="-0.661271 -0.214148 0.706826 0.13137"/>
+        <o name="obstacleBlack4" pos="378.723 -291.793 13.2684" rot="0.419143 -0.872681 -0.225799 0.10845" sc="1.08465 1.08465 1.08465"/>
+        <o name="obstacleBlack2" pos="388.775 -284.462 12.2539" rot="0.277011 -0.547694 -0.707673 0.349992"/>
+    </objects>
+    <emitters>
+        <e name="OilBubblesSurface" pos="293.352 -0.659298 -8.06986" sc="39.774 1 43.1968" up="0 1 0" rot="0" rate="5.87979" st="0" psc="1.57124"/>
+        <e name="OilBubblesSurface" pos="69.7009 -2.42602 249.974" sc="41.4414 3.55068 30.2597" up="0 1 0" rot="0" rate="4.72202" st="0" psc="1.3116"/>
+        <e name="OilBubblesSurface" pos="64.6972 -1.32629 255.187" sc="7.86826 1.25852 7.85784" up="0 1 0" rot="0" rate="3.94807" st="0" psc="2.55087"/>
+        <e name="OilBubblesSurface" pos="47.3821 -1.34842 262.838" sc="10.6135 1 9.40996" up="0 1 0" rot="0" rate="3.11201" st="0" psc="1.10952"/>
+        <e name="OilBubblesSurface" pos="175.192 -1.99367 238.991" sc="60.8295 2.7741 51.3869" up="0 1 0" rot="0" rate="18.7287" st="0" psc="1.15604"/>
+        <e name="OilBubblesSurface" pos="171.254 -2.61726 219.762" sc="24.979 3.6125 23.0111" up="0 1 0" rot="0" rate="2.72994" st="0" psc="2.41905"/>
+        <e name="OilBubblesSurface" pos="131.956 -1.19983 260.638" sc="16.3205 1 13.2331" up="0 1 0" rot="0" rate="5.4299" st="0" psc="2.07282"/>
+        <e name="OilBubblesSurface" pos="210.438 -1.78555 210.047" sc="25.0986 2.05016 10.8764" up="0 1 0" rot="0" rate="6.76759" st="0" psc="1.15685"/>
+        <e name="OilBubblesSurface" pos="65.4621 -1.44642 153.208" sc="33.273 1.21862 65.3004" up="0 1 0" rot="0" rate="28.7442" st="0" psc="1.39371"/>
+        <e name="OilBubblesSurface" pos="15.7842 -1.21023 -19.742" sc="16.6725 1 11.6369" up="0 1 0" rot="0" rate="2.68824" st="0" psc="2.10573"/>
+        <e name="OilBubblesSurface" pos="-70.5602 -1.18681 215.944" sc="38.1096 1 47.7429" up="0 1 0" rot="0" rate="14.5568" st="0" psc="1.04712"/>
+        <e name="OilBubblesSurface" pos="-19.9626 -2.03408 -172.107" sc="48.2995 1.89269 80.6628" up="0 1 0" rot="0" rate="40.1237" st="0" psc="1"/>
+        <e name="OilBubblesSurface" pos="-148.877 -1.30916 178.173" sc="31.8911 1 19.1295" up="0 1 0" rot="0" rate="4.11157" st="0" psc="1.33937"/>
+        <e name="OilBubblesSurface" pos="-145.543 -2.07566 128.542" sc="22.4216 2.70155 30.2084" up="0 1 0" rot="0" rate="10" st="0" psc="1"/>
+        <e name="OilBubblesSurface" pos="25.382 -1.3007 111.252" sc="17.3328 1 19.1492" up="0 1 0" rot="0" rate="3.90848" st="0" psc="1"/>
+        <e name="OilBubblesSurface" pos="217.805 -1.33505 104.499" sc="9.44147 1 9.45484" up="0 1 0" rot="0" rate="2.94821" st="0" psc="1.92228"/>
+        <e name="OilBubblesSurface" pos="202.689 -1.23594 95.3557" sc="53.6872 1.19327 29.9518" up="0 1 0" rot="0" rate="12.1128" st="0" psc="1.12624"/>
+        <e name="OilBubblesSurface" pos="213.987 -1.2382 -5.39203" sc="27.9743 1 36.0235" up="0 1 0" rot="0" rate="5.39442" st="0" psc="1"/>
+        <e name="OilBubblesSurface" pos="245.76 -1.21137 96.5966" sc="5.20691 1 6.02125" up="0 1 0" rot="0" rate="4.00624" st="0" psc="1.27931"/>
+        <e name="OilBubblesSurface" pos="230.521 -1.26807 102.13" sc="61.6811 1 19.6142" up="0 1 0" rot="0" rate="24.7814" st="0" psc="0.776434"/>
+        <e name="OilBubblesSurface" pos="221.459 -1.22507 142.84" sc="31.5751 1 20.5148" up="0 1 0" rot="0" rate="7.13362" st="0" psc="1.11192"/>
+        <e name="OilBubblesSurface" pos="234.597 -1.39063 172.936" sc="25.3063 1 26.6356" up="0 1 0" rot="0" rate="2.97813" st="0" psc="1.03381"/>
+        <e name="OilBubblesSurface" pos="203.853 -1.24659 232.325" sc="18.8289 1 18.0521" up="0 1 0" rot="0" rate="6.21465" st="0" psc="2.33612"/>
+        <e name="OilBubblesSurface" pos="181.729 -1.10721 -37.587" sc="47.4989 1 39.1986" up="0 1 0" rot="0" rate="7.64409" st="0" psc="1"/>
+        <e name="OilBubblesSurface" pos="-25.5625 -1.29582 -154.067" sc="89.6346 1.12738 87.6138" up="0 1 0" rot="0" rate="29.3707" st="0" psc="1.22886"/>
+        <e name="OilBubblesSurface" pos="11.6938 -1.50605 -185.916" sc="46.5537 1 44.7743" up="0 1 0" rot="0" rate="10" st="0" psc="1.57308"/>
+        <e name="OilBubblesSurface" pos="-91.1502 -1.46129 -177.876" sc="23.7999 1 19.9859" up="0 1 0" rot="0" rate="5.38538" st="0" psc="3.02221"/>
+        <e name="OilBubblesSurface" pos="-111.147 -1.30037 -318.043" sc="12.905 1 17.7412" up="0 1 0" rot="0" rate="5.49899" st="0" psc="1.79422"/>
+        <e name="OilBubblesSurface" pos="-105.596 -1.33917 -299.532" sc="23.8183 1 30.8793" up="0 1 0" rot="0" rate="10" st="0" psc="1"/>
+        <e name="OilBubblesSurface" pos="-120.413 -1.31443 -317.57" sc="22.0692 1 27.6529" up="0 1 0" rot="0" rate="3.80801" st="0" psc="1.184"/>
+        <e name="OilBubblesSurface" pos="121.632 -1.20988 -285.096" sc="4.7441 1 4.66348" up="0 1 0" rot="0" rate="1.90349" st="0" psc="1.78723"/>
+        <e name="OilBubblesSurface" pos="112.32 -1.3593 -292.08" sc="43.4045 1 41.867" up="0 1 0" rot="0" rate="7.63472" st="0" psc="1.14058"/>
+        <e name="OilBubblesSurface" pos="-173.951 -1.38554 -268.922" sc="13.5787 1 23.2628" up="0 1 0" rot="0" rate="2.08702" st="0" psc="0.746323"/>
+        <e name="OilBubblesSurface" pos="-231.483 -1.42159 -276.632" sc="21.1189 1 9.54882" up="0 1 0" rot="0" rate="2.5461" st="0" psc="2.97504"/>
+        <e name="OilBubblesSurface" pos="-213.169 -0.675201 -279.83" sc="48.9219 1 43.7443" up="0 1 0" rot="0" rate="4.63827" st="0" psc="0.834426"/>
+        <e name="OilBubblesSurface" pos="-250.302 -1.41957 -294.261" sc="36.0491 1 20.7949" up="0 1 0" rot="0" rate="7.53076" st="0" psc="1.12702"/>
+        <e name="OilBubblesSurface" pos="-269.496 0.410287 -63.2137" sc="54.3553 1 42.8626" up="0 1 0" rot="0" rate="6.68194" st="0" psc="1.48485"/>
+        <e name="OilBubblesSurface" pos="-293.06 -0.908826 -97.1966" sc="70.696 1 105.233" up="0 1 0" rot="0" rate="15.004" st="0" psc="1"/>
+        <e name="OilBubblesSurface" pos="-99.975 -1.31703 104.262" sc="24.4604 1 19.476" up="0 1 0" rot="0" rate="10" st="0" psc="3.65463"/>
+        <e name="OilBubblesSurface" pos="-68.4174 -1.27071 140.092" sc="63.3949 1 63.7539" up="0 1 0" rot="0" rate="12.1616" st="0" psc="0.714546"/>
+        <e name="OilBubblesSurface" pos="87.3595 -1.20321 -89.0324" sc="23.2929 1 19.1824" up="0 1 0" rot="0" rate="2.37652" st="0" psc="2.54789"/>
+        <e name="OilBubblesSurface" pos="153.885 -1.23605 -80.0786" sc="43.3413 1 63.699" up="0 1 0" rot="0" rate="10" st="0" psc="1.20008"/>
+        <e name="OilBubblesSurface" pos="272.48 -1.36259 -208.448" sc="34.9082 1 35.4617" up="0 1 0" rot="0" rate="7.72763" st="0" psc="1.82173"/>
+        <e name="OilBubblesSurface" pos="245.176 -1.08212 -271.287" sc="11.017 1 15.2835" up="0 1 0" rot="0" rate="2.31109" st="0" psc="3.70434"/>
+        <e name="OilBubblesSurface" pos="252.77 -1.45294 -264.373" sc="24.6966 1 17.238" up="0 1 0" rot="0" rate="10" st="0" psc="1.21907"/>
+        <e name="OilBubblesSurface" pos="216.013 -0.976475 -135.297" sc="16.5187 1 63.0086" up="0 1 0" rot="0" rate="7.42085" st="0" psc="1.10864"/>
+        <e name="OilBubblesSurface" pos="218.28 -1.26687 -10.7877" sc="9.89558 1 15.017" up="0 1 0" rot="0" rate="4.5625" st="0" psc="2.44672"/>
+        <e name="OilBubblesSurface" pos="112.813 -1.1889 120.702" sc="34.5393 1 41.5213" up="0 1 0" rot="0" rate="3.44688" st="0" psc="1"/>
+        <e name="OilBubblesSurface" pos="-127.583 -1.42174 -217.608" sc="22.2337 1 47.1911" up="0 1 0" rot="0" rate="4.5342" st="0" psc="1.93774"/>
+        <e name="OilBubblesSurface" pos="-179.116 -1.17774 -134.42" sc="18.3677 1 20.0774" up="0 1 0" rot="0" rate="5.24843" st="0" psc="1"/>
+        <e name="OilBubblesSurface" pos="-196.659 -1.14183 -70.8" sc="31.5265 1 31.3933" up="0 1 0" rot="0" rate="5.03169" st="0" psc="1.21999"/>
+        <e name="OilBubblesSurface" pos="-161.814 -1.03243 119.754" sc="93.7927 1 72.429" up="0 1 0" rot="0" rate="15.8386" st="0" psc="1.15701"/>
+        <e name="OilBubblesSurface" pos="-232.56 -0.991399 98.2134" sc="92.7186 1 58.4835" up="0 1 0" rot="0" rate="7.24927" st="0" psc="1.0902"/>
+        <e name="OilBubblesSurface" pos="-94.0445 -1.26062 73.6641" sc="60.5108 1 57.1353" up="0 1 0" rot="0" rate="10" st="0" psc="1"/>
+        <e name="OilBubblesSurface" pos="-205.696 -1.26866 53.8909" sc="10.1759 1 13.3525" up="0 1 0" rot="0" rate="3.56077" st="0" psc="2.01433"/>
+        <e name="OilBubblesSurface" pos="-254.806 -1.29156 60.3986" sc="51.8847 1 36.2278" up="0 1 0" rot="0" rate="10" st="0" psc="1"/>
+        <e name="OilBubblesSurface" pos="-197.879 -1.32956 19.9426" sc="69.8398 1 70.6951" up="0 1 0" rot="0" rate="10" st="0" psc="1"/>
+        <e name="OilBubblesSurface" pos="-148.179 -1.24167 -217.982" sc="14.4201 1 12.5357" up="0 1 0" rot="0" rate="4.46457" st="0" psc="1.546"/>
+        <e name="OilBubblesSurface" pos="284.502 -1.33169 -67.2103" sc="24.3548 1 21.2006" up="0 1 0" rot="0" rate="6.63979" st="0" psc="0.83443"/>
+        <e name="OilBubblesSurface" pos="317.168 -1.40132 -41.3517" sc="9.42082 1 9.78464" up="0 1 0" rot="0" rate="5.77706" st="0" psc="1.72167"/>
+        <e name="OilBubblesSurface" pos="285.535 -1.41129 -173.986" sc="66.0709 1 63.0778" up="0 1 0" rot="0" rate="15.7979" st="0" psc="1.96059"/>
+        <e name="OilBubblesSurface" pos="269.119 -1.34079 -158.4" sc="18.0944 1 20.2256" up="0 1 0" rot="0" rate="4.53932" st="0" psc="3.71922"/>
+        <e name="OilBubblesSurface" pos="30.6249 -1.22792 -62.5845" sc="26.8964 1 37.2201" up="0 1 0" rot="0" rate="1.95785" st="0" psc="1.42924"/>
+        <e name="OilBubblesSurface" pos="377.077 -1.31079 251.655" sc="20.532 1 14.9637" up="0 1 0" rot="0" rate="1.94462" st="0" psc="1.91016"/>
+        <e name="OilBubblesSurface" pos="205.281 -1.34937 246.088" sc="25.4221 1 35.7956" up="0 1 0" rot="0" rate="4.46191" st="0" psc="1.427"/>
+        <e name="OilBubblesSurface" pos="-297.26 -1.10749 -258.219" sc="11.704 1 21.7337" up="0 1 0" rot="0" rate="2.32193" st="0" psc="1.91179"/>
+        <e name="OilBubblesSurface" pos="-162.021 -1.21702 -123.624" sc="19.2155 1 28.7824" up="0 1 0" rot="0" rate="5.6562" st="0" psc="1.20459"/>
+        <e name="OilBubblesSurface" pos="-293.271 -1.31154 -360.108" sc="33.7739 1 46.6203" up="0 1 0" rot="0" rate="10" st="0" psc="2.15588"/>
+        <e name="OilBubblesSurface" pos="-261.989 -1.13843 -330.412" sc="44.1612 1 60.4734" up="0 1 0" rot="0" rate="3.4555" st="0" psc="1.19033"/>
+        <e name="OilBubblesSurface" pos="-226.953 -1.26054 -292.085" sc="36.7601 1 50.0397" up="0 1 0" rot="0" rate="4.56989" st="0" psc="0.645294"/>
+        <e name="OilBubblesSurface" pos="189.8 -1.297 61.1344" sc="19.2422 1 22.6856" up="0 1 0" rot="0" rate="5.81038" st="0" psc="1"/>
+        <e name="OilBubblesSurface" pos="-9.62263 -1.34681 78.4544" sc="54.7685 1 68.2848" up="0 1 0" rot="0" rate="11.0595" st="0" psc="0.728528"/>
+        <e name="OilBubblesSurface" pos="-14.5495 -1.30014 36.7235" sc="27.2125 1 41.0878" up="0 1 0" rot="0" rate="7.21825" st="0" psc="1.39882"/>
+        <e name="OilBubblesSurface" pos="2.91742 -1.25984 52.0058" sc="11.6873 1 10.6766" up="0 1 0" rot="0" rate="3.06552" st="0" psc="2.99853"/>
+        <e name="OilBubblesSurface" pos="3.08121 -1.30517 12.7924" sc="6.00194 1 6.4379" up="0 1 0" rot="0" rate="2.17172" st="0" psc="2.04506"/>
+        <e name="OilBubblesSurface" pos="-23.5075 -1.28402 19.2438" sc="9.79743 1 9.86901" up="0 1 0" rot="0" rate="4.07329" st="0" psc="0.338493"/>
+        <e name="OilBubblesSurface" pos="-110.753 -1.29063 1.59514" sc="13.8851 1 19.3607" up="0 1 0" rot="0" rate="5.68027" st="0" psc="1.41681"/>
+        <e name="OilBubblesSurface" pos="27.1963 -1.12858 -275.83" sc="64.198 1 68.6812" up="0 1 0" rot="0" rate="16.9281" st="0" psc="1"/>
+        <e name="OilBubblesSurface" pos="21.877 -1.30084 -258.964" sc="13.4295 1 12.3717" up="0 1 0" rot="0" rate="4.68625" st="0" psc="3.02022"/>
+        <e name="OilBubblesSurface" pos="-38.4292 -1.32366 333.843" sc="13.6931 1 15.2107" up="0 1 0" rot="0" rate="2.70532" st="0" psc="0.523066"/>
+        <e name="OilBubblesSurface" pos="-38.1717 -1.33689 330.641" sc="7.60568 1 24.1965" up="0 1 0" rot="0" rate="3.73697" st="0" psc="0.815791"/>
+        <e name="SmokeBlack" pos="146.723 23.1569 -187.092" sc="4.70042 1 9.38789" up="0 1 0" rot="0" rate="21.2437" st="0" psc="0.329232"/>
+        <e name="Cloud3" pos="133.853 23.6796 -197.151" sc="55.7275 17.9273 77.3614" up="0 1 0" rot="0" rate="30.4447" st="0" psc="0.266534"/>
+        <e name="Cloud3" pos="240.023 5.86617 353.725" sc="26.5621 9.37712 22.7016" up="0 1 0" rot="0" rate="10" st="0" psc="0.589949"/>
+        <e name="SmokeBlack" pos="239.527 8.85784 350.176" sc="4.87083 1.34474 3.57852" up="0 1 0" rot="0" rate="10" st="0" psc="1"/>
+        <e name="OilBubblesSurface" pos="-136.575 -1.27488 -181.046" sc="35.9763 1 19.9578" up="0 1 0" rot="0" rate="7.38537" st="0" psc="1.27105"/>
+    </emitters>
+</scene>
